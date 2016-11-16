@@ -1,0 +1,100 @@
+1@@@1@@@The Animals@@@The House Of The Rising Sun
+2@@@5@@@The Newbeats@@@Bread And Butter
+3@@@2@@@The Supremes@@@Where Did Our Love Go
+4@@@10@@@Roy Orbison And The Candy Men@@@Oh, Pretty Woman
+5@@@7@@@Ronny And The Daytonas@@@G.T.O.
+6@@@4@@@Dean Martin@@@Everybody Loves Somebody
+7@@@9@@@The Shangri-Las@@@Remember (Walkin' in the Sand)
+8@@@3@@@The Dave Clark Five@@@Because
+9@@@31@@@Manfred Mann@@@Do Wah Diddy Diddy
+10@@@25@@@Martha & The Vandellas@@@Dancing In The Street
+11@@@11@@@Jackie Ross@@@Selfish One
+12@@@8@@@The Beatles@@@A Hard Day's Night
+13@@@15@@@Johnny Rivers@@@Maybelline
+14@@@16@@@Gene Simmons@@@Haunted House
+15@@@24@@@Four Tops@@@Baby I Need Your Loving
+16@@@21@@@Gene Pitney@@@It Hurts To Be In Love
+17@@@17@@@Bobby Vinton@@@Clinging Vine
+18@@@22@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Save It For Me
+19@@@19@@@Jerry Wallace@@@In The Misty Moonlight
+20@@@23@@@Gale Garnett@@@We'll Sing In The Sunshine
+21@@@28@@@Joe Hinton@@@Funny (How Time Slips Away)
+22@@@14@@@Lesley Gore@@@Maybe I Know
+23@@@6@@@Bobby Freeman@@@C'mon And Swim
+24@@@13@@@The Drifters@@@Under The Boardwalk
+25@@@29@@@Little Anthony And The Imperials@@@I'm On The Outside (Looking In)
+26@@@27@@@The Rolling Stones@@@It's All Over Now
+27@@@20@@@Chuck Berry@@@You Never Can Tell
+28@@@12@@@The Beatles@@@And I Love Her
+29@@@35@@@James Brown And His Orchestra@@@Out Of Sight
+30@@@44@@@Chad & Jeremy@@@A Summer Song
+31@@@18@@@Gerry And The Pacemakers@@@How Do You Do It?
+32@@@42@@@The Beatles@@@Matchbox
+33@@@48@@@The Impressions@@@You Must Believe Me
+34@@@58@@@The Beach Boys@@@When I Grow Up (To Be A Man)
+35@@@38@@@The Searchers@@@Some Day We're Gonna Love Again
+36@@@39@@@Al Martino@@@Always Together
+37@@@51@@@Billy J. Kramer With The Dakotas@@@From A Window
+38@@@41@@@Dionne Warwick@@@You'll Never Get To Heaven (If You Break My Heart)
+39@@@56@@@Major Lance@@@Rhythm
+40@@@54@@@Betty Everett & Jerry Butler@@@Let It Be Me
+41@@@26@@@The Ventures@@@Walk-Don't Run '64
+42@@@60@@@J. Frank Wilson and The Cavaliers@@@Last Kiss
+43@@@67@@@The Beatles@@@Slow Down
+44@@@49@@@Trini Lopez@@@Michael
+45@@@52@@@Ronnie Dove@@@Say You
+46@@@46@@@The Tokens@@@He's In Town
+47@@@50@@@Rick Nelson@@@There's Nothing I Can Say
+48@@@40@@@Millie Small@@@Sweet William
+49@@@45@@@Johnny Tillotson@@@Worry
+50@@@65@@@The Temptations@@@Girl (Why You Wanna Make Me Blue)
+51@@@47@@@Brenda Lee@@@When You Loved Me
+52@@@63@@@Willie Mitchell@@@20-75
+53@@@55@@@Lou Johnson@@@(There's) Always Something There To Remind Me
+54@@@64@@@Chubby Checker@@@She Wants T' Swim
+55@@@59@@@The Beatles@@@If I Fell
+56@@@66@@@Andy Williams@@@On The Street Where You Live
+57@@@53@@@George Martin And His Orch.@@@Ringo's Theme (This Boy)
+58@@@68@@@Eddie Holland@@@Candy To Me
+59@@@57@@@The Ray Conniff Singers@@@Invisible Tears
+60@@@84@@@The Hondells@@@Little Honda
+61@@@77@@@Don Covay & The Goodtimers@@@Mercy, Mercy
+62@@@62@@@Jack Jones@@@Where Love Has Gone
+63@@@78@@@Roger Miller@@@Chug-A-Lug
+64@@@69@@@The Orlons@@@Knock! Knock! (Who's There?)
+65@@@72@@@The Animals@@@Gonna Send You Back To Walker (Gonna Send You Back To Georgia)
+66@@@61@@@Jerry Butler@@@I Stand Accused
+67@@@76@@@Billy Strange@@@The James Bond Theme
+68@@@83@@@Frank Sinatra@@@Softly, As I Leave You
+69@@@73@@@Carla Thomas@@@I've Got No Time To Lose
+70@@@79@@@Burl Ives@@@Pearly Shells (Popo O Ewa)
+71@@@96@@@Barbra Streisand@@@Funny Girl
+72@@@90@@@The Nashville Teens@@@Tobacco Road
+73@@@82@@@Jimmy Smith@@@The Cat
+74@@@86@@@Jay & The Americans@@@Come A Little Bit Closer
+75@@@75@@@The Four Seasons@@@Sincerely
+76@@@91@@@Ben E. King@@@It's All Over
+77@@@80@@@Steve Lawrence@@@Yet...I Know (Et Pourtant)
+78@@@101@@@The Miracles@@@That's What Love Is Made Of
+79@@@70@@@P.J. Proby@@@Hold Me
+80@@@88@@@The Bachelors@@@I Wouldn't Trade You For The World
+81@@@101@@@Marvin Gaye@@@Baby Don't You Do It
+82@@@101@@@Jan & Dean@@@Ride The Wild Surf
+83@@@85@@@The Blendells@@@La La La La La
+84@@@101@@@Cilla Black@@@It's For You
+85@@@101@@@Nat King Cole@@@I Don't Want To See Tomorrow
+86@@@92@@@The Butterflys@@@Good Night Baby
+87@@@101@@@Del Shannon@@@Do You Want To Dance
+88@@@101@@@Sandy Nelson@@@Teen Beat '65
+89@@@89@@@Gladys Knight And The Pips@@@Lovers Always Forgive
+90@@@101@@@The Honeycombs@@@Have I The Right?
+91@@@93@@@The Enchanters@@@I Wanna Thank You
+92@@@98@@@The Kingsmen@@@Death Of An Angel
+93@@@95@@@The Rag Dolls@@@Society Girl
+94@@@94@@@John Gary@@@Soon I'll Wed My Love
+95@@@101@@@Aretha Franklin@@@Runnin' Out Of Fools
+96@@@100@@@The Rivieras@@@Rockin' Robin
+97@@@99@@@Brian Poole And The Tremeloes@@@Someone, Someone
+98@@@101@@@The Ray Charles Singers@@@Till The End Of Time
+99@@@101@@@Fats Domino@@@Sally Was A Good Old Girl
+100@@@101@@@Baby Washington@@@The Clock

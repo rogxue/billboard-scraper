@@ -1,0 +1,100 @@
+1@@@2@@@The Beatles@@@All You Need Is Love
+2@@@1@@@The Doors@@@Light My Fire
+3@@@4@@@The Monkees@@@Pleasant Valley Sunday
+4@@@3@@@Stevie Wonder@@@I Was Made To Love Her
+5@@@11@@@Aretha Franklin@@@Baby I Love You
+6@@@5@@@The Buckinghams@@@Mercy, Mercy, Mercy
+7@@@21@@@Bobbie Gentry@@@Ode To Billie Joe
+8@@@20@@@James Brown And The Famous Flames@@@Cold Sweat - Part 1
+9@@@7@@@Procol Harum@@@A Whiter Shade Of Pale
+10@@@10@@@The Young Rascals@@@A Girl Like You
+11@@@12@@@The Tremeloes@@@Silence Is Golden
+12@@@9@@@The Hollies@@@Carrie-Anne
+13@@@13@@@The Happenings@@@My Mammy
+14@@@6@@@Frankie Valli@@@Can't Take My Eyes Off You
+15@@@24@@@The Monkees@@@Words
+16@@@8@@@The Association@@@Windy
+17@@@33@@@The Beach Boys@@@Heroes And Villains
+18@@@22@@@Bee Gees@@@To Love Somebody
+19@@@19@@@Neil Diamond@@@Thank The Lord For The Night Time
+20@@@61@@@Diana Ross & The Supremes@@@Reflections
+21@@@35@@@The Temptations@@@You're My Everything
+22@@@27@@@Bunny Sigler@@@Let The Good Times Roll & Feel So Good
+23@@@23@@@Linda Jones@@@Hypnotized
+24@@@47@@@Jay And The Techniques@@@Apples, Peaches, Pumpkin Pie
+25@@@15@@@Jefferson Airplane@@@White Rabbit
+26@@@16@@@The Music Explosion@@@Little Bit O' Soul
+27@@@36@@@Bobby Vee And The Strangers@@@Come Back When You Grow Up
+28@@@38@@@Simon & Garfunkel@@@Fakin' It
+29@@@29@@@Smokey Robinson & The Miracles@@@More Love
+30@@@37@@@The Parliaments@@@(I Wanna) Testify
+31@@@48@@@Eric Burdon & The Animals@@@San Franciscan Nights
+32@@@42@@@Chris Bartley@@@The Sweetest Thing This Side Of Heaven
+33@@@17@@@Bar-Kays@@@Soul Finger
+34@@@55@@@Van Morrison@@@Brown Eyed Girl
+35@@@26@@@The 5th Dimension@@@Up -- Up And Away
+36@@@14@@@Nancy Sinatra & Lee Hazlewood@@@Jackson
+37@@@18@@@Sandy Posey@@@I Take It Back
+38@@@34@@@The Beatles@@@Baby You're A Rich Man
+39@@@40@@@The Critters@@@Don't Let The Rain Fall Down On Me
+40@@@50@@@Gladys Knight And The Pips@@@Everybody Needs Love
+41@@@43@@@James & Bobby Purify@@@I Take What I Want
+42@@@58@@@Frank Sinatra@@@The World We Knew (Over And Over)
+43@@@54@@@Dionne Warwick@@@The Windows Of The World
+44@@@44@@@Jr. Walker & The All Stars@@@Shoot Your Shot
+45@@@46@@@The Forum@@@The River Is Wide
+46@@@77@@@Wilson Pickett@@@Funky Broadway
+47@@@30@@@Bettye Swann@@@Make Me Yours
+48@@@59@@@The Turtles@@@You Know What I Mean
+49@@@39@@@Tommy Boyce & Bobby Hart@@@Out & About
+50@@@25@@@Dean Martin@@@In The Chapel In The Moonlight
+51@@@57@@@Davie Allan And The Arrows@@@Blue's Theme
+52@@@52@@@Roy Orbison@@@Cry Softly Lonely One
+53@@@53@@@Nancy Sinatra@@@You Only Live Twice
+54@@@84@@@Donovan@@@There Is A Mountain
+55@@@71@@@Jackie Wilson@@@(Your Love Keeps Lifting Me) Higher And Higher
+56@@@73@@@Booker T. & The MG's@@@Groovin'
+57@@@67@@@Ronnie Dove@@@I Want To Love You For What You Are
+58@@@81@@@The Box Tops@@@The Letter
+59@@@80@@@The Grass Roots@@@Things I Should Have Said
+60@@@75@@@The Yardbirds@@@Ha Ha Said The Clown
+61@@@64@@@The Sunshine Company@@@Happy
+62@@@63@@@The Buffalo Springfield@@@Bluebird
+63@@@78@@@Joe Tex@@@A Woman's Hands
+64@@@70@@@Sonny & Cher@@@It's The Little Things
+65@@@85@@@The Five Americans@@@Zip Code
+66@@@83@@@Brenton Wood@@@Gimme Little Sign
+67@@@82@@@Gary Lewis And The Playboys@@@Jill
+68@@@68@@@Jimmy Ruffin@@@Don't You Miss Me A Little Bit Baby
+69@@@56@@@The Platters@@@Washed Ashore (On A Lonely Island In The Sea)
+70@@@60@@@Otis Redding@@@Glory Of Love
+71@@@72@@@Dyke And The Blazers@@@Funky Broadway Part I
+72@@@79@@@The Third Rail@@@Run, Run, Run
+73@@@74@@@Booker T. & The MG's@@@Slim Jenkin's Place
+74@@@62@@@Glen Campbell@@@Gentle On My Mind
+75@@@90@@@The Dave Clark Five@@@A Little Bit Now
+76@@@101@@@Peter, Paul & Mary@@@I Dig Rock And Roll Music
+77@@@87@@@Tom Jones@@@Sixteen Tons
+78@@@101@@@Dean Martin@@@Little Ole Wine Drinker, Me
+79@@@86@@@Oscar Toney, Jr.@@@Turn On Your Love Light
+80@@@101@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@I Had A Dream
+81@@@101@@@Al Kent@@@You've Got To Pay The Price
+82@@@101@@@The Byrds@@@Lady Friend
+83@@@88@@@Frankie Laine@@@Laura, What's He Got That I Ain't Got
+84@@@101@@@Spanky And Our Gang@@@Making Every Minute Count
+85@@@101@@@Harpers Bizarre@@@Anything Goes
+86@@@94@@@Leon Haywood@@@It's Got To Be Mellow
+87@@@97@@@The Cryan' Shames@@@It Could Be We're In Love
+88@@@92@@@Otis & Carla@@@Knock On Wood
+89@@@89@@@The Wonder Who?@@@Lonesome Road
+90@@@101@@@Brook Benton@@@Laura (Tell Me What He's Got That I Ain't Got)
+91@@@91@@@Brian Hyland@@@Get The Message
+92@@@101@@@The Esquires@@@Get On Up
+93@@@93@@@Jimmy Roselli@@@There Must Be A Way
+94@@@101@@@Martha & The Vandellas@@@Love Bug Leave My Heart Alone
+95@@@101@@@Eddy Arnold@@@Turn The World Around
+96@@@98@@@Robert Mitchum@@@Little Old Wine Drinker Me
+97@@@99@@@Brenda & The Tabulations@@@Just Once In A Lifetime
+98@@@101@@@Syl Johnson@@@Come On Sock It To Me
+99@@@101@@@The Shirelles@@@Last Minute Miracle
+100@@@101@@@Jon & Robin@@@Drums

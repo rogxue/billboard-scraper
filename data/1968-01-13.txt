@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Hello Goodbye
+2@@@3@@@John Fred And The Playboys@@@Judy In Disguise (With Glasses)
+3@@@2@@@The Monkees@@@Daydream Believer
+4@@@5@@@The Union Gap Featuring Gary Puckett@@@Woman, Woman
+5@@@4@@@Gladys Knight And The Pips@@@I Heard It Through The Grapevine
+6@@@7@@@Aretha Franklin@@@Chain Of Fools
+7@@@8@@@The American Breed@@@Bend Me, Shape Me
+8@@@6@@@Smokey Robinson & The Miracles@@@I Second That Emotion
+9@@@12@@@The Lemon Pipers@@@Green Tambourine
+10@@@10@@@Joe Tex@@@Skinny Legs And All
+11@@@11@@@Martha Reeves & The Vandellas@@@Honey Chile
+12@@@9@@@The Fantastic Johnny C@@@Boogaloo Down Broadway
+13@@@13@@@Marvin Gaye & Tammi Terrell@@@If I Could Build My Whole World Around You
+14@@@18@@@Stone Poneys Featuring Linda Ronstadt@@@Different Drum
+15@@@24@@@Eric Burdon & The Animals@@@Monterey
+16@@@21@@@The Buckinghams@@@Susan
+17@@@14@@@Johnny Rivers@@@Summer Rain
+18@@@35@@@The Human Beinz@@@Nobody But Me
+19@@@27@@@Ed Ames@@@Who Will Answer?
+20@@@25@@@The Young Rascals@@@It's Wonderful
+21@@@16@@@Cher@@@You Better Sit Down Kids
+22@@@17@@@The Rose Garden@@@Next Plane To London
+23@@@47@@@Classics IV@@@Spooky
+24@@@29@@@Jr. Walker & The All Stars@@@Come See About Me
+25@@@30@@@The Doors@@@Love Me Two Times
+26@@@40@@@The Marvelettes@@@My Baby Must Be A Magician
+27@@@32@@@The Sandpebbles@@@Love Power
+28@@@28@@@Etta James@@@Tell Mama
+29@@@38@@@The Lettermen@@@Goin' Out Of My Head/Can't Take My Eyes Off You
+30@@@39@@@Engelbert Humperdinck@@@Am I That Easy To Forget
+31@@@41@@@Peaches & Herb@@@Two Little Kids
+32@@@43@@@Small Faces@@@Itchycoo Park
+33@@@33@@@James Brown And The Famous Flames@@@I Can't Stand Myself (When You Touch Me)
+34@@@37@@@Lulu@@@Best Of Both Worlds
+35@@@26@@@The Turtles@@@She's My Girl
+36@@@48@@@The Rolling Stones@@@She's A Rainbow
+37@@@15@@@Strawberry Alarm Clock@@@Incense And Peppermints
+38@@@52@@@The Foundations@@@Baby, Now That I've Found You
+39@@@53@@@The Beach Boys@@@Darlin'
+40@@@22@@@The Esquires@@@And Get Away
+41@@@19@@@The Cowsills@@@The Rain, The Park & Other Things
+42@@@20@@@Dionne Warwick@@@I Say A Little Prayer
+43@@@54@@@Soul Survivors@@@Explosion (In Your Soul)
+44@@@49@@@The Dave Clark Five@@@Everybody Knows
+45@@@31@@@Petula Clark@@@The Other Man's Grass Is Always Greener
+46@@@60@@@Tommy Boyce & Bobby Hart@@@I Wonder What She's Doing Tonite
+47@@@57@@@Henson Cargill@@@Skip A Rope
+48@@@59@@@Vikki Carr@@@The Lesson
+49@@@62@@@Frankie Valli@@@To Give (The Reason I Live)
+50@@@50@@@The Hollies@@@Dear Eloise
+51@@@63@@@Strawberry Alarm Clock@@@Tomorrow
+52@@@67@@@Bobby Vinton@@@Just As Much As Ever
+53@@@45@@@Wilson Pickett@@@I'm In Love
+54@@@56@@@Billy Vera & Judy Clay@@@Storybook Children
+55@@@44@@@Wes Montgomery@@@Windy
+56@@@101@@@The Temptations@@@I Wish It Would Rain
+57@@@58@@@Sonny & Cher@@@Good Combination
+58@@@64@@@Tom Jones@@@I'm Coming Home
+59@@@46@@@Dean Martin@@@In The Misty Moonlight
+60@@@72@@@Nancy Sinatra & Lee Hazlewood@@@Some Velvet Morning
+61@@@79@@@The Fireballs@@@Bottle Of Wine
+62@@@51@@@The Mamas & The Papas@@@Dancing Bear
+63@@@78@@@Jerry Butler@@@Lost
+64@@@82@@@Joe Simon@@@No Sad Songs
+65@@@83@@@Dave Dee, Dozy, Beaky, Mick And Tich@@@Zabadak
+66@@@86@@@Spanky And Our Gang@@@Sunday Mornin'
+67@@@75@@@Jimi Hendrix@@@Foxey Lady
+68@@@76@@@Carla Thomas@@@Pick Up The Pieces
+69@@@84@@@The Impressions@@@We're A Winner
+70@@@85@@@The Lovin' Spoonful@@@Money
+71@@@74@@@Hugh Masekela@@@Up-Up And Away
+72@@@94@@@Barbara Mason@@@Oh, How It Hurts
+73@@@73@@@Al Greene & The Soul Mate's@@@Back Up Train
+74@@@101@@@Cream@@@Sunshine Of Your Love
+75@@@66@@@The O'Jays@@@I'll Be Sweeter Tomorrow (Than I Was Today)
+76@@@81@@@Arthur Prysock@@@A Working Man's Prayer
+77@@@77@@@King Curtis & The Kingpins@@@I Was Made To Love Her
+78@@@42@@@Percy Sledge@@@Cover Me
+79@@@98@@@Neil Diamond@@@New Orleans
+80@@@80@@@Al Martino@@@A Voice In The Choir
+81@@@101@@@The Cowsills@@@We Can Fly
+82@@@101@@@Herman's Hermits@@@I Can Take Or Leave Your Loving
+83@@@101@@@Marvin Gaye@@@You
+84@@@99@@@Paul Mauriat And His Orchestra@@@Love Is Blue (L'amour Est Bleu)
+85@@@101@@@James & Bobby Purify@@@Do Unto Me
+86@@@101@@@Herb Alpert & The Tijuana Brass@@@Carmen
+87@@@87@@@Bill Wyman@@@In Another Land
+88@@@90@@@Lalo Schifrin@@@Mission-Impossible
+89@@@89@@@Billy Stewart@@@Cross My Heart
+90@@@97@@@James Carr@@@A Man Needs A Woman
+91@@@91@@@The Music Makers@@@United (Part 1)
+92@@@92@@@Leon Haywood@@@Mellow Moonlight
+93@@@93@@@The Epic Splendor@@@A Little Rain Must Fall
+94@@@100@@@The Hesitations@@@Born Free
+95@@@95@@@Laura Lee@@@Up Tight, Good Man
+96@@@101@@@Oscar Toney, Jr.@@@Without Love (There Is Nothing)
+97@@@101@@@Inez & Charlie Foxx@@@(1-2-3-4-5-6-7) Count The Days
+98@@@101@@@Long John Baldry@@@Let The Heartaches Begin
+99@@@101@@@The Buffalo Springfield@@@Expecting To Fly
+100@@@101@@@Calvin Arnold@@@Funky Way

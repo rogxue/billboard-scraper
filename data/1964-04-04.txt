@@ -1,0 +1,100 @@
+1@@@27@@@The Beatles@@@Can't Buy Me Love
+2@@@3@@@The Beatles@@@Twist And Shout
+3@@@1@@@The Beatles@@@She Loves You
+4@@@2@@@The Beatles@@@I Want To Hold Your Hand
+5@@@4@@@The Beatles@@@Please Please Me
+6@@@7@@@Terry Stafford@@@Suspicion
+7@@@8@@@Louis Armstrong And The All Stars@@@Hello, Dolly!
+8@@@16@@@Betty Everett@@@The Shoop Shoop Song (It's In His Kiss)
+9@@@9@@@Bobby Vinton@@@My Heart Belongs To Only You
+10@@@10@@@The Dave Clark Five@@@Glad All Over
+11@@@5@@@The Four Seasons@@@Dawn (Go Away)
+12@@@15@@@The Temptations@@@The Way You Do The Things You Do
+13@@@6@@@The Beach Boys@@@Fun, Fun, Fun
+14@@@19@@@The Serendipity Singers@@@Don't Let The Rain Come Down (Crooked Little Man)
+15@@@20@@@The Searchers@@@Needles And Pins
+16@@@18@@@The Four Seasons@@@Stay
+17@@@12@@@Elvis Presley With The Jordanaires@@@Kissin' Cousins
+18@@@23@@@Marvin Gaye@@@You're A Wonderful One
+19@@@14@@@Al (He's the King) Hirt@@@Java
+20@@@11@@@Tommy Tucker@@@Hi-Heel Sneakers
+21@@@37@@@Bobby Bland@@@Ain't Nothing You Can Do
+22@@@42@@@The Kingsmen@@@Money
+23@@@17@@@Al Martino@@@I Love You More And More Every Day
+24@@@31@@@The Swinging Blue Jeans@@@Hippy Hippy Shake
+25@@@34@@@Jan & Dean@@@Dead Man's Curve
+26@@@32@@@Brenda Lee@@@Think
+27@@@13@@@Diane Renay@@@Navy Blue
+28@@@24@@@Connie Francis@@@Blue Winter
+29@@@29@@@Elvis Presley With The Jordanaires@@@It Hurts Me
+30@@@41@@@Chuck Berry@@@Nadine (Is It You?)
+31@@@26@@@The Beatles@@@I Saw Her Standing There
+32@@@35@@@Dean And Jean@@@Hey Jean, Hey Dean
+33@@@43@@@Peter, Paul & Mary@@@Tell It On The Mountain
+34@@@46@@@Danny Williams@@@White On White
+35@@@51@@@Chubby Checker@@@Hey, Bobba Needle
+36@@@44@@@The Devotions@@@Rip Van Winkle
+37@@@22@@@Bobby Goldsboro@@@See The Funny Little Clown
+38@@@40@@@Ray Charles@@@My Heart Cries For You
+39@@@72@@@Lesley Gore@@@That's The Way Boys Are
+40@@@52@@@Jan & Dean@@@The New Girl In School
+41@@@50@@@The Beatles@@@From Me To You
+42@@@57@@@The Carefrees@@@We Love You Beatles
+43@@@39@@@Johnny Cash@@@Understand Your Man
+44@@@59@@@Pete Drake And His Talking Steel Guitar@@@Forever
+45@@@28@@@The Pyramids@@@Penetration
+46@@@78@@@The Beatles@@@Do You Want To Know A Secret
+47@@@68@@@Lenny Welch@@@Ebb Tide
+48@@@101@@@The Dave Clark Five@@@Bits And Pieces
+49@@@45@@@Ray Charles and his Orchestra@@@Baby, Don't You Cry (The New Swingova Rhythm)
+50@@@101@@@Mary Wells@@@My Guy
+51@@@76@@@Major Lance@@@The Matador
+52@@@55@@@Bobby Vee With The Eligibles@@@I'll Make You Mine
+53@@@67@@@Soul Sisters@@@I Can't Stand It
+54@@@48@@@Johnny Tillotson@@@Worried Guy
+55@@@56@@@The Marvelettes@@@He's A Good Guy (Yes He Is)
+56@@@62@@@Little Stevie Wonder@@@Castles In The Sand
+57@@@60@@@Jimmy Gilmer And The Fireballs@@@Ain't Gonna Tell Anybody
+58@@@71@@@The Beatles@@@All My Loving
+59@@@63@@@The Miracles@@@(You Can't Let The Boy Overpower) The Man In You
+60@@@87@@@Robert Maxwell His Harp And Orchestra@@@Shangri-La
+61@@@101@@@The Impressions@@@I'm So Proud
+62@@@65@@@Jack Jones@@@Love With The Proper Stranger
+63@@@64@@@Rick Nelson@@@Congratulations
+64@@@70@@@The Raindrops@@@Book Of Love
+65@@@101@@@The Beatles@@@You Can't Do That
+66@@@69@@@The Monarchs@@@Look Homeward Angel
+67@@@82@@@Bobby Rydell@@@Make Me Forget
+68@@@75@@@The Beatles@@@Roll Over Beethoven
+69@@@77@@@The Shirelles@@@Sha-La-La
+70@@@100@@@Vic Dana@@@Shangri-La
+71@@@84@@@The Vibrations@@@My Girl Sloopy
+72@@@101@@@Anna King-Bobby Byrd@@@Baby Baby Baby
+73@@@90@@@Irma Thomas@@@Wish Someone Would Care
+74@@@101@@@Jerry Butler@@@Giving Up On Love
+75@@@80@@@Dusty Springfield@@@Stay Awhile
+76@@@81@@@Ruby And The Romantics@@@Our Everlasting Love
+77@@@89@@@The Coasters@@@T'ain't Nothin' To Me
+78@@@83@@@The Tymes@@@To Each His Own
+79@@@101@@@The Beatles@@@Thank You Girl
+80@@@101@@@Henry Mancini And His Orchestra@@@The Pink Panther Theme
+81@@@85@@@The Tams@@@You Lied To Your Daddy
+82@@@101@@@Gloria Lynne@@@I Should Care
+83@@@91@@@Freddie Scott@@@Where Does Love Go
+84@@@101@@@The Contours@@@Can You Do It
+85@@@86@@@The Four Preps@@@A Letter To The Beatles
+86@@@88@@@King Curtis@@@Soul Serenade
+87@@@101@@@The Tams@@@It's All Right (You're Just In Love)
+88@@@101@@@Ben E. King@@@That's When It Hurts
+89@@@101@@@Sammy Kaye And His Orchestra@@@Charade
+90@@@101@@@Diane Renay@@@Kiss Me Sailor
+91@@@92@@@Herb Alpert's Tijuana Brass@@@Mexican Drummer Man
+92@@@93@@@Otis Redding@@@Come To Me
+93@@@95@@@Justine Washington@@@I Can't Wait Until I See My Baby
+94@@@101@@@Gloria Lynne@@@Be Anything (But Be Mine)
+95@@@96@@@Chuck Jackson@@@Hand It Over
+96@@@99@@@The Marketts@@@Vanishing Point
+97@@@97@@@B.B. King And His Orchestra@@@How Blue Can You Get
+98@@@101@@@The Ronettes@@@(The Best Part Of) Breakin' Up
+99@@@101@@@Boots Randolph@@@Hey, Mr. Sax Man
+100@@@101@@@Barbra Streisand@@@People

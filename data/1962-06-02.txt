@@ -1,0 +1,100 @@
+1@@@4@@@Ray Charles@@@I Can't Stop Loving You
+2@@@1@@@Mr. Acker Bilk@@@Stranger On The Shore
+3@@@2@@@The Shirelles@@@Soldier Boy
+4@@@10@@@Dion@@@Lovers Who Wander
+5@@@3@@@Dee Dee Sharp@@@Mashed Potato Time
+6@@@6@@@Brenda Lee@@@Everybody Loves Me But You
+7@@@11@@@Ernie Maresca@@@Shout! Shout! (Knock Yourself Out)
+8@@@5@@@Walter Brennan@@@Old Rivers
+9@@@12@@@Mary Wells@@@The One Who Really Loves You
+10@@@21@@@Gene Pitney@@@(The Man Who Shot) Liberty Valance
+11@@@15@@@James Darren@@@Conscience
+12@@@18@@@Johnny Tillotson@@@It Keeps Right On A-Hurtin'
+13@@@13@@@The Crystals@@@Uptown
+14@@@7@@@Jay & The Americans@@@She Cried
+15@@@20@@@The Blue-Belles@@@I Sold My Heart To The Junkman
+16@@@24@@@Connie Francis@@@Second Hand Love
+17@@@28@@@Freddy Cannon@@@Palisades Park
+18@@@25@@@Ben E. King@@@Don't Play That Song (You Lied)
+19@@@33@@@The Marvelettes@@@Playboy
+20@@@8@@@Jimmy Dean@@@P.T. 109
+21@@@9@@@Shelley Fabares@@@Johnny Angel
+22@@@22@@@Jimmy Soul@@@Twistin' Matilda (and the channel)
+23@@@16@@@Ronnie and The Hi-Lites@@@I Wish That We Were Married
+24@@@30@@@Elvis Presley@@@Follow That Dream
+25@@@14@@@Burl Ives@@@Funny Way Of Laughin'
+26@@@17@@@Elvis Presley With The Jordanaires@@@Good Luck Charm
+27@@@26@@@Dick and DeeDee@@@Tell Me
+28@@@62@@@David Rose and His Orchestra@@@The Stripper
+29@@@40@@@The Castells@@@So This Is Love
+30@@@27@@@Perry Como@@@Caterina
+31@@@38@@@George Maharis@@@Teach Me Tonight
+32@@@36@@@Nathaniel Mayer And The Fabulous Twilights@@@Village Of Love
+33@@@41@@@The Everly Brothers@@@That's Old Fashioned (That's The Way Love Should Be)
+34@@@23@@@Gary U.S. Bonds@@@Twist, Twist Senora
+35@@@29@@@Patti Page@@@Most People Get Married
+36@@@35@@@James Brown And The Famous Flames@@@Night Train
+37@@@51@@@Johnny Crawford@@@Cindy's Birthday
+38@@@54@@@Joe Henderson@@@Snap Your Fingers
+39@@@49@@@The Volume's@@@I Love You
+40@@@46@@@Chuck Jackson@@@Any Day Now (My Wild Beautiful Bird)
+41@@@19@@@Joey Dee & the Starliters@@@Shout - Part I
+42@@@44@@@Jimmy Smith And The Big Band@@@Walk On The Wild Side (Part 1)
+43@@@31@@@Frankie Avalon@@@You Are Mine
+44@@@32@@@Henry Mancini And His Orchestra@@@Moon River
+45@@@48@@@Brook Benton@@@Hit Record
+46@@@57@@@Bobby Vee@@@Sharing You
+47@@@34@@@Clyde McPhatter@@@Lover Please
+48@@@45@@@Linda Scott@@@Count Every Star
+49@@@37@@@Chubby Checker (with Dee Dee Sharp)@@@Slow Twistin'
+50@@@61@@@Ray Charles@@@Born To Lose
+51@@@42@@@Dion@@@(I was) Born To Cry
+52@@@55@@@Bruce Channel@@@Number One Man
+53@@@76@@@Valjean on Piano@@@Theme From Ben Casey
+54@@@70@@@The Lettermen@@@How Is Julie?
+55@@@39@@@King Curtis and The Noble Knights@@@Soul Twist
+56@@@59@@@Peter, Paul & Mary@@@Lemon Tree
+57@@@50@@@James Ray@@@Itty Bitty Pieces
+58@@@60@@@The Marketts@@@Balboa Blue
+59@@@68@@@Fats Domino@@@My Real Name
+60@@@73@@@Patsy Cline@@@When I Get Thru With You (You'll Love Me Too)
+61@@@58@@@Wanda Jackson@@@If I Cried Every Time You Hurt Me
+62@@@81@@@Emilio Pericoli@@@Al Di La'
+63@@@66@@@Dinah Washington@@@Where Are You
+64@@@65@@@Jackie Wilson@@@Hearts
+65@@@74@@@Bobby Curtola@@@Fortuneteller
+66@@@77@@@Dr. Feelgood And The Interns@@@Doctor Feel-Good
+67@@@63@@@Johnnie Morisette@@@Meet Me At The Twistin' Place
+68@@@88@@@Paul Anka@@@A Steel Guitar And A Glass Of Wine
+69@@@71@@@Yvonne Baker and the Sensations@@@That's My Desire
+70@@@78@@@Bertha Tillman@@@Oh My Angel
+71@@@85@@@The Dovells@@@Bristol Twistin' Annie
+72@@@101@@@Richard Chamberlain@@@Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+73@@@83@@@Sandy Nelson@@@Drummin' Up A Storm
+74@@@89@@@Earl Grant@@@Swingin' Gently
+75@@@91@@@Sam Cooke@@@Having A Party
+76@@@79@@@Connie Stevens@@@Why'd You Wanna Make Me Cry
+77@@@80@@@Claude King@@@Wolverton Mountain
+78@@@82@@@The Miracles@@@I'll Try Something New
+79@@@72@@@The Corsairs Featuring Jay Bird Uzzell@@@I'll Take You Home
+80@@@94@@@Benny Spellman@@@Lipstick Traces (On A Cigarette)
+81@@@84@@@Teddy & The Twilights@@@Woman Is A Man's Best Friend
+82@@@75@@@The Falcons & Band (Ohio Untouchables)@@@I Found A Love
+83@@@69@@@Marty Robbins@@@Love Can't Wait
+84@@@101@@@The Isley Brothers@@@Twist And Shout
+85@@@101@@@Roy Orbison@@@The Crowd
+86@@@101@@@Bobby Rydell@@@I'll Never Dance Again
+87@@@99@@@Toni Fisher@@@West Of The Wall
+88@@@95@@@Joanie Sommers@@@Johnny Get Angry
+89@@@98@@@The Champs@@@Limbo Rock
+90@@@90@@@Jim Reeves@@@Adios Amigo
+91@@@92@@@Solomon Burke@@@Down In The Valley
+92@@@93@@@Arthur Alexander@@@Where Have You Been (All My Life)
+93@@@101@@@Nelson Riddle@@@Route 66 Theme
+94@@@87@@@The Paris Sisters@@@Let Me Be The One
+95@@@101@@@Kenny Ball and his Jazzmen@@@The Green Leaves Of Summer
+96@@@97@@@Jan & Dean@@@Tennessee
+97@@@101@@@Bert Kaempfert And His Orchestra@@@That Happy Feeling
+98@@@101@@@The Kingston Trio@@@Scotch And Soda
+99@@@100@@@John Lee Hooker@@@Boom Boom
+100@@@101@@@Don Gardner And Dee Dee Ford@@@I Need Your Loving

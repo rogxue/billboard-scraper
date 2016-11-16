@@ -1,0 +1,100 @@
+1@@@3@@@Carpenters@@@Top Of The World
+2@@@1@@@Ringo Starr@@@Photograph
+3@@@9@@@Elton John@@@GOODBYE YELLOW BRICK ROAD
+4@@@4@@@Billy Preston@@@Space Race
+5@@@2@@@Eddie Kendricks@@@Keep On Truckin' (Part 1)
+6@@@7@@@Chicago@@@Just You 'n' Me
+7@@@6@@@Gladys Knight And The Pips@@@Midnight Train To Georgia
+8@@@10@@@Teddy Pendergrass@@@The Whole Town's Laughing At Me
+9@@@5@@@The DeFranco Family featuring Tony DeFranco@@@Heartbeat - It's A Lovebeat
+10@@@12@@@Charlie Rich@@@The Most Beautiful Girl
+11@@@16@@@Todd Rundgren@@@Hello It's Me
+12@@@8@@@Marie Osmond@@@Paper Roses
+13@@@20@@@Helen Reddy@@@Leave Me Alone (ruby Red Dress)
+14@@@18@@@The Staple Singers@@@If You're Ready (Come Go With Me)
+15@@@15@@@Johnnie Taylor@@@Cheaper To Keep Her
+16@@@13@@@Jim Croce@@@I Got A Name
+17@@@26@@@Three Dog Night@@@Let Me Serenade You
+18@@@48@@@Jim Croce@@@Time In A Bottle
+19@@@11@@@The Rolling Stones@@@Angie
+20@@@30@@@Barry White@@@Never, Never Gonna Give Ya Up
+21@@@14@@@Diana Ross & Marvin Gaye@@@You're A Special Part Of Me
+22@@@29@@@The Steve Miller Band@@@The Joker
+23@@@17@@@Garfunkel@@@All I Know
+24@@@27@@@The Stylistics@@@Rockin' Roll Baby
+25@@@31@@@Marvin Gaye@@@Come Get To This
+26@@@32@@@Loggins & Messina@@@My Music
+27@@@22@@@Bob Dylan@@@Knockin' On Heaven's Door
+28@@@25@@@Gilbert O'Sullivan@@@Ooh Baby
+29@@@38@@@Stevie Wonder@@@Living For The City
+30@@@41@@@John Lennon@@@MIND GAMES
+31@@@21@@@Kris Kristofferson@@@Why Me
+32@@@44@@@Tony Orlando & Dawn@@@Who's In The Strawberry Patch With Sally
+33@@@37@@@Al Wilson@@@Show And Tell
+34@@@35@@@Neil Diamond@@@Be
+35@@@19@@@Cher@@@Half-Breed
+36@@@40@@@Led Zeppelin@@@D'yer Mak'er
+37@@@24@@@Seals & Crofts@@@We May Never Pass This Way (Again)
+38@@@23@@@Ike & Tina Turner@@@Nutbush City Limits
+39@@@28@@@The Allman Brothers Band@@@Ramblin Man
+40@@@33@@@Four Tops@@@Sweet Understanding Love
+41@@@51@@@Brownsville Station@@@Smokin' In The Boy's Room
+42@@@66@@@Paul McCartney & Wings@@@Helen Wheels
+43@@@43@@@Carole King@@@Coraz�n
+44@@@57@@@War@@@Me And Baby Brother
+45@@@46@@@The Dramatics@@@Fell For You
+46@@@39@@@The Pointer Sisters@@@Yes We Can Can
+47@@@45@@@Bloodstone@@@Never Let You Go
+48@@@42@@@Tavares@@@Check It Out
+49@@@55@@@The Persuaders@@@Some Guys Have All The Luck
+50@@@74@@@Gladys Knight And The Pips@@@I've Got To Use My Imagination
+51@@@53@@@Stories@@@Mammy Blue
+52@@@47@@@Bette Midler@@@Friends/chapel Of Love
+53@@@61@@@Ian Thomas@@@Painted Ladies
+54@@@50@@@David Gates@@@Sail Around The World
+55@@@59@@@Ann Peebles@@@I Can't Stand The Rain
+56@@@63@@@The Ovations@@@Having A Party medley
+57@@@86@@@The Chi-lites@@@I Found Sunshine
+58@@@52@@@Dottie West@@@Country Sunshine
+59@@@64@@@Aerosmith@@@Dream On
+60@@@77@@@Olivia Newton-John@@@Let Me Be There
+61@@@73@@@El Chicano@@@Tell Her She's Lovely
+62@@@67@@@Lighthouse@@@Pretty Lady
+63@@@65@@@Steely Dan@@@My Old School
+64@@@70@@@Bobby Blue Bland@@@This Time I'm Gone For Good
+65@@@71@@@The Independents@@@It's All Over
+66@@@60@@@Donna Fargo@@@Little Girl Gone
+67@@@68@@@Ripple@@@I Don't Know What It Is, But It Sure Is Funky
+68@@@69@@@Lobo@@@There Ain't No Way
+69@@@98@@@Aretha Franklin@@@Until You Come Back To Me (That's What I'm Gonna Do)
+70@@@62@@@Rod Stewart@@@Oh! No Not My Baby
+71@@@78@@@Jim Stafford@@@Spiders & Snakes
+72@@@87@@@Donny Osmond@@@When I Fall In Love/Are You Lonesome Tonight
+73@@@76@@@Kevin Johnson@@@Rock 'N Roll (I Gave You The Best Years of My Life)
+74@@@75@@@Earth, Wind & Fire@@@Keep Your Head To The Sky
+75@@@90@@@Grand Funk@@@Walk Like A Man
+76@@@79@@@The Intruders@@@I Wanna Know Your Name
+77@@@84@@@Cheech & Chong@@@Sister Mary Elephant (Shudd-Up!)
+78@@@91@@@Joe Simon@@@River
+79@@@81@@@Sly & The Family Stone@@@Frisky
+80@@@80@@@First Choice@@@Smarty Pants
+81@@@83@@@Frank Sinatra@@@Let Me Try Again (Laisse Moi Le Temps)
+82@@@101@@@Paul Simon@@@American Tune
+83@@@93@@@Kris Kristofferson & Rita Coolidge@@@A Song I'd Like To Sing
+84@@@85@@@David Essex@@@Rock On
+85@@@95@@@Smokey Robinson@@@Baby Come Close
+86@@@101@@@Bachman-Turner Overdrive@@@Blue Collar
+87@@@92@@@Barbra Streisand@@@The Way We Were
+88@@@101@@@B.W. Stevenson@@@The River Of Love
+89@@@101@@@Love Unlimited Orchestra@@@Love's Theme
+90@@@101@@@Electric Light Orchestra@@@Showdown
+91@@@94@@@Ray Charles@@@Come Live With Me
+92@@@97@@@Merle Haggard@@@If We Make It Through December
+93@@@96@@@The Band@@@Ain't Got No Home
+94@@@89@@@Jackson Browne@@@Redneck Friend
+95@@@99@@@Wednesday@@@Last Kiss
+96@@@101@@@James Brown@@@Stoned To The Bone - Part 1
+97@@@101@@@The Who@@@Love, Reign O'er Me
+98@@@72@@@Syl Johnson@@@Back For A Taste Of Your Love
+99@@@101@@@Linda Ronstadt@@@Love Has No Pride
+100@@@101@@@Albert Hammond@@@Half A Million Miles From Home

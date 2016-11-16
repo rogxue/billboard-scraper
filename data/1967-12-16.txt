@@ -1,0 +1,100 @@
+1@@@1@@@The Monkees@@@Daydream Believer
+2@@@5@@@Gladys Knight And The Pips@@@I Heard It Through The Grapevine
+3@@@8@@@The Beatles@@@Hello Goodbye
+4@@@7@@@Smokey Robinson & The Miracles@@@I Second That Emotion
+5@@@2@@@The Cowsills@@@The Rain, The Park & Other Things
+6@@@3@@@Strawberry Alarm Clock@@@Incense And Peppermints
+7@@@4@@@Dionne Warwick@@@I Say A Little Prayer
+8@@@13@@@The Fantastic Johnny C@@@Boogaloo Down Broadway
+9@@@9@@@Diana Ross & The Supremes@@@In And Out Of Love
+10@@@12@@@Cher@@@You Better Sit Down Kids
+11@@@11@@@Bee Gees@@@(The Lights Went Out In) Massachusetts
+12@@@22@@@The Union Gap Featuring Gary Puckett@@@Woman, Woman
+13@@@6@@@Lulu@@@To Sir With Love
+14@@@15@@@Jay And The Techniques@@@Keep The Ball Rollin'
+15@@@20@@@Joe Tex@@@Skinny Legs And All
+16@@@21@@@The Turtles@@@She's My Girl
+17@@@30@@@Martha Reeves & The Vandellas@@@Honey Chile
+18@@@18@@@Spanky And Our Gang@@@Lazy Day
+19@@@26@@@Johnny Rivers@@@Summer Rain
+20@@@16@@@Bobby Vinton@@@Please Love Me Forever
+21@@@14@@@The Who@@@I Can See For Miles
+22@@@10@@@Victor Lundberg@@@An Open Letter To My Teenage Son
+23@@@41@@@The American Breed@@@Bend Me, Shape Me
+24@@@24@@@The Box Tops@@@Neon Rainbow
+25@@@25@@@Ray Charles@@@Yesterday
+26@@@27@@@Glen Campbell@@@By The Time I Get To Phoenix
+27@@@55@@@John Fred And The Playboys@@@Judy In Disguise (With Glasses)
+28@@@33@@@Stone Poneys Featuring Linda Ronstadt@@@Different Drum
+29@@@66@@@Aretha Franklin@@@Chain Of Fools
+30@@@37@@@The Rose Garden@@@Next Plane To London
+31@@@29@@@Ohio Express@@@Beg, Borrow And Steal
+32@@@19@@@Miriam Makeba@@@Pata Pata
+33@@@47@@@Marvin Gaye & Tammi Terrell@@@If I Could Build My Whole World Around You
+34@@@45@@@The Esquires@@@And Get Away
+35@@@46@@@Jackie Wilson@@@Since You Showed Me How To Be Happy
+36@@@36@@@Donovan@@@Wear Your Love Like Heaven
+37@@@43@@@Bobby Vee And The Strangers@@@Beautiful People
+38@@@44@@@Kenny O'Dell@@@Beautiful People
+39@@@23@@@Robert Knight@@@Everlasting Love
+40@@@51@@@Brenton Wood@@@Baby You Got It
+41@@@52@@@Peter, Paul & Mary@@@Too Much Of Nothing
+42@@@42@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Peace Of Mind
+43@@@68@@@The Young Rascals@@@It's Wonderful
+44@@@34@@@The 5th Dimension@@@Paper Cup
+45@@@48@@@Harpers Bizarre@@@Chattanooga Choo Choo
+46@@@53@@@Jr. Walker & The All Stars@@@Come See About Me
+47@@@17@@@Sam & Dave@@@Soul Man
+48@@@74@@@The Buckinghams@@@Susan
+49@@@60@@@Percy Sledge@@@Cover Me
+50@@@50@@@Dusty Springfield@@@What's It Gonna Be
+51@@@57@@@Etta James@@@Tell Mama
+52@@@62@@@Petula Clark@@@The Other Man's Grass Is Always Greener
+53@@@67@@@The Sandpebbles@@@Love Power
+54@@@54@@@Bobbie Gentry@@@Okolona River Bottom Band
+55@@@56@@@Wes Montgomery@@@Windy
+56@@@59@@@Dean Martin@@@In The Misty Moonlight
+57@@@64@@@The Beatles@@@I Am The Walrus
+58@@@58@@@Brenda & The Tabulations@@@When You're Gone
+59@@@75@@@The Doors@@@Love Me Two Times
+60@@@71@@@The Hollies@@@Dear Eloise
+61@@@61@@@The Dells@@@O-O, I Love You
+62@@@70@@@Erma Franklin@@@Piece Of My Heart
+63@@@49@@@Ramsey Lewis@@@Soul Man
+64@@@80@@@Wilson Pickett@@@I'm In Love
+65@@@65@@@Deon Jackson@@@Ooh Baby
+66@@@69@@@Small Faces@@@Itchycoo Park
+67@@@72@@@Billy Vera & Judy Clay@@@Storybook Children
+68@@@101@@@The Lemon Pipers@@@Green Tambourine
+69@@@87@@@The Lettermen@@@Goin' Out Of My Head/Can't Take My Eyes Off You
+70@@@79@@@The O'Jays@@@I'll Be Sweeter Tomorrow (Than I Was Today)
+71@@@77@@@John Roberts@@@Sockin' 1-2-3-4
+72@@@85@@@James Brown And The Famous Flames@@@I Can't Stand Myself (When You Touch Me)
+73@@@73@@@Bill Cosby@@@Hooray For The Salvation Army Band
+74@@@101@@@Ed Ames@@@Who Will Answer?
+75@@@101@@@Lulu@@@Best Of Both Worlds
+76@@@101@@@Jefferson Airplane@@@Watch Her Ride
+77@@@96@@@The Mamas & The Papas@@@Dancing Bear
+78@@@101@@@The Marvelettes@@@My Baby Must Be A Magician
+79@@@101@@@Sonny & Cher@@@Good Combination
+80@@@89@@@Al Greene & The Soul Mate's@@@Back Up Train
+81@@@81@@@The Candymen@@@Georgia Pines
+82@@@82@@@The Intruders@@@A Love That's Real
+83@@@83@@@Nancy Sinatra@@@Tony Rome
+84@@@86@@@Hugh Masekela@@@Up-Up And Away
+85@@@101@@@Eric Burdon & The Animals@@@Monterey
+86@@@101@@@The Dave Clark Five@@@Everybody Knows
+87@@@88@@@King Curtis & The Kingpins@@@For What It's Worth
+88@@@98@@@The Human Beinz@@@Nobody But Me
+89@@@101@@@Engelbert Humperdinck@@@Am I That Easy To Forget
+90@@@101@@@Peaches & Herb@@@Two Little Kids
+91@@@91@@@Eddy Arnold@@@Here Comes Heaven
+92@@@92@@@5 Stairsteps and Cubie@@@Something's Missing
+93@@@93@@@Every Father's Teenage Son@@@A Letter To Dad
+94@@@95@@@Billy Stewart@@@Cross My Heart
+95@@@101@@@Johnnie Taylor@@@Somebody's Sleeping In My Bed
+96@@@100@@@Al Martino@@@A Voice In The Choir
+97@@@97@@@Lulu And The Luvers@@@Shout
+98@@@101@@@Bill Wyman@@@In Another Land
+99@@@101@@@Ronnie Dove@@@Dancin' Out Of My Heart
+100@@@101@@@The Epic Splendor@@@A Little Rain Must Fall

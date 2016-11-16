@@ -1,0 +1,100 @@
+1@@@2@@@Marvin Gaye@@@Let's Get It On
+2@@@1@@@Stories@@@Brother Louie
+3@@@3@@@Helen Reddy@@@Delta Dawn
+4@@@6@@@Dawn Featuring Tony Orlando@@@Say, Has Anybody Seen My Sweet Gypsy Rose
+5@@@4@@@Diana Ross@@@Touch Me In The Morning
+6@@@9@@@Paul Simon (with The Dixie Hummingbirds)@@@Loves Me Like A Rock
+7@@@5@@@Wings@@@Live And Let Die
+8@@@11@@@Grand Funk@@@We're An American Band
+9@@@15@@@War@@@Gypsy Man
+10@@@14@@@Al Green@@@Here I Am Come & Take Me
+11@@@7@@@Maureen McGovern@@@The Morning After
+12@@@12@@@Sly & The Family Stone@@@If You Want Me To Stay
+13@@@8@@@Gilbert O'Sullivan@@@Get Down
+14@@@10@@@Chicago@@@Feelin' Stronger Every Day
+15@@@17@@@Four Tops@@@Are You Man Enough
+16@@@16@@@Elton John@@@Saturday Night's Alright For Fighting
+17@@@21@@@The Isley Brothers@@@That Lady (Part 1)
+18@@@30@@@Stevie Wonder@@@Higher Ground
+19@@@19@@@Johnnie Taylor@@@I Believe In You (You Believe In Me)
+20@@@25@@@B.W. Stevenson@@@My Maria
+21@@@13@@@Jim Croce@@@Bad, Bad Leroy Brown
+22@@@33@@@Cher@@@Half-Breed
+23@@@20@@@Aretha Franklin@@@Angel
+24@@@27@@@Joe Simon featuring The Mainstreeters@@@Theme From Cleopatra Jones
+25@@@22@@@Bobby Boris Pickett And The Crypt-Kickers@@@Monster Mash
+26@@@31@@@Kris Kristofferson@@@Why Me
+27@@@23@@@Donny Osmond@@@A Million To One/Young Love
+28@@@18@@@Charlie Daniels@@@Uneasy Rider
+29@@@32@@@Bobby Womack@@@Nobody Wants You When You're Down And Out
+30@@@42@@@The Spinners@@@Ghetto Child
+31@@@36@@@The Chi-lites@@@Stoned Out Of My Mind
+32@@@38@@@Tyrone Davis@@@There It Is
+33@@@24@@@Lobo@@@How Can I Tell Her
+34@@@55@@@The Pointer Sisters@@@Yes We Can Can
+35@@@58@@@The Allman Brothers Band@@@Ramblin Man
+36@@@37@@@Barry White@@@I've Got So Much To Give
+37@@@45@@@Edgar Winter Group@@@Free Ride
+38@@@28@@@Carole King@@@You Light Up My Life/Believe In Humanity
+39@@@47@@@The Temptations@@@Hey Girl (i Like Your Style)
+40@@@29@@@Don Covay@@@I Was Checkin' Out She Was Checkin' In
+41@@@60@@@Eddie Kendricks@@@Keep On Truckin' (Part 1)
+42@@@52@@@The Doobie Brothers@@@China Grove
+43@@@51@@@Conway Twitty@@@You've Never Been This Far Before
+44@@@41@@@The Independents@@@Baby I've Been Missing You
+45@@@26@@@Seals & Crofts@@@Diamond Girl
+46@@@50@@@B.B. King@@@To Know You Is To Love You
+47@@@34@@@Cat Stevens@@@The Hurt
+48@@@48@@@Jackie Moore@@@Sweet Charlie Babe
+49@@@62@@@Ohio Players@@@Ecstasy
+50@@@40@@@Deep Purple@@@Smoke On The Water
+51@@@54@@@Smokey Robinson@@@Sweet Harmony
+52@@@39@@@Curtis Mayfield@@@Future Shock
+53@@@53@@@James Brown@@@Sexy, Sexy, Sexy
+54@@@56@@@Earth, Wind & Fire@@@Evil
+55@@@71@@@Gladys Knight And The Pips@@@Midnight Train To Georgia
+56@@@64@@@Joe Walsh@@@Rocky Mountain Way
+57@@@69@@@Looking Glass@@@Jimmy Loves Mary-Anne
+58@@@57@@@Alice Cooper@@@Billion Dollar Babies
+59@@@63@@@The Miracles@@@Don't Let It End ('Til You Let It Begin)
+60@@@72@@@Cross Country@@@In The Midnight Hour
+61@@@61@@@Steely Dan@@@Show Biz Kids
+62@@@76@@@Jackson 5@@@Get It Together
+63@@@68@@@The Hues Corporation@@@Freedom For The Stallion
+64@@@67@@@Ronnie Dyson@@@Just Don't Want To Be Lonely
+65@@@81@@@Willie Hutch@@@Slick
+66@@@80@@@Bob Dylan@@@Knockin' On Heaven's Door
+67@@@87@@@The 5th Dimension@@@Ashes To Ashes
+68@@@70@@@Rod Stewart@@@Twistin' The Night Away
+69@@@78@@@Neil Diamond@@@The Last Thing On My Mind
+70@@@75@@@America@@@Muskrat Love
+71@@@74@@@Dobie Gray@@@Loving Arms
+72@@@73@@@Gladys Knight And The Pips@@@All I Need Is Time
+73@@@84@@@Deodato@@@Rhapsody In Blue
+74@@@90@@@Bobby Goldsboro@@@Summer (The First Time)
+75@@@101@@@The Rolling Stones@@@Angie
+76@@@82@@@Sutherland Brothers And Quiver@@@(I Don't Want To Love You But) You Got Me Anyway
+77@@@88@@@Maceo And The Macks@@@Parrty - Part I
+78@@@101@@@Millie Jackson@@@Hurts So Good
+79@@@92@@@Merle Haggard And The Strangers@@@Everybody's Had The Blues
+80@@@86@@@Albert Hammond@@@The Peacemaker
+81@@@101@@@The DeFranco Family featuring Tony DeFranco@@@Heartbeat - It's A Lovebeat
+82@@@77@@@Anne Murray@@@Send A Little Love My Way
+83@@@83@@@Raspberries@@@Tonight
+84@@@101@@@Cheech & Chong@@@Basketball Jones Featuring Tyrone Shoelaces
+85@@@85@@@Ray Price@@@You're The Best Thing That Ever Happened To Me
+86@@@101@@@The Osmonds@@@Let Me In
+87@@@96@@@Nilsson@@@As Time Goes By
+88@@@98@@@Mandrill@@@Hang Loose
+89@@@101@@@Ike & Tina Turner@@@Nutbush City Limits
+90@@@101@@@Kenny Karen@@@That's Why You Remember
+91@@@91@@@Tanya Tucker@@@Blood Red And Goin' Down
+92@@@93@@@Today's People@@@He
+93@@@95@@@New York City@@@Make Me Twice The Man
+94@@@94@@@Napoleon XIV@@@They're Coming To Take Me Away, Ha-Haaa!
+95@@@97@@@Barbara Fairchild@@@Kid Stuff
+96@@@99@@@Ann Peebles@@@I Can't Stand The Rain
+97@@@100@@@The New Birth@@@Until It's Time For You To Go
+98@@@101@@@The J. Geils Band@@@Make Up Your Mind
+99@@@101@@@Sylvia And Ralfi Pagan@@@Soul Je T'aime
+100@@@101@@@Kool & The Gang@@@Funky Stuff

@@ -1,0 +1,100 @@
+1@@@1@@@The Four Seasons@@@Sherry
+2@@@3@@@Nat King Cole@@@Ramblin' Rose
+3@@@2@@@Tommy Roe@@@Sheila
+4@@@5@@@Booker T. & The MG's@@@Green Onions
+5@@@7@@@Rick Nelson@@@Teen Age Idol
+6@@@15@@@Chris Montez@@@Let's Dance
+7@@@13@@@The Duprees@@@You Belong To Me
+8@@@9@@@Dickey Lee@@@Patches
+9@@@12@@@Mary Wells@@@You Beat Me To The Punch
+10@@@6@@@Elvis Presley With The Jordanaires@@@She's Not You
+11@@@4@@@Little Eva@@@The Loco-Motion
+12@@@18@@@Bent Fabric and His Piano@@@Alley Cat
+13@@@37@@@Bobby Boris Pickett And The Crypt-Kickers@@@Monster Mash
+14@@@10@@@Baby Cortez@@@Rinky Dink
+15@@@35@@@Peter, Paul & Mary@@@If I Had A Hammer (The Hammer Song)
+16@@@19@@@Jimmy Clanton@@@Venus In Blue Jeans
+17@@@20@@@The Marvelettes@@@Beechwood 4-5789
+18@@@17@@@Johnny Tillotson@@@Send Me The Pillow You Dream On
+19@@@33@@@Bobby Vinton@@@Rain Rain Go Away
+20@@@22@@@The Springfields@@@Silver Threads And Golden Needles
+21@@@8@@@Ray Charles@@@You Don't Know Me
+22@@@25@@@The Majors@@@A Wonderful Dream
+23@@@27@@@Brook Benton@@@Lie To Me
+24@@@26@@@Billy Vaughn And His Orchestra@@@A Swingin' Safari
+25@@@29@@@Johnny Crawford@@@Your Nose Is Gonna Grow
+26@@@36@@@Joey Dee & the Starliters@@@What Kind Of Love Is This
+27@@@53@@@Frank Ifield@@@I Remember You
+28@@@42@@@The Contours@@@Do You Love Me
+29@@@30@@@The Beach Boys@@@Surfin' Safari
+30@@@32@@@The Dovells@@@Hully Gully Baby
+31@@@40@@@Bobby Vee@@@Punish Her
+32@@@41@@@Carole King@@@It Might As Well Rain Until September
+33@@@16@@@Marty Robbins@@@Devil Woman
+34@@@11@@@Neil Sedaka@@@Breaking Up Is Hard To Do
+35@@@28@@@The Belmonts@@@Come On Little Angel
+36@@@21@@@Gene McDaniels@@@Point Of No Return
+37@@@14@@@Claudine Clark@@@Party Lights
+38@@@39@@@Jo Ann Campbell@@@I'm The Girl From Wolverton Mountain
+39@@@23@@@Bobby Bare@@@Shame On Me
+40@@@46@@@Bobby Vinton@@@I Love You The Way You Are
+41@@@34@@@Etta James@@@Stop The Wedding
+42@@@54@@@Tony Bennett@@@I Left My Heart In San Francisco
+43@@@68@@@Gene Pitney@@@Only Love Can Break A Heart
+44@@@69@@@The Shirelles@@@Stop The Music
+45@@@66@@@Freddy Cannon@@@What's Gonna Happen When Summer's Done
+46@@@55@@@Paul Anka@@@Every Night (Without You)
+47@@@31@@@Timi Yuro@@@What's A Matter Baby (Is It Hurting You)
+48@@@51@@@The Rivingtons@@@Papa-Oom-Mow-Mow
+49@@@24@@@Bobby Darin@@@Things
+50@@@43@@@Connie Stevens@@@Mr. Songwriter
+51@@@57@@@Bo Diddley@@@You Can't Judge A Book By The Cover
+52@@@70@@@Chubby Checker@@@Popeye (The Hitchhiker)
+53@@@64@@@Bunker Hill@@@Hide & Go Seek, Part I
+54@@@56@@@Paul Petersen@@@Lollipops And Roses
+55@@@65@@@Chuck Jackson@@@I Keep Forgettin'
+56@@@59@@@Bobby Bland@@@Yield Not To Temptation
+57@@@63@@@Kris Jensen@@@Torture
+58@@@101@@@Brenda Lee@@@Save All Your Lovin' For Me
+59@@@49@@@Patti Page@@@The Boys' Night Out
+60@@@74@@@Rex Allen@@@Don't Go Near The Indians
+61@@@77@@@Jimmy Dean@@@Little Black Book
+62@@@82@@@Shelley Fabares@@@The Things We Did Last Summer
+63@@@72@@@Martin Denny and His Orchestra@@@A Taste Of Honey
+64@@@48@@@Lawrence Welk And His Orchestra@@@Baby Elephant Walk
+65@@@71@@@Gene Pitney@@@If I Didn't Have A Dime (To Play The Jukebox)
+66@@@91@@@The Crystals@@@He's A Rebel
+67@@@38@@@Connie Francis@@@Vacation
+68@@@79@@@Chubby Checker@@@Limbo Rock
+69@@@101@@@Elvis Presley With The Jordanaires@@@King Of The Whole Wide World
+70@@@62@@@Florraine Darlin@@@Long As The Rose Is Red
+71@@@87@@@Sammy Davis Jr.@@@What Kind Of Fool Am I
+72@@@73@@@Don Gardner And Dee Dee Ford@@@Don't You Worry
+73@@@50@@@Bob Braun@@@Till Death Do Us Part
+74@@@89@@@Del Shannon@@@The Swiss Maid
+75@@@76@@@Don Gardner And Dee Dee Ford@@@Glory Of Love
+76@@@80@@@Jimmie Rodgers@@@No One Will Ever Know
+77@@@90@@@The Jive Five (featuring Eugene Pitt)@@@What Time Is It?
+78@@@81@@@The Valentinos@@@Lookin' For A Love
+79@@@83@@@Bobby Bland@@@Stormy Monday Blues
+80@@@101@@@Johnny Mathis@@@Gina
+81@@@86@@@The Fiestas@@@Broken Heart
+82@@@85@@@Earl Grant@@@Sweet Sixteen Bars
+83@@@84@@@Joe Henderson@@@Big Love
+84@@@98@@@Mike Clifford@@@Close To Cathy
+85@@@101@@@Pat Boone@@@Ten Lonely Guys
+86@@@101@@@Brian Hyland@@@Warmed Over Kisses (Left Over Love)
+87@@@101@@@The Isley Brothers@@@Twistin' With Linda
+88@@@101@@@Sandy Nelson@@@...And Then There Were Drums
+89@@@78@@@Bill Black's Combo@@@So What
+90@@@101@@@Roy Orbison@@@Workin' For The Man
+91@@@96@@@Andy Williams@@@Don't You Believe It
+92@@@101@@@Jackie Wilson@@@Forever And A Day
+93@@@93@@@Solomon Burke@@@I Really Don't Want To Know
+94@@@95@@@The Miracles@@@Way Over There
+95@@@97@@@Jerry Lee Lewis@@@Sweet Little Sixteen
+96@@@101@@@Buddy Greco@@@Mr. Lonely
+97@@@101@@@Barbara Lynn@@@Second Fiddle Girl
+98@@@101@@@Linda Scott@@@I Left My Heart In The Balcony
+99@@@101@@@Anthony Newley@@@What Kind Of Fool Am I
+100@@@101@@@Bobby Vee and The Crickets@@@Someday (When I'm Gone From You)

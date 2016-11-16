@@ -1,0 +1,100 @@
+1@@@5@@@Ricky Nelson@@@Travelin' Man
+2@@@3@@@Shep And The Limelites@@@Daddy's Home
+3@@@7@@@Roy Orbison@@@Running Scared
+4@@@6@@@The Shirelles@@@Mama Said
+5@@@1@@@Ernie K-Doe@@@Mother-In-Law
+6@@@2@@@Del Shannon@@@Runaway
+7@@@8@@@Connie Francis@@@Breakin' In A Brand New Broken Heart
+8@@@4@@@Gene McDaniels@@@A Hundred Pounds Of Clay
+9@@@17@@@Elvis Presley@@@I Feel So Bad
+10@@@16@@@The Fleetwoods@@@Tragedy
+11@@@15@@@Neil Sedaka@@@Little Devil
+12@@@18@@@Faron Young@@@Hello Walls
+13@@@28@@@Ben E. King@@@Stand By Me
+14@@@31@@@Pat Boone@@@Moody River
+15@@@38@@@Dee Clark@@@Raindrops
+16@@@9@@@Ricky Nelson@@@Hello Mary Lou
+17@@@10@@@Linda Scott@@@I've Told Every Little Star
+18@@@13@@@Steve Lawrence@@@Portrait Of My Love
+19@@@22@@@Ral Donner@@@Girl Of My Best Friend
+20@@@35@@@The Regents@@@Barbara-Ann
+21@@@25@@@Bobby Rydell@@@That Old Black Magic
+22@@@11@@@Brenda Lee@@@You Can Depend On Me
+23@@@19@@@The Tokens@@@Tonight I Fell In Love
+24@@@33@@@Frank Gari@@@Lullaby Of Love
+25@@@48@@@Clarence Henry@@@You Always Hurt The One You Love
+26@@@12@@@The Marcels@@@Blue Moon
+27@@@21@@@The McGuire Sisters@@@Just For Old Time's Sake
+28@@@14@@@Adam Wade@@@Take Good Care Of Her
+29@@@34@@@Janie Grant@@@Triangle
+30@@@36@@@The Marathons@@@Peanut Butter
+31@@@20@@@Al Caiola And His Orchestra@@@Bonanza
+32@@@56@@@Adam Wade@@@The Writing On The Wall
+33@@@46@@@Little Caesar and The Romans@@@Those Oldies But Goodies (Remind Me Of You)
+34@@@44@@@Bobby Lewis@@@Tossin' And Turnin'
+35@@@45@@@Joe Barry@@@I'm A Fool To Care
+36@@@39@@@Johnny Maestro & The Voice Of The Crests@@@What A Surprise
+37@@@41@@@Eddie Harris@@@Exodus
+38@@@57@@@The Coasters@@@Little Egypt (Ying-Yang)
+39@@@24@@@Clarence Henry@@@But I Do
+40@@@65@@@Tony Orlando@@@Halfway To Paradise
+41@@@43@@@The Edsels@@@Rama Lama Ding Dong
+42@@@71@@@Brook Benton@@@The Boll Weevil Song
+43@@@63@@@Pips@@@Every Beat Of My Heart
+44@@@59@@@Andy Williams@@@The Bilbao Song
+45@@@52@@@Don Costa And His Orchestra And Chorus@@@Never On Sunday
+46@@@32@@@Chubby Checker@@@(Dance The) Mess Around
+47@@@27@@@Elvis Presley With The Jordanaires@@@Flaming Star
+48@@@37@@@The Drifters@@@Some Kind Of Wonderful
+49@@@53@@@The Roommates@@@Glory Of Love
+50@@@55@@@Russell Byrd@@@You'd Better Come Home
+51@@@60@@@The Timetones@@@In My Heart
+52@@@54@@@Freddy Cannon@@@Buzz Buzz A-Diddle-It
+53@@@58@@@Donnie and The Dreamers@@@Count Every Star
+54@@@64@@@The Starlets@@@Better Tell Him No
+55@@@62@@@Gogi Grant@@@The Wayward Wind
+56@@@26@@@Ray Charles@@@One Mint Julep
+57@@@67@@@Gladys Knight And The Pips@@@Every Beat Of My Heart
+58@@@66@@@Johnny Burnette@@@Big Big World
+59@@@61@@@Piero Soffici@@@That's The Way With Love
+60@@@30@@@B. Bumble & The Stingers@@@Bumble Boogie
+61@@@29@@@Maxine Brown@@@Funny
+62@@@68@@@Carla Thomas@@@A Love Of My Own
+63@@@23@@@Floyd Cramer@@@On The Rebound
+64@@@73@@@Fats Domino@@@It Keeps Rainin'
+65@@@99@@@U.S. Bonds@@@Quarter To Three
+66@@@70@@@Roy Drusky@@@Three Hearts In A Tangle
+67@@@101@@@Paul Anka@@@Dance On Little Girl
+68@@@81@@@The Belmonts@@@Tell Me Why
+69@@@77@@@James Brown And The Famous Flames@@@I Don't Mind
+70@@@82@@@Jorgen Ingmann & His Guitar@@@Anna
+71@@@101@@@Arthur Lyman Group@@@Yellow Bird
+72@@@42@@@Dickie Goodman@@@The Touchables In Brooklyn
+73@@@74@@@Little Willie John@@@(I've Got) Spring Fever
+74@@@76@@@The New Yorkers@@@Miss Fine
+75@@@83@@@Teresa Brewer@@@Milord
+76@@@80@@@Louise Brown@@@Son-In-Law
+77@@@101@@@Bobby Vee@@@How Many Tears
+78@@@98@@@The Cleftones@@@Heart And Soul
+79@@@84@@@The Blossoms@@@Son-In-Law
+80@@@101@@@Matt Monro@@@My Kind Of Girl
+81@@@92@@@Marcy Joe@@@Ronnie
+82@@@97@@@Jeanette (Baby) Washington@@@Nobody Cares (about me)
+83@@@101@@@Marty Robbins@@@Jimmy Martinez
+84@@@86@@@Paul Peek@@@Brother-In-Law (He's A Moocher)
+85@@@100@@@Junior Parker@@@Driving Wheel
+86@@@101@@@Chris Kenner@@@I Like It Like That, Part 1
+87@@@101@@@Slim Harpo@@@Rainin' In My Heart
+88@@@96@@@Patsy Cline@@@I Fall To Pieces
+89@@@101@@@Frankie Avalon@@@Who Else But You
+90@@@101@@@The Marcels@@@Summertime
+91@@@94@@@Freddy King@@@Lonesome Whistle Blues
+92@@@95@@@The Dukays@@@The Girl's A Devil
+93@@@101@@@Jimmy Reed@@@Big Boss Man
+94@@@101@@@The Everly Brothers@@@Temptation
+95@@@101@@@The Castells@@@Sacred
+96@@@101@@@The Velvets featuring Virgil Johnson@@@Tonight (Could Be The Night)
+97@@@101@@@Wyatt (Earp) McPherson@@@Here's My Confession
+98@@@101@@@Duane Eddy@@@Ring Of Fire
+99@@@101@@@Les Paul And Mary Ford@@@Jura (I Swear I Love You)
+100@@@101@@@Jack Scott@@@A Little Feeling (Called Love)

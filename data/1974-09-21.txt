@@ -1,0 +1,100 @@
+1@@@5@@@Barry White@@@Can't Get Enough Of Your Love, Babe
+2@@@3@@@Andy Kim@@@Rock Me Gently
+3@@@12@@@Olivia Newton-John@@@I Honestly Love You
+4@@@6@@@Billy Preston@@@Nothing From Nothing
+5@@@1@@@Eric Clapton@@@I Shot The Sheriff
+6@@@8@@@Dionne Warwicke & Spinners@@@Then Came You
+7@@@2@@@Paul Anka with Odia Coates@@@(You're) Having My Baby
+8@@@10@@@The Guess Who@@@Clap For The Wolfman
+9@@@11@@@Stevie Wonder@@@You Haven't Done Nothin
+10@@@13@@@Johnny Bristol@@@Hang On In There Baby
+11@@@15@@@Cat Stevens@@@Another Saturday Night
+12@@@16@@@First Class@@@Beach Baby
+13@@@4@@@Donny & Marie Osmond@@@I'm Leaving It (All) Up To You
+14@@@18@@@Lynyrd Skynyrd@@@Sweet Home Alabama
+15@@@19@@@Bo Donaldson And The Heywoods@@@Who Do You Think You Are
+16@@@17@@@The Rolling Stones@@@It's Only Rock 'N Roll (But I Like It)
+17@@@9@@@Helen Reddy@@@You And Me Against The World
+18@@@20@@@The Stylistics@@@Let's Put It All Together
+19@@@23@@@Cheech & Chong@@@Earache My Eye (Featuring Alice Bowie)
+20@@@26@@@Bad Company@@@Can't Get Enough
+21@@@27@@@Blue Swede@@@Never My Love
+22@@@28@@@The Tymes@@@You Little Trustmaker
+23@@@24@@@Joni Mitchell@@@Free Man In Paris
+24@@@7@@@Rufus@@@Tell Me Something Good
+25@@@31@@@Tony Orlando & Dawn@@@Steppin' Out (Gonna Boogie Tonight)
+26@@@32@@@Mac Davis@@@Stop And Smell The Roses
+27@@@33@@@Ohio Players@@@Skin Tight
+28@@@29@@@Charlie Rich@@@I Love My Friend
+29@@@39@@@Carole King@@@Jazzman
+30@@@52@@@Elton John@@@The Bitch Is Back
+31@@@14@@@Paper Lace@@@The Night Chicago Died
+32@@@40@@@The Miracles@@@Do It Baby
+33@@@21@@@Roberta Flack@@@Feel Like Makin' Love
+34@@@22@@@Billy Crash Craddock@@@Rub It In
+35@@@25@@@Fancy@@@Wild Thing
+36@@@30@@@Jim Stafford@@@Wildwood Weed
+37@@@60@@@The Osmonds@@@Love Me For A Reason
+38@@@44@@@James Brown@@@Papa Don't Take No Mess (Part I)
+39@@@53@@@The Souther, Hillman, Furay Band@@@Fallin' In Love
+40@@@51@@@America@@@Tin Man
+41@@@46@@@The Beach Boys@@@Surfin' U.s.a.
+42@@@37@@@Blue Magic@@@Sideshow
+43@@@36@@@Dave Loggins@@@Please Come To Boston
+44@@@54@@@Marilyn Sellars@@@One Day At A Time
+45@@@38@@@Mac Davis@@@One Hell Of A Woman
+46@@@49@@@Sami Jo@@@It Could Have Been Me
+47@@@42@@@Cher@@@I Saw A Man And He Danced With His Wife
+48@@@43@@@ABBA@@@Waterloo
+49@@@45@@@Grand Funk@@@Shinin' On
+50@@@41@@@The Rubettes@@@Sugar Baby Love
+51@@@68@@@Reunion@@@Life Is A Rock (But The Radio Rolled Me)
+52@@@66@@@The Righteous Brothers@@@Give It To The People
+53@@@65@@@Aretha Franklin@@@Ain't Nothing Like The Real Thing
+54@@@61@@@The Isley Brothers@@@Live It Up Part 1
+55@@@70@@@Steppenwolf@@@Straight Shootin' Woman
+56@@@67@@@Gordon Lightfoot@@@Carefree Highway
+57@@@34@@@Wet Willie@@@Keep On Smilin'
+58@@@62@@@Eddie Kendricks@@@Tell Her Love Has Felt The Need
+59@@@69@@@Brownsville Station@@@Kings Of The Party
+60@@@35@@@Tower Of Power@@@Don't Change Horses (In The Middle Of A Stream)
+61@@@47@@@Chicago@@@Call On Me
+62@@@48@@@Bachman-Turner Overdrive@@@Takin' Care Of Business
+63@@@50@@@Elton John@@@Don't Let The Sun Go Down On Me
+64@@@55@@@Golden Earring@@@Radar Love
+65@@@101@@@Bachman-Turner Overdrive@@@You Ain't Seen Nothing Yet/Free Wheelin'
+66@@@58@@@Four Tops@@@Midnight Flower
+67@@@84@@@Jim Weatherly@@@The Need To Be
+68@@@64@@@John Denver@@@ANNIE'S SONG
+69@@@80@@@Kool & The Gang@@@Higher Plane
+70@@@101@@@John Denver@@@Back Home Again
+71@@@81@@@Sweet Dreams@@@Honey Honey
+72@@@89@@@ABBA@@@Honey, Honey
+73@@@75@@@Parliament@@@Up For The Down Stroke
+74@@@78@@@The Dramatics@@@Door To Your Heart
+75@@@82@@@William DeVaughn@@@Blood Is Thicker Than Water
+76@@@83@@@The Blackbyrds@@@Do It, Fluid
+77@@@101@@@Garfunkel@@@Second Avenue
+78@@@88@@@Raspberries@@@Overnight Sensation (Hit Record)
+79@@@90@@@The Kiki Dee Band@@@I've Got The Music In Me
+80@@@87@@@Waylon Jennings@@@I'm A Ramblin' Man
+81@@@86@@@Kathy Dalton@@@Boogie Bands And One Night Stands
+82@@@92@@@First Choice@@@The Player - Part 1
+83@@@101@@@Tim Moore@@@Second Avenue
+84@@@101@@@The Spinners@@@Love Don't Love Nobody - Pt. I
+85@@@85@@@Suzi Quatro@@@All Shook Up
+86@@@101@@@The Hudson Brothers@@@So You Are A Star
+87@@@101@@@Carl Carlton@@@Everlasting Love
+88@@@101@@@Bobby Vinton@@@My Melody Of Love
+89@@@101@@@Gino Vannelli@@@People Gotta Move
+90@@@101@@@Sam Neely@@@You Can Have Her
+91@@@93@@@Larry Gatlin@@@Delta Dirt
+92@@@101@@@Eagles@@@James Dean
+93@@@74@@@The Hues Corporation@@@Rock The Boat
+94@@@79@@@The Staple Singers@@@City In The Sky
+95@@@95@@@Ronnie Milsap@@@Please Don't Tell Me How The Story Ends
+96@@@56@@@Sly & The Family Stone@@@Time For Livin'
+97@@@100@@@Bobby Bland@@@Ain't No Love In The Heart Of The City
+98@@@77@@@George McCrae@@@Rock Your Baby
+99@@@59@@@Three Dog Night@@@Sure As I'm Sittin' Here
+100@@@76@@@Donna Fargo@@@You Can't Be A Beacon (if Your Light Don't Shine)

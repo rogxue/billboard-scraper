@@ -1,0 +1,100 @@
+1@@@3@@@Bruno Mars@@@Just The Way You Are
+2@@@2@@@Eminem Featuring Rihanna@@@Love The Way You Lie
+3@@@75@@@Rihanna@@@Only Girl (In The World)
+4@@@1@@@Katy Perry@@@Teenage Dream
+5@@@6@@@Usher Featuring Pitbull@@@DJ Got Us Fallin' In Love
+6@@@4@@@Taio Cruz@@@Dynamite
+7@@@5@@@Enrique Iglesias Featuring Pitbull@@@I Like It
+8@@@7@@@Nelly@@@Just A Dream
+9@@@9@@@Flo Rida Featuring David Guetta@@@Club Can't Handle Me
+10@@@16@@@Far*East Movement Featuring Cataracs & Dev@@@Like A G6
+11@@@8@@@Ke$ha@@@Take It Off
+12@@@10@@@Taylor Swift@@@Mine
+13@@@17@@@Trey Songz Featuring Nicki Minaj@@@Bottoms Up
+14@@@15@@@Eminem@@@Not Afraid
+15@@@13@@@Mike Posner@@@Cooler Than Me
+16@@@14@@@B.o.B Featuring Hayley Williams@@@Airplanes
+17@@@12@@@Katy Perry Featuring Snoop Dogg@@@California Gurls
+18@@@11@@@B.o.B Featuring Rivers Cuomo@@@Magic
+19@@@20@@@Chris Brown Featuring Tyga & Kevin McCall@@@Deuces
+20@@@19@@@Maroon 5@@@Misery
+21@@@93@@@Florence + The Machine@@@Dog Days Are Over
+22@@@24@@@Neon Trees@@@Animal
+23@@@18@@@Jason Derulo@@@Ridin' Solo
+24@@@21@@@Usher Featuring will.i.am@@@OMG
+25@@@49@@@Drake Featuring T.I. & Swizz Beatz@@@Fancy
+26@@@22@@@Sugarland@@@Stuck Like Glue
+27@@@73@@@Linkin Park@@@The Catalyst
+28@@@26@@@OneRepublic@@@Secrets
+29@@@30@@@Usher Featuring Jay-Z@@@Hot Tottie
+30@@@31@@@Adam Lambert@@@If I Had You
+31@@@28@@@Lil Wayne Featuring Drake@@@Right Above It
+32@@@29@@@Kenny Chesney@@@The Boys of Fall
+33@@@23@@@Travie McCoy Featuring Bruno Mars@@@Billionaire
+34@@@25@@@Drake@@@Find Your Love
+35@@@36@@@Cee Lo Green@@@F**k You (Forget You)
+36@@@37@@@Sean Kingston Featuring Nicki Minaj@@@Letting Go (Dutty Love)
+37@@@101@@@Kings Of Leon@@@Radioactive
+38@@@27@@@Nicki Minaj@@@Your Love
+39@@@43@@@Paramore@@@The Only Exception
+40@@@39@@@The Band Perry@@@If I Die Young
+41@@@41@@@Jay Sean Featuring Nicki Minaj@@@2012 (It Ain't The End)
+42@@@33@@@Train@@@Hey, Soul Sister
+43@@@34@@@Train@@@If It's Love
+44@@@38@@@Cali Swag District@@@Teach Me How To Dougie
+45@@@32@@@Sara Bareilles@@@King Of Anything
+46@@@45@@@Waka Flocka Flame Featuring Roscoe Dash & Wale@@@No Hands
+47@@@46@@@Lady Antebellum@@@Need You Now
+48@@@44@@@Uncle Kracker@@@Smile
+49@@@42@@@Drake Featuring Lil Wayne@@@Miss Me
+50@@@50@@@The Script@@@Breakeven
+51@@@40@@@John Mayer@@@Half Of My Heart
+52@@@51@@@Lady Antebellum@@@Our Kind Of Love
+53@@@57@@@Daughtry@@@September
+54@@@53@@@Darius Rucker@@@Come Back Song
+55@@@47@@@Billy Currington@@@Pretty Good At Drinkin' Beer
+56@@@72@@@Zac Brown Band Featuring Alan Jackson@@@As She's Walking Away
+57@@@78@@@will.i.am & Nicki Minaj@@@Check It Out
+58@@@58@@@Monica@@@Love All Over Me
+59@@@52@@@T.I. Featuring Keri Hilson@@@Got Your Back
+60@@@63@@@Rodney Atkins@@@Farmer's Daughter
+61@@@62@@@Rick Ross Featuring Styles P@@@B.M.F. (Blowin' Money Fast)
+62@@@65@@@Easton Corbin@@@Roll With It
+63@@@60@@@Little Big Town@@@Little White Church
+64@@@66@@@Josh Turner@@@All Over Me
+65@@@35@@@Selena Gomez & The Scene@@@A Year Without Rain
+66@@@64@@@Jason Aldean@@@My Kinda Party
+67@@@70@@@Kanye West@@@POWER
+68@@@71@@@The Ready Set@@@Love Like Woe
+69@@@54@@@Lee Brice@@@Love Like Crazy
+70@@@59@@@Auburn Featuring Iyaz@@@La La La
+71@@@76@@@Jazmine Sullivan@@@Holding You Down (Goin In Circles)
+72@@@56@@@Soulja Boy Tell'em@@@Pretty Boy Swag
+73@@@61@@@Blake Shelton@@@All About Tonight
+74@@@101@@@Trey Songz@@@Can't Be Friends
+75@@@79@@@Mumford & Sons@@@Little Lion Man
+76@@@80@@@Rascal Flatts@@@Why Wait
+77@@@68@@@Zac Brown Band@@@Free
+78@@@69@@@Kid Cudi Featuring Kanye West@@@Erase Me
+79@@@74@@@New Boyz Featuring Iyaz@@@Break My Bank
+80@@@83@@@YG@@@Toot It And Boot It
+81@@@94@@@Brad Paisley@@@Anything Like Me
+82@@@101@@@Keith Urban@@@Put You In A Song
+83@@@101@@@Yolanda Be Cool & Dcup@@@We No Speak Americano
+84@@@85@@@Fantasia@@@Bittersweet
+85@@@91@@@George Strait@@@The Breath You Take
+86@@@77@@@Selena Gomez & The Scene@@@Round & Round
+87@@@82@@@Shakira Featuring Freshlyground@@@Waka Waka (This Time For Africa)
+88@@@97@@@Josh Thompson@@@Way Out Here
+89@@@96@@@Miranda Lambert@@@Only Prettier
+90@@@101@@@Justin Bieber Featuring Usher@@@Somebody To Love
+91@@@101@@@Miguel Featuring J. Cole@@@All I Want Is You
+92@@@101@@@Gyptian@@@Hold You (Hold Yuh)
+93@@@86@@@Pink@@@Glitter In The Air
+94@@@101@@@Reba@@@Turn On The Radio
+95@@@101@@@Justin Bieber@@@U Smile
+96@@@101@@@Linkin Park@@@Waiting For The End
+97@@@101@@@Eric Church@@@Smoke A Little Smoke
+98@@@99@@@Plain White T's@@@Rhythm of Love
+99@@@98@@@Toby Keith@@@Trailerhood
+100@@@101@@@Wiz Khalifa@@@Black And Yellow

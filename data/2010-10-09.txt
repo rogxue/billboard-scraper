@@ -1,0 +1,100 @@
+1@@@1@@@Bruno Mars@@@Just The Way You Are
+2@@@4@@@Katy Perry@@@Teenage Dream
+3@@@2@@@Eminem Featuring Rihanna@@@Love The Way You Lie
+4@@@5@@@Usher Featuring Pitbull@@@DJ Got Us Fallin' In Love
+5@@@6@@@Taio Cruz@@@Dynamite
+6@@@10@@@Far*East Movement Featuring Cataracs & Dev@@@Like A G6
+7@@@8@@@Nelly@@@Just A Dream
+8@@@3@@@Rihanna@@@Only Girl (In The World)
+9@@@7@@@Enrique Iglesias Featuring Pitbull@@@I Like It
+10@@@9@@@Flo Rida Featuring David Guetta@@@Club Can't Handle Me
+11@@@12@@@Taylor Swift@@@Mine
+12@@@11@@@Ke$ha@@@Take It Off
+13@@@13@@@Trey Songz Featuring Nicki Minaj@@@Bottoms Up
+14@@@20@@@Maroon 5@@@Misery
+15@@@19@@@Chris Brown Featuring Tyga & Kevin McCall@@@Deuces
+16@@@15@@@Mike Posner@@@Cooler Than Me
+17@@@17@@@Katy Perry Featuring Snoop Dogg@@@California Gurls
+18@@@16@@@B.o.B Featuring Hayley Williams@@@Airplanes
+19@@@14@@@Eminem@@@Not Afraid
+20@@@18@@@B.o.B Featuring Rivers Cuomo@@@Magic
+21@@@101@@@Glee Cast@@@Empire State Of Mind
+22@@@22@@@Neon Trees@@@Animal
+23@@@101@@@Glee Cast@@@Telephone
+24@@@28@@@OneRepublic@@@Secrets
+25@@@29@@@Usher Featuring Jay-Z@@@Hot Tottie
+26@@@33@@@Travie McCoy Featuring Bruno Mars@@@Billionaire
+27@@@35@@@Cee Lo Green@@@F**k You (Forget You)
+28@@@101@@@Glee Cast@@@Billionaire
+29@@@26@@@Sugarland@@@Stuck Like Glue
+30@@@31@@@Lil Wayne Featuring Drake@@@Right Above It
+31@@@30@@@Adam Lambert@@@If I Had You
+32@@@25@@@Drake Featuring T.I. & Swizz Beatz@@@Fancy
+33@@@24@@@Usher Featuring will.i.am@@@OMG
+34@@@23@@@Jason Derulo@@@Ridin' Solo
+35@@@32@@@Kenny Chesney@@@The Boys of Fall
+36@@@41@@@Jay Sean Featuring Nicki Minaj@@@2012 (It Ain't The End)
+37@@@40@@@The Band Perry@@@If I Die Young
+38@@@101@@@Glee Cast@@@Listen
+39@@@36@@@Sean Kingston Featuring Nicki Minaj@@@Letting Go (Dutty Love)
+40@@@53@@@Daughtry@@@September
+41@@@45@@@Sara Bareilles@@@King Of Anything
+42@@@57@@@will.i.am & Nicki Minaj@@@Check It Out
+43@@@42@@@Train@@@Hey, Soul Sister
+44@@@46@@@Waka Flocka Flame Featuring Roscoe Dash & Wale@@@No Hands
+45@@@43@@@Train@@@If It's Love
+46@@@47@@@Lady Antebellum@@@Need You Now
+47@@@34@@@Drake@@@Find Your Love
+48@@@56@@@Zac Brown Band Featuring Alan Jackson@@@As She's Walking Away
+49@@@44@@@Cali Swag District@@@Teach Me How To Dougie
+50@@@50@@@The Script@@@Breakeven
+51@@@101@@@Glee Cast@@@What I Did For Love
+52@@@54@@@Darius Rucker@@@Come Back Song
+53@@@65@@@Selena Gomez & The Scene@@@A Year Without Rain
+54@@@49@@@Drake Featuring Lil Wayne@@@Miss Me
+55@@@38@@@Nicki Minaj@@@Your Love
+56@@@68@@@The Ready Set@@@Love Like Woe
+57@@@39@@@Paramore@@@The Only Exception
+58@@@62@@@Easton Corbin@@@Roll With It
+59@@@52@@@Lady Antebellum@@@Our Kind Of Love
+60@@@60@@@Rodney Atkins@@@Farmer's Daughter
+61@@@55@@@Billy Currington@@@Pretty Good At Drinkin' Beer
+62@@@101@@@Akon@@@Angel
+63@@@64@@@Josh Turner@@@All Over Me
+64@@@58@@@Monica@@@Love All Over Me
+65@@@27@@@Linkin Park@@@The Catalyst
+66@@@51@@@John Mayer@@@Half Of My Heart
+67@@@59@@@T.I. Featuring Keri Hilson@@@Got Your Back
+68@@@66@@@Jason Aldean@@@My Kinda Party
+69@@@63@@@Little Big Town@@@Little White Church
+70@@@70@@@Auburn Featuring Iyaz@@@La La La
+71@@@71@@@Jazmine Sullivan@@@Holding You Down (Goin In Circles)
+72@@@61@@@Rick Ross Featuring Styles P@@@B.M.F. (Blowin' Money Fast)
+73@@@21@@@Florence + The Machine@@@Dog Days Are Over
+74@@@80@@@YG@@@Toot It And Boot It
+75@@@76@@@Rascal Flatts@@@Why Wait
+76@@@75@@@Mumford & Sons@@@Little Lion Man
+77@@@74@@@Trey Songz@@@Can't Be Friends
+78@@@83@@@Yolanda Be Cool & Dcup@@@We No Speak Americano
+79@@@81@@@Brad Paisley@@@Anything Like Me
+80@@@91@@@Miguel Featuring J. Cole@@@All I Want Is You
+81@@@72@@@Soulja Boy Tell'em@@@Pretty Boy Swag
+82@@@73@@@Blake Shelton@@@All About Tonight
+83@@@77@@@Zac Brown Band@@@Free
+84@@@101@@@Maroon 5@@@Stutter
+85@@@85@@@George Strait@@@The Breath You Take
+86@@@86@@@Selena Gomez & The Scene@@@Round & Round
+87@@@79@@@New Boyz Featuring Iyaz@@@Break My Bank
+88@@@87@@@Shakira Featuring Freshlyground@@@Waka Waka (This Time For Africa)
+89@@@88@@@Josh Thompson@@@Way Out Here
+90@@@101@@@Jesse McCartney@@@Shake
+91@@@101@@@Diddy - Dirty Money Featuring Drake@@@Loving You No More
+92@@@82@@@Keith Urban@@@Put You In A Song
+93@@@84@@@Fantasia@@@Bittersweet
+94@@@101@@@Mike Posner@@@Please Don't Go
+95@@@37@@@Kings Of Leon@@@Radioactive
+96@@@89@@@Miranda Lambert@@@Only Prettier
+97@@@78@@@Kid Cudi Featuring Kanye West@@@Erase Me
+98@@@94@@@Reba@@@Turn On The Radio
+99@@@97@@@Eric Church@@@Smoke A Little Smoke
+100@@@67@@@Kanye West@@@POWER

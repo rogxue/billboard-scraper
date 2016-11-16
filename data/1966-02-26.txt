@@ -1,0 +1,100 @@
+1@@@2@@@Nancy Sinatra@@@These Boots Are Made For Walkin'
+2@@@1@@@Lou Christie@@@Lightnin' Strikes
+3@@@10@@@SSgt Barry Sadler@@@The Ballad Of The Green Berets
+4@@@3@@@Stevie Wonder@@@Uptight (Everything's Alright)
+5@@@5@@@The Supremes@@@My World Is Empty Without You
+6@@@4@@@Petula Clark@@@My Love
+7@@@8@@@The Marvelettes@@@Don't Mess With Bill
+8@@@16@@@The Mamas & The Papas@@@California Dreamin'
+9@@@20@@@Bob Lind@@@Elusive Butterfly
+10@@@15@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Working My Way Back To You
+11@@@12@@@Herb Alpert & The Tijuana Brass@@@Zorba The Greek
+12@@@6@@@Ray Charles@@@Crying Time
+13@@@41@@@Herman's Hermits@@@Listen People
+14@@@26@@@Bobby Fuller Four@@@I Fought The Law
+15@@@7@@@The Beach Boys@@@Barbara Ann
+16@@@19@@@Sonny & Cher@@@What Now My Love
+17@@@17@@@The Kinks@@@A Well Respected Man
+18@@@21@@@Ronnie Dove@@@When Liking Turns To Loving
+19@@@9@@@The T-Bones@@@No Matter What Shape (Your Stomach's In)
+20@@@25@@@Bob Kuban And The In-Men@@@The Cheater
+21@@@24@@@The Dave Clark Five@@@At The Scene
+22@@@28@@@Chris Montez@@@Call Me
+23@@@11@@@The Miracles@@@Going To A Go-Go
+24@@@13@@@The Beatles@@@We Can Work It Out
+25@@@48@@@The Marketts@@@Batman Theme
+26@@@22@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Just Like Me
+27@@@34@@@The Five Americans@@@I See The Light
+28@@@35@@@The Turtles@@@You Baby
+29@@@18@@@David & Jonathan@@@Michelle
+30@@@36@@@Martha & The Vandellas@@@My Baby Loves Me
+31@@@54@@@Simon & Garfunkel@@@Homeward Bound
+32@@@30@@@The Strangeloves@@@Night Time
+33@@@37@@@Roy Orbison@@@Breakin' Up Is Breakin' My Heart
+34@@@32@@@The Knickerbockers@@@Lies
+35@@@27@@@Mitch Ryder And The Detroit Wheels@@@Jenny Take A Ride!
+36@@@38@@@Deon Jackson@@@Love Makes The World Go Round
+37@@@44@@@The Shangri-Las@@@Long Live Our Love
+38@@@29@@@Ramsey Lewis Trio@@@A Hard Day's Night
+39@@@14@@@The Vogues@@@Five O'Clock World
+40@@@23@@@Gary Lewis And The Playboys@@@She's Just My Style
+41@@@53@@@Slim Harpo@@@Baby Scratch My Back
+42@@@58@@@Wilson Pickett@@@634-5789 (Soulsville, U.S.A.)
+43@@@43@@@The Sunrays@@@Andrea
+44@@@49@@@Lee Dorsey@@@Get Out Of My Life, Woman
+45@@@39@@@Len Barry@@@Like A Baby
+46@@@101@@@The Rolling Stones@@@19th Nervous Breakdown
+47@@@57@@@Dean Martin@@@Somewhere There's A Someone
+48@@@52@@@Neal Hefti@@@Batman Theme
+49@@@59@@@Sir Douglas Quintet@@@The Rains Came
+50@@@74@@@Roger Miller@@@Husbands And Wives
+51@@@51@@@Mel Carter@@@Love Is All We Need
+52@@@79@@@Freddy Cannon@@@The Dedication Song
+53@@@46@@@Frankie Valli@@@(You're Gonna) Hurt Yourself
+54@@@56@@@Bert Kaempfert And His Orchestra@@@Bye Bye Blues
+55@@@61@@@Peter And Gordon@@@Woman
+56@@@75@@@Bobby Goldsboro@@@It's Too Late
+57@@@67@@@Buck Owens@@@Waitin' In Your Welfare Line
+58@@@66@@@The Exciters@@@A Little Bit Of Soap
+59@@@84@@@Eddy Arnold@@@I Want To Go With You
+60@@@60@@@Eddie Holman@@@This Can't Be True
+61@@@69@@@The Sheep@@@Hide & Seek
+62@@@68@@@The McCoys@@@Up And Down
+63@@@70@@@The Byrds@@@It Won't Be Wrong
+64@@@62@@@The Righteous Brothers@@@Georgia On My Mind
+65@@@63@@@The Walker Bros.@@@My Ship Is Comin' In
+66@@@73@@@Verdelle Smith@@@In My Room (El Amor)
+67@@@86@@@Four Tops@@@Shake Me, Wake Me (When It's Over)
+68@@@65@@@Bud Shank@@@Michelle
+69@@@89@@@Marvin Gaye@@@One More Heartache
+70@@@78@@@Jan & Dean@@@Batman
+71@@@101@@@The Vogues@@@Magic Town
+72@@@87@@@B.J. Thomas And The Triumphs@@@I'm So Lonesome I Could Cry
+73@@@85@@@James Brown And The Famous Flames@@@I'll Go Crazy
+74@@@83@@@Mary Wells@@@Dear Lover
+75@@@101@@@Bobby Vinton@@@Tears
+76@@@101@@@The Lovin' Spoonful@@@Daydream
+77@@@77@@@The Searchers@@@Take Me For What I'm Worth
+78@@@88@@@Edwin Starr@@@Stop Her On Sight (S.O.S.)
+79@@@82@@@The Byrds@@@Set You Free This Time
+80@@@91@@@Jay & The Americans@@@Why Can't You Bring Me Home
+81@@@99@@@The Isley Brothers@@@This Old Heart Of Mine (Is Weak For You)
+82@@@92@@@Sam The Sham and the Pharaohs@@@Red Hot
+83@@@101@@@Johnny Cash@@@The One On The Right Is On The Left
+84@@@101@@@The Temptations@@@Get Ready
+85@@@101@@@Googie Rene Combo@@@Smokey Joe's La La
+86@@@101@@@Patty Duke@@@Whenever She Holds You
+87@@@101@@@Norma Tanega@@@Walkin' My Cat Named Dog
+88@@@97@@@New Colony Six@@@I Confess
+89@@@90@@@Neil Sedaka@@@The Answer To My Prayer
+90@@@101@@@The Ventures@@@Secret Agent Man
+91@@@101@@@Pozo Seco Singers@@@Time
+92@@@93@@@The Fortunes@@@This Golden Ring
+93@@@95@@@Tom Jones@@@Promise Her Anything
+94@@@94@@@Barbra Streisand@@@Where Am I Going?
+95@@@96@@@Sam Cooke@@@Feel It
+96@@@101@@@The Animals@@@Inside-Looking Out
+97@@@100@@@The Outsiders@@@Time Won't Let Me
+98@@@98@@@The Elgins@@@Put Yourself In My Place
+99@@@101@@@The Newbeats@@@Shake Hands (And Come Out Crying)
+100@@@101@@@The Barbarians@@@Moulty

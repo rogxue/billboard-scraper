@@ -1,0 +1,100 @@
+1@@@3@@@Wings@@@With A Little Luck
+2@@@2@@@Roberta Flack & Donny Hathaway@@@The Closer I Get To You
+3@@@4@@@Johnny Mathis/Deniece Williams@@@Too Much, Too Little, Too Late
+4@@@6@@@John Travolta & Olivia Newton-John@@@You're The One That I Want
+5@@@1@@@Yvonne Elliman@@@If I Can't Have You
+6@@@11@@@Andy Gibb@@@Shadow Dancing
+7@@@12@@@Chuck Mangione@@@Feels So Good
+8@@@8@@@Jefferson Starship@@@Count On Me
+9@@@10@@@Atlanta Rhythm Section@@@Imaginary Lover
+10@@@5@@@Bee Gees@@@Night Fever
+11@@@16@@@George Benson@@@On Broadway
+12@@@13@@@The Trammps@@@Disco Inferno
+13@@@14@@@Player@@@This Time I'm In It For Love
+14@@@7@@@Barry Manilow@@@Can't Smile Without You
+15@@@17@@@Eddie Money@@@Baby Hold On
+16@@@18@@@Sweet@@@Love Is Like Oxygen
+17@@@24@@@ABBA@@@Take A Chance On Me
+18@@@20@@@Billy Joel@@@Movin' Out (Anthony's Song)
+19@@@19@@@Dolly Parton@@@Two Doors Down
+20@@@22@@@Bonnie Tyler@@@It's A Heartache
+21@@@21@@@Warren Zevon@@@Werewolves Of London
+22@@@9@@@Kansas@@@Dust In The Wind
+23@@@26@@@Carly Simon@@@You Belong To Me
+24@@@15@@@Eric Clapton@@@Lay Down Sally
+25@@@23@@@Raydio@@@Jack And Jill
+26@@@40@@@Gerry Rafferty@@@Baker Street
+27@@@32@@@Meat Loaf@@@Two Out Of Three Ain't Bad
+28@@@33@@@Steely Dan@@@Deacon Blues
+29@@@25@@@Electric Light Orchestra@@@Sweet Talkin' Woman
+30@@@35@@@Robert Palmer@@@Every Kinda People
+31@@@36@@@Peter Brown with Betty Wright@@@Dance With Me
+32@@@37@@@Patti Smith Group@@@Because The Night
+33@@@30@@@Jackson Browne@@@Running On Empty
+34@@@39@@@Heart@@@Heartless
+35@@@29@@@Natalie Cole@@@Our Love
+36@@@38@@@The Michael Zager Band@@@Let's All Chant
+37@@@43@@@Linda Ronstadt@@@Tumbling Dice
+38@@@31@@@Shaun Cassidy@@@Do You Believe In Magic
+39@@@34@@@Elton John@@@Ego
+40@@@28@@@Bee Gees@@@Stayin' Alive
+41@@@67@@@Michael Johnson@@@Bluer Than Blue
+42@@@49@@@Seals & Crofts@@@You're The Love
+43@@@45@@@Rufus/Chaka Khan@@@Stay
+44@@@51@@@Jimmy Buffett@@@Cheeseburger In Paradise
+45@@@52@@@Rod Stewart@@@I Was Only Joking
+46@@@48@@@Head East@@@Since You Been Gone
+47@@@53@@@Genesis@@@Follow You Follow Me
+48@@@59@@@Barry White@@@Oh What A Night For Dancing
+49@@@54@@@Leif Garrett@@@The Wanderer
+50@@@56@@@Celebration featuring Mike Love@@@Almost Summer
+51@@@58@@@Chic@@@Everybody Dance
+52@@@60@@@Heatwave@@@The Groove Line
+53@@@61@@@Eruption@@@I Can't Stand The Rain
+54@@@63@@@The O'Jays@@@Use Ta Be My Girl
+55@@@55@@@John Denver@@@I Want To Live
+56@@@64@@@Rare Earth@@@Warm Ride
+57@@@66@@@Barry Manilow@@@Even Now
+58@@@73@@@Bob Seger & The Silver Bullet Band@@@Still The Same
+59@@@68@@@Jimmy Bo Horne@@@Dance Across The Floor
+60@@@70@@@Plastic Bertrand@@@Ca Plane Pour Moi
+61@@@41@@@Allan Clarke@@@(I Will Be Your) Shadow In The Street
+62@@@72@@@Tuxedo Junction@@@Chattanooga Choo Choo
+63@@@57@@@Journey@@@Wheel In The Sky
+64@@@74@@@Billy Joel@@@Only The Good Die Young
+65@@@75@@@Love And Kisses@@@Thank God It's Friday
+66@@@27@@@Parliament@@@Flash Light
+67@@@77@@@Diana Ross@@@You Got It
+68@@@78@@@Samantha Sang@@@You Keep Me Dancing
+69@@@79@@@Odyssey@@@Weekend Lover
+70@@@80@@@REO Speedwagon@@@Roll With The Changes
+71@@@62@@@Earth, Wind & Fire@@@Fantasy
+72@@@82@@@Eric Clapton@@@Wonderful Tonight
+73@@@83@@@KC And The Sunshine Band@@@It's The Same Old Song
+74@@@76@@@Captain & Tennille@@@I'm On My Way
+75@@@85@@@Donna Summer@@@Last Dance
+76@@@86@@@Kayak@@@I Want You To Be Mine
+77@@@87@@@Queen@@@It's Late
+78@@@42@@@David Gates@@@Goodbye Girl
+79@@@65@@@England Dan & John Ford Coley@@@We'll Never Have To Say Goodbye Again
+80@@@46@@@Tavares@@@More Than A Woman
+81@@@81@@@Fotomaker@@@Where Have You Been All My Life
+82@@@101@@@Paul Davis Feat. Susan Collins@@@Darlin'
+83@@@101@@@Chicago@@@Take Me Back To Chicago
+84@@@88@@@Van Halen@@@Runnin' With The Devil
+85@@@101@@@Foghat@@@Stone Blue
+86@@@84@@@Kongas@@@Africanism/Gimme Some Lovin'
+87@@@101@@@Roberta Flack@@@If Ever I See You Again
+88@@@101@@@Starz@@@Hold On To The Night
+89@@@50@@@Wet Willie@@@Make You Feel Love Again
+90@@@92@@@Continental Miniatures@@@Stay Awhile
+91@@@69@@@Styx@@@Fooling Yourself (The Angry Young Man)
+92@@@44@@@Angel@@@Ain't Gonna Eat Out My Heart Anymore
+93@@@47@@@Andy Gibb@@@(Love Is) Thicker Than Water
+94@@@101@@@Jane Olivor@@@He's So Fine
+95@@@90@@@Paul Davis@@@I Go Crazy
+96@@@91@@@Bob Welch@@@Ebony Eyes
+97@@@96@@@Andrew Gold@@@Thank You For Being A Friend
+98@@@100@@@Doucette@@@Mama Let Him Play
+99@@@94@@@Heatwave@@@Always And Forever
+100@@@98@@@Samantha Sang@@@Emotion

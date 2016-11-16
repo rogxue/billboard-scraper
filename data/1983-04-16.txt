@@ -1,0 +1,100 @@
+1@@@1@@@Michael Jackson@@@Billie Jean
+2@@@4@@@Dexys Midnight Runners@@@Come On Eileen
+3@@@5@@@Styx@@@Mr. Roboto
+4@@@9@@@Greg Kihn Band@@@Jeopardy
+5@@@10@@@Michael Jackson@@@Beat It
+6@@@3@@@Duran Duran@@@Hungry Like The Wolf
+7@@@7@@@Daryl Hall & John Oates@@@One On One
+8@@@8@@@Journey@@@Separate Ways (Worlds Apart)
+9@@@12@@@After The Fire@@@Der Kommissar
+10@@@2@@@Culture Club@@@Do You Really Want To Hurt Me
+11@@@6@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+12@@@11@@@Lionel Richie@@@You Are
+13@@@16@@@Thomas Dolby@@@She Blinded Me With Science
+14@@@13@@@Frida@@@I Know There's Something Going On
+15@@@29@@@David Bowie@@@Let's Dance
+16@@@22@@@Bob Seger & The Silver Bullet Band@@@Even Now
+17@@@19@@@Prince@@@Little Red Corvette
+18@@@14@@@Pretenders@@@Back On The Chain Gang
+19@@@28@@@Men At Work@@@Overkill
+20@@@23@@@Toto@@@I Won't Hold You Back
+21@@@21@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+22@@@26@@@Laura Branigan@@@Solitaire
+23@@@15@@@Golden Earring@@@Twilight Zone
+24@@@18@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+25@@@17@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+26@@@25@@@ABC@@@Poison Arrow
+27@@@20@@@Pat Benatar@@@Little Too Late
+28@@@24@@@Earth, Wind & Fire@@@Fall In Love With Me
+29@@@32@@@Stephen Bishop@@@It Might Be You
+30@@@34@@@Oxo@@@Whirly Girl
+31@@@31@@@Debarge@@@I Like It
+32@@@47@@@Def Leppard@@@Photograph
+33@@@33@@@Kenny Loggins@@@Welcome To Heartlight
+34@@@38@@@Barry Manilow@@@Some Kind Of Friend
+35@@@40@@@Duran Duran@@@Rio
+36@@@27@@@Christopher Cross@@@All Right
+37@@@55@@@Lionel Richie@@@My Love
+38@@@52@@@Irene Cara@@@Flashdance...What A Feeling
+39@@@43@@@Bryan Adams@@@Straight From The Heart
+40@@@48@@@Patrick Simmons@@@So Wrong
+41@@@49@@@Jarreau@@@Mornin'
+42@@@44@@@Mac McAnally@@@Minimum Love
+43@@@45@@@John Anderson@@@Swingin'
+44@@@46@@@Psychedelic Furs@@@Love My Way
+45@@@50@@@Ronnie Milsap@@@Stranger In My House
+46@@@41@@@Dionne Warwick@@@Take The Short Way Home
+47@@@30@@@Thompson Twins@@@Lies
+48@@@36@@@Dan Fogelberg@@@Make Love Stay
+49@@@35@@@Joe Jackson@@@Breaking Us In Two
+50@@@57@@@Naked Eyes@@@Always Something There To Remind Me
+51@@@51@@@The Gap Band@@@Outstanding
+52@@@59@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+53@@@101@@@Rick Springfield@@@Affair Of The Heart
+54@@@60@@@Sammy Hagar@@@Never Give Up
+55@@@101@@@Journey@@@Faithfully
+56@@@56@@@Billy Joel@@@Goodnight Saigon
+57@@@65@@@ZZ Top@@@Gimme All Your Lovin
+58@@@58@@@Robert Hazard@@@Escalator Of Life
+59@@@101@@@Culture Club@@@Time (Clock Of The Heart)
+60@@@63@@@Wall Of Voodoo@@@Mexican Radio
+61@@@69@@@INXS@@@The One Thing
+62@@@67@@@Robbie Patton@@@Smiling Islands
+63@@@73@@@Champaign@@@Try Again
+64@@@37@@@Stray Cats@@@Stray Cat Strut
+65@@@71@@@Lou Rawls@@@Wind Beneath My Wings
+66@@@77@@@Walter Egan@@@Fool Moon Fire
+67@@@68@@@The Pointer Sisters@@@If You Wanna Get Back Your Lady
+68@@@75@@@Night Ranger@@@Sing Me Away
+69@@@70@@@Patti Austin@@@Every Home Should Have One
+70@@@78@@@Saga@@@Wind Him Up
+71@@@82@@@The Tubes@@@She's A Beauty
+72@@@39@@@Phil Collins@@@I Don't Care Anymore
+73@@@42@@@Felony@@@The Fanatic
+74@@@54@@@Men At Work@@@Down Under
+75@@@81@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+76@@@53@@@Patti Austin With James Ingram@@@Baby, Come To Me
+77@@@83@@@U2@@@New Year's Day
+78@@@80@@@Modern English@@@I Melt With You
+79@@@85@@@Ultravox@@@Reap The Wild Wind
+80@@@101@@@Total Coelo@@@I Eat Cannibals
+81@@@62@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+82@@@64@@@The System@@@You Are In My System
+83@@@101@@@Planet P@@@Why Me?
+84@@@66@@@Adam Ant@@@Desperate But Not Serious
+85@@@87@@@Gerard McMahon@@@Count On Me
+86@@@101@@@Sparks & Jane Wiedlin@@@Cool Places
+87@@@61@@@Billy Joel@@@Allentown
+88@@@101@@@The Temptations@@@Love On My Mind Tonight
+89@@@101@@@Eddy Grant@@@Electric Avenue
+90@@@101@@@Sergio Mendes@@@Never Gonna Let You Go
+91@@@86@@@The Clash@@@Should I Stay Or Should I Go
+92@@@89@@@Melissa Manchester@@@Nice Girls
+93@@@90@@@Berlin@@@Sex (I'm A...)
+94@@@91@@@Yaz@@@Only You
+95@@@92@@@Missing Persons@@@Walking In L.a.
+96@@@72@@@The Oak Ridge Boys@@@American Made
+97@@@76@@@Jeffrey Osborne@@@Eenie Meenie
+98@@@93@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+99@@@84@@@Supertramp Featuring Rick Davies@@@My Kind Of Lady
+100@@@79@@@Tony Carey@@@I Won't Be Home Tonight

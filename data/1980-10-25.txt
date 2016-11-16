@@ -1,0 +1,100 @@
+1@@@2@@@Barbra Streisand@@@Woman In Love
+2@@@1@@@Queen@@@Another One Bites The Dust
+3@@@5@@@The Pointer Sisters@@@He's So Shy
+4@@@3@@@Diana Ross@@@Upside Down
+5@@@6@@@The Doobie Brothers@@@Real Love
+6@@@17@@@Kenny Rogers@@@Lady
+7@@@11@@@Donna Summer@@@The Wanderer
+8@@@4@@@Air Supply@@@All Out Of Love
+9@@@7@@@Kenny Loggins@@@I'm Alright
+10@@@12@@@Stephanie Mills@@@Never Knew Love Like This Before
+11@@@18@@@Diana Ross@@@I'm Coming Out
+12@@@13@@@Carly Simon@@@Jesse
+13@@@9@@@Eddie Rabbitt@@@Drivin' My Life Away
+14@@@16@@@Boz Scaggs@@@Look What You've Done To Me
+15@@@19@@@Stevie Wonder@@@Master Blaster (Jammin')
+16@@@20@@@Cliff Richard@@@Dreaming
+17@@@8@@@Olivia Newton-John/Electric Light Orchestra@@@Xanadu
+18@@@10@@@Paul Simon@@@Late In The Evening
+19@@@28@@@The Jacksons@@@Lovely One
+20@@@23@@@Supertramp@@@Dreamer
+21@@@26@@@Devo@@@Whip It
+22@@@24@@@Willie Nelson@@@On The Road Again
+23@@@27@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+24@@@25@@@Al Stewart@@@Midnight Rocks
+25@@@30@@@Irene Cara@@@Out Here On My Own
+26@@@35@@@Leo Sayer@@@More Than I Can Say
+27@@@33@@@Jackson Browne@@@That Girl Could Sing
+28@@@14@@@George Benson@@@Give Me The Night
+29@@@32@@@Stacy Lattisaw@@@Let Me Be Your Angel
+30@@@15@@@Robbie Dupree@@@Hot Rod Hearts
+31@@@21@@@Johnny Lee@@@Lookin' For Love
+32@@@39@@@The Rolling Stones@@@She's So Cold
+33@@@40@@@Pat Benatar@@@Hit Me With Your Best Shot
+34@@@34@@@Pure Prairie League@@@I'm Almost Ready
+35@@@38@@@Anne Murray@@@Could I Have This Dance
+36@@@36@@@Donna Summer@@@Walk Away
+37@@@37@@@The Cars@@@Touch And Go
+38@@@42@@@Roger Daltrey@@@Without Your Love
+39@@@43@@@AC/DC@@@You Shook Me All Night Long
+40@@@55@@@Christopher Cross@@@Never Be The Same
+41@@@58@@@Jimmy Hall@@@I'm Happy That Love Has Found You
+42@@@46@@@Ali Thomson@@@Live Every Minute
+43@@@48@@@Kansas@@@Hold On
+44@@@44@@@Earth, Wind & Fire@@@Let Me Talk
+45@@@50@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+46@@@52@@@Kim Carnes@@@Cry Like A Baby
+47@@@51@@@John Cougar@@@This Time
+48@@@53@@@Nielsen/Pearson@@@If You Should Sail
+49@@@56@@@The Vapors@@@Turning Japanese
+50@@@60@@@Billy Joel@@@Sometimes A Fantasy
+51@@@22@@@Amy Holland@@@How Do I Survive
+52@@@31@@@The Charlie Daniels Band@@@The Legend Of Wooley Swamp
+53@@@29@@@Larsen-Feiten Band@@@Who'll Be The Fool Tonight
+54@@@54@@@Commodores@@@Heroes
+55@@@71@@@The Korgis@@@Everybody's Got To Learn Sometime
+56@@@41@@@Irene Cara@@@Fame
+57@@@45@@@Electric Light Orchestra@@@All Over The World
+58@@@69@@@Don Williams@@@I Believe In You
+59@@@47@@@Dionne Warwick@@@No Night So Long
+60@@@49@@@Bob Seger@@@You'll Accomp'ny Me
+61@@@57@@@Billy Joel@@@Don't Ask Me Why
+62@@@79@@@Randy Meisner@@@Deep Inside My Heart
+63@@@73@@@The Doolittle Band@@@Who Were You Thinkin' Of
+64@@@59@@@Larry Graham@@@One In A Million You
+65@@@61@@@The Rolling Stones@@@Emotional Rescue
+66@@@62@@@Natalie Cole@@@Someone That I Used To Love
+67@@@67@@@Frank Stallone@@@Case Of You
+68@@@76@@@707@@@I Could Be Good For You
+69@@@63@@@Ambrosia@@@You're The Only Woman (You & I)
+70@@@70@@@Meco@@@Love Theme From Shogun (Mariko's Theme)
+71@@@81@@@George Benson@@@Love X Love
+72@@@72@@@Pete Townshend@@@A Little Is Enough
+73@@@82@@@Eddie Money (with Valerie Carter)@@@Let's Be Lovers Again
+74@@@78@@@Poco@@@Midnight Rain
+75@@@85@@@The B-52s@@@Private Idaho
+76@@@64@@@Teddy Pendergrass@@@Can't We Try
+77@@@87@@@Mac Davis@@@Texas In My Rear View Mirror
+78@@@101@@@Paul Simon@@@One-Trick Pony
+79@@@101@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+80@@@101@@@The Police@@@De Do Do Do, De Da Da Da
+81@@@66@@@The Allman Brothers Band@@@Angeline
+82@@@101@@@Robert John@@@Sherry
+83@@@68@@@The O'Jays@@@Girl, Don't Let It Get You Down
+84@@@101@@@Air Supply@@@Every Woman In The World
+85@@@65@@@Ray, Goodman & Brown@@@My Prayer
+86@@@101@@@Diana Ross@@@It's My Turn
+87@@@101@@@Kool & The Gang@@@Celebration
+88@@@101@@@Larry Graham@@@When We Get Married
+89@@@91@@@Zapp@@@More Bounce To The Ounce Part I
+90@@@93@@@Jim Hurt@@@I Love Women
+91@@@94@@@Burt Reynolds@@@Let's Do Something Cheap And Superficial
+92@@@95@@@Robbin Thompson Band@@@Brite Eyes
+93@@@75@@@Split Enz@@@I Got You
+94@@@77@@@Genesis@@@Turn It On Again
+95@@@74@@@Elton John@@@(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?
+96@@@80@@@Christopher Cross@@@Sailing
+97@@@83@@@Olivia Newton-John@@@Magic
+98@@@84@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+99@@@86@@@Benny Mardones@@@Into The Night
+100@@@89@@@Peter Gabriel@@@Games Without Frontiers

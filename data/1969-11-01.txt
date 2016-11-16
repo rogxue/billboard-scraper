@@ -1,0 +1,100 @@
+1@@@5@@@Elvis Presley@@@Suspicious Minds
+2@@@7@@@The 5th Dimension@@@Wedding Bell Blues
+3@@@3@@@The Archies@@@Sugar, Sugar
+4@@@1@@@The Temptations@@@I Can't Get Next To You
+5@@@8@@@Smith@@@Baby It's You
+6@@@2@@@Sly & The Family Stone@@@Hot Fun In The Summertime
+7@@@6@@@Bobby Sherman@@@Little Woman
+8@@@4@@@Oliver@@@Jean
+9@@@9@@@The Cuff Links@@@Tracy
+10@@@13@@@The Beatles@@@Come Together/Something
+11@@@11@@@The Beatles@@@Something
+12@@@16@@@The Flying Machine@@@Smile A Little Smile For Me
+13@@@14@@@Peggy Lee@@@Is That All There Is
+14@@@12@@@Marvin Gaye@@@That's The Way Love Is
+15@@@10@@@Lou Christie@@@I'm Gonna Make You Mine
+16@@@25@@@The Friends Of Distinction@@@Going In Circles
+17@@@29@@@Blood, Sweat & Tears@@@And When I Die
+18@@@20@@@Dionne Warwick@@@You've Lost That Lovin' Feeling
+19@@@19@@@Tom Jones@@@I'll Never Fall In Love Again
+20@@@21@@@Garland Green@@@Jealous Kind Of Fella
+21@@@37@@@R.B. Greaves@@@Take A Letter Maria
+22@@@26@@@The Originals@@@Baby, I'm For Real
+23@@@18@@@Three Dog Night@@@Easy To Be Hard
+24@@@22@@@The Clique@@@Sugar On Sunday
+25@@@15@@@Nilsson@@@Everybody's Talkin'
+26@@@33@@@Tommy James And The Shondells@@@Ball Of Fire
+27@@@17@@@Gary Puckett And The Union Gap@@@This Girl Is A Woman Now
+28@@@35@@@Lawrence Reynolds@@@Jesus Is A Soul Man
+29@@@24@@@The Rugbys@@@You, I
+30@@@58@@@James Brown@@@Let A Man Come In And Do The Popcorn (Part One)
+31@@@30@@@Isaac Hayes@@@Walk On By
+32@@@59@@@Stevie Wonder@@@Yester-Me, Yester-You, Yesterday
+33@@@44@@@Glen Campbell@@@Try A Little Kindness
+34@@@34@@@Crosby, Stills & Nash@@@Suite: Judy Blue Eyes
+35@@@36@@@Kenny Rogers & The First Edition@@@Reuben James
+36@@@48@@@Dyke And The Blazers@@@Let A Woman Be A Woman - Let A Man Be A Man
+37@@@38@@@Thunderclap Newman@@@Something In The Air
+38@@@49@@@Billy Joe Royal@@@Cherry Hill Park
+39@@@39@@@Jerry Butler@@@What's The Use Of Breaking Up
+40@@@42@@@Keith Barbour@@@Echo Park
+41@@@41@@@Andy Kim@@@So Good Together
+42@@@43@@@Mel And Tim@@@Backfield In Motion
+43@@@32@@@Motherlode@@@When I Die
+44@@@28@@@Wind@@@Make Believe
+45@@@52@@@Steam@@@Na Na Hey Hey Kiss Him Goodbye
+46@@@40@@@The Intrigues@@@In A Moment
+47@@@45@@@Joe South and The Believers@@@Don't It Make You Want To Go Home
+48@@@53@@@Clarence Carter@@@Doin' Our Thing
+49@@@50@@@Grand Funk Railroad@@@Time Machine
+50@@@61@@@Three Dog Night@@@Eli's Coming
+51@@@60@@@The Guess Who@@@Undun
+52@@@57@@@The Flaming Ember@@@Mind, Body and Soul
+53@@@56@@@The Soul Children@@@The Sweeter He Is - Part I
+54@@@54@@@Evie Sands@@@Any Way That You Want Me
+55@@@51@@@The Brooklyn Bridge@@@You'll Never Walk Alone
+56@@@68@@@Mama Cass Elliot@@@Make Your Own Kind Of Music
+57@@@76@@@Peter, Paul & Mary@@@Leaving On A Jet Plane
+58@@@101@@@Creedence Clearwater Revival@@@Fortunate Son
+59@@@65@@@Kool & The Gang@@@Kool And The Gang
+60@@@87@@@Creedence Clearwater Revival@@@Down On The Corner/Fortunate Son
+61@@@63@@@The Box Tops@@@Turn On A Dream
+62@@@71@@@Harlow Wilcox and the Oakies@@@Groovy Grubworm
+63@@@74@@@Funkadelic@@@I'll Bet You
+64@@@85@@@Tony Joe White@@@Roosevelt And Ira Lee (Night of the Mossacin)
+65@@@67@@@Sonny James@@@Since I Met You, Baby
+66@@@93@@@Gladys Knight And The Pips@@@Friendship Train
+67@@@82@@@The Lettermen@@@Shangri-La
+68@@@91@@@Jr. Walker & The All Stars@@@These Eyes
+69@@@78@@@The Checkmates, Ltd. featuring Sonny Charles@@@Proud Mary
+70@@@77@@@Jefferson@@@The Colour Of My Love
+71@@@101@@@Neil Diamond@@@Holly Holy
+72@@@86@@@John & Anne Ryder@@@I Still Believe In Tomorrow
+73@@@73@@@Joe Cocker@@@Delta Lady
+74@@@101@@@The Band@@@Up On Cripple Creek
+75@@@75@@@The Cowsills@@@Silver Threads And Golden Needles
+76@@@84@@@Maxine Brown@@@We'll Cry Together
+77@@@88@@@CROW@@@Evil Woman Don't Play Your Games With Me
+78@@@95@@@The Impressions@@@Say You Love Me
+79@@@96@@@The Glass House@@@Crumbs Off The Table
+80@@@80@@@Ramsey Lewis@@@Julia
+81@@@94@@@Ray Stevens@@@Sunday Mornin' Comin' Down
+82@@@101@@@The Dells@@@On The Dock Of The Bay
+83@@@101@@@Nilsson@@@I Guess The Lord Must Be In New York City
+84@@@92@@@Thomas & Richard Frost@@@She's Got Love
+85@@@101@@@Bob Dylan@@@Tonight I'll Be Staying Here With You
+86@@@101@@@B.J. Thomas@@@Raindrops Keep Fallin' On My Head
+87@@@90@@@Joe Simon@@@It's Hard To Get Along
+88@@@101@@@Five Stairsteps & Cubie@@@We Must Be In Love
+89@@@89@@@Blackwell@@@Wonderful
+90@@@101@@@Jackie DeShannon@@@Love Will Find A Way
+91@@@101@@@Merle Haggard And The Strangers@@@Okie From Muskogee
+92@@@101@@@The Byrds@@@Ballad Of Easy Rider
+93@@@101@@@Art Linkletter@@@We Love You, Call Collect
+94@@@101@@@Johnny Nash@@@Cupid
+95@@@98@@@Johnny Rivers@@@One Woman
+96@@@99@@@Rick Nelson@@@She Belongs To Me
+97@@@97@@@Santana@@@Jingo
+98@@@101@@@Eddie Floyd@@@Why Is The Wine Sweeter (On The Other Side)
+99@@@101@@@Ferrante & Teicher@@@Midnight Cowboy
+100@@@101@@@Lou Rawls@@@I Can't Make It Alone

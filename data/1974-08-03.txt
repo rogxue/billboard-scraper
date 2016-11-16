@@ -1,0 +1,100 @@
+1@@@1@@@John Denver@@@ANNIE'S SONG
+2@@@2@@@Elton John@@@Don't Let The Sun Go Down On Me
+3@@@6@@@Roberta Flack@@@Feel Like Makin' Love
+4@@@5@@@Steely Dan@@@Rikki Don't Lose That Number
+5@@@14@@@Paper Lace@@@The Night Chicago Died
+6@@@7@@@The Hollies@@@The Air That I Breathe
+7@@@3@@@The Righteous Brothers@@@Rock And Roll Heaven
+8@@@9@@@Dave Loggins@@@Please Come To Boston
+9@@@10@@@Chicago@@@Call On Me
+10@@@11@@@Blue Magic@@@Sideshow
+11@@@15@@@ABBA@@@Waterloo
+12@@@4@@@George McCrae@@@Rock Your Baby
+13@@@8@@@The Hues Corporation@@@Rock The Boat
+14@@@18@@@Jim Stafford@@@Wildwood Weed
+15@@@19@@@Wet Willie@@@Keep On Smilin'
+16@@@20@@@Bachman-Turner Overdrive@@@Takin' Care Of Business
+17@@@21@@@Elvis Presley@@@If You Talk In Your Sleep
+18@@@13@@@Golden Earring@@@Radar Love
+19@@@23@@@Rufus@@@Tell Me Something Good
+20@@@12@@@Gladys Knight And The Pips@@@On And On
+21@@@25@@@Three Dog Night@@@Sure As I'm Sittin' Here
+22@@@28@@@Grand Funk@@@Shinin' On
+23@@@34@@@Paul Anka with Odia Coates@@@(You're) Having My Baby
+24@@@30@@@Andy Kim@@@Rock Me Gently
+25@@@31@@@Helen Reddy@@@You And Me Against The World
+26@@@32@@@Donny & Marie Osmond@@@I'm Leaving It (All) Up To You
+27@@@16@@@Mac Davis@@@One Hell Of A Woman
+28@@@22@@@Commodores@@@Machine Gun
+29@@@36@@@Johnny Bristol@@@Hang On In There Baby
+30@@@38@@@Billy Crash Craddock@@@Rub It In
+31@@@17@@@The Impressions@@@Finally Got Myself Together (I'm A Changed Man)
+32@@@43@@@Fancy@@@Wild Thing
+33@@@24@@@Gene Redding@@@This Heart
+34@@@42@@@Eric Clapton@@@I Shot The Sheriff
+35@@@37@@@Jim Croce@@@Workin' At The Car Wash Blues
+36@@@26@@@Lamont Dozier@@@Fish Ain't Bitin'
+37@@@41@@@James Brown@@@My Thang
+38@@@51@@@Dionne Warwicke & Spinners@@@Then Came You
+39@@@50@@@Billy Preston@@@Nothing From Nothing
+40@@@44@@@Curtis Mayfield@@@Kung Fu
+41@@@56@@@Edgar Winter@@@River's Risin'
+42@@@27@@@Olivia Newton-John@@@If You Love Me (let Me Know)
+43@@@55@@@The Main Ingredient@@@Happiness Is Just Around The Bend
+44@@@29@@@Anne Murray@@@You Won't See Me
+45@@@35@@@Jimmy Buffett@@@Come Monday
+46@@@46@@@Joe Cocker@@@Put Out The Light
+47@@@61@@@The Guess Who@@@Clap For The Wolfman
+48@@@33@@@Kool & The Gang@@@Hollywood Swinging
+49@@@39@@@Bo Donaldson And The Heywoods@@@Billy, Don't Be A Hero
+50@@@48@@@William DeVaughn@@@Be Thankful For What You Got
+51@@@101@@@Barry White@@@Can't Get Enough Of Your Love, Babe
+52@@@66@@@Sly & The Family Stone@@@Time For Livin'
+53@@@64@@@Diana Ross & Marvin Gaye@@@Don't Knock My Love
+54@@@60@@@C.W. McCall@@@Old Home Filler-up An' Keep On-a-truckin' Cafe
+55@@@53@@@Maria Muldaur@@@Midnight At The Oasis
+56@@@47@@@War@@@Ballero
+57@@@77@@@The Stylistics@@@Let's Put It All Together
+58@@@54@@@Ohio Players@@@Jive Turkey (Part 1)
+59@@@49@@@Jackson 5@@@Dancing Machine
+60@@@40@@@Paul McCartney & Wings@@@Band On The Run
+61@@@59@@@Mickey Gilley@@@Room Full Of Roses
+62@@@72@@@Tower Of Power@@@Don't Change Horses (In The Middle Of A Stream)
+63@@@67@@@Gladys Knight And The Pips@@@Between Her Goodbye And My Hello
+64@@@70@@@Bobby Womack@@@You're Welcome, Stop On By
+65@@@74@@@First Class@@@Beach Baby
+66@@@45@@@Gordon Lightfoot@@@Sundown
+67@@@71@@@Earth, Wind & Fire@@@Kalimba Story
+68@@@52@@@The Stylistics@@@You Make Me Feel Brand New
+69@@@75@@@Lobo@@@Rings
+70@@@78@@@Donna Fargo@@@You Can't Be A Beacon (if Your Light Don't Shine)
+71@@@81@@@The Rubettes@@@Sugar Baby Love
+72@@@93@@@Lynyrd Skynyrd@@@Sweet Home Alabama
+73@@@62@@@The Spinners@@@I'm Coming Home
+74@@@79@@@Betty Wright@@@Secretary
+75@@@65@@@Eagles@@@Already Gone
+76@@@89@@@Bo Donaldson And The Heywoods@@@Who Do You Think You Are
+77@@@87@@@Joni Mitchell@@@Free Man In Paris
+78@@@63@@@Don Covay@@@It's Better To Have (and Don't Need)
+79@@@68@@@Ozark Mountain Daredevils@@@If You Wanna Get To Heaven
+80@@@58@@@Ray Stevens@@@The Streak
+81@@@85@@@Neil Young@@@Walk On
+82@@@88@@@Bloodstone@@@That's Not How It Goes
+83@@@73@@@Willie Henderson@@@Dance Master Pt. 1
+84@@@90@@@Ray Stevens@@@Moonlight Special
+85@@@95@@@The Doobie Brothers@@@Eyes Of Silver
+86@@@97@@@The Isley Brothers@@@Live It Up Part 1
+87@@@69@@@Cher@@@Train Of Thought
+88@@@94@@@Bob Seger@@@Get Out Of Denver
+89@@@96@@@Sami Jo@@@It Could Have Been Me
+90@@@86@@@Reuben Howell@@@Rings
+91@@@91@@@Lena Zavaroni@@@Ma! (He's Making Eyes At Me)
+92@@@84@@@ZZ Top@@@La Grange
+93@@@101@@@Stevie Wonder@@@You Haven't Done Nothin
+94@@@101@@@The Rolling Stones@@@It's Only Rock 'N Roll (But I Like It)
+95@@@101@@@The Wombles@@@Wombling Summer Party
+96@@@101@@@Charlie Rich@@@I Love My Friend
+97@@@101@@@Frank Sinatra@@@You Turned My World Around
+98@@@100@@@Dick Feller@@@Makin' The Best Of A Bad Situation
+99@@@101@@@Tanya Tucker@@@The Man That Turned My Mama On
+100@@@101@@@Cat Stevens@@@Another Saturday Night

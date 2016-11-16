@@ -1,0 +1,100 @@
+1@@@1@@@Adele@@@Hello
+2@@@2@@@Justin Bieber@@@Sorry
+3@@@3@@@Drake@@@Hotline Bling
+4@@@5@@@Justin Bieber@@@Love Yourself
+5@@@4@@@Justin Bieber@@@What Do You Mean?
+6@@@9@@@Selena Gomez@@@Same Old Love
+7@@@6@@@The Weeknd@@@The Hills
+8@@@8@@@Alessia Cara@@@Here
+9@@@7@@@Shawn Mendes@@@Stitches
+10@@@10@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+11@@@11@@@Fetty Wap Featuring Remy Boyz@@@679
+12@@@19@@@The Weeknd@@@In The Night
+13@@@14@@@Drake & Future@@@Jumpman
+14@@@13@@@Ellie Goulding@@@On My Mind
+15@@@15@@@The Weeknd@@@Can't Feel My Face
+16@@@16@@@Travi$ Scott@@@Antidote
+17@@@12@@@Elle King@@@Ex's & Oh's
+18@@@22@@@Mariah Carey@@@All I Want For Christmas Is You
+19@@@28@@@twenty one pilots@@@Stressed Out
+20@@@20@@@Bryson Tiller@@@Don't
+21@@@25@@@Thomas Rhett@@@Die A Happy Man
+22@@@23@@@Post Malone@@@White Iverson
+23@@@18@@@Taylor Swift@@@Wildest Dreams
+24@@@101@@@Jordan Smith@@@Mary Did You Know
+25@@@17@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+26@@@29@@@The Chainsmokers Featuring ROZES@@@Roses
+27@@@26@@@Silento@@@Watch Me
+28@@@30@@@Tory Lanez@@@Say It
+29@@@47@@@Cam@@@Burning House
+30@@@31@@@Demi Lovato@@@Confident
+31@@@27@@@Fetty Wap@@@Trap Queen
+32@@@32@@@One Direction@@@Perfect
+33@@@24@@@Ariana Grande@@@Focus
+34@@@34@@@Sam Hunt@@@Break Up In A Small Town
+35@@@35@@@Future Featuring Drake@@@Where Ya At
+36@@@37@@@J. Cole@@@No Role Modelz
+37@@@33@@@R. City Featuring Adam Levine@@@Locked Away
+38@@@44@@@Brenda Lee@@@Rockin' Around The Christmas Tree
+39@@@38@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+40@@@36@@@G-Eazy x Bebe Rexha@@@Me, Myself & I
+41@@@48@@@Daya@@@Hide Away
+42@@@41@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+43@@@40@@@Selena Gomez Featuring A$AP Rocky@@@Good For You
+44@@@39@@@Coldplay@@@Adventure Of A Lifetime
+45@@@42@@@Fetty Wap@@@Again
+46@@@52@@@Shawn Mendes & Camila Cabello@@@I Know What You Did Last Summer
+47@@@63@@@DNCE@@@Cake By The Ocean
+48@@@53@@@Bryson Tiller@@@Exchange
+49@@@43@@@OMI@@@Cheerleader
+50@@@46@@@One Direction@@@Drag Me Down
+51@@@55@@@Flo Rida@@@My House
+52@@@45@@@iLoveMemphis@@@Hit The Quan
+53@@@49@@@DeJ Loaf Featuring Big Sean@@@Back Up
+54@@@57@@@Missy Elliott Featuring Pharrell Williams@@@WTF (Where They From)
+55@@@78@@@Adele@@@When We Were Young
+56@@@101@@@Emily Ann Roberts@@@Burning House
+57@@@68@@@Yo Gotti Featuring Nicki Minaj@@@Down In The DM
+58@@@59@@@Brothers Osborne@@@Stay A Little Longer
+59@@@51@@@Justin Bieber@@@I'll Show You
+60@@@75@@@Charlie Puth@@@One Call Away
+61@@@67@@@Luke Bryan Featuring Karen Fairchild@@@Home Alone Tonight
+62@@@77@@@Selena Gomez@@@Hands To Myself
+63@@@54@@@Blake Shelton@@@Gonna
+64@@@101@@@Chris Brown@@@Back To Sleep
+65@@@62@@@Nelly Featuring Jeremih@@@The Fix
+66@@@65@@@Jason Aldean@@@Gonna Know We Were Here
+67@@@56@@@Gwen Stefani@@@Used To Love You
+68@@@60@@@DLOW@@@Bet You Can't Do It Like Me
+69@@@101@@@Cole Swindell@@@You Should Be Here
+70@@@64@@@Drake & Future@@@Big Rings
+71@@@71@@@Jana Kramer@@@I Got The Boy
+72@@@101@@@Jordan Smith@@@Climb Every Mountain
+73@@@74@@@LoCash@@@I Love This Life
+74@@@66@@@Drake@@@Back To Back
+75@@@58@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+76@@@73@@@Tim McGraw@@@Top Of The World
+77@@@61@@@Rachel Platten@@@Stand By You
+78@@@72@@@Young Thug@@@Best Friend
+79@@@84@@@Fall Out Boy@@@Irresistible
+80@@@82@@@Halsey@@@New Americana
+81@@@87@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+82@@@70@@@Justin Bieber Featuring Halsey@@@The Feeling
+83@@@81@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+84@@@79@@@Rae Sremmurd@@@Come Get Her
+85@@@69@@@Dan + Shay@@@Nothin' Like You
+86@@@101@@@Andy Grammer@@@Good To Be Alive (Hallelujah)
+87@@@86@@@Kelsea Ballerini@@@Dibs
+88@@@80@@@Luke Bryan@@@Strip It Down
+89@@@76@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+90@@@101@@@Jordan Smith & Adam Levine@@@God Only Knows
+91@@@93@@@Granger Smith@@@Backroad Song
+92@@@89@@@Dawin@@@Dessert
+93@@@92@@@Big Sean Featuring Chris Brown & Ty Dolla $ign@@@Play No Games
+94@@@88@@@Drake@@@Right Hand
+95@@@101@@@Bryson Tiller@@@Sorry Not Sorry
+96@@@100@@@Zac Brown Band@@@Beautiful Drug
+97@@@83@@@Carrie Underwood@@@Smoke Break
+98@@@101@@@Tori Kelly@@@Hollow
+99@@@21@@@Jordan Smith@@@Somebody To Love
+100@@@85@@@Justin Bieber@@@Purpose

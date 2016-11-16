@@ -1,0 +1,100 @@
+1@@@1@@@Michael Jackson@@@Billie Jean
+2@@@2@@@Culture Club@@@Do You Really Want To Hurt Me
+3@@@3@@@Duran Duran@@@Hungry Like The Wolf
+4@@@4@@@Lionel Richie@@@You Are
+5@@@5@@@Pretenders@@@Back On The Chain Gang
+6@@@6@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+7@@@7@@@Styx@@@Mr. Roboto
+8@@@8@@@Journey@@@Separate Ways (Worlds Apart)
+9@@@9@@@Daryl Hall & John Oates@@@One On One
+10@@@10@@@Golden Earring@@@Twilight Zone
+11@@@11@@@Dexys Midnight Runners@@@Come On Eileen
+12@@@14@@@Greg Kihn Band@@@Jeopardy
+13@@@13@@@Frida@@@I Know There's Something Going On
+14@@@15@@@Michael Jackson@@@Beat It
+15@@@16@@@After The Fire@@@Der Kommissar
+16@@@12@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+17@@@17@@@Earth, Wind & Fire@@@Fall In Love With Me
+18@@@18@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+19@@@19@@@Christopher Cross@@@All Right
+20@@@20@@@Pat Benatar@@@Little Too Late
+21@@@28@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+22@@@21@@@Stray Cats@@@Stray Cat Strut
+23@@@22@@@Joe Jackson@@@Breaking Us In Two
+24@@@27@@@Prince@@@Little Red Corvette
+25@@@25@@@ABC@@@Poison Arrow
+26@@@31@@@Thomas Dolby@@@She Blinded Me With Science
+27@@@34@@@Bob Seger & The Silver Bullet Band@@@Even Now
+28@@@35@@@Toto@@@I Won't Hold You Back
+29@@@29@@@Dan Fogelberg@@@Make Love Stay
+30@@@30@@@Thompson Twins@@@Lies
+31@@@23@@@Patti Austin With James Ingram@@@Baby, Come To Me
+32@@@24@@@Men At Work@@@Down Under
+33@@@48@@@Laura Branigan@@@Solitaire
+34@@@37@@@Debarge@@@I Like It
+35@@@26@@@Billy Joel@@@Allentown
+36@@@41@@@Oxo@@@Whirly Girl
+37@@@32@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+38@@@43@@@Stephen Bishop@@@It Might Be You
+39@@@39@@@Phil Collins@@@I Don't Care Anymore
+40@@@46@@@Kenny Loggins@@@Welcome To Heartlight
+41@@@44@@@Dionne Warwick@@@Take The Short Way Home
+42@@@45@@@Felony@@@The Fanatic
+43@@@54@@@David Bowie@@@Let's Dance
+44@@@49@@@Barry Manilow@@@Some Kind Of Friend
+45@@@33@@@Steel Breeze@@@Dreamin' Is Easy
+46@@@36@@@Supertramp Featuring Rick Davies@@@My Kind Of Lady
+47@@@52@@@Mac McAnally@@@Minimum Love
+48@@@56@@@Bryan Adams@@@Straight From The Heart
+49@@@53@@@Psychedelic Furs@@@Love My Way
+50@@@50@@@The Clash@@@Should I Stay Or Should I Go
+51@@@55@@@The Gap Band@@@Outstanding
+52@@@57@@@John Anderson@@@Swingin'
+53@@@63@@@Patrick Simmons@@@So Wrong
+54@@@65@@@Def Leppard@@@Photograph
+55@@@73@@@Jarreau@@@Mornin'
+56@@@61@@@Billy Joel@@@Goodnight Saigon
+57@@@40@@@Diana Ross@@@So Close
+58@@@101@@@Duran Duran@@@Rio
+59@@@71@@@Ronnie Milsap@@@Stranger In My House
+60@@@42@@@Melissa Manchester@@@Nice Girls
+61@@@64@@@Robert Hazard@@@Escalator Of Life
+62@@@62@@@Berlin@@@Sex (I'm A...)
+63@@@69@@@Naked Eyes@@@Always Something There To Remind Me
+64@@@68@@@The System@@@You Are In My System
+65@@@79@@@Sammy Hagar@@@Never Give Up
+66@@@66@@@Adam Ant@@@Desperate But Not Serious
+67@@@67@@@Yaz@@@Only You
+68@@@72@@@The Pointer Sisters@@@If You Wanna Get Back Your Lady
+69@@@75@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+70@@@70@@@Missing Persons@@@Walking In L.a.
+71@@@84@@@Wall Of Voodoo@@@Mexican Radio
+72@@@76@@@The Oak Ridge Boys@@@American Made
+73@@@78@@@Robbie Patton@@@Smiling Islands
+74@@@80@@@Patti Austin@@@Every Home Should Have One
+75@@@82@@@Lou Rawls@@@Wind Beneath My Wings
+76@@@77@@@Jeffrey Osborne@@@Eenie Meenie
+77@@@101@@@Irene Cara@@@Flashdance...What A Feeling
+78@@@90@@@INXS@@@The One Thing
+79@@@101@@@ZZ Top@@@Gimme All Your Lovin
+80@@@89@@@Tony Carey@@@I Won't Be Home Tonight
+81@@@58@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+82@@@59@@@Firefall@@@Always
+83@@@101@@@Champaign@@@Try Again
+84@@@38@@@Jefferson Starship@@@Winds Of Change
+85@@@101@@@Modern English@@@I Melt With You
+86@@@47@@@Ric Ocasek@@@Something To Grab For
+87@@@101@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+88@@@74@@@Heaven 17@@@Let Me Go
+89@@@101@@@Saga@@@Wind Him Up
+90@@@101@@@U2@@@New Year's Day
+91@@@81@@@Le Roux@@@Carrie's Gone
+92@@@51@@@Musical Youth@@@Pass The Dutchie
+93@@@85@@@Vandenberg@@@Burning Heart
+94@@@86@@@The Weather Girls@@@It's Raining Men
+95@@@87@@@Adam Ant@@@Goody Two Shoes
+96@@@88@@@Janet Jackson@@@Come Give Your Love To Me
+97@@@91@@@Donna Summer@@@The Woman In Me
+98@@@92@@@Neil Diamond@@@I'm Alive
+99@@@60@@@The J. Geils Band@@@Land Of A Thousand Dances
+100@@@83@@@Saga@@@On The Loose

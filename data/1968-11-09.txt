@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Hey Jude
+2@@@2@@@Mary Hopkin@@@Those Were The Days
+3@@@9@@@Diana Ross & The Supremes@@@Love Child
+4@@@3@@@O.C. Smith@@@Little Green Apples
+5@@@8@@@Johnny Nash@@@Hold Me Tight
+6@@@10@@@Cream@@@White Room
+7@@@12@@@Steppenwolf@@@Magic Carpet Ride
+8@@@6@@@The Turtles@@@Elenore
+9@@@4@@@The Crazy World Of Arthur Brown@@@Fire
+10@@@5@@@The Grass Roots@@@Midnight Confessions
+11@@@7@@@Gary Puckett And The Union Gap@@@Over You
+12@@@13@@@Big Brother & The Holding Company@@@Piece Of My Heart
+13@@@21@@@The 5th Dimension@@@Sweet Blindness
+14@@@11@@@Creedence Clearwater Revival@@@Suzie Q. (Part One)
+15@@@14@@@Jeannie C. Riley@@@Harper Valley P.T.A.
+16@@@15@@@The O'Kaysions@@@Girl Watcher
+17@@@18@@@Jerry Butler@@@Hey, Western Union Man
+18@@@35@@@Dion@@@Abraham, Martin And John
+19@@@19@@@The Beatles@@@Revolution
+20@@@20@@@James Brown@@@Say It Loud - I'm Black And I'm Proud (Part 1)
+21@@@29@@@Johnnie Taylor@@@Who's Making Love
+22@@@22@@@Max Frost And The Troopers@@@Shape Of Things To Come
+23@@@23@@@The Impressions@@@Fool For You
+24@@@34@@@Marvin Gaye & Tammi Terrell@@@Keep On Lovin' Me Honey
+25@@@26@@@The Unifics@@@Court Of Love
+26@@@27@@@Jose Feliciano@@@Hi-Heel Sneakers
+27@@@28@@@The Archies@@@Bang-Shang-A-Lang
+28@@@16@@@Bee Gees@@@I've Gotta Get A Message To You
+29@@@25@@@The Jimi Hendrix Experience@@@All Along The Watchtower
+30@@@24@@@The Chambers Brothers@@@Time Has Come Today
+31@@@17@@@The Vogues@@@My Special Angel
+32@@@32@@@Marvin Gaye@@@Chained
+33@@@33@@@Donovan@@@Lalena
+34@@@41@@@Kasenetz-Katz Singing Orchestral Circus@@@Quick Joey Small (Run Joey Run)
+35@@@79@@@Stevie Wonder@@@For Once In My Life
+36@@@36@@@Ohio Express@@@Chewy Chewy
+37@@@37@@@The Dells@@@Always Together
+38@@@38@@@Vanilla Fudge@@@Take Me For A Little While
+39@@@30@@@Iron Butterfly@@@In-A-Gadda-Da-Vida
+40@@@57@@@Leapy Lee@@@Little Arrows
+41@@@49@@@Otis Redding@@@I've Got Dreams To Remember
+42@@@50@@@Eddie Floyd@@@Bring It On Home To Me
+43@@@43@@@Frank Sinatra@@@Cycles
+44@@@44@@@Archie Bell & The Drells@@@Do The Choo Choo
+45@@@46@@@Engelbert Humperdinck@@@Les Bicyclettes De Belsize
+46@@@47@@@Bull & The Matadors@@@The Funky Judge
+47@@@64@@@Bobby Vinton@@@I Love How You Love Me
+48@@@66@@@Dionne Warwick@@@Promises, Promises
+49@@@31@@@Andy Kim@@@Shoot'em Up, Baby
+50@@@39@@@Glen Campbell@@@Gentle On My Mind
+51@@@51@@@Four Tops@@@I'm In A Different World
+52@@@52@@@Bobby Russell@@@1432 Franklin Pike Circle Hero
+53@@@53@@@Andy Williams with the St. Charles Borromeo Choir@@@Battle Hymn Of The Republic
+54@@@54@@@Bobby Goldsboro@@@The Straight Life
+55@@@55@@@Nancy Wilson@@@Peace Of Mind
+56@@@56@@@Peggy Scott & Jo Jo Benson@@@Pickin' Wild Mountain Berries
+57@@@67@@@Classics IV Featuring Dennis Yost@@@Stormy
+58@@@58@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Cinderella Sunshine
+59@@@59@@@Tommy James And The Shondells@@@Do Something To Me
+60@@@60@@@Derek@@@Cinnamon
+61@@@61@@@The Moody Blues@@@Ride My See-Saw
+62@@@62@@@The Monkees@@@Porpoise Song
+63@@@63@@@Fantastic Four@@@I Love You Madly
+64@@@65@@@Gene Chandler & Barbara Acklin@@@From The Teacher To The Preacher
+65@@@89@@@Jose Feliciano@@@The Star-Spangled Banner
+66@@@73@@@Eivets Rednow@@@Alfie
+67@@@75@@@Glen Campbell@@@Wichita Lineman
+68@@@72@@@1910 Fruitgum Co.@@@Goody Goody Gumdrops
+69@@@74@@@Magic Lanterns@@@Shame, Shame
+70@@@70@@@Bobby Womack@@@Fly Me To The Moon
+71@@@71@@@Shadows Of Knight@@@Shake
+72@@@76@@@Bill Medley@@@Peace Brother Peace
+73@@@101@@@Clarence Carter@@@Too Weak To Fight
+74@@@101@@@Judy Collins@@@Both Sides Now
+75@@@101@@@James Brown@@@Goodbye My Love
+76@@@101@@@The Intruders@@@Slow Drag
+77@@@78@@@Ben Colder@@@Harper Valley P.T.A. (Later That Same Day)
+78@@@80@@@Jackie Wilson@@@For Once In My Life
+79@@@93@@@Dean Martin@@@Not Enough Indians
+80@@@81@@@Sam & Dave@@@Everybody Got To Believe In Somebody
+81@@@97@@@Richard Harris@@@The Yard Went On Forever
+82@@@84@@@Bobbie Gentry & Glen Campbell@@@Mornin' Glory
+83@@@83@@@Nina Simone@@@Do What You Gotta Do
+84@@@87@@@Five By Five@@@Fire
+85@@@85@@@The Mauds@@@Soul Drippin'
+86@@@86@@@Martha Reeves & The Vandellas@@@Sweet Darlin'
+87@@@101@@@Deep Purple@@@Kentucky Woman
+88@@@90@@@Marty Robbins@@@I Walk Alone
+89@@@96@@@Gloria Walker@@@Talking About My Baby
+90@@@95@@@Mama Cass@@@California Earthquake
+91@@@91@@@Jefferson Airplane@@@Crown Of Creation
+92@@@92@@@Gene Pitney@@@Billy You're My Friend
+93@@@94@@@Arthur Conley@@@Aunt Dora's Love Soul Shack
+94@@@101@@@Booker T. & The MG's@@@Hang 'Em High
+95@@@101@@@Neil Diamond@@@Sunday Sun
+96@@@101@@@Creedence Clearwater Revival@@@I Put A Spell On You
+97@@@101@@@Peaches & Herb@@@Let's Make A Promise
+98@@@101@@@Tammy Wynette@@@Stand By Your Man
+99@@@100@@@The Fireballs@@@Come On, React!
+100@@@101@@@The Hesitations@@@A Whiter Shade Of Pale

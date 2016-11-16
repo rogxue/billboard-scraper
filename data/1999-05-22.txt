@@ -1,0 +1,100 @@
+1@@@1@@@Ricky Martin@@@Livin' La Vida Loca
+2@@@2@@@TLC@@@No Scrubs
+3@@@3@@@Sixpence None The Richer@@@Kiss Me
+4@@@4@@@Sugar Ray@@@Every Morning
+5@@@8@@@JT Money Featuring Sole@@@Who Dat
+6@@@9@@@Maxwell@@@Fortunate
+7@@@5@@@Cher@@@Believe
+8@@@7@@@Whitney Houston Feat. Faith Evans@@@Heartbreak Hotel
+9@@@15@@@702@@@Where My Girls At?
+10@@@6@@@Busta Rhymes Featuring Janet@@@What's It Gonna Be?!
+11@@@10@@@Jordan Knight@@@Give It To You
+12@@@12@@@Goo Goo Dolls@@@Slide
+13@@@11@@@Tim McGraw@@@Please Remember Me
+14@@@22@@@Blaque@@@808
+15@@@21@@@Shania Twain@@@That Don't Impress Me Much
+16@@@13@@@Everlast@@@What It's Like
+17@@@19@@@112 Featuring Lil z@@@Anywhere
+18@@@23@@@Backstreet Boys@@@I Want It That Way
+19@@@16@@@Tyrese@@@Sweet Lady
+20@@@85@@@Chante Moore@@@Chante's Got A Man
+21@@@14@@@Lenny Kravitz@@@Fly Away
+22@@@20@@@98 Degrees@@@The Hardest Thing
+23@@@17@@@Silk@@@If You (Lovin' Me)
+24@@@18@@@Monica@@@Angel Of Mine
+25@@@31@@@Brandy@@@Almost Doesn't Count
+26@@@29@@@matchbox 20@@@Back 2 Good
+27@@@25@@@Sarah McLachlan@@@Angel
+28@@@33@@@Andy Griggs@@@You Won't Ever Be Lonely
+29@@@24@@@Britney Spears@@@...Baby One More Time
+30@@@30@@@Vengaboys@@@We Like To Party!
+31@@@26@@@Lauryn Hill@@@Ex-Factor
+32@@@101@@@Will Smith Featuring Dru Hill@@@Wild Wild West
+33@@@35@@@Eagle-Eye Cherry@@@Save Tonight
+34@@@27@@@Backstreet Boys@@@All I Have To Give
+35@@@45@@@George Strait@@@Write This Down
+36@@@37@@@Fatboy Slim@@@Praise You
+37@@@36@@@Jesse Powell@@@You
+38@@@41@@@Steve Wariner@@@Two Teardrops
+39@@@38@@@Jay-Z Featuring Amil (Of Major Coinz)@@@Can I Get A...
+40@@@40@@@Collin Raye@@@Anyone Else
+41@@@47@@@Dave Hollister@@@My Favorite Girl
+42@@@34@@@Mark Wills@@@Wish You Were Here
+43@@@28@@@Mariah Carey@@@I Still Believe
+44@@@48@@@Shania Twain@@@Man! I Feel Like A Woman!
+45@@@42@@@Total@@@Sitting Home
+46@@@39@@@Kenny Chesney@@@How Forever Feels
+47@@@49@@@Ty Herndon@@@Hands Of A Working Man
+48@@@44@@@Mya@@@My First Night With You
+49@@@51@@@Sheryl Crow@@@Anything But Down
+50@@@71@@@Whitney Houston@@@It's Not Right But It's Okay
+51@@@46@@@Alan Jackson@@@Gone Crazy
+52@@@56@@@Garbage@@@Special
+53@@@50@@@Silkk The Shocker Featuring Mystikal@@@It Ain't My Fault 1 
+54@@@63@@@Lila McCann@@@With You
+55@@@52@@@Ginuwine@@@What's So Different
+56@@@32@@@B*Witched@@@C'est La Vie
+57@@@57@@@Trina@@@What'd You Come Here For?
+58@@@43@@@Faith Evans Featuring Puff Daddy@@@All Night Long
+59@@@62@@@Orgy@@@Blue Monday
+60@@@73@@@Ja Rule@@@Holla Holla
+61@@@54@@@Lee Ann Womack@@@I'll Think Of A Reason Later
+62@@@64@@@Montgomery Gentry@@@Hillbilly Shoes
+63@@@75@@@Martina McBride@@@Whatever You Say
+64@@@81@@@Jennifer Lopez@@@If You Had My Love
+65@@@80@@@Sporty Thievz Featuring Mr. Woods@@@No Pigeons
+66@@@60@@@K-Ci@@@Life
+67@@@59@@@Jewel@@@Down So Long
+68@@@68@@@Lit@@@My Own Worst Enemy
+69@@@67@@@'N Sync@@@I Drive Myself Crazy
+70@@@53@@@Sawyer Brown@@@Drive Me Wild
+71@@@65@@@NAS Featuring Puff Daddy@@@Hate Me Now
+72@@@58@@@Shanice@@@When I Close My Eyes
+73@@@76@@@Trick Daddy Featuring Trina@@@Nann
+74@@@70@@@Creed@@@One
+75@@@101@@@Smash Mouth@@@All Star
+76@@@83@@@Dixie Chicks@@@Tonight The Heartache's On Me
+77@@@55@@@Joey McIntyre@@@Stay The Same
+78@@@74@@@The Offspring@@@Why Don't You Get A Job?
+79@@@101@@@Deborah Cox@@@It's Over Now
+80@@@61@@@Divine@@@One More Try
+81@@@101@@@Britney Spears@@@Sometimes
+82@@@72@@@Eric Benet Featuring Faith Evans@@@Georgy Porgy
+83@@@66@@@Chad Brock@@@Ordinary Life
+84@@@84@@@Jay-Z Featuring Big Jaz@@@Jigga What...
+85@@@78@@@Dixie Chicks@@@You Were Mine
+86@@@79@@@Collective Soul@@@Heavy
+87@@@101@@@Sarah McLachlan@@@I Will Remember You (Live)
+88@@@88@@@Dave Matthews Band@@@Crush
+89@@@77@@@Raphael Saadiq@@@Get Involved
+90@@@90@@@Missy "Misdemeanor" Elliott@@@She's A Bitch
+91@@@101@@@Cher@@@Strong Enough
+92@@@101@@@Randy Travis@@@Stranger In My Mirror
+93@@@69@@@Terri Clark@@@Everytime I Cry
+94@@@96@@@Joe Diffie@@@A Night To Remember
+95@@@95@@@SheDaisy@@@Little Good-Byes
+96@@@86@@@Sammy Kershaw@@@Maybe Not Tonight
+97@@@97@@@Chely Wright@@@Single White Female
+98@@@98@@@T.W.D.Y. Featuring Too Short@@@Players Holiday
+99@@@99@@@Mulberry Lane@@@Harmless
+100@@@82@@@BLACKstreet With Janet@@@Girlfriend/Boyfriend

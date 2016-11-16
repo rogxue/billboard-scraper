@@ -1,0 +1,100 @@
+1@@@2@@@Mike@@@The Living Years
+2@@@6@@@Bangles@@@Eternal Flame
+3@@@4@@@Milli Vanilli@@@Girl You Know It's True
+4@@@8@@@Roxette@@@The Look
+5@@@7@@@Rod Stewart@@@My Heart Can't Tell You No
+6@@@1@@@Debbie Gibson@@@Lost In Your Eyes
+7@@@14@@@Fine Young Cannibals@@@She Drives Me Crazy
+8@@@12@@@Was (Not Was)@@@Walk The Dinosaur
+9@@@3@@@Bobby Brown@@@Roni
+10@@@11@@@Chicago@@@You're Not Alone
+11@@@5@@@Guns N' Roses@@@Paradise City
+12@@@13@@@Vanessa Williams@@@Dreamin'
+13@@@10@@@Breathe@@@Don't Tell Me Lies
+14@@@19@@@R.E.M.@@@Stand
+15@@@16@@@Anita Baker@@@Just Because
+16@@@20@@@Roy Orbison@@@You Got It
+17@@@22@@@Karyn White@@@Superwoman
+18@@@9@@@New Kids On The Block@@@You Got It (The Right Stuff)
+19@@@15@@@Kon Kan@@@I Beg Your Pardon
+20@@@25@@@Poison@@@Your Mama Don't Dance
+21@@@23@@@Martika@@@More Than You Know
+22@@@26@@@Vixen@@@Cryin 
+23@@@17@@@Paula Abdul@@@Straight Up
+24@@@29@@@Deon Estus@@@Heaven Help Me
+25@@@38@@@Madonna@@@Like A Prayer
+26@@@31@@@Tone-Loc@@@Funky Cold Medina
+27@@@34@@@Bon Jovi@@@I'll Be There For You
+28@@@32@@@Thirty Eight Special@@@Second Chance
+29@@@18@@@Ann Wilson@@@Surrender To Me (From "Tequila Sunrise")
+30@@@33@@@Animotion@@@Room To Move
+31@@@36@@@Def Leppard@@@Rocket
+32@@@37@@@SaFire@@@Thinking Of You
+33@@@41@@@Sweet Sensation (With Romeo J.D.)@@@Sincerely Yours
+34@@@21@@@Sheena Easton@@@The Lover In Me
+35@@@30@@@Luther Vandross@@@She Won't Talk To Me
+36@@@39@@@Enya@@@Orinoco Flow (Sail Away)
+37@@@24@@@Eddie Money@@@The Love In Your Eyes
+38@@@27@@@Tone-Loc@@@Wild Thing
+39@@@35@@@Van Halen@@@Feels So Good
+40@@@46@@@Metallica@@@One
+41@@@52@@@Tiffany@@@Radio Romance
+42@@@45@@@Dino@@@24/7
+43@@@50@@@Cher@@@After All (Love Theme From "Chances Are")
+44@@@48@@@Stevie B@@@I Wanna Be The One
+45@@@55@@@Paula Abdul@@@Forever Your Girl
+46@@@59@@@The Belle Stars@@@Iko Iko (From "Rain Man")
+47@@@53@@@Johnny Kemp@@@Birthday Suit (From "Sing")
+48@@@56@@@Winger@@@Seventeen
+49@@@60@@@Living Colour@@@Cult Of Personality
+50@@@42@@@Sheriff@@@When I'm With You
+51@@@73@@@Jody Watley@@@Real Love
+52@@@57@@@Tommy Page@@@A Shoulder To Cry On
+53@@@28@@@Edie Brickell@@@What I Am
+54@@@49@@@Boy Meets Girl@@@Bring Down The Moon
+55@@@62@@@The Fixx@@@Driven Out
+56@@@64@@@The Pasadenas@@@Tribute (Right On)
+57@@@61@@@Simply Red@@@It's Only Love
+58@@@77@@@Howard Jones@@@Everlasting Love
+59@@@66@@@Jimmy Harnen With Synch@@@Where Are You Now?
+60@@@71@@@Carly Simon@@@Let The River Run (Theme From "Working Girl")
+61@@@43@@@Rick Astley@@@She Wants To Dance With Me
+62@@@47@@@The Boys@@@Dial My Heart
+63@@@72@@@Bette Midler@@@Wind Beneath My Wings (From "Beaches")
+64@@@51@@@New Edition@@@Can You Stand The Rain
+65@@@67@@@Lita Ford (Duet With Ozzy Osbourne)@@@Close My Eyes Forever
+66@@@44@@@Bon Jovi@@@Born To Be My Baby
+67@@@54@@@Samantha Fox@@@I Wanna Have Some Fun
+68@@@40@@@Erasure@@@A Little Respect
+69@@@89@@@Michael Damian@@@Rock On (From "Dream A Little Dream")
+70@@@87@@@Steve Winwood@@@Hearts On Fire
+71@@@58@@@Kenny G@@@We've Saved The Best For Last
+72@@@81@@@Robbie Nevil@@@Somebody Like You
+73@@@101@@@Donny Osmond@@@Soldier Of Love
+74@@@86@@@Samantha Fox@@@I Only Wanna Be With You
+75@@@65@@@White Lion@@@When The Children Cry
+76@@@74@@@Inner City@@@Good Life
+77@@@63@@@Information Society@@@Walking Away
+78@@@79@@@Traveling Wilburys@@@End Of The Line
+79@@@83@@@Gina Go-Go@@@I Can't Face The Fact
+80@@@76@@@Will To Power@@@Fading Away
+81@@@69@@@Karyn White@@@The Way You Love Me
+82@@@70@@@Tiffany@@@All This Time
+83@@@75@@@Love And Money@@@Halleluiah Man
+84@@@101@@@Bobby Brown@@@Every Little Step
+85@@@85@@@Choirboys@@@Run To Paradise
+86@@@91@@@Duran Duran@@@Do You Believe In Shame?
+87@@@80@@@Bobby Brown@@@My Prerogative
+88@@@101@@@One 2 Many@@@Downtown
+89@@@101@@@Chris Rea@@@Working On It
+90@@@92@@@Glenn Frey@@@Livin' Right
+91@@@68@@@Cinderella@@@The Last Mile
+92@@@101@@@Peter Schilling@@@The Different Story (World Of Lust And Crime)
+93@@@84@@@Cheap Trick@@@Never Had A Lot To Lose
+94@@@93@@@Kenny Loggins@@@Tell Her
+95@@@101@@@The Escape Club@@@Walking Through Walls
+96@@@95@@@Midge Ure@@@Dear God
+97@@@101@@@The Outfield@@@Voices Of Babylon
+98@@@78@@@Kiara (Duet With Shanice Wilson)@@@This Time
+99@@@88@@@Crosby, Stills, Nash@@@Got It Made
+100@@@82@@@U2@@@Angel Of Harlem

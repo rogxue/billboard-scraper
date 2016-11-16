@@ -1,0 +1,100 @@
+1@@@1@@@Michael Jackson@@@Beat It
+2@@@3@@@Greg Kihn Band@@@Jeopardy
+3@@@6@@@David Bowie@@@Let's Dance
+4@@@2@@@Dexys Midnight Runners@@@Come On Eileen
+5@@@5@@@After The Fire@@@Der Kommissar
+6@@@9@@@Men At Work@@@Overkill
+7@@@8@@@Thomas Dolby@@@She Blinded Me With Science
+8@@@4@@@Styx@@@Mr. Roboto
+9@@@10@@@Prince@@@Little Red Corvette
+10@@@11@@@Toto@@@I Won't Hold You Back
+11@@@14@@@Laura Branigan@@@Solitaire
+12@@@13@@@Bob Seger & The Silver Bullet Band@@@Even Now
+13@@@23@@@Irene Cara@@@Flashdance...What A Feeling
+14@@@7@@@Michael Jackson@@@Billie Jean
+15@@@19@@@Def Leppard@@@Photograph
+16@@@17@@@Duran Duran@@@Rio
+17@@@22@@@Lionel Richie@@@My Love
+18@@@21@@@Bryan Adams@@@Straight From The Heart
+19@@@30@@@Culture Club@@@Time (Clock Of The Heart)
+20@@@29@@@Rick Springfield@@@Affair Of The Heart
+21@@@12@@@Journey@@@Separate Ways (Worlds Apart)
+22@@@28@@@Jarreau@@@Mornin'
+23@@@31@@@Journey@@@Faithfully
+24@@@24@@@Kenny Loggins@@@Welcome To Heartlight
+25@@@27@@@Stephen Bishop@@@It Might Be You
+26@@@26@@@Barry Manilow@@@Some Kind Of Friend
+27@@@35@@@Styx@@@Don't Let It End
+28@@@33@@@Naked Eyes@@@Always Something There To Remind Me
+29@@@34@@@Ronnie Milsap@@@Stranger In My House
+30@@@32@@@Patrick Simmons@@@So Wrong
+31@@@15@@@Daryl Hall & John Oates@@@One On One
+32@@@43@@@Daryl Hall & John Oates@@@Family Man
+33@@@16@@@Duran Duran@@@Hungry Like The Wolf
+34@@@18@@@Culture Club@@@Do You Really Want To Hurt Me
+35@@@42@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+36@@@25@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+37@@@49@@@The Tubes@@@She's A Beauty
+38@@@20@@@Lionel Richie@@@You Are
+39@@@36@@@Oxo@@@Whirly Girl
+40@@@45@@@ZZ Top@@@Gimme All Your Lovin
+41@@@38@@@Frida@@@I Know There's Something Going On
+42@@@48@@@Champaign@@@Try Again
+43@@@39@@@Golden Earring@@@Twilight Zone
+44@@@40@@@Debarge@@@I Like It
+45@@@37@@@Pretenders@@@Back On The Chain Gang
+46@@@53@@@INXS@@@The One Thing
+47@@@41@@@Mac McAnally@@@Minimum Love
+48@@@60@@@Sergio Mendes@@@Never Gonna Let You Go
+49@@@47@@@John Anderson@@@Swingin'
+50@@@70@@@Kajagoogoo@@@Too Shy
+51@@@59@@@Pat Benatar@@@Looking For A Stranger
+52@@@55@@@Walter Egan@@@Fool Moon Fire
+53@@@56@@@Robbie Patton@@@Smiling Islands
+54@@@57@@@Night Ranger@@@Sing Me Away
+55@@@46@@@Sammy Hagar@@@Never Give Up
+56@@@101@@@Elton John@@@I'm Still Standing
+57@@@62@@@U2@@@New Year's Day
+58@@@63@@@Eddie Rabbitt@@@You Can't Run From Love
+59@@@101@@@Christopher Cross@@@No Time For Talk
+60@@@72@@@Eddy Grant@@@Electric Avenue
+61@@@73@@@Debarge@@@All This Love
+62@@@64@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+63@@@67@@@Sparks & Jane Wiedlin@@@Cool Places
+64@@@65@@@Saga@@@Wind Him Up
+65@@@68@@@Linda Ronstadt@@@Easy For You To Say
+66@@@66@@@Total Coelo@@@I Eat Cannibals
+67@@@76@@@Kenny Rogers@@@All My Life
+68@@@69@@@Planet P@@@Why Me?
+69@@@78@@@Chris DeBurgh@@@Don't Pay The Ferryman
+70@@@77@@@Jim Capaldi@@@That's Love
+71@@@74@@@Neil Diamond@@@Front Page Story
+72@@@85@@@Thompson Twins@@@Love On Your Side
+73@@@44@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+74@@@101@@@Little River Band@@@We Two
+75@@@54@@@Dionne Warwick@@@Take The Short Way Home
+76@@@101@@@Madness@@@Our House
+77@@@79@@@Bow Wow Wow@@@Do You Wanna Hold Me?
+78@@@101@@@Todd Rundgren@@@Bang The Drum All Day
+79@@@81@@@Golden Earring@@@The Devil Made Me Do It
+80@@@71@@@Ultravox@@@Reap The Wild Wind
+81@@@101@@@The Belle Stars@@@Sign Of The Times
+82@@@58@@@Wall Of Voodoo@@@Mexican Radio
+83@@@90@@@"Weird Al" Yankovic@@@Ricky
+84@@@87@@@The Whispers@@@Tonight
+85@@@89@@@Gary Portnoy@@@Where Everybody Knows Your Name (The Theme From Cheers)
+86@@@61@@@Dan Fogelberg@@@Make Love Stay
+87@@@101@@@The Call@@@The Walls Came Down
+88@@@101@@@New Edition@@@Candy Girl
+89@@@101@@@Alabama@@@The Closer You Get
+90@@@101@@@The Kinks@@@Come Dancing
+91@@@51@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+92@@@50@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+93@@@95@@@Modern English@@@I Melt With You
+94@@@52@@@Psychedelic Furs@@@Love My Way
+95@@@75@@@ABC@@@Poison Arrow
+96@@@80@@@Christopher Cross@@@All Right
+97@@@86@@@Tony Carey@@@I Won't Be Home Tonight
+98@@@82@@@Thompson Twins@@@Lies
+99@@@84@@@Earth, Wind & Fire@@@Fall In Love With Me
+100@@@83@@@Pat Benatar@@@Little Too Late

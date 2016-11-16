@@ -1,0 +1,100 @@
+1@@@3@@@The Monkees@@@I'm A Believer
+2@@@7@@@The Royal Guardsmen@@@Snoopy Vs. The Red Baron
+3@@@1@@@The New Vaudeville Band@@@Winchester Cathedral
+4@@@4@@@Frank Sinatra@@@That's Life
+5@@@6@@@Nancy Sinatra@@@Sugar Town
+6@@@2@@@Donovan@@@Mellow Yellow
+7@@@14@@@Aaron Neville@@@Tell It Like It Is
+8@@@10@@@The Temptations@@@(I Know) I'm Losing You
+9@@@9@@@Stevie Wonder@@@A Place In The Sun
+10@@@27@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Good Thing
+11@@@5@@@Mitch Ryder And The Detroit Wheels@@@Devil With A Blue Dress On & Good Golly Miss Molly
+12@@@17@@@Sandy Posey@@@Single Girl
+13@@@8@@@The Beach Boys@@@Good Vibrations
+14@@@11@@@The Supremes@@@You Keep Me Hangin' On
+15@@@38@@@Four Tops@@@Standing In The Shadows Of Love
+16@@@21@@@The Music Machine@@@Talk Talk
+17@@@20@@@Bobby Vinton@@@Coming Home Soldier
+18@@@18@@@Ronnie Dove@@@Cry
+19@@@24@@@The Mamas & The Papas@@@Words Of Love
+20@@@12@@@Roger Williams@@@Born Free
+21@@@13@@@Jackie Wilson@@@Whispers (Gettin' Louder)
+22@@@22@@@? (Question Mark) & The Mysterians@@@I Need Somebody
+23@@@31@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Tell It To The Rain
+24@@@19@@@Herb Alpert & The Tijuana Brass@@@Mame
+25@@@15@@@Peter And Gordon@@@Lady Godiva
+26@@@23@@@Wilson Pickett@@@Mustang Sally
+27@@@29@@@Herman's Hermits@@@East West
+28@@@33@@@Jimmy Ruffin@@@I've Passed This Way Before
+29@@@41@@@Eric Burdon & The Animals@@@Help Me Girl
+30@@@40@@@The Yardbirds@@@Happenings Ten Years Time Ago
+31@@@16@@@Neil Diamond@@@I Got The Feelin' (Oh No No)
+32@@@48@@@The Monkees@@@(I'm Not Your) Steppin' Stone
+33@@@45@@@The Lovin' Spoonful@@@Nashville Cats
+34@@@30@@@The Miracles@@@(Come 'Round Here) I'm The One You Need
+35@@@35@@@The Association@@@Pandora's Golden Heebie Jeebies
+36@@@46@@@Otis Redding@@@Try A Little Tenderness
+37@@@50@@@The Seekers@@@Georgy Girl
+38@@@69@@@Petula Clark@@@Color My World
+39@@@32@@@Tommy James And The Shondells@@@It's Only Love
+40@@@37@@@Percy Sledge@@@It Tears Me Up
+41@@@60@@@Blues Magoos@@@(We Ain't Got) Nothin' Yet
+42@@@55@@@The Innocence@@@There's Got To Be A Word!
+43@@@65@@@Senator Everett McKinley Dirksen@@@Gallant Men
+44@@@54@@@Bobby Goldsboro@@@Blue Autumn
+45@@@25@@@Martha & The Vandellas@@@I'm Ready For Love
+46@@@28@@@Simon & Garfunkel@@@A Hazy Shade Of Winter
+47@@@57@@@Keith@@@98.6
+48@@@51@@@Terry Knight and The Pack@@@I (Who Have Nothing)
+49@@@49@@@Gene Chandler@@@I Fooled You This Time
+50@@@26@@@The Hollies@@@Stop Stop Stop
+51@@@61@@@Gary Lewis And The Playboys@@@Where Will The Words Come From
+52@@@53@@@Dr. West's Medicine Show and Junk Band@@@The Eggplant That Ate Chicago
+53@@@34@@@Eddie Floyd@@@Knock On Wood
+54@@@68@@@The Electric Prunes@@@I Had Too Much To Dream (Last Night)
+55@@@58@@@The Critters@@@Bad Misunderstanding
+56@@@56@@@The Happenings@@@Goodnight My Love
+57@@@52@@@Baja Marimba Band@@@Ghost Riders In The Sky
+58@@@82@@@Spyder Turner@@@Stand By Me
+59@@@70@@@Joe Tex@@@Papa Was Too
+60@@@62@@@Lou Rawls@@@You Can Bring Me All Your Heartaches
+61@@@78@@@Sam The Sham and the Pharaohs@@@How Do You Catch A Girl
+62@@@64@@@The Drifters@@@Baby What I Mean
+63@@@63@@@The Emperor's@@@Karate
+64@@@79@@@Pozo Seco Singers@@@Look What You've Done
+65@@@43@@@The Outsiders@@@Help Me Girl
+66@@@66@@@Bobby Darin@@@The Girl That Stood Beside Me
+67@@@71@@@Dean Martin@@@(Open Up The Door) Let The Good Times In
+68@@@81@@@The Young Holt Trio@@@Wack Wack
+69@@@73@@@Baby Ray@@@There's Something On Your Mind
+70@@@85@@@The Youngbloods@@@Grizzly Bear
+71@@@86@@@Peter And Gordon@@@Knight In Rusty Armour
+72@@@72@@@Roy Orbison@@@Communication Breakdown
+73@@@75@@@Dionne Warwick@@@Another Night
+74@@@76@@@Tom Jones@@@Green, Green Grass Of Home
+75@@@88@@@Gene Pitney@@@Just One Smile
+76@@@74@@@Alvin Cash & The Registers@@@Alvin's Boo-Ga-Loo
+77@@@77@@@The Mamas & The Papas@@@Dancing In The Street
+78@@@80@@@Ramsey Lewis@@@Day Tripper
+79@@@84@@@Damita Jo@@@If You Go Away
+80@@@83@@@The Artistics@@@I'm Gonna Miss You
+81@@@96@@@The Gunter Kallmann Chorus@@@Wish Me A Rainbow
+82@@@59@@@The Cyrkle@@@Please Don't Ever Leave Me
+83@@@89@@@Sergio Mendes & Brasil '66@@@Constant Rain (Chove Chuva)
+84@@@87@@@Tommy Roe@@@It's Now Winters Day
+85@@@95@@@The Seeds@@@Pushin' Too Hard
+86@@@101@@@Bob Crewe Generation@@@Music To Watch Girls By
+87@@@92@@@Howard Tate@@@Look At Granny Run, Run
+88@@@93@@@Freddy Scott@@@Are You Lonely For Me
+89@@@101@@@J.J. Jackson@@@I Dig Girls
+90@@@101@@@The Buckinghams@@@Kind Of A Drag
+91@@@100@@@The Sopwith Camel@@@Hello Hello
+92@@@101@@@Peaches & Herb@@@Let's Fall In Love
+93@@@101@@@Patti LaBelle And The Blue Belles@@@Take Me For A Little While
+94@@@94@@@Boots Randolph@@@The Shadow Of Your Smile
+95@@@101@@@Jimmy Castor@@@Hey, Leroy, Your Mama's Callin' You
+96@@@101@@@Bobby Hebb@@@Love Me
+97@@@101@@@Sam & Dave@@@You Got Me Hummin'
+98@@@101@@@Don Ho and the Aliis@@@Tiny Bubbles
+99@@@101@@@The Hardtimes@@@Fortune Teller
+100@@@101@@@The Spencer Davis Group@@@Gimme Some Lovin'

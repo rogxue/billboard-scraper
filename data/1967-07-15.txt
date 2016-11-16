@@ -1,0 +1,100 @@
+1@@@1@@@The Association@@@Windy
+2@@@2@@@The Music Explosion@@@Little Bit O' Soul
+3@@@3@@@Frankie Valli@@@Can't Take My Eyes Off You
+4@@@4@@@Scott McKenzie@@@San Francisco (Be Sure To Wear Flowers In Your Hair)
+5@@@5@@@Petula Clark@@@Don't Sleep In The Subway
+6@@@6@@@Every Mothers' Son@@@Come On Down To My Boat
+7@@@7@@@The 5th Dimension@@@Up -- Up And Away
+8@@@12@@@The Doors@@@Light My Fire
+9@@@16@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@C'mon Marianne
+10@@@13@@@Procol Harum@@@A Whiter Shade Of Pale
+11@@@19@@@Stevie Wonder@@@I Was Made To Love Her
+12@@@22@@@Jefferson Airplane@@@White Rabbit
+13@@@10@@@Johnny Rivers@@@The Tracks Of My Tears
+14@@@17@@@Janis Ian@@@Society's Child (Baby I've Been Thinking)
+15@@@20@@@Ray Charles@@@Here We Go Again
+16@@@8@@@The Grass Roots@@@Let's Live For Today
+17@@@29@@@The Buckinghams@@@Mercy, Mercy, Mercy
+18@@@15@@@Dionne Warwick@@@Alfie
+19@@@21@@@Marvin Gaye & Tammi Terrell@@@Ain't No Mountain High Enough
+20@@@25@@@Sandy Posey@@@I Take It Back
+21@@@33@@@Nancy Sinatra & Lee Hazlewood@@@Jackson
+22@@@24@@@Bar-Kays@@@Soul Finger
+23@@@37@@@Herman's Hermits@@@Don't Go Out Into The Rain (You're Going To Melt)
+24@@@36@@@The American Breed@@@Step Out Of Your Mind
+25@@@30@@@Smokey Robinson & The Miracles@@@More Love
+26@@@26@@@Bettye Swann@@@Make Me Yours
+27@@@32@@@Peaches & Herb@@@For Your Love
+28@@@34@@@The Hollies@@@Carrie-Anne
+29@@@18@@@The Fifth Estate@@@Ding Dong! The Witch Is Dead
+30@@@45@@@Engelbert Humperdinck@@@There Goes My Everything
+31@@@31@@@Arthur Conley@@@Shake, Rattle & Roll
+32@@@47@@@The Tremeloes@@@Silence Is Golden
+33@@@11@@@The Turtles@@@She'd Rather Be With Me
+34@@@23@@@Oscar Toney, Jr.@@@For Your Precious Love
+35@@@50@@@Tommy James And The Shondells@@@I Like The Way
+36@@@14@@@Aretha Franklin@@@Respect
+37@@@38@@@Sammy Davis Jr.@@@Don't Blame The Children
+38@@@9@@@The Young Rascals@@@Groovin'
+39@@@27@@@Al Martino@@@Mary In The Morning
+40@@@40@@@The Everly Brothers@@@Bowling Green
+41@@@43@@@Percy Sledge@@@Love Me Tender
+42@@@60@@@Dean Martin@@@In The Chapel In The Moonlight
+43@@@28@@@The Hollies@@@Pay You Back With Interest
+44@@@35@@@The Dave Clark Five@@@You Must Have Been A Beautiful Baby
+45@@@51@@@Linda Jones@@@Hypnotized
+46@@@48@@@The Royal Guardsmen@@@Airplane Song (My Airplane)
+47@@@61@@@Bunny Sigler@@@Let The Good Times Roll & Feel So Good
+48@@@58@@@Lou Rawls@@@Show Business
+49@@@62@@@Marvin Gaye@@@Your Unchanging Love
+50@@@63@@@Solomon Burke@@@Take Me (Just As I Am)
+51@@@52@@@Frankie Laine@@@You Wanted Someone To Play With (I Wanted Someone To Love)
+52@@@101@@@The Happenings@@@My Mammy
+53@@@76@@@Herb Alpert & The Tijuana Brass@@@The Happening
+54@@@64@@@The Spencer Davis Group@@@Somebody Help Me
+55@@@56@@@Nancy Sinatra@@@You Only Live Twice
+56@@@57@@@Sam & Dave@@@Soothe Me
+57@@@67@@@Crispian St. Peters@@@You Were On My Mind
+58@@@81@@@Mitch Ryder@@@Joy
+59@@@55@@@Wilson Pickett@@@Soul Dance Number Three
+60@@@72@@@The Parliaments@@@(I Wanna) Testify
+61@@@101@@@The Young Rascals@@@A Girl Like You
+62@@@77@@@Pieces Of Eight@@@Lonely Drifter
+63@@@54@@@Joe Tex@@@Woman Like That, Yeah
+64@@@88@@@The Forum@@@The River Is Wide
+65@@@82@@@The Who@@@Pictures Of Lily
+66@@@65@@@Lesley Gore@@@Summer And Sandy
+67@@@66@@@Brenda & The Tabulations@@@Who's Lovin' You
+68@@@68@@@Sam The Sham and the Pharaohs@@@Black Sheep
+69@@@69@@@J.J. Barnes@@@Baby Please Come Back Home
+70@@@86@@@The Vanilla Fudge@@@You Keep Me Hangin' On
+71@@@89@@@Sagittarius@@@My World Fell Down
+72@@@84@@@The Critters@@@Don't Let The Rain Fall Down On Me
+73@@@73@@@Jack Jones@@@Now I Know
+74@@@74@@@The Glories@@@I Stand Accused (Of Loving You)
+75@@@78@@@The Love Generation@@@Groovy Summertime
+76@@@83@@@Dusty Springfield@@@Give Me Time
+77@@@80@@@Toussaint McCall@@@I'll Do It For You
+78@@@101@@@The Buffalo Springfield@@@Bluebird
+79@@@101@@@Bee Gees@@@To Love Somebody
+80@@@90@@@The Kinks@@@Mr. Pleasant
+81@@@101@@@Tommy Boyce & Bobby Hart@@@Out & About
+82@@@97@@@The Platters@@@Washed Ashore (On A Lonely Island In The Sea)
+83@@@101@@@Four Tops@@@I'll Turn To Stone
+84@@@87@@@Gladys Knight And The Pips@@@Everybody Needs Love
+85@@@100@@@Glen Campbell@@@Gentle On My Mind
+86@@@101@@@Neil Diamond@@@Thank The Lord For The Night Time
+87@@@101@@@James & Bobby Purify@@@I Take What I Want
+88@@@98@@@Moby Grape@@@Omaha
+89@@@92@@@Dyke And The Blazers@@@Funky Broadway Part I
+90@@@99@@@Davie Allan And The Arrows@@@Blue's Theme
+91@@@94@@@Percy Sledge@@@What Am I Living For
+92@@@101@@@James Brown And The Famous Flames@@@Cold Sweat - Part 1
+93@@@101@@@The Magnificent Men@@@I Could Be So Happy
+94@@@96@@@David Houston & Tammy Wynette@@@My Elusive Dreams
+95@@@95@@@Andy Williams@@@More And More
+96@@@101@@@The Blades Of Grass@@@Happy
+97@@@101@@@The Sunshine Company@@@Happy
+98@@@101@@@Jay And The Techniques@@@Apples, Peaches, Pumpkin Pie
+99@@@101@@@Van Morrison@@@Brown Eyed Girl
+100@@@101@@@The Seeds@@@A Thousand Shadows

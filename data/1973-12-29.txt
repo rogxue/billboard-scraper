@@ -1,0 +1,100 @@
+1@@@3@@@Jim Croce@@@Time In A Bottle
+2@@@1@@@Charlie Rich@@@The Most Beautiful Girl
+3@@@4@@@Helen Reddy@@@Leave Me Alone (ruby Red Dress)
+4@@@6@@@The Steve Miller Band@@@The Joker
+5@@@2@@@Elton John@@@GOODBYE YELLOW BRICK ROAD
+6@@@5@@@Todd Rundgren@@@Hello It's Me
+7@@@7@@@Carpenters@@@Top Of The World
+8@@@11@@@Al Wilson@@@Show And Tell
+9@@@12@@@Brownsville Station@@@Smokin' In The Boy's Room
+10@@@10@@@Barry White@@@Never, Never Gonna Give Ya Up
+11@@@15@@@Stevie Wonder@@@Living For The City
+12@@@9@@@The Staple Singers@@@If You're Ready (Come Go With Me)
+13@@@8@@@Chicago@@@Just You 'n' Me
+14@@@18@@@Gladys Knight And The Pips@@@I've Got To Use My Imagination
+15@@@14@@@The Stylistics@@@Rockin' Roll Baby
+16@@@20@@@Paul McCartney & Wings@@@Helen Wheels
+17@@@24@@@Olivia Newton-John@@@Let Me Be There
+18@@@19@@@John Lennon@@@MIND GAMES
+19@@@26@@@Aretha Franklin@@@Until You Come Back To Me (That's What I'm Gonna Do)
+20@@@22@@@Led Zeppelin@@@D'yer Mak'er
+21@@@33@@@Love Unlimited Orchestra@@@Love's Theme
+22@@@17@@@Teddy Pendergrass@@@The Whole Town's Laughing At Me
+23@@@35@@@Barbra Streisand@@@The Way We Were
+24@@@27@@@War@@@Me And Baby Brother
+25@@@31@@@Donny Osmond@@@When I Fall In Love/Are You Lonesome Tonight
+26@@@16@@@Loggins & Messina@@@My Music
+27@@@50@@@Ringo Starr@@@You're Sixteen
+28@@@13@@@Ringo Starr@@@Photograph
+29@@@21@@@Billy Preston@@@Space Race
+30@@@36@@@Al Green@@@Livin' For You
+31@@@23@@@Gladys Knight And The Pips@@@Midnight Train To Georgia
+32@@@32@@@Tony Orlando & Dawn@@@Who's In The Strawberry Patch With Sally
+33@@@25@@@Marvin Gaye@@@Come Get To This
+34@@@30@@@Jim Croce@@@I Got A Name
+35@@@41@@@Cheech & Chong@@@Sister Mary Elephant (Shudd-Up!)
+36@@@44@@@Grand Funk@@@Walk Like A Man
+37@@@43@@@Ian Thomas@@@Painted Ladies
+38@@@46@@@Jim Stafford@@@Spiders & Snakes
+39@@@28@@@The DeFranco Family featuring Tony DeFranco@@@Heartbeat - It's A Lovebeat
+40@@@29@@@Eddie Kendricks@@@Keep On Truckin' (Part 1)
+41@@@34@@@Three Dog Night@@@Let Me Serenade You
+42@@@38@@@Ann Peebles@@@I Can't Stand The Rain
+43@@@49@@@Paul Simon@@@American Tune
+44@@@45@@@Bobby Blue Bland@@@This Time I'm Gone For Good
+45@@@40@@@El Chicano@@@Tell Her She's Lovely
+46@@@37@@@Marie Osmond@@@Paper Roses
+47@@@48@@@The Chi-lites@@@I Found Sunshine
+48@@@39@@@The Persuaders@@@Some Guys Have All The Luck
+49@@@55@@@Kris Kristofferson & Rita Coolidge@@@A Song I'd Like To Sing
+50@@@65@@@Merle Haggard@@@If We Make It Through December
+51@@@47@@@Carole King@@@Coraz�n
+52@@@64@@@David Essex@@@Rock On
+53@@@56@@@Earth, Wind & Fire@@@Keep Your Head To The Sky
+54@@@66@@@Kool & The Gang@@@Jungle Boogie
+55@@@58@@@B.W. Stevenson@@@The River Of Love
+56@@@57@@@First Choice@@@Smarty Pants
+57@@@70@@@Tom T. Hall@@@I Love
+58@@@68@@@Linda Ronstadt@@@Love Has No Pride
+59@@@61@@@Smokey Robinson@@@Baby Come Close
+60@@@63@@@The Intruders@@@I Wanna Know Your Name
+61@@@71@@@The O'Jays@@@Put Your Hands Together
+62@@@72@@@Isaac Hayes@@@Joy Pt. I
+63@@@67@@@Frank Sinatra@@@Let Me Try Again (Laisse Moi Le Temps)
+64@@@62@@@Joe Simon@@@River
+65@@@86@@@The Temptations@@@Let Your Hair Down
+66@@@78@@@Black Oak Arkansas@@@Jim Dandy
+67@@@76@@@Electric Light Orchestra@@@Showdown
+68@@@69@@@Bachman-Turner Overdrive@@@Blue Collar
+69@@@74@@@Bob Dylan@@@A Fool Such As I
+70@@@89@@@Anne Murray@@@Love Song
+71@@@75@@@Edgar Winter Group@@@Hangin' Around
+72@@@85@@@Gregg Allman@@@Midnight Rider
+73@@@73@@@The Band@@@Ain't Got No Home
+74@@@84@@@Wednesday@@@Last Kiss
+75@@@79@@@B.B. King@@@I Like To Live The Love
+76@@@77@@@The Who@@@Love, Reign O'er Me
+77@@@101@@@Jim Croce@@@It Doesn't Have To Be That Way
+78@@@80@@@James Brown@@@Stoned To The Bone - Part 1
+79@@@81@@@Steely Dan@@@My Old School
+80@@@96@@@John Denver@@@Please, Daddy
+81@@@83@@@Keith Hampshire@@@Big Time Operator
+82@@@82@@@Melanie@@@Will You Love Me Tomorrow?
+83@@@90@@@Love Unlimited@@@It May Be Winter Outside, (But In My Heart It's Spring)
+84@@@101@@@Alice Cooper@@@Teenage Lament '74
+85@@@93@@@Roy Clark@@@Somewhere Between Love And Tomorrow
+86@@@88@@@Don Goodwin@@@This Is Your Song
+87@@@101@@@Garfunkel@@@I Shall Sing
+88@@@99@@@The Pointer Sisters@@@Wang Dang Doodle
+89@@@95@@@Joni Mitchell@@@Raised On Robbery
+90@@@101@@@Coven@@@One Tin Soldier (The Legend of Billy Jack)
+91@@@97@@@The 5th Dimension@@@Flashback
+92@@@98@@@Lamont Dozier@@@Trying To Hold On To My Woman
+93@@@92@@@Gary & Dave@@@Could You Ever Love Me Again
+94@@@87@@@Albert Hammond@@@Half A Million Miles From Home
+95@@@101@@@The De Franco Family@@@Abra-Ca-Dabra
+96@@@59@@@The Dramatics@@@Fell For You
+97@@@100@@@J. Frank Wilson and The Cavaliers@@@Last Kiss
+98@@@101@@@The Isley Brothers@@@What It Comes Down To
+99@@@101@@@Johnny Mathis@@@Life Is A Song Worth Singing
+100@@@101@@@Curtis Mayfield@@@Can't Say Nothin'

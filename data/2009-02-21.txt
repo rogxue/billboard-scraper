@@ -1,0 +1,100 @@
+1@@@78@@@Eminem, Dr. Dre & 50 Cent@@@Crack A Bottle
+2@@@3@@@Kanye West@@@Heartless
+3@@@4@@@Lady GaGa Featuring Colby O'Donis@@@Just Dance
+4@@@1@@@Kelly Clarkson@@@My Life Would Suck Without You
+5@@@2@@@Beyonce@@@Single Ladies (Put A Ring On It)
+6@@@6@@@The All-American Rejects@@@Gives You Hell
+7@@@5@@@Taylor Swift@@@Love Story
+8@@@7@@@The Fray@@@You Found Me
+9@@@11@@@T.I. Featuring Justin Timberlake@@@Dead And Gone
+10@@@10@@@Jason Mraz@@@I'm Yours
+11@@@9@@@Britney Spears@@@Circus
+12@@@23@@@Lady GaGa@@@Poker Face
+13@@@8@@@T.I. Featuring Rihanna@@@Live Your Life
+14@@@15@@@Ne-Yo@@@Mad
+15@@@17@@@Lil Wayne@@@Prom Queen
+16@@@12@@@The Pussycat Dolls@@@I Hate This Part
+17@@@16@@@Pink@@@Sober
+18@@@13@@@Kevin Rudolf Featuring Lil Wayne@@@Let It Rock
+19@@@14@@@Katy Perry@@@Hot N Cold
+20@@@21@@@Beyonce@@@Diva
+21@@@28@@@Akon Featuring Colby O'Donis & Kardinal Offishall@@@Beautiful
+22@@@32@@@Soulja Boy Tell 'Em Featuring Sammie@@@Kiss Me Thru The Phone
+23@@@24@@@Keri Hilson Featuring Lil Wayne@@@Turnin Me On
+24@@@30@@@Coldplay@@@Viva La Vida
+25@@@18@@@Britney Spears@@@Womanizer
+26@@@37@@@Jamie Foxx Featuring T-Pain@@@Blame It
+27@@@19@@@Nickelback@@@Gotta Be Somebody
+28@@@20@@@The Veronicas@@@Untouched
+29@@@35@@@Katy Perry@@@Thinking Of You
+30@@@22@@@T.I.@@@Whatever You Like
+31@@@26@@@Pink@@@So What
+32@@@41@@@Dierks Bentley@@@Feel That Fire
+33@@@25@@@Kanye West@@@Love Lockdown
+34@@@27@@@Akon@@@Right Now (Na Na Na)
+35@@@31@@@Ne-Yo@@@Miss Independent
+36@@@29@@@Jim Jones & Ron Browz Featuring Juelz Santana@@@Pop Champagne
+37@@@33@@@John Legend Featuring Andre 3000@@@Green Light
+38@@@34@@@Rihanna@@@Disturbia
+39@@@40@@@Taylor Swift@@@White Horse
+40@@@46@@@The-Dream@@@Rockin' That Thang
+41@@@42@@@Toby Keith@@@God Love Her
+42@@@38@@@Zac Brown Band@@@Chicken Fried
+43@@@39@@@David Cook@@@Light On
+44@@@60@@@Beyonce@@@Halo
+45@@@44@@@Blake Shelton@@@She Wouldn't Be Gone
+46@@@49@@@Keith Urban@@@Sweet Thing
+47@@@36@@@Ludacris Co-Starring T-Pain@@@One More Drink
+48@@@66@@@Jason Mraz & Colbie Caillat@@@Lucky
+49@@@47@@@Leona Lewis@@@Better In Time
+50@@@51@@@Kenny Chesney With Mac McAnally@@@Down The Road
+51@@@50@@@Brooks & Dunn Featuring Reba McEntire@@@Cowgirls Don't Cry
+52@@@62@@@Plain White T's@@@1, 2, 3, 4
+53@@@63@@@Kid Cudi@@@Day 'N' Nite
+54@@@45@@@Beyonce@@@If I Were A Boy
+55@@@58@@@Shinedown@@@Second Chance
+56@@@57@@@Ne-Yo Featuring Jamie Foxx & Fabolous@@@She Got Her Own
+57@@@55@@@Akon Featuring Lil Wayne & Young Jeezy@@@I'm So Paid
+58@@@74@@@Flo Rida@@@Right Round
+59@@@43@@@Rihanna@@@Rehab
+60@@@53@@@The Killers@@@Human
+61@@@54@@@Young Jeezy Featuring Nas@@@My President
+62@@@65@@@Darius Rucker@@@It Won't Be Like This For Long
+63@@@61@@@Jamie Foxx Featuring T.I.@@@Just Like Me
+64@@@101@@@Adele@@@Chasing Pavements
+65@@@56@@@Billy Currington@@@Don't
+66@@@94@@@Leona Lewis@@@I Will Be
+67@@@52@@@T-Pain Featuring Ludacris@@@Chopped 'N' Skrewed
+68@@@67@@@Kings Of Leon@@@Sex On Fire
+69@@@72@@@Mims@@@Move (If You 'W'anna)
+70@@@101@@@The Fray@@@Absolute
+71@@@59@@@Alan Jackson@@@Country Boy
+72@@@64@@@The Ting Tings@@@That's Not My Name
+73@@@77@@@Jason Aldean@@@She's Country
+74@@@80@@@Bobby Valentino Featuring Yung Joc@@@Beep
+75@@@71@@@George Strait@@@River Of Love
+76@@@101@@@Seether@@@Careless Whisper
+77@@@75@@@Thriving Ivory@@@Angels On The Moon
+78@@@69@@@Usher@@@Trading Places
+79@@@101@@@The Pussycat Dolls@@@Top Of The World
+80@@@79@@@3OH!3@@@Don't Trust Me
+81@@@100@@@Yung L.A. Featuring Young Dro & T.I.@@@Ain't I
+82@@@86@@@Gorilla Zoe@@@Lost
+83@@@82@@@T-Pain Featuring Chris Brown@@@Freeze
+84@@@73@@@Plies Featuring Chris J@@@Put It On Ya
+85@@@83@@@The Offspring@@@You're Gonna Go Far, Kid
+86@@@101@@@GS Boyz@@@Stanky Legg
+87@@@84@@@Musiq Soulchild Featuring Mary J. Blige@@@IfULeave
+88@@@70@@@Demi Lovato@@@La La Land
+89@@@91@@@Lee Ann Womack@@@Last Call
+90@@@92@@@Miranda Lambert@@@More Like Her
+91@@@101@@@Carolina Liar@@@Show Me What I'm Looking For
+92@@@68@@@Paramore@@@Decode
+93@@@98@@@Jake Owen@@@Don't Think I Can't Love You
+94@@@101@@@Jesse McCartney Featuring Ludacris@@@How Do You Sleep?
+95@@@101@@@Bruce Springsteen@@@Working On A Dream
+96@@@90@@@Framing Hanley@@@Lollipop
+97@@@101@@@Keyshia Cole@@@You Complete Me
+98@@@85@@@Keyshia Cole Featuring 2Pac@@@Playa Cardz Right
+99@@@101@@@Jazmine Sullivan@@@Lions, Tigers & Bears
+100@@@101@@@Kings Of Leon@@@Use Somebody

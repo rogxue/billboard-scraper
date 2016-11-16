@@ -1,0 +1,100 @@
+1@@@1@@@Herman's Hermits@@@Mrs. Brown You've Got A Lovely Daughter
+2@@@2@@@Gary Lewis And The Playboys@@@Count Me In
+3@@@3@@@The Beatles@@@Ticket To Ride
+4@@@5@@@The Seekers@@@I'll Never Find Another You
+5@@@7@@@Herman's Hermits@@@Silhouettes
+6@@@21@@@The Beach Boys@@@Help Me, Rhonda
+7@@@6@@@Petula Clark@@@I Know A Place
+8@@@11@@@Marvin Gaye@@@I'll Be Doggone
+9@@@12@@@The Righteous Brothers@@@Just Once In My Life
+10@@@14@@@Sam The Sham and the Pharaohs@@@Wooly Bully
+11@@@4@@@Wayne Fontana & The Mindbenders@@@Game Of Love
+12@@@10@@@Sounds Orchestral@@@Cast Your Fate To The Wind
+13@@@18@@@Glenn Yarbrough@@@Baby The Rain Must Fall
+14@@@15@@@Ronnie Dove@@@One Kiss For Old Times' Sake
+15@@@38@@@The Supremes@@@Back In My Arms Again
+16@@@16@@@The Miracles@@@Ooo Baby Baby
+17@@@22@@@Tom Jones@@@It's Not Unusual
+18@@@20@@@The Temptations@@@It's Growing
+19@@@9@@@The Rolling Stones@@@The Last Time
+20@@@39@@@Elvis Presley With The Jordanaires@@@Crying In The Chapel
+21@@@27@@@Sir Douglas Quintet@@@She's About A Mover
+22@@@25@@@The Dixie Cups@@@Iko Iko
+23@@@23@@@Gerry And The Pacemakers@@@It's Gonna Be Alright
+24@@@35@@@The Beau Brummels@@@Just A Little
+25@@@28@@@Little Milton@@@We're Gonna Make It
+26@@@26@@@Billy Stewart@@@I Do Love You
+27@@@32@@@Peter And Gordon@@@True Love Ways
+28@@@33@@@The Dave Clark Five@@@Reelin' And Rockin'
+29@@@34@@@Perry Como@@@Dream On Little Dreamer
+30@@@46@@@Jody Miller@@@Queen Of The House
+31@@@13@@@The Kinks@@@Tired Of Waiting For You
+32@@@47@@@Freddie And The Dreamers@@@You Were Made For Me
+33@@@37@@@Cannibal And The Headhunters@@@Land Of 1000 Dances
+34@@@29@@@The Impressions@@@Woman's Got Soul
+35@@@45@@@Freddie And The Dreamers@@@Do The Freddie
+36@@@31@@@Tony Clarke@@@The Entertainer
+37@@@19@@@The Moody Blues@@@Go Now!
+38@@@8@@@Freddie And The Dreamers@@@I'm Telling You Now
+39@@@44@@@Bob Dylan@@@Subterranean Homesick Blues
+40@@@17@@@Shirley Ellis@@@The Clapping Song (Clap Pat Clap Slap)
+41@@@24@@@Jr. Walker & The All Stars@@@Shotgun
+42@@@48@@@Chubby Checker@@@Let's Do The Freddie
+43@@@36@@@Andy Williams@@@......And Roses And Roses
+44@@@41@@@Sam Cooke@@@It's Got The Whole World Shakin'
+45@@@58@@@Gene Chandler@@@Nothing Can Stop Me
+46@@@57@@@The Beatles@@@Yes It Is
+47@@@78@@@Roger Miller@@@Engine Engine #9
+48@@@40@@@Allan Sherman@@@Crazy Downtown
+49@@@73@@@Gene Pitney@@@Last Chance To Turn Around
+50@@@76@@@Bobby Vinton@@@L-O-N-E-L-Y
+51@@@55@@@Chad & Jeremy@@@What Do You Want With Me
+52@@@66@@@Vic Damone@@@You Were Only Fooling (While I Was Falling In Love)
+53@@@61@@@Patti Page@@@Hush, Hush, Sweet Charlotte
+54@@@62@@@Connie Stevens@@@Now That You've Gone
+55@@@52@@@The Searchers@@@Goodbye My Lover Goodbye
+56@@@71@@@Bert Kaempfert And His Orchestra@@@Three O'Clock In The Morning
+57@@@60@@@Jay & The Americans@@@Think Of The Good Times
+58@@@50@@@The Newbeats@@@(The Bees Are For The Birds) The Birds Are For The Bees
+59@@@56@@@Joe Tex@@@A Woman Can Change A Man
+60@@@63@@@The Zombies@@@She's Coming Home
+61@@@80@@@Unit Four plus Two@@@Concrete And Clay
+62@@@67@@@Al (He's the King) Hirt@@@Al's Place
+63@@@83@@@Eddie Rambeau@@@Concrete And Clay
+64@@@72@@@Chuck Jackson & Maxine Brown@@@Something You Got
+65@@@101@@@Chad & Jeremy@@@Before And After
+66@@@101@@@The Animals@@@Bring It On Home To Me
+67@@@101@@@Four Tops@@@I Can't Help Myself (Sugar Pie Honey Bunch)
+68@@@74@@@Julie Andrews-Dick Van Dyke@@@Super-cali-fragil-istic-expi-ali-docious
+69@@@75@@@The Drifters@@@Come On Over To My Place
+70@@@90@@@Horst Jankowski@@@A Walk In The Black Forest
+71@@@79@@@Connie Francis@@@Wishing It Was You
+72@@@84@@@Bobby Goldsboro@@@Voodoo Woman
+73@@@82@@@Tom and Jerrio@@@Boo-Ga-Loo
+74@@@95@@@The Guess Who@@@Shakin' All Over
+75@@@77@@@Chuck Jackson@@@I Need You
+76@@@100@@@The Sunglows@@@Peanuts (La Cacahuata)
+77@@@89@@@The O'Jays@@@Lipstick Traces (On A Cigarette)
+78@@@85@@@Soupy Sales@@@The Mouse
+79@@@69@@@Dobie Gray@@@(See You At The) Go-Go
+80@@@96@@@The Kingsmen@@@The Climb
+81@@@87@@@The Righteous Brothers@@@You Can Have Her
+82@@@88@@@Esther Phillips@@@And I Love Him
+83@@@86@@@Jewel Akens@@@Georgie Porgie
+84@@@101@@@The Yardbirds@@@For Your Love
+85@@@101@@@Donovan@@@Catch The Wind
+86@@@91@@@The Olympics@@@Good Lovin'
+87@@@101@@@The Byrds@@@Mr. Tambourine Man
+88@@@81@@@The New Christy Minstrels@@@Chim, Chim, Cheree
+89@@@93@@@The Sapphires@@@Gotta Have Your Love
+90@@@101@@@Dickey Lee@@@Laurie (Strange Things Happen)
+91@@@92@@@Radiants@@@It Ain't No Big Thing
+92@@@99@@@Reparata And The Delrons@@@Tommy
+93@@@101@@@Buck Owens@@@Before You Go
+94@@@94@@@James Phelps@@@Love Is A 5-Letter Word
+95@@@98@@@Bobby Vee@@@Keep On Trying
+96@@@101@@@Otis Redding@@@I've Been Loving You Too Long (To Stop Now)
+97@@@101@@@Barbara Mason@@@Yes, I'm Ready
+98@@@101@@@Peter, Paul & Mary@@@When The Ship Comes In
+99@@@101@@@The Marvelows@@@I Do
+100@@@101@@@Eddy Arnold@@@What's He Doing In My World

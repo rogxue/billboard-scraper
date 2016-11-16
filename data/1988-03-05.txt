@@ -1,0 +1,100 @@
+1@@@1@@@George Michael@@@Father Figure
+2@@@4@@@Rick Astley@@@Never Gonna Give You Up
+3@@@3@@@Patrick Swayze (Featuring Wendy Fraser)@@@She's Like The Wind
+4@@@8@@@Belinda Carlisle@@@I Get Weak
+5@@@2@@@Pet Shop Boys & Dusty Springfield@@@What Have I Done To Deserve This?
+6@@@10@@@Gloria Estefan@@@Can't Stay Away From You
+7@@@12@@@David Lee Roth@@@Just Like Paradise
+8@@@15@@@Richard Marx@@@Endless Summer Nights
+9@@@17@@@Michael Jackson@@@Man In The Mirror
+10@@@14@@@Cher@@@I Found Someone
+11@@@5@@@Eric Carmen@@@Hungry Eyes (From "Dirty Dancing")
+12@@@18@@@Debbie Gibson@@@Out Of The Blue
+13@@@13@@@M/A/R/R/S@@@Pump Up The Volume
+14@@@6@@@Expose@@@Seasons Change
+15@@@7@@@Foreigner@@@Say You Will
+16@@@20@@@Keith Sweat@@@I Want Her
+17@@@19@@@Gladys Knight & The Pips@@@Love Overboard
+18@@@9@@@Paul Carrack@@@Don't Shed A Tear
+19@@@22@@@Sting@@@Be Still My Beating Heart
+20@@@24@@@Def Leppard@@@Hysteria
+21@@@11@@@Tiffany@@@Could've Been
+22@@@29@@@Billy Ocean@@@Get Outta My Dreams, Get Into My Car
+23@@@25@@@Michael Bolton@@@(Sittin' On) The Dock Of The Bay
+24@@@28@@@The Jets@@@Rocket 2 U
+25@@@23@@@Salt-N-Pepa@@@Push It
+26@@@33@@@Pebbles@@@Girlfriend
+27@@@27@@@The Cover Girls@@@Because Of You
+28@@@38@@@INXS@@@Devil Inside
+29@@@21@@@INXS@@@Need You Tonight
+30@@@16@@@Roger@@@I Want To Be Your Man
+31@@@34@@@George Harrison@@@When We Was Fab
+32@@@35@@@John Mellencamp@@@Check It Out
+33@@@36@@@Jody Watley@@@Some Kind Of Lover
+34@@@31@@@Swing Out Sister@@@Twilight World
+35@@@40@@@Terence Trent D'Arby@@@Wishing Well
+36@@@39@@@Aerosmith@@@Angel
+37@@@41@@@Rick Springfield@@@Rock Of Life
+38@@@47@@@Whitney Houston@@@Where Do Broken Hearts Go
+39@@@26@@@Bangles@@@Hazy Shade Of Winter
+40@@@48@@@Alexander O'Neal Featuring Cherrelle@@@Never Knew Love Like This
+41@@@49@@@Scarlett@@@You Don't Know
+42@@@32@@@Natalie Cole@@@I Live For Your Love
+43@@@56@@@Tiffany@@@I Saw Him Standing There
+44@@@30@@@Fleetwood Mac@@@Everywhere
+45@@@45@@@Dan Hill@@@Never Thought (That I Could Love)
+46@@@58@@@Louis Armstrong@@@What A Wonderful World
+47@@@60@@@Taylor Dayne@@@Prove Your Love
+48@@@59@@@Icehouse@@@Electric Blue
+49@@@64@@@Bruce Springsteen@@@One Step Up
+50@@@46@@@Taylor Dayne@@@Tell It To My Heart
+51@@@61@@@Whitesnake@@@Give Me All Your Love
+52@@@73@@@LL Cool J@@@Going Back To Cali (From "Less Than Zero")
+53@@@62@@@Henry Lee Summer@@@I Wish I Had A Girl
+54@@@70@@@Morris Day@@@Fishnet
+55@@@53@@@The Communards@@@Never Can Say Goodbye
+56@@@37@@@Bruce Springsteen@@@Tunnel Of Love
+57@@@65@@@Toto@@@Pamela
+58@@@50@@@Elton John@@@Candle In The Wind
+59@@@67@@@Steve Winwood@@@Talking Back To The Night
+60@@@72@@@So@@@Are You Sure
+61@@@42@@@Men Without Hats@@@Pop Goes The World
+62@@@68@@@Heart@@@I Want You So Bad
+63@@@57@@@Great White@@@Save Your Love
+64@@@66@@@The Kane Gang@@@Don't Look Any Further
+65@@@51@@@George Harrison@@@Got My Mind Set On You
+66@@@54@@@Carly Simon@@@All I Want Is You
+67@@@101@@@Natalie Cole@@@Pink Cadillac
+68@@@69@@@Earth, Wind & Fire@@@Thinking Of You
+69@@@80@@@Brenda Russell Featuring Joe Esposito@@@Piano In The Dark
+70@@@63@@@Prince@@@Hot Thing
+71@@@44@@@Boy George@@@Live My Life (From The Film "Hiding Out")
+72@@@52@@@Michael Jackson@@@The Way You Make Me Feel
+73@@@86@@@The Deele@@@Two Occasions
+74@@@95@@@Bryan Ferry@@@Kiss And Tell (From "Bright Lights, Big City")
+75@@@88@@@White Lion@@@Wait
+76@@@90@@@Samantha Fox@@@Naughty Girls (Need Love Too)
+77@@@85@@@Stacey Q@@@Don't Make A Fool Of Yourself
+78@@@87@@@Eria Fachin@@@Savin' Myself
+79@@@82@@@Pepsi & Shirlie@@@All Right Now
+80@@@79@@@R.E.M.@@@It's The End Of The World As We Know It (And I Feel Fine)
+81@@@83@@@Tommy Shaw@@@Ever Since The World Began
+82@@@101@@@Blue Mercedes@@@I Want To Be Your Property
+83@@@43@@@Squeeze@@@853-5937
+84@@@71@@@Elisa Fiorillo@@@How Can I Forget You
+85@@@89@@@David Foster@@@Winter Games
+86@@@55@@@Prince@@@I Could Never Take The Place Of Your Man
+87@@@93@@@Bardeux@@@Magic Carpet Ride
+88@@@81@@@Heart@@@There's The Girl
+89@@@101@@@The Cure@@@Hot Hot Hot!!!
+90@@@77@@@Stryper@@@Honestly
+91@@@101@@@Merry Clayton@@@Yes (From The Motion Picture "Dirty Dancing")
+92@@@75@@@Icehouse@@@Crazy
+93@@@91@@@John Mellencamp@@@Cherry Bomb
+94@@@101@@@Cellarful Of Noise@@@Samantha (What You Gonna Do?)
+95@@@78@@@George Michael@@@Faith
+96@@@74@@@Yes@@@Rhythm Of Love
+97@@@84@@@Buster Poindexter@@@Hot Hot Hot
+98@@@92@@@Stevie Wonder@@@You Will Know
+99@@@76@@@Whitney Houston@@@So Emotional
+100@@@94@@@Jody Watley@@@Don't You Want Me

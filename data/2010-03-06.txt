@@ -1,0 +1,100 @@
+1@@@3@@@The Black Eyed Peas@@@Imma Be
+2@@@1@@@Ke$ha@@@TiK ToK
+3@@@4@@@Young Money Featuring Lloyd@@@BedRock
+4@@@5@@@Lady Gaga@@@Bad Romance
+5@@@6@@@Lady Antebellum@@@Need You Now
+6@@@2@@@Artists For Haiti@@@We Are The World 25: For Haiti
+7@@@7@@@Train@@@Hey, Soul Sister
+8@@@8@@@Ludacris@@@How Low
+9@@@9@@@Jason Derulo@@@In My Head
+10@@@12@@@Trey Songz Featuring Fabolous@@@Say Aah
+11@@@11@@@Ke$ha Featuring 3OH!3@@@Blah Blah Blah
+12@@@10@@@David Guetta Featuring Akon@@@Sexy Chick
+13@@@19@@@Justin Bieber Featuring Ludacris@@@Baby
+14@@@15@@@Lady Gaga Featuring Beyonce@@@Telephone
+15@@@13@@@Timbaland Featuring Justin Timberlake@@@Carry Out
+16@@@14@@@Iyaz@@@Replay
+17@@@20@@@Orianthi@@@According To You
+18@@@17@@@Jay-Z + Alicia Keys@@@Empire State Of Mind
+19@@@21@@@Kris Allen@@@Live Like We're Dying
+20@@@16@@@The Black Eyed Peas@@@I Gotta Feeling
+21@@@38@@@B.o.B Featuring Bruno Mars@@@Nothin' On You
+22@@@28@@@The Script@@@Breakeven
+23@@@64@@@Rihanna@@@Rude Boy
+24@@@30@@@Taylor Swift@@@Today Was A Fairytale
+25@@@22@@@Jay Sean Featuring Sean Paul & Lil Jon@@@Do You Remember
+26@@@26@@@New Boyz Featuring Ray J@@@Tie Me Down
+27@@@18@@@Rihanna Featuring Jeezy@@@Hard
+28@@@31@@@Adam Lambert@@@Whataya Want From Me
+29@@@23@@@Boys Like Girls Featuring Taylor Swift@@@Two Is Better Than One
+30@@@24@@@Owl City@@@Fireflies
+31@@@27@@@Jay Sean Featuring Lil Wayne@@@Down
+32@@@33@@@Timbaland Featuring Drake@@@Say Something
+33@@@25@@@Michael Buble@@@Haven't Met You Yet
+34@@@41@@@OneRepublic@@@All The Right Moves
+35@@@29@@@Taylor Swift@@@You Belong With Me
+36@@@32@@@Jason Derulo@@@Whatcha Say
+37@@@36@@@Selena Gomez & The Scene@@@Naturally
+38@@@34@@@Drake Featuring Kanye West, Lil Wayne & Eminem@@@Forever
+39@@@35@@@Josh Turner@@@Why Don't We Just Dance
+40@@@37@@@Lady Gaga@@@Paparazzi
+41@@@51@@@Jay-Z + Swizz Beatz@@@On To The Next One
+42@@@40@@@Kelly Clarkson@@@Already Gone
+43@@@39@@@The Black Eyed Peas@@@Meet Me Halfway
+44@@@42@@@Kings Of Leon@@@Use Somebody
+45@@@44@@@Alicia Keys@@@Try Sleeping With A Broken Heart
+46@@@48@@@Daughtry@@@Life After You
+47@@@56@@@Usher Featuring Plies@@@Hey Daddy (Daddy's Home)
+48@@@50@@@John Mayer@@@Heartbreak Warfare
+49@@@49@@@Miley Cyrus@@@Party In The U.S.A.
+50@@@47@@@Melanie Fiona@@@It Kills Me
+51@@@45@@@Jason Aldean@@@The Truth
+52@@@92@@@Rascal Flatts@@@Unstoppable
+53@@@57@@@Lifehouse@@@Halfway Gone
+54@@@54@@@Carrie Underwood@@@Temporary Home
+55@@@55@@@Mary J. Blige@@@I Am
+56@@@62@@@Blake Shelton Featuring Trace Adkins@@@Hillbilly Bone
+57@@@101@@@Christopher Wilde@@@Hero
+58@@@53@@@Shinedown@@@If You Only Knew
+59@@@65@@@Robin Thicke@@@Sex Therapy
+60@@@46@@@General Larry Platt@@@Pants On The Ground
+61@@@101@@@k.d. lang@@@Hallelujah (Vancouver Winter 2010 Version)
+62@@@61@@@Darius Rucker@@@History In The Making
+63@@@52@@@Sade@@@Soldier Of Love
+64@@@101@@@DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross@@@All I Do Is Win
+65@@@75@@@Lady Antebellum@@@American Honey
+66@@@71@@@Zac Brown Band@@@Highway 20 Ride
+67@@@69@@@Billy Currington@@@That's How Country Boys Roll
+68@@@60@@@Snoop Dogg@@@I Wanna Rock
+69@@@68@@@Brad Paisley@@@American Saturday Night
+70@@@43@@@Iyaz@@@Solo
+71@@@101@@@Usher@@@There Goes My Baby
+72@@@63@@@Britney Spears@@@3
+73@@@67@@@Birdman Featuring Lil Wayne & Drake@@@Money To Blow
+74@@@81@@@Gucci Mane@@@Lemonade
+75@@@73@@@Toby Keith@@@Cryin' For Me (Wayman's Song)
+76@@@58@@@Pitbull Featuring Akon@@@Shut It Down
+77@@@101@@@Christopher Wilde@@@StarStruck
+78@@@66@@@Miranda Lambert@@@White Liar
+79@@@59@@@Lil Wayne Featuring Nicki Minaj@@@Knockout
+80@@@85@@@Roscoe Dash Featuring Soulja Boy Tell'em@@@All The Way Turnt Up
+81@@@101@@@Christopher Wilde & Anna Margaret@@@Something About The Sunshine
+82@@@79@@@Keith Urban@@@'Til Summer Comes Around
+83@@@70@@@Lil Wayne Featuring Eminem@@@Drop The World
+84@@@72@@@Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne@@@I Made It (Cash Money Heroes)
+85@@@78@@@Rob Thomas@@@Someday
+86@@@74@@@Snoop Dogg Featuring The-Dream@@@Gangsta Luv
+87@@@77@@@Trey Songz Featuring Drake@@@I Invented Sex
+88@@@86@@@Young Money Featuring Gucci Mane@@@Steady Mobbin'
+89@@@101@@@3OH!3 Featuring Neon Hitch@@@Follow Me Down
+90@@@82@@@Monica@@@Everything To Me
+91@@@76@@@Lloyd Banks Featuring Juelz Santana@@@Beamer, Benz, Or Bentley
+92@@@83@@@Easton Corbin@@@A Little More Country Than That
+93@@@88@@@LMFAO Featuring Lil Jon@@@Shots
+94@@@91@@@Pearl Jam@@@Just Breathe
+95@@@95@@@Waka Flocka Flame@@@O Let's Do It
+96@@@101@@@Miley Cyrus@@@When I Look At You
+97@@@101@@@Jay-Z + Mr. Hudson@@@Young Forever
+98@@@90@@@Tim McGraw@@@Southern Voice
+99@@@80@@@Nickelback@@@Never Gonna Be Alone
+100@@@101@@@Mariah Carey Featuring Nicki Minaj@@@Up Out My Face

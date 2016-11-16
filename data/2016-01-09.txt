@@ -1,0 +1,100 @@
+1@@@1@@@Adele@@@Hello
+2@@@2@@@Justin Bieber@@@Sorry
+3@@@4@@@Justin Bieber@@@Love Yourself
+4@@@3@@@Drake@@@Hotline Bling
+5@@@5@@@Justin Bieber@@@What Do You Mean?
+6@@@6@@@Selena Gomez@@@Same Old Love
+7@@@8@@@Alessia Cara@@@Here
+8@@@9@@@Shawn Mendes@@@Stitches
+9@@@7@@@The Weeknd@@@The Hills
+10@@@10@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+11@@@18@@@Mariah Carey@@@All I Want For Christmas Is You
+12@@@13@@@Drake & Future@@@Jumpman
+13@@@19@@@twenty one pilots@@@Stressed Out
+14@@@11@@@Fetty Wap Featuring Remy Boyz@@@679
+15@@@12@@@The Weeknd@@@In The Night
+16@@@16@@@Travi$ Scott@@@Antidote
+17@@@14@@@Ellie Goulding@@@On My Mind
+18@@@20@@@Bryson Tiller@@@Don't
+19@@@27@@@Silento@@@Watch Me
+20@@@26@@@The Chainsmokers Featuring ROZES@@@Roses
+21@@@15@@@The Weeknd@@@Can't Feel My Face
+22@@@23@@@Taylor Swift@@@Wildest Dreams
+23@@@17@@@Elle King@@@Ex's & Oh's
+24@@@22@@@Post Malone@@@White Iverson
+25@@@21@@@Thomas Rhett@@@Die A Happy Man
+26@@@28@@@Tory Lanez@@@Say It
+27@@@30@@@Demi Lovato@@@Confident
+28@@@25@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+29@@@31@@@Fetty Wap@@@Trap Queen
+30@@@38@@@Brenda Lee@@@Rockin' Around The Christmas Tree
+31@@@32@@@One Direction@@@Perfect
+32@@@34@@@Sam Hunt@@@Break Up In A Small Town
+33@@@46@@@Shawn Mendes & Camila Cabello@@@I Know What You Did Last Summer
+34@@@52@@@iLoveMemphis@@@Hit The Quan
+35@@@33@@@Ariana Grande@@@Focus
+36@@@40@@@G-Eazy x Bebe Rexha@@@Me, Myself & I
+37@@@51@@@Flo Rida@@@My House
+38@@@101@@@Nat King Cole@@@The Christmas Song (Merry Christmas To You)
+39@@@62@@@Selena Gomez@@@Hands To Myself
+40@@@36@@@J. Cole@@@No Role Modelz
+41@@@42@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+42@@@41@@@Daya@@@Hide Away
+43@@@47@@@DNCE@@@Cake By The Ocean
+44@@@45@@@Fetty Wap@@@Again
+45@@@35@@@Future Featuring Drake@@@Where Ya At
+46@@@37@@@R. City Featuring Adam Levine@@@Locked Away
+47@@@101@@@Bobby Helms@@@Jingle Bell Rock
+48@@@68@@@DLOW@@@Bet You Can't Do It Like Me
+49@@@39@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+50@@@29@@@Cam@@@Burning House
+51@@@48@@@Bryson Tiller@@@Exchange
+52@@@57@@@Yo Gotti Featuring Nicki Minaj@@@Down In The DM
+53@@@64@@@Chris Brown@@@Back To Sleep
+54@@@55@@@Adele@@@When We Were Young
+55@@@44@@@Coldplay@@@Adventure Of A Lifetime
+56@@@53@@@DeJ Loaf Featuring Big Sean@@@Back Up
+57@@@60@@@Charlie Puth@@@One Call Away
+58@@@54@@@Missy Elliott Featuring Pharrell Williams@@@WTF (Where They From)
+59@@@59@@@Justin Bieber@@@I'll Show You
+60@@@61@@@Luke Bryan Featuring Karen Fairchild@@@Home Alone Tonight
+61@@@70@@@Drake & Future@@@Big Rings
+62@@@65@@@Nelly Featuring Jeremih@@@The Fix
+63@@@78@@@Young Thug@@@Best Friend
+64@@@58@@@Brothers Osborne@@@Stay A Little Longer
+65@@@66@@@Jason Aldean@@@Gonna Know We Were Here
+66@@@77@@@Rachel Platten@@@Stand By You
+67@@@67@@@Gwen Stefani@@@Used To Love You
+68@@@79@@@Fall Out Boy@@@Irresistible
+69@@@71@@@Jana Kramer@@@I Got The Boy
+70@@@73@@@LoCash@@@I Love This Life
+71@@@80@@@Halsey@@@New Americana
+72@@@69@@@Cole Swindell@@@You Should Be Here
+73@@@81@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+74@@@63@@@Blake Shelton@@@Gonna
+75@@@92@@@Dawin@@@Dessert
+76@@@84@@@Rae Sremmurd@@@Come Get Her
+77@@@101@@@Chris Brown@@@Liquor
+78@@@75@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+79@@@94@@@Drake@@@Right Hand
+80@@@101@@@Chris Brown@@@Zero
+81@@@101@@@Lindsey Stirling@@@Hallelujah
+82@@@89@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+83@@@86@@@Andy Grammer@@@Good To Be Alive (Hallelujah)
+84@@@82@@@Justin Bieber Featuring Halsey@@@The Feeling
+85@@@76@@@Tim McGraw@@@Top Of The World
+86@@@101@@@Fetty Wap@@@RGF Island
+87@@@83@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+88@@@91@@@Granger Smith@@@Backroad Song
+89@@@101@@@J Balvin@@@Ginza
+90@@@95@@@Bryson Tiller@@@Sorry Not Sorry
+91@@@101@@@Chris Brown@@@Little More (Royalty)
+92@@@96@@@Zac Brown Band@@@Beautiful Drug
+93@@@93@@@Big Sean Featuring Chris Brown & Ty Dolla $ign@@@Play No Games
+94@@@101@@@Kevin Gates@@@Really Really
+95@@@100@@@Justin Bieber@@@Purpose
+96@@@98@@@Tori Kelly@@@Hollow
+97@@@87@@@Kelsea Ballerini@@@Dibs
+98@@@101@@@James Bay@@@Let It Go
+99@@@101@@@Future@@@Stick Talk
+100@@@101@@@Jason Derulo@@@Get Ugly

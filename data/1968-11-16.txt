@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Hey Jude
+2@@@2@@@Mary Hopkin@@@Those Were The Days
+3@@@3@@@Diana Ross & The Supremes@@@Love Child
+4@@@7@@@Steppenwolf@@@Magic Carpet Ride
+5@@@5@@@Johnny Nash@@@Hold Me Tight
+6@@@6@@@Cream@@@White Room
+7@@@4@@@O.C. Smith@@@Little Green Apples
+8@@@21@@@Johnnie Taylor@@@Who's Making Love
+9@@@18@@@Dion@@@Abraham, Martin And John
+10@@@8@@@The Turtles@@@Elenore
+11@@@9@@@The Crazy World Of Arthur Brown@@@Fire
+12@@@11@@@Gary Puckett And The Union Gap@@@Over You
+13@@@13@@@The 5th Dimension@@@Sweet Blindness
+14@@@35@@@Stevie Wonder@@@For Once In My Life
+15@@@10@@@The Grass Roots@@@Midnight Confessions
+16@@@17@@@Jerry Butler@@@Hey, Western Union Man
+17@@@36@@@Ohio Express@@@Chewy Chewy
+18@@@37@@@The Dells@@@Always Together
+19@@@14@@@Creedence Clearwater Revival@@@Suzie Q. (Part One)
+20@@@19@@@The Beatles@@@Revolution
+21@@@16@@@The O'Kaysions@@@Girl Watcher
+22@@@23@@@The Impressions@@@Fool For You
+23@@@67@@@Glen Campbell@@@Wichita Lineman
+24@@@24@@@Marvin Gaye & Tammi Terrell@@@Keep On Lovin' Me Honey
+25@@@26@@@Jose Feliciano@@@Hi-Heel Sneakers
+26@@@47@@@Bobby Vinton@@@I Love How You Love Me
+27@@@27@@@The Archies@@@Bang-Shang-A-Lang
+28@@@20@@@James Brown@@@Say It Loud - I'm Black And I'm Proud (Part 1)
+29@@@12@@@Big Brother & The Holding Company@@@Piece Of My Heart
+30@@@42@@@Eddie Floyd@@@Bring It On Home To Me
+31@@@40@@@Leapy Lee@@@Little Arrows
+32@@@25@@@The Unifics@@@Court Of Love
+33@@@57@@@Classics IV Featuring Dennis Yost@@@Stormy
+34@@@34@@@Kasenetz-Katz Singing Orchestral Circus@@@Quick Joey Small (Run Joey Run)
+35@@@15@@@Jeannie C. Riley@@@Harper Valley P.T.A.
+36@@@29@@@The Jimi Hendrix Experience@@@All Along The Watchtower
+37@@@43@@@Frank Sinatra@@@Cycles
+38@@@38@@@Vanilla Fudge@@@Take Me For A Little While
+39@@@46@@@Bull & The Matadors@@@The Funky Judge
+40@@@22@@@Max Frost And The Troopers@@@Shape Of Things To Come
+41@@@48@@@Dionne Warwick@@@Promises, Promises
+42@@@56@@@Peggy Scott & Jo Jo Benson@@@Pickin' Wild Mountain Berries
+43@@@45@@@Engelbert Humperdinck@@@Les Bicyclettes De Belsize
+44@@@32@@@Marvin Gaye@@@Chained
+45@@@101@@@The Temptations@@@Cloud Nine
+46@@@74@@@Judy Collins@@@Both Sides Now
+47@@@73@@@Clarence Carter@@@Too Weak To Fight
+48@@@53@@@Andy Williams with the St. Charles Borromeo Choir@@@Battle Hymn Of The Republic
+49@@@54@@@Bobby Goldsboro@@@The Straight Life
+50@@@60@@@Derek@@@Cinnamon
+51@@@69@@@Magic Lanterns@@@Shame, Shame
+52@@@52@@@Bobby Russell@@@1432 Franklin Pike Circle Hero
+53@@@68@@@1910 Fruitgum Co.@@@Goody Goody Gumdrops
+54@@@65@@@Jose Feliciano@@@The Star-Spangled Banner
+55@@@59@@@Tommy James And The Shondells@@@Do Something To Me
+56@@@63@@@Fantastic Four@@@I Love You Madly
+57@@@64@@@Gene Chandler & Barbara Acklin@@@From The Teacher To The Preacher
+58@@@72@@@Bill Medley@@@Peace Brother Peace
+59@@@58@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Cinderella Sunshine
+60@@@75@@@James Brown@@@Goodbye My Love
+61@@@87@@@Deep Purple@@@Kentucky Woman
+62@@@62@@@The Monkees@@@Porpoise Song
+63@@@84@@@Five By Five@@@Fire
+64@@@81@@@Richard Harris@@@The Yard Went On Forever
+65@@@89@@@Gloria Walker@@@Talking About My Baby
+66@@@94@@@Booker T. & The MG's@@@Hang 'Em High
+67@@@77@@@Ben Colder@@@Harper Valley P.T.A. (Later That Same Day)
+68@@@71@@@Shadows Of Knight@@@Shake
+69@@@79@@@Dean Martin@@@Not Enough Indians
+70@@@78@@@Jackie Wilson@@@For Once In My Life
+71@@@91@@@Jefferson Airplane@@@Crown Of Creation
+72@@@76@@@The Intruders@@@Slow Drag
+73@@@80@@@Sam & Dave@@@Everybody Got To Believe In Somebody
+74@@@95@@@Neil Diamond@@@Sunday Sun
+75@@@97@@@Peaches & Herb@@@Let's Make A Promise
+76@@@101@@@Sergio Mendes & Brasil '66@@@Scarborough Fair
+77@@@101@@@Bobby Bland@@@Rockin' In The Same Old Boat
+78@@@101@@@Wilson Pickett@@@A Man And A Half
+79@@@98@@@Tammy Wynette@@@Stand By Your Man
+80@@@86@@@Martha Reeves & The Vandellas@@@Sweet Darlin'
+81@@@101@@@The Lettermen@@@Put Your Head On My Shoulder
+82@@@82@@@Bobbie Gentry & Glen Campbell@@@Mornin' Glory
+83@@@83@@@Nina Simone@@@Do What You Gotta Do
+84@@@101@@@The Tymes@@@People
+85@@@93@@@Arthur Conley@@@Aunt Dora's Love Soul Shack
+86@@@101@@@Joe Cocker@@@With A Little Help From My Friends
+87@@@101@@@The Fantastic Johnny C@@@(She's) Some Kind Of Wonderful
+88@@@88@@@Marty Robbins@@@I Walk Alone
+89@@@101@@@Barbara Acklin@@@Just Ain't No Love
+90@@@90@@@Mama Cass@@@California Earthquake
+91@@@101@@@The Royal Guardsmen@@@Baby Let's Wait
+92@@@92@@@Gene Pitney@@@Billy You're My Friend
+93@@@101@@@Autry Inman@@@Ballad Of Two Brothers
+94@@@101@@@Patti Drew@@@Hard To Handle
+95@@@101@@@Young Hearts@@@I've Got Love For My Baby
+96@@@96@@@Creedence Clearwater Revival@@@I Put A Spell On You
+97@@@101@@@B.J. Thomas@@@Hooked On A Feeling
+98@@@101@@@Joe Simon@@@I Worry About You
+99@@@99@@@The Fireballs@@@Come On, React!
+100@@@100@@@The Hesitations@@@A Whiter Shade Of Pale

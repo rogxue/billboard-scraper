@@ -1,0 +1,100 @@
+1@@@2@@@Kenny Rogers@@@Lady
+2@@@1@@@Barbra Streisand@@@Woman In Love
+3@@@5@@@Donna Summer@@@The Wanderer
+4@@@4@@@Queen@@@Another One Bites The Dust
+5@@@6@@@Diana Ross@@@I'm Coming Out
+6@@@7@@@Stephanie Mills@@@Never Knew Love Like This Before
+7@@@8@@@Stevie Wonder@@@Master Blaster (Jammin')
+8@@@3@@@The Pointer Sisters@@@He's So Shy
+9@@@14@@@Leo Sayer@@@More Than I Can Say
+10@@@32@@@John Lennon@@@(Just Like) Starting Over
+11@@@12@@@Cliff Richard@@@Dreaming
+12@@@13@@@The Jacksons@@@Lovely One
+13@@@18@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+14@@@17@@@Devo@@@Whip It
+15@@@15@@@Supertramp@@@Dreamer
+16@@@19@@@Pat Benatar@@@Hit Me With Your Best Shot
+17@@@23@@@Neil Diamond@@@Love On The Rocks
+18@@@24@@@Christopher Cross@@@Never Be The Same
+19@@@21@@@Irene Cara@@@Out Here On My Own
+20@@@20@@@Willie Nelson@@@On The Road Again
+21@@@30@@@Bruce Springsteen@@@Hungry Heart
+22@@@22@@@Jackson Browne@@@That Girl Could Sing
+23@@@25@@@Stacy Lattisaw@@@Let Me Be Your Angel
+24@@@27@@@Roger Daltrey@@@Without Your Love
+25@@@10@@@Diana Ross@@@Upside Down
+26@@@26@@@The Rolling Stones@@@She's So Cold
+27@@@9@@@The Doobie Brothers@@@Real Love
+28@@@31@@@Jimmy Hall@@@I'm Happy That Love Has Found You
+29@@@43@@@Barbra Streisand & Barry Gibb@@@Guilty
+30@@@34@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+31@@@37@@@Randy Meisner@@@Deep Inside My Heart
+32@@@38@@@The Korgis@@@Everybody's Got To Learn Sometime
+33@@@11@@@Carly Simon@@@Jesse
+34@@@39@@@John Cougar@@@This Time
+35@@@55@@@Air Supply@@@Every Woman In The World
+36@@@36@@@Billy Joel@@@Sometimes A Fantasy
+37@@@47@@@Diana Ross@@@It's My Turn
+38@@@42@@@The Vapors@@@Turning Japanese
+39@@@41@@@Nielsen/Pearson@@@If You Should Sail
+40@@@45@@@Don Williams@@@I Believe In You
+41@@@50@@@The Police@@@De Do Do Do, De Da Da Da
+42@@@16@@@Air Supply@@@All Out Of Love
+43@@@48@@@Paul Simon@@@One-Trick Pony
+44@@@54@@@Harry Chapin@@@Sequel
+45@@@35@@@AC/DC@@@You Shook Me All Night Long
+46@@@28@@@Boz Scaggs@@@Look What You've Done To Me
+47@@@29@@@Kenny Loggins@@@I'm Alright
+48@@@58@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+49@@@49@@@The Doolittle Band@@@Who Were You Thinkin' Of
+50@@@59@@@Kool & The Gang@@@Celebration
+51@@@33@@@Anne Murray@@@Could I Have This Dance
+52@@@52@@@707@@@I Could Be Good For You
+53@@@40@@@Kansas@@@Hold On
+54@@@46@@@Eddie Rabbitt@@@Drivin' My Life Away
+55@@@57@@@Mac Davis@@@Texas In My Rear View Mirror
+56@@@44@@@Kim Carnes@@@Cry Like A Baby
+57@@@53@@@Paul Simon@@@Late In The Evening
+58@@@51@@@Olivia Newton-John/Electric Light Orchestra@@@Xanadu
+59@@@69@@@Dr. Hook@@@Girls Can Get It
+60@@@56@@@George Benson@@@Give Me The Night
+61@@@61@@@George Benson@@@Love X Love
+62@@@60@@@Al Stewart@@@Midnight Rocks
+63@@@63@@@Johnny Lee@@@Lookin' For Love
+64@@@62@@@Ali Thomson@@@Live Every Minute
+65@@@64@@@Robbie Dupree@@@Hot Rod Hearts
+66@@@65@@@Eddie Money (with Valerie Carter)@@@Let's Be Lovers Again
+67@@@67@@@The Cars@@@Touch And Go
+68@@@75@@@Billy Burnette@@@Don't Say No
+69@@@77@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+70@@@78@@@Robbin Thompson Band@@@Brite Eyes
+71@@@80@@@Tierra@@@Together
+72@@@81@@@The Pointer Sisters@@@Could I Be Dreaming
+73@@@84@@@Cheap Trick@@@Stop This Game
+74@@@87@@@Marcy Levy & Robin Gibb@@@Help Me!
+75@@@85@@@Rupert Holmes@@@Morning Man
+76@@@76@@@Larry Graham@@@When We Get Married
+77@@@89@@@Eddie Rabbitt@@@I Love A Rainy Night
+78@@@86@@@Eric Clapton And His Band@@@Blues Power
+79@@@101@@@The Babys@@@Turn And Walk Away
+80@@@90@@@Bob Seger@@@The Horizontal Bop
+81@@@101@@@Blondie@@@The Tide Is High
+82@@@66@@@Donna Summer@@@Walk Away
+83@@@70@@@Robert John@@@Sherry
+84@@@74@@@The B-52s@@@Private Idaho
+85@@@72@@@Irene Cara@@@Fame
+86@@@101@@@Climax Blues Band@@@Gotta Have More Love
+87@@@68@@@Earth, Wind & Fire@@@Let Me Talk
+88@@@73@@@Amy Holland@@@How Do I Survive
+89@@@101@@@Chic@@@Real People/Chip Off The Old Block
+90@@@101@@@L.T.D.@@@Shine On
+91@@@79@@@The Charlie Daniels Band@@@The Legend Of Wooley Swamp
+92@@@101@@@Pete Townshend@@@Rough Boys
+93@@@71@@@Pure Prairie League@@@I'm Almost Ready
+94@@@101@@@The Reddings@@@Remote Control
+95@@@82@@@Larsen-Feiten Band@@@Who'll Be The Fool Tonight
+96@@@83@@@Commodores@@@Heroes
+97@@@88@@@Burt Reynolds@@@Let's Do Something Cheap And Superficial
+98@@@98@@@Zapp@@@More Bounce To The Ounce Part I
+99@@@95@@@Teddy Pendergrass@@@Can't We Try
+100@@@91@@@Electric Light Orchestra@@@All Over The World

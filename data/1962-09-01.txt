@@ -1,0 +1,100 @@
+1@@@5@@@Tommy Roe@@@Sheila
+2@@@1@@@Little Eva@@@The Loco-Motion
+3@@@2@@@Neil Sedaka@@@Breaking Up Is Hard To Do
+4@@@4@@@Ray Charles@@@You Don't Know Me
+5@@@7@@@Claudine Clark@@@Party Lights
+6@@@8@@@Elvis Presley With The Jordanaires@@@She's Not You
+7@@@3@@@Bobby Darin@@@Things
+8@@@6@@@Bobby Vinton@@@Roses Are Red (My Love)
+9@@@12@@@Connie Francis@@@Vacation
+10@@@10@@@Dion@@@Little Diane
+11@@@22@@@Nat King Cole@@@Ramblin' Rose
+12@@@18@@@Timi Yuro@@@What's A Matter Baby (Is It Hurting You)
+13@@@9@@@Ray Stevens@@@Ahab, The Arab
+14@@@30@@@Johnny Crawford@@@Your Nose Is Gonna Grow
+15@@@21@@@Billy Vaughn And His Orchestra@@@A Swingin' Safari
+16@@@24@@@Baby Cortez@@@Rinky Dink
+17@@@35@@@Rick Nelson@@@Teen Age Idol
+18@@@23@@@Marty Robbins@@@Devil Woman
+19@@@31@@@The Duprees@@@You Belong To Me
+20@@@25@@@Jerry Butler@@@Make It Easy On Yourself
+21@@@17@@@Brian Hyland@@@Sealed With A Kiss
+22@@@65@@@The Four Seasons@@@Sherry
+23@@@19@@@Burl Ives@@@Call Me Mr. In-Between
+24@@@11@@@The Orlons@@@The Wah Watusi
+25@@@37@@@Johnny Tillotson@@@Send Me The Pillow You Dream On
+26@@@32@@@Bob Braun@@@Till Death Do Us Part
+27@@@26@@@The Isley Brothers@@@Twist And Shout
+28@@@14@@@Barbara Lynn@@@You'll Lose A Good Thing
+29@@@13@@@Sam Cooke@@@Bring It On Home To Me
+30@@@36@@@Bent Fabric and His Piano@@@Alley Cat
+31@@@40@@@The Belmonts@@@Come On Little Angel
+32@@@39@@@Mary Wells@@@You Beat Me To The Punch
+33@@@34@@@Bobby Bare@@@Shame On Me
+34@@@15@@@Brenda Lee@@@Heart In Hand
+35@@@20@@@Pat Boone@@@Speedy Gonzales
+36@@@42@@@Gene McDaniels@@@Point Of No Return
+37@@@50@@@The Springfields@@@Silver Threads And Golden Needles
+38@@@47@@@Jimmy Clanton@@@Venus In Blue Jeans
+39@@@49@@@The Marvelettes@@@Beechwood 4-5789
+40@@@48@@@Booker T. & The MG's@@@Green Onions
+41@@@44@@@Etta James@@@Stop The Wedding
+42@@@52@@@The Majors@@@A Wonderful Dream
+43@@@55@@@Chris Montez@@@Let's Dance
+44@@@16@@@Claude King@@@Wolverton Mountain
+45@@@61@@@Dickey Lee@@@Patches
+46@@@59@@@Peter, Paul & Mary@@@If I Had A Hammer (The Hammer Song)
+47@@@27@@@David Rose and His Orchestra@@@The Stripper
+48@@@58@@@Jo Ann Campbell@@@I'm The Girl From Wolverton Mountain
+49@@@51@@@Lawrence Welk And His Orchestra@@@Baby Elephant Walk
+50@@@53@@@Martin Denny and His Orchestra@@@A Taste Of Honey
+51@@@62@@@The Beach Boys@@@Surfin' Safari
+52@@@64@@@Bobby Vinton@@@I Love You The Way You Are
+53@@@56@@@Connie Stevens@@@Mr. Songwriter
+54@@@28@@@Eddie Hodges@@@(Girls, Girls, Girls) Made To Love
+55@@@66@@@Elvis Presley With The Jordanaires@@@Just Tell Her Jim Said Hello
+56@@@69@@@Brook Benton@@@Lie To Me
+57@@@71@@@Joey Dee & the Starliters@@@What Kind Of Love Is This
+58@@@63@@@Patti Page@@@The Boys' Night Out
+59@@@74@@@The Rivingtons@@@Papa-Oom-Mow-Mow
+60@@@70@@@The Dovells@@@Hully Gully Baby
+61@@@29@@@Richard Chamberlain@@@Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+62@@@73@@@Tony Bennett@@@I Left My Heart In San Francisco
+63@@@54@@@George Maharis@@@Love Me As I Love You
+64@@@41@@@Ray Charles@@@I Can't Stop Loving You
+65@@@68@@@Dick Roman@@@(Theme from) A Summer Place
+66@@@72@@@Bo Diddley@@@You Can't Judge A Book By The Cover
+67@@@33@@@Duane Eddy@@@The Ballad Of Paladin
+68@@@89@@@Bobby Vinton@@@Rain Rain Go Away
+69@@@82@@@The Contours@@@Do You Love Me
+70@@@46@@@Sam Cooke@@@Having A Party
+71@@@75@@@Al Casey Combo@@@Jivin' Around
+72@@@78@@@Bobby Bland@@@Yield Not To Temptation
+73@@@90@@@Carole King@@@It Might As Well Rain Until September
+74@@@67@@@The Ventures@@@Lolita Ya-Ya
+75@@@80@@@Paul Anka@@@Every Night (Without You)
+76@@@77@@@Glen Campbell@@@Too Late To Worry - Too Blue To Cry
+77@@@86@@@Florraine Darlin@@@Long As The Rose Is Red
+78@@@101@@@Bobby Vee@@@Punish Her
+79@@@87@@@Paul Petersen@@@Lollipops And Roses
+80@@@81@@@Don Gardner And Dee Dee Ford@@@Glory Of Love
+81@@@92@@@The Lettermen@@@Silly Boy (She Doesn't Love You)
+82@@@84@@@The Valentinos@@@Lookin' For A Love
+83@@@83@@@Don Gardner And Dee Dee Ford@@@Don't You Worry
+84@@@60@@@King Curtis and The Noble Knights@@@Beach Party
+85@@@79@@@Billy Stewart@@@Reap What You Sow
+86@@@101@@@Kris Jensen@@@Torture
+87@@@91@@@Bill Black's Combo@@@So What
+88@@@101@@@The Victor Feldman Quartet@@@A Taste Of Honey
+89@@@76@@@Dinah Washington@@@I Want To Be Loved
+90@@@101@@@Sammy Davis Jr.@@@What Kind Of Fool Am I
+91@@@93@@@The Castells@@@Oh! What It Seemed To Be
+92@@@97@@@The Fiestas@@@Broken Heart
+93@@@101@@@Dinah Washington@@@I Wouldn't Know (What To Do)
+94@@@101@@@Jimmie Rodgers@@@No One Will Ever Know
+95@@@101@@@Chuck Jackson@@@I Keep Forgettin'
+96@@@98@@@Bunker Hill@@@Hide & Go Seek, Part I
+97@@@88@@@Dinah Washington@@@For All We Know
+98@@@99@@@The Wanderers@@@There Is No Greater Love
+99@@@101@@@Gene Pitney@@@If I Didn't Have A Dime (To Play The Jukebox)
+100@@@101@@@Jimmy Smith@@@Ol' Man River

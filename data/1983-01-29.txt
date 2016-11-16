@@ -1,0 +1,100 @@
+1@@@1@@@Men At Work@@@Down Under
+2@@@5@@@Toto@@@Africa
+3@@@4@@@Marvin Gaye@@@Sexual Healing
+4@@@3@@@Don Henley@@@Dirty Laundry
+5@@@2@@@Michael Jackson And Paul McCartney@@@The Girl Is Mine
+6@@@6@@@Daryl Hall & John Oates@@@Maneater
+7@@@7@@@Patti Austin With James Ingram@@@Baby, Come To Me
+8@@@8@@@The Clash@@@Rock The Casbah
+9@@@12@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+10@@@11@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+11@@@13@@@Phil Collins@@@You Can't Hurry Love
+12@@@14@@@Little River Band@@@The Other Guy
+13@@@9@@@Toni Basil@@@Mickey
+14@@@17@@@Adam Ant@@@Goody Two Shoes
+15@@@16@@@Kenny Loggins@@@Heart To Heart
+16@@@23@@@Stray Cats@@@Stray Cat Strut
+17@@@27@@@Musical Youth@@@Pass The Dutchie
+18@@@20@@@Billy Joel@@@Allentown
+19@@@19@@@John Cougar@@@Hand To Hold On To
+20@@@21@@@Tom Petty And The Heartbreakers@@@You Got Lucky
+21@@@25@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+22@@@22@@@Fleetwood Mac@@@Love In Store
+23@@@29@@@Christopher Cross@@@All Right
+24@@@31@@@Culture Club@@@Do You Really Want To Hurt Me
+25@@@26@@@Juice Newton@@@Heart Of The Night
+26@@@10@@@Dionne Warwick@@@Heartbreaker
+27@@@34@@@Duran Duran@@@Hungry Like The Wolf
+28@@@35@@@Lionel Richie@@@You Are
+29@@@30@@@Peter Gabriel@@@Shock The Monkey
+30@@@32@@@Moving Pictures@@@What About Me
+31@@@33@@@A Flock Of Seagulls@@@Space Age Love Song
+32@@@46@@@Pretenders@@@Back On The Chain Gang
+33@@@36@@@Golden Earring@@@Twilight Zone
+34@@@15@@@Laura Branigan@@@Gloria
+35@@@37@@@Ray Parker Jr.@@@Bad Boy
+36@@@101@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+37@@@47@@@Michael Jackson@@@Billie Jean
+38@@@42@@@Linda Ronstadt@@@I Knew You When
+39@@@43@@@Saga@@@On The Loose
+40@@@40@@@Sonny Charles@@@Put It In A Magazine
+41@@@41@@@Glenn Frey@@@All Those Lies
+42@@@44@@@Donna Summer@@@The Woman In Me
+43@@@18@@@ABC@@@The Look Of Love (Part One)
+44@@@24@@@The J. Geils Band@@@I Do
+45@@@53@@@Joe Jackson@@@Breaking Us In Two
+46@@@48@@@Frida@@@I Know There's Something Going On
+47@@@56@@@Pia Zadora@@@The Clapping Song
+48@@@50@@@Lanier & Co.@@@After I Cry Tonight
+49@@@59@@@Neil Diamond@@@I'm Alive
+50@@@28@@@Joe Jackson@@@Steppin' Out
+51@@@101@@@Daryl Hall & John Oates@@@One On One
+52@@@64@@@Olivia Newton-John@@@Tied Up
+53@@@66@@@Steel Breeze@@@Dreamin' Is Easy
+54@@@78@@@Earth, Wind & Fire@@@Fall In Love With Me
+55@@@38@@@Air Supply@@@Two Less Lonely People In The World
+56@@@101@@@Supertramp Featuring Rick Davies@@@My Kind Of Lady
+57@@@57@@@Tyrone Davis@@@Are You Serious
+58@@@58@@@Rough Trade@@@All Touch
+59@@@61@@@Poco@@@Shoot For The Moon
+60@@@39@@@Barry Manilow@@@Memory
+61@@@101@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+62@@@72@@@Night Ranger@@@Don't Tell Me You Love Me
+63@@@63@@@Little Steven@@@Forever
+64@@@70@@@Vandenberg@@@Burning Heart
+65@@@73@@@Randy Newman & Paul Simon@@@The Blues
+66@@@77@@@Don Henley@@@I Can't Stand Still
+67@@@69@@@Chaka Khan@@@Got To Be There
+68@@@45@@@America@@@Right Before Your Eyes
+69@@@79@@@Dexys Midnight Runners@@@Come On Eileen
+70@@@101@@@Jefferson Starship@@@Winds Of Change
+71@@@71@@@Unipop@@@What If (I Said I Love You)
+72@@@101@@@ABC@@@Poison Arrow
+73@@@84@@@Evelyn King@@@Betcha She Don't Love You
+74@@@80@@@Thompson Twins@@@Lies
+75@@@81@@@Missing Persons@@@Windows
+76@@@76@@@Michael Murphey@@@Still Taking Chances
+77@@@101@@@Greg Kihn Band@@@Jeopardy
+78@@@88@@@The Weather Girls@@@It's Raining Men
+79@@@86@@@The John Hall Band@@@Love Me Again
+80@@@90@@@Survivor@@@The One That Really Matters
+81@@@101@@@Chicago@@@What You're Missing
+82@@@82@@@Utopia@@@Feet Don't Fail Me Now
+83@@@89@@@Firefall@@@Always
+84@@@101@@@Neil Young@@@Little Thing Called Love
+85@@@49@@@Stray Cats@@@Rock This Town
+86@@@101@@@Donald Fagen@@@New Frontier
+87@@@51@@@Lionel Richie@@@Truly
+88@@@52@@@Kool & The Gang@@@Let's Go Dancin' (ooh La, La, La)
+89@@@101@@@Crosby, Stills & Nash@@@Too Much Love To Hide
+90@@@101@@@Stephen Bishop@@@It Might Be You
+91@@@54@@@Tavares@@@A Penny For Your Thoughts
+92@@@55@@@Wolf@@@Papa Was A Rollin' Stone
+93@@@60@@@The Steve Miller Band@@@Give It Up
+94@@@62@@@Kim Carnes@@@Does It Make You Remember
+95@@@65@@@Hot Chocolate@@@Are You Getting Enough Happiness
+96@@@67@@@The Spinners@@@Funny How Time Slips Away
+97@@@68@@@The Who@@@Eminence Front
+98@@@75@@@Dire Straits@@@Industrial Disease
+99@@@85@@@Pat Benatar@@@Shadows Of The Night
+100@@@87@@@The Alan Parsons Project@@@Psychobabble

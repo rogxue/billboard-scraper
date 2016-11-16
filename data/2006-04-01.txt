@@ -1,0 +1,100 @@
+1@@@2@@@Sean Paul@@@Temperature
+2@@@5@@@Daniel Powter@@@Bad Day
+3@@@1@@@Ne-Yo@@@So Sick
+4@@@3@@@James Blunt@@@You're Beautiful
+5@@@4@@@Mary J. Blige@@@Be Without You
+6@@@7@@@Natasha Bedingfield@@@Unwritten
+7@@@9@@@Dem Franchize Boyz Featuring Lil Peanut & Charlay@@@Lean Wit It, Rock Wit It
+8@@@6@@@T-Pain Featuring Mike Jones@@@I'm N Luv (Wit A Stripper)
+9@@@10@@@Chris Brown@@@Yo (Excuse Me Miss)
+10@@@8@@@Beyonce Featuring Slim Thug@@@Check On It
+11@@@12@@@Cascada@@@Everytime We Touch
+12@@@11@@@Nelly Featuring Paul Wall, Ali & Gipp@@@Grillz
+13@@@14@@@Bubba Sparxxx Featuring Ying Yang Twins & Mr. ColliPark@@@Ms. New Booty
+14@@@16@@@The Pussycat Dolls Featuring will.i.am@@@Beep
+15@@@13@@@Eminem Featuring Nate Dogg@@@Shake That
+16@@@19@@@Kelly Clarkson@@@Walk Away
+17@@@17@@@Fall Out Boy@@@Dance, Dance
+18@@@18@@@Busta Rhymes@@@Touch It
+19@@@15@@@Jamie Foxx Featuring Ludacris@@@Unpredictable
+20@@@23@@@Keyshia Cole@@@Love
+21@@@21@@@The All-American Rejects@@@Dirty Little Secret
+22@@@26@@@Kelly Clarkson@@@Because Of You
+23@@@29@@@Bow Wow Featuring J-Kwon & Jermaine Dupri@@@Fresh Azimiz
+24@@@20@@@Carrie Underwood@@@Jesus, Take The Wheel
+25@@@32@@@Bon Jovi@@@Who Says You Can't Go Home
+26@@@24@@@The Black Eyed Peas@@@Pump It
+27@@@36@@@Chamillionaire Featuring Krayzie Bone@@@Ridin'
+28@@@25@@@The Black Eyed Peas@@@My Humps
+29@@@30@@@Daddy Yankee@@@Rompe
+30@@@28@@@Matisyahu@@@King Without A Crown
+31@@@22@@@Pink@@@Stupid Girls
+32@@@51@@@The All-American Rejects@@@Move Along
+33@@@27@@@Chris Brown@@@Run It!
+34@@@31@@@The Pussycat Dolls@@@Stickwitu
+35@@@58@@@E-40 Featuring Keak Da Sneak@@@Tell Me When To Go
+36@@@37@@@Keith Urban@@@Tonight I Wanna Cry
+37@@@38@@@Fall Out Boy@@@Sugar, We're Goin' Down
+38@@@44@@@Rihanna@@@SOS
+39@@@34@@@Kanye West Featuring Jamie Foxx@@@Gold Digger
+40@@@35@@@Nickelback@@@Photograph
+41@@@101@@@Pearl Jam@@@World Wide Suicide
+42@@@75@@@Nickelback@@@Savin' Me
+43@@@52@@@Three 6 Mafia@@@Poppin' My Collar
+44@@@53@@@Teddy Geiger@@@For You I Will (Confidence)
+45@@@39@@@Lifehouse@@@You And Me
+46@@@49@@@Rascal Flatts@@@What Hurts The Most
+47@@@42@@@Kanye West Featuring Lupe Fiasco@@@Touch The Sky
+48@@@56@@@The Fray@@@Over My Head (Cable Car)
+49@@@55@@@Kenny Chesney@@@Living In Fast Forward
+50@@@43@@@Gorillaz@@@Feel Good Inc
+51@@@45@@@Josh Turner@@@Your Man
+52@@@54@@@Saving Jane@@@Girl Next Door
+53@@@57@@@Rob Thomas@@@Ever The Same
+54@@@65@@@T.I.@@@What You Know
+55@@@46@@@Brad Paisley Featuring Dolly Parton@@@When I Get Where I'm Going
+56@@@60@@@50 Cent & Olivia@@@Best Friend
+57@@@82@@@Panic! At The Disco@@@I Write Sins Not Tragedies
+58@@@41@@@Juvenile@@@Rodeo
+59@@@59@@@Jack Johnson@@@Upside Down
+60@@@63@@@Toby Keith@@@Get Drunk And Be Somebody
+61@@@62@@@Aly & AJ@@@Rush
+62@@@68@@@Montgomery Gentry@@@She Don't Tell Me To
+63@@@71@@@Kirk Franklin@@@Looking For You
+64@@@72@@@Blake Shelton@@@Nobody But Me
+65@@@67@@@Brooks & Dunn@@@Believe
+66@@@81@@@Ne-Yo@@@When You're Mad
+67@@@61@@@Ashlee Simpson@@@L.O.V.E.
+68@@@83@@@Paul Wall@@@Girl
+69@@@76@@@Sara Evans@@@Cheatin'
+70@@@73@@@Nick Lachey@@@What's Left Of Me
+71@@@66@@@James Blunt@@@Goodbye My Lover
+72@@@88@@@Jason Aldean@@@Why
+73@@@74@@@Juelz Santana@@@Oh Yes (aka 'Postman')
+74@@@33@@@Sheryl Crow & Sting@@@Always On Your Side
+75@@@98@@@Bo Bice@@@The Real Thing
+76@@@69@@@Weezer@@@Perfect Situation
+77@@@77@@@Madonna@@@Sorry
+78@@@89@@@Heather Headley@@@In My Mind
+79@@@86@@@Anthony Hamilton@@@Can't Let Go
+80@@@79@@@Zac Efron, Andrew Seeley & Vanessa Anne Hudgens@@@Breaking Free
+81@@@94@@@Avant@@@4 Minutes
+82@@@70@@@Trey Songz@@@Gotta Go
+83@@@78@@@Yellowcard@@@Lights And Sounds
+84@@@101@@@Shakira Featuring Wyclef Jean@@@Hips Don't Lie
+85@@@91@@@KT Tunstall@@@Black Horse & The Cherry Tree
+86@@@85@@@Lil Rob@@@Bring Out The Freak In You
+87@@@80@@@D4L@@@Betcha Can't Do It Like Me
+88@@@101@@@Panic! At The Disco@@@The Only Difference Between Martyrdom And Suicide Is Press Coverage
+89@@@101@@@Dierks Bentley@@@Settle For A Slowdown
+90@@@87@@@Miranda Lambert@@@Kerosene
+91@@@97@@@Jack Ingram@@@Wherever You Are
+92@@@100@@@LeAnn Rimes@@@Something's Gotta Give
+93@@@101@@@Remy Ma@@@Conceited (There's Something About Remy)
+94@@@101@@@10 Years@@@Wasteland
+95@@@93@@@Purple Ribbon All-Stars@@@Kryptonite (I'm On It)
+96@@@101@@@Shawnna@@@Gettin' Some
+97@@@101@@@Yeah Yeah Yeahs@@@Gold Lion
+98@@@92@@@Young Jeezy@@@My Hood
+99@@@99@@@Coldplay@@@Talk
+100@@@84@@@Gwen Stefani@@@Crash

@@ -1,0 +1,100 @@
+1@@@1@@@Adele@@@Hello
+2@@@2@@@Justin Bieber@@@Sorry
+3@@@3@@@Justin Bieber@@@Love Yourself
+4@@@4@@@Drake@@@Hotline Bling
+5@@@5@@@Justin Bieber@@@What Do You Mean?
+6@@@8@@@Shawn Mendes@@@Stitches
+7@@@6@@@Selena Gomez@@@Same Old Love
+8@@@7@@@Alessia Cara@@@Here
+9@@@13@@@twenty one pilots@@@Stressed Out
+10@@@10@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+11@@@9@@@The Weeknd@@@The Hills
+12@@@14@@@Fetty Wap Featuring Remy Boyz@@@679
+13@@@12@@@Drake & Future@@@Jumpman
+14@@@23@@@Elle King@@@Ex's & Oh's
+15@@@24@@@Post Malone@@@White Iverson
+16@@@17@@@Ellie Goulding@@@On My Mind
+17@@@16@@@Travi$ Scott@@@Antidote
+18@@@22@@@Taylor Swift@@@Wildest Dreams
+19@@@19@@@Silento@@@Watch Me
+20@@@15@@@The Weeknd@@@In The Night
+21@@@18@@@Bryson Tiller@@@Don't
+22@@@20@@@The Chainsmokers Featuring ROZES@@@Roses
+23@@@27@@@Demi Lovato@@@Confident
+24@@@21@@@The Weeknd@@@Can't Feel My Face
+25@@@25@@@Thomas Rhett@@@Die A Happy Man
+26@@@31@@@One Direction@@@Perfect
+27@@@29@@@Fetty Wap@@@Trap Queen
+28@@@33@@@Shawn Mendes & Camila Cabello@@@I Know What You Did Last Summer
+29@@@32@@@Sam Hunt@@@Break Up In A Small Town
+30@@@41@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+31@@@42@@@Daya@@@Hide Away
+32@@@26@@@Tory Lanez@@@Say It
+33@@@28@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+34@@@37@@@Flo Rida@@@My House
+35@@@36@@@G-Eazy x Bebe Rexha@@@Me, Myself & I
+36@@@57@@@Charlie Puth@@@One Call Away
+37@@@34@@@iLoveMemphis@@@Hit The Quan
+38@@@44@@@Fetty Wap@@@Again
+39@@@35@@@Ariana Grande@@@Focus
+40@@@46@@@R. City Featuring Adam Levine@@@Locked Away
+41@@@43@@@DNCE@@@Cake By The Ocean
+42@@@39@@@Selena Gomez@@@Hands To Myself
+43@@@40@@@J. Cole@@@No Role Modelz
+44@@@50@@@Cam@@@Burning House
+45@@@45@@@Future Featuring Drake@@@Where Ya At
+46@@@51@@@Bryson Tiller@@@Exchange
+47@@@54@@@Adele@@@When We Were Young
+48@@@52@@@Yo Gotti Featuring Nicki Minaj@@@Down In The DM
+49@@@49@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+50@@@66@@@Rachel Platten@@@Stand By You
+51@@@48@@@DLOW@@@Bet You Can't Do It Like Me
+52@@@56@@@DeJ Loaf Featuring Big Sean@@@Back Up
+53@@@60@@@Luke Bryan Featuring Karen Fairchild@@@Home Alone Tonight
+54@@@55@@@Coldplay@@@Adventure Of A Lifetime
+55@@@68@@@Fall Out Boy@@@Irresistible
+56@@@65@@@Jason Aldean@@@Gonna Know We Were Here
+57@@@61@@@Drake & Future@@@Big Rings
+58@@@59@@@Justin Bieber@@@I'll Show You
+59@@@53@@@Chris Brown@@@Back To Sleep
+60@@@71@@@Halsey@@@New Americana
+61@@@64@@@Brothers Osborne@@@Stay A Little Longer
+62@@@83@@@Andy Grammer@@@Good To Be Alive (Hallelujah)
+63@@@58@@@Missy Elliott Featuring Pharrell Williams@@@WTF (Where They From)
+64@@@69@@@Jana Kramer@@@I Got The Boy
+65@@@70@@@LoCash@@@I Love This Life
+66@@@79@@@Drake@@@Right Hand
+67@@@63@@@Young Thug@@@Best Friend
+68@@@67@@@Gwen Stefani@@@Used To Love You
+69@@@62@@@Nelly Featuring Jeremih@@@The Fix
+70@@@100@@@Jason Derulo@@@Get Ugly
+71@@@76@@@Rae Sremmurd@@@Come Get Her
+72@@@82@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+73@@@75@@@Dawin@@@Dessert
+74@@@86@@@Fetty Wap@@@RGF Island
+75@@@74@@@Blake Shelton@@@Gonna
+76@@@97@@@Kelsea Ballerini@@@Dibs
+77@@@90@@@Bryson Tiller@@@Sorry Not Sorry
+78@@@73@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+79@@@94@@@Kevin Gates@@@Really Really
+80@@@96@@@Tori Kelly@@@Hollow
+81@@@92@@@Zac Brown Band@@@Beautiful Drug
+82@@@88@@@Granger Smith@@@Backroad Song
+83@@@87@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+84@@@85@@@Tim McGraw@@@Top Of The World
+85@@@101@@@2 Chainz@@@Watch Out
+86@@@95@@@Justin Bieber@@@Purpose
+87@@@101@@@Carrie Underwood@@@Smoke Break
+88@@@78@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+89@@@77@@@Chris Brown@@@Liquor
+90@@@98@@@James Bay@@@Let It Go
+91@@@99@@@Future@@@Stick Talk
+92@@@101@@@Eric Church@@@Mr. Misunderstood
+93@@@84@@@Justin Bieber Featuring Halsey@@@The Feeling
+94@@@101@@@Keith Urban@@@Break On Me.
+95@@@80@@@Chris Brown@@@Zero
+96@@@101@@@Fetty Wap Featuring Monty@@@Jugg
+97@@@72@@@Cole Swindell@@@You Should Be Here
+98@@@101@@@Randy Houser@@@We Went
+99@@@101@@@Florida Georgia Line@@@Confession
+100@@@93@@@Big Sean Featuring Chris Brown & Ty Dolla $ign@@@Play No Games

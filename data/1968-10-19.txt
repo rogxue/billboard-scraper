@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Hey Jude
+2@@@3@@@The Crazy World Of Arthur Brown@@@Fire
+3@@@4@@@O.C. Smith@@@Little Green Apples
+4@@@2@@@Jeannie C. Riley@@@Harper Valley P.T.A.
+5@@@5@@@The O'Kaysions@@@Girl Watcher
+6@@@6@@@The Grass Roots@@@Midnight Confessions
+7@@@7@@@The Vogues@@@My Special Angel
+8@@@8@@@Bee Gees@@@I've Gotta Get A Message To You
+9@@@9@@@Gary Puckett And The Union Gap@@@Over You
+10@@@14@@@James Brown@@@Say It Loud - I'm Black And I'm Proud (Part 1)
+11@@@11@@@The Chambers Brothers@@@Time Has Come Today
+12@@@17@@@Creedence Clearwater Revival@@@Suzie Q. (Part One)
+13@@@18@@@Mary Hopkin@@@Those Were The Days
+14@@@24@@@The Turtles@@@Elenore
+15@@@19@@@Big Brother & The Holding Company@@@Piece Of My Heart
+16@@@10@@@Clarence Carter@@@Slip Away
+17@@@15@@@The Beatles@@@Revolution
+18@@@28@@@Jerry Butler@@@Hey, Western Union Man
+19@@@38@@@Johnny Nash@@@Hold Me Tight
+20@@@29@@@The Jimi Hendrix Experience@@@All Along The Watchtower
+21@@@13@@@Aretha Franklin@@@I Say A Little Prayer
+22@@@50@@@Cream@@@White Room
+23@@@36@@@The Impressions@@@Fool For You
+24@@@22@@@Sergio Mendes & Brasil '66@@@The Fool On The Hill
+25@@@20@@@Don Fardon@@@(The Lament Of The Cherokee) Indian Reservation
+26@@@26@@@Max Frost And The Troopers@@@Shape Of Things To Come
+27@@@12@@@The Rascals@@@People Got To Be Free
+28@@@23@@@1910 Fruitgum Co.@@@1, 2, 3, Red Light
+29@@@16@@@Deep Purple@@@Hush
+30@@@27@@@Al Wilson@@@The Snake
+31@@@21@@@Canned Heat@@@On The Road Again
+32@@@32@@@Iron Butterfly@@@In-A-Gadda-Da-Vida
+33@@@47@@@Marvin Gaye@@@Chained
+34@@@34@@@The Equals@@@Baby, Come Back
+35@@@31@@@Jr. Walker & The All Stars@@@Hip City - Pt. 2
+36@@@40@@@The Delfonics@@@Break Your Promise
+37@@@57@@@Donovan@@@Lalena
+38@@@69@@@Marvin Gaye & Tammi Terrell@@@Keep On Lovin' Me Honey
+39@@@46@@@The Unifics@@@Court Of Love
+40@@@45@@@Andy Kim@@@Shoot'em Up, Baby
+41@@@41@@@Gladys Knight And The Pips@@@I Wish It Would Rain
+42@@@52@@@The 5th Dimension@@@Sweet Blindness
+43@@@101@@@Diana Ross & The Supremes@@@Love Child
+44@@@51@@@Archie Bell & The Drells@@@Do The Choo Choo
+45@@@56@@@Steppenwolf@@@Magic Carpet Ride
+46@@@49@@@Wilson Pickett@@@I Found A True Love
+47@@@43@@@Big Brother & The Holding Company@@@Down On Me
+48@@@39@@@Dionne Warwick@@@Who Is Gonna Love Me?
+49@@@101@@@Jose Feliciano@@@Hi-Heel Sneakers
+50@@@37@@@The Box Tops@@@I Met Her In Church
+51@@@53@@@The Avant-Garde@@@Naturally Stoned
+52@@@54@@@Glen Campbell@@@Gentle On My Mind
+53@@@35@@@Tom Jones@@@Help Yourself
+54@@@58@@@Vanilla Fudge@@@Take Me For A Little While
+55@@@55@@@Otis Redding@@@I've Got Dreams To Remember
+56@@@60@@@The Archies@@@Bang-Shang-A-Lang
+57@@@67@@@The Masqueraders@@@I Ain't Got To Love Nobody Else
+58@@@63@@@Bobby Womack@@@Fly Me To The Moon
+59@@@59@@@Five Stairsteps & Cubie@@@Don't Change Your Love
+60@@@44@@@The Cowsills@@@Poor Baby
+61@@@61@@@Bull & The Matadors@@@The Funky Judge
+62@@@89@@@The Monkees@@@Porpoise Song
+63@@@76@@@The Marvelettes@@@Destination: Anywhere
+64@@@78@@@Southwest F.O.B.@@@Smell Of Incense
+65@@@65@@@Nancy Wilson@@@Peace Of Mind
+66@@@72@@@Four Tops@@@I'm In A Different World
+67@@@77@@@The Dells@@@Always Together
+68@@@85@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Cinderella Sunshine
+69@@@83@@@Elvis Presley With The Jordanaires@@@A Little Less Conversation
+70@@@97@@@Leapy Lee@@@Little Arrows
+71@@@71@@@Hugh Masekela@@@Puffin' On Down The Track
+72@@@101@@@Ohio Express@@@Chewy Chewy
+73@@@101@@@Peggy Scott & Jo Jo Benson@@@Pickin' Wild Mountain Berries
+74@@@79@@@Fantastic Four@@@I Love You Madly
+75@@@75@@@Joe Simon@@@Message From Maria
+76@@@86@@@Kasenetz-Katz Singing Orchestral Circus@@@Quick Joey Small (Run Joey Run)
+77@@@84@@@Eivets Rednow@@@Alfie
+78@@@80@@@Los Pop Tops@@@Oh Lord, Why Lord
+79@@@101@@@Eddie Floyd@@@Bring It On Home To Me
+80@@@94@@@Frank Sinatra@@@Cycles
+81@@@99@@@Joe Tex@@@You Need Me, Baby
+82@@@82@@@Jose Feliciano@@@Hitchcock Railway
+83@@@100@@@The Moody Blues@@@Ride My See-Saw
+84@@@90@@@B.B. King@@@You Put It On Me
+85@@@98@@@Tommy James And The Shondells@@@Do Something To Me
+86@@@101@@@Carla Thomas@@@Where Do I Go
+87@@@87@@@The Buffalo Springfield@@@On The Way Home
+88@@@88@@@Professor Morrison's Lollipop@@@You Got The Love
+89@@@101@@@Gene Chandler & Barbara Acklin@@@From The Teacher To The Preacher
+90@@@95@@@Ricardo Ray@@@Nitty Gritty
+91@@@92@@@Willie Mitchell@@@Up-Hard
+92@@@101@@@Ray Charles@@@Listen, They're Playing My Song
+93@@@93@@@King Curtis & The Kingpins@@@Harper Valley P.T.A.
+94@@@101@@@Andy Williams with the St. Charles Borromeo Choir@@@Battle Hymn Of The Republic
+95@@@101@@@The Mauds@@@Soul Drippin'
+96@@@96@@@Mason Williams@@@Baroque-A-Nova
+97@@@101@@@Engelbert Humperdinck@@@Les Bicyclettes De Belsize
+98@@@101@@@Robert Knight@@@Isn't It Lonely Together
+99@@@101@@@The Sandpebbles@@@Never My Love
+100@@@101@@@Nina Simone@@@Do What You Gotta Do

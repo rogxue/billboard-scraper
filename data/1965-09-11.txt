@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Help!
+2@@@2@@@Bob Dylan@@@Like A Rolling Stone
+3@@@9@@@Barry McGuire@@@Eve Of Destruction
+4@@@7@@@We Five@@@You Were On My Mind
+5@@@3@@@The Beach Boys@@@California Girls
+6@@@4@@@The Righteous Brothers@@@Unchained Melody
+7@@@6@@@Sonny & Cher@@@I Got You Babe
+8@@@8@@@James Brown And The Famous Flames@@@Papa's Got A Brand New Bag (Part I)
+9@@@12@@@The Turtles@@@It Ain't Me Babe
+10@@@15@@@Ramsey Lewis Trio@@@The In Crowd
+11@@@22@@@The McCoys@@@Hang On Sloopy
+12@@@5@@@Four Tops@@@It's The Same Old Song
+13@@@25@@@The Dave Clark Five@@@Catch Us If You Can
+14@@@19@@@The Yardbirds@@@Heart Full Of Soul
+15@@@10@@@Mel Carter@@@Hold Me, Thrill Me, Kiss Me
+16@@@11@@@The Supremes@@@Nothing But Heartaches
+17@@@13@@@Billy Joe Royal@@@Down In The Boondocks
+18@@@23@@@Freddy Cannon@@@Action
+19@@@27@@@Sonny@@@Laugh At Me
+20@@@16@@@The Miracles@@@The Tracks Of My Tears
+21@@@24@@@Dean Martin@@@Houston
+22@@@17@@@The Temptations@@@Since I Lost My Baby
+23@@@14@@@Barbara Lewis@@@Baby, I'm Yours
+24@@@18@@@Cher@@@All I Really Want To Do
+25@@@21@@@Wilson Pickett@@@In The Midnight Hour
+26@@@33@@@The Animals@@@We Gotta Get Out Of This Place
+27@@@30@@@Edwin Starr@@@Agent Double-O-Soul
+28@@@39@@@Marianne Faithfull@@@Summer Nights
+29@@@29@@@Jr. Walker & The All Stars@@@Shake And Fingerpop
+30@@@34@@@Barbara Mason@@@Sad, Sad Girl
+31@@@51@@@The Fortunes@@@You've Got Your Troubles
+32@@@48@@@Sonny & Cher@@@Baby Don't Go
+33@@@20@@@Gary Lewis And The Playboys@@@Save Your Heart For Me
+34@@@32@@@Sam Cooke@@@Sugar Dumpling
+35@@@37@@@The Kinks@@@Who'll Be The Next In Line
+36@@@28@@@Gene Pitney@@@Looking Through The Eyes Of Love
+37@@@35@@@Chad & Jeremy@@@I Don't Wanna Lose You Baby
+38@@@45@@@The Jive Five (featuring Eugene Pitt)@@@I'm A Happy Man
+39@@@41@@@Martha & The Vandellas@@@You've Been In Love Too Long
+40@@@26@@@Sam The Sham and the Pharaohs@@@Ju Ju Hand
+41@@@31@@@The Rolling Stones@@@(I Can't Get No) Satisfaction
+42@@@64@@@The Lovin' Spoonful@@@Do You Believe In Magic
+43@@@47@@@The Royalettes@@@It's Gonna Take A Miracle
+44@@@58@@@Ronnie Dove@@@I'll Make All Your Dreams Come True
+45@@@38@@@Dino, Desi & Billy@@@I'm A Fool
+46@@@57@@@Roy Orbison@@@Ride Away
+47@@@49@@@The Kingsmen@@@Annie Fanny
+48@@@50@@@Chuck Jackson@@@If I Didn't Love You
+49@@@62@@@Tom Jones@@@With These Hands
+50@@@60@@@Sonny & Cher@@@Just You
+51@@@66@@@Elvis Presley@@@I'm Yours
+52@@@52@@@The Drifters@@@I'll Take You Where The Music's Playing
+53@@@54@@@Little Caesar And The Consuls@@@(My Girl) Sloopy
+54@@@56@@@Vic Dana@@@Moonlight And Roses (Bring Mem'ries Of You)
+55@@@72@@@The Castaways@@@Liar, Liar
+56@@@83@@@Roy Head And The Traits@@@Treat Her Right
+57@@@71@@@Charlie Rich@@@Mohair Sam
+58@@@74@@@Jody Miller@@@Home Of The Brave
+59@@@61@@@The Contours@@@First I Look At The Purse
+60@@@53@@@Freddie And The Dreamers@@@A Little You
+61@@@80@@@Jay & The Americans@@@Some Enchanted Evening
+62@@@65@@@The Marvelettes@@@Danger Heartbreak Dead Ahead
+63@@@68@@@Donovan@@@Colours
+64@@@79@@@Johnny Tillotson@@@Heartaches By The Number
+65@@@77@@@Stevie Wonder@@@High Heel Sneakers
+66@@@59@@@Bert Kaempfert And His Orchestra@@@Moon Over Naples
+67@@@70@@@The Impressions@@@I Need You
+68@@@69@@@Gerry And The Pacemakers@@@Give All Your Love To Me
+69@@@85@@@Andy Williams@@@Ain't It True
+70@@@75@@@Lenny Welch@@@Two Different Worlds
+71@@@67@@@G.L. Crockett@@@It's A Man Down There
+72@@@101@@@Roger Miller@@@Kansas City Star
+73@@@81@@@Baby Washington@@@Only Those In Love
+74@@@87@@@Ian Whitcomb@@@N-E-R-V-O-U-S!
+75@@@88@@@Joe Tex@@@I Want To (Do Everything For You)
+76@@@101@@@The Gentrys@@@Keep On Dancing
+77@@@90@@@Otis Redding@@@Respect
+78@@@84@@@Bobby Goldsboro@@@If You Wait For Love
+79@@@82@@@Jim Reeves@@@Is It Really Over?
+80@@@101@@@Herb Alpert & The Tijuana Brass@@@3rd Man Theme
+81@@@86@@@Bonnie & The Treasures@@@Home Of The Brave
+82@@@95@@@The Sunrays@@@I Live For The Sun
+83@@@101@@@Lesley Gore@@@My Town, My Guy And Me
+84@@@99@@@Dickey Lee@@@The Girl From Peyton Place
+85@@@97@@@Bobby Bland@@@These Hands (Small But Mighty)
+86@@@101@@@Connie Francis@@@Roundabout
+87@@@98@@@O.V. Wright@@@You're Gonna Make Me Cry
+88@@@96@@@Neil Sedaka@@@The World Through A Tear
+89@@@89@@@Solomon Burke@@@Someone Is Watching
+90@@@101@@@Joan Baez@@@There But For Fortune
+91@@@94@@@Chuck Jackson & Maxine Brown@@@Can't Let You Out Of My Sight
+92@@@101@@@Barbara Lewis@@@Make Me Your Baby
+93@@@93@@@Major Lance@@@Too Hot To Hold
+94@@@101@@@Patti Page@@@You Can't Be True, Dear
+95@@@101@@@Mary Wells@@@Me Without You
+96@@@101@@@Al Hirt@@@The Silence (Il Silenzio)
+97@@@101@@@San Remo Golden Strings@@@Hungry For Love
+98@@@101@@@The Toys@@@A Lover's Concerto
+99@@@100@@@The Dixie Drifter@@@Soul Heaven
+100@@@101@@@The Five Emprees@@@Little Miss Sad

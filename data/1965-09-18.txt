@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Help!
+2@@@3@@@Barry McGuire@@@Eve Of Destruction
+3@@@2@@@Bob Dylan@@@Like A Rolling Stone
+4@@@4@@@We Five@@@You Were On My Mind
+5@@@13@@@The Dave Clark Five@@@Catch Us If You Can
+6@@@10@@@Ramsey Lewis Trio@@@The In Crowd
+7@@@11@@@The McCoys@@@Hang On Sloopy
+8@@@9@@@The Turtles@@@It Ain't Me Babe
+9@@@7@@@Sonny & Cher@@@I Got You Babe
+10@@@14@@@The Yardbirds@@@Heart Full Of Soul
+11@@@6@@@The Righteous Brothers@@@Unchained Melody
+12@@@8@@@James Brown And The Famous Flames@@@Papa's Got A Brand New Bag (Part I)
+13@@@18@@@Freddy Cannon@@@Action
+14@@@19@@@Sonny@@@Laugh At Me
+15@@@5@@@The Beach Boys@@@California Girls
+16@@@31@@@The Fortunes@@@You've Got Your Troubles
+17@@@15@@@Mel Carter@@@Hold Me, Thrill Me, Kiss Me
+18@@@26@@@The Animals@@@We Gotta Get Out Of This Place
+19@@@12@@@Four Tops@@@It's The Same Old Song
+20@@@20@@@The Miracles@@@The Tracks Of My Tears
+21@@@21@@@Dean Martin@@@Houston
+22@@@32@@@Sonny & Cher@@@Baby Don't Go
+23@@@16@@@The Supremes@@@Nothing But Heartaches
+24@@@27@@@Edwin Starr@@@Agent Double-O-Soul
+25@@@22@@@The Temptations@@@Since I Lost My Baby
+26@@@56@@@Roy Head And The Traits@@@Treat Her Right
+27@@@28@@@Marianne Faithfull@@@Summer Nights
+28@@@42@@@The Lovin' Spoonful@@@Do You Believe In Magic
+29@@@30@@@Barbara Mason@@@Sad, Sad Girl
+30@@@17@@@Billy Joe Royal@@@Down In The Boondocks
+31@@@55@@@The Castaways@@@Liar, Liar
+32@@@51@@@Elvis Presley@@@I'm Yours
+33@@@44@@@Ronnie Dove@@@I'll Make All Your Dreams Come True
+34@@@35@@@The Kinks@@@Who'll Be The Next In Line
+35@@@46@@@Roy Orbison@@@Ride Away
+36@@@39@@@Martha & The Vandellas@@@You've Been In Love Too Long
+37@@@49@@@Tom Jones@@@With These Hands
+38@@@38@@@The Jive Five (featuring Eugene Pitt)@@@I'm A Happy Man
+39@@@25@@@Wilson Pickett@@@In The Midnight Hour
+40@@@29@@@Jr. Walker & The All Stars@@@Shake And Fingerpop
+41@@@43@@@The Royalettes@@@It's Gonna Take A Miracle
+42@@@50@@@Sonny & Cher@@@Just You
+43@@@61@@@Jay & The Americans@@@Some Enchanted Evening
+44@@@23@@@Barbara Lewis@@@Baby, I'm Yours
+45@@@57@@@Charlie Rich@@@Mohair Sam
+46@@@48@@@Chuck Jackson@@@If I Didn't Love You
+47@@@47@@@The Kingsmen@@@Annie Fanny
+48@@@58@@@Jody Miller@@@Home Of The Brave
+49@@@24@@@Cher@@@All I Really Want To Do
+50@@@53@@@Little Caesar And The Consuls@@@(My Girl) Sloopy
+51@@@52@@@The Drifters@@@I'll Take You Where The Music's Playing
+52@@@64@@@Johnny Tillotson@@@Heartaches By The Number
+53@@@54@@@Vic Dana@@@Moonlight And Roses (Bring Mem'ries Of You)
+54@@@34@@@Sam Cooke@@@Sugar Dumpling
+55@@@37@@@Chad & Jeremy@@@I Don't Wanna Lose You Baby
+56@@@72@@@Roger Miller@@@Kansas City Star
+57@@@59@@@The Contours@@@First I Look At The Purse
+58@@@69@@@Andy Williams@@@Ain't It True
+59@@@76@@@The Gentrys@@@Keep On Dancing
+60@@@74@@@Ian Whitcomb@@@N-E-R-V-O-U-S!
+61@@@63@@@Donovan@@@Colours
+62@@@62@@@The Marvelettes@@@Danger Heartbreak Dead Ahead
+63@@@65@@@Stevie Wonder@@@High Heel Sneakers
+64@@@101@@@Herman's Hermits@@@Just A Little Bit Better
+65@@@67@@@The Impressions@@@I Need You
+66@@@70@@@Lenny Welch@@@Two Different Worlds
+67@@@75@@@Joe Tex@@@I Want To (Do Everything For You)
+68@@@83@@@Lesley Gore@@@My Town, My Guy And Me
+69@@@80@@@Herb Alpert & The Tijuana Brass@@@3rd Man Theme
+70@@@77@@@Otis Redding@@@Respect
+71@@@90@@@Joan Baez@@@There But For Fortune
+72@@@101@@@The Spokesmen@@@The Dawn Of Correction
+73@@@73@@@Baby Washington@@@Only Those In Love
+74@@@68@@@Gerry And The Pacemakers@@@Give All Your Love To Me
+75@@@78@@@Bobby Goldsboro@@@If You Wait For Love
+76@@@85@@@Bobby Bland@@@These Hands (Small But Mighty)
+77@@@82@@@The Sunrays@@@I Live For The Sun
+78@@@84@@@Dickey Lee@@@The Girl From Peyton Place
+79@@@81@@@Bonnie & The Treasures@@@Home Of The Brave
+80@@@86@@@Connie Francis@@@Roundabout
+81@@@79@@@Jim Reeves@@@Is It Really Over?
+82@@@97@@@San Remo Golden Strings@@@Hungry For Love
+83@@@101@@@Paul Revere & The Raiders@@@Steppin' Out
+84@@@101@@@The Strangeloves@@@Cara-Lin
+85@@@88@@@Neil Sedaka@@@The World Through A Tear
+86@@@87@@@O.V. Wright@@@You're Gonna Make Me Cry
+87@@@101@@@Bobby Vinton@@@What Color (Is A Man)
+88@@@92@@@Barbara Lewis@@@Make Me Your Baby
+89@@@101@@@Dino, Desi & Billy@@@Not The Lovin' Kind
+90@@@101@@@The Vogues@@@You're The One
+91@@@100@@@The Five Emprees@@@Little Miss Sad
+92@@@101@@@Billy Joe Royal@@@I Knew You When
+93@@@98@@@The Toys@@@A Lover's Concerto
+94@@@94@@@Patti Page@@@You Can't Be True, Dear
+95@@@95@@@Mary Wells@@@Me Without You
+96@@@96@@@Al Hirt@@@The Silence (Il Silenzio)
+97@@@101@@@The Ivy League@@@Tossing & Turning
+98@@@101@@@Sam & Bill@@@For Your Love
+99@@@101@@@Kathy Kirby@@@The Way Of Love
+100@@@101@@@Billy Stewart@@@How Nice It Is

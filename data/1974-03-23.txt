@@ -1,0 +1,100 @@
+1@@@3@@@Cher@@@Dark Lady
+2@@@1@@@Terry Jacks@@@Seasons In The Sun
+3@@@4@@@John Denver@@@Sunshine On My Shoulders
+4@@@2@@@Eddie Kendricks@@@Boogie Down
+5@@@6@@@Carly Simon & James Taylor@@@Mockingbird
+6@@@12@@@Elton John@@@Bennie And The Jets
+7@@@14@@@Blue Swede@@@Hooked On A Feeling
+8@@@10@@@Paul McCartney & Wings@@@Jet
+9@@@11@@@Mocedades@@@Eres Tu (Touch The Wind)
+10@@@7@@@Kool & The Gang@@@Jungle Boogie
+11@@@13@@@Redbone@@@Come And Get Your Love
+12@@@8@@@David Essex@@@Rock On
+13@@@5@@@Barbra Streisand@@@The Way We Were
+14@@@20@@@Sister Janet Mead@@@The Lord's Prayer
+15@@@16@@@Lamont Dozier@@@Trying To Hold On To My Woman
+16@@@25@@@MFSB featuring The Three Degrees@@@TSOP (The Sound Of Philadelphia)
+17@@@18@@@Cliff DeYoung@@@My Sweet Lady
+18@@@24@@@Gladys Knight And The Pips@@@Best Thing That Ever Happened To Me
+19@@@23@@@Charlie Rich@@@There Won't Be Anymore
+20@@@21@@@The Spinners@@@Mighty Love - Pt. 1
+21@@@9@@@Jim Stafford@@@Spiders & Snakes
+22@@@29@@@Charlie Rich@@@A Very Special Love Song
+23@@@26@@@Rick Derringer@@@Rock And Roll, Hoochie Koo
+24@@@30@@@Bobby Womack@@@Lookin' For A Love
+25@@@17@@@Moments@@@Sexy Mama
+26@@@15@@@Love Unlimited Orchestra@@@Love's Theme
+27@@@19@@@Aretha Franklin@@@Until You Come Back To Me (That's What I'm Gonna Do)
+28@@@44@@@Ringo Starr@@@Oh My My
+29@@@31@@@Stealers Wheel@@@Star
+30@@@38@@@Jim Croce@@@I'll Have To Say I Love You In A Song
+31@@@22@@@Anne Murray@@@Love Song
+32@@@37@@@The Main Ingredient@@@Just Don't Want To Be Lonely
+33@@@41@@@The Staple Singers@@@Touch A Hand, Make A Friend
+34@@@36@@@Johnnie Taylor@@@We're Getting Careless With Our Love
+35@@@27@@@The O'Jays@@@Put Your Hands Together
+36@@@40@@@Harry Chapin@@@WOLD
+37@@@46@@@Sami Jo@@@Tell Me A Lie
+38@@@43@@@The Soul Children@@@I'll Be The Other Woman
+39@@@42@@@Elvis Presley@@@I've Got A Thing About You Baby/Take Good Care Of Her
+40@@@45@@@Bachman-Turner Overdrive@@@Let It Ride
+41@@@33@@@Diana Ross@@@Last Time I Saw Him
+42@@@28@@@Tom T. Hall@@@I Love
+43@@@58@@@Helen Reddy@@@Keep On Singing
+44@@@47@@@Bob Dylan@@@On A Night Like This
+45@@@55@@@Diana Ross & Marvin Gaye@@@My Mistake (Was To Love You)
+46@@@32@@@B.B. King@@@I Like To Live The Love
+47@@@34@@@Ringo Starr@@@You're Sixteen
+48@@@60@@@Mike Oldfield@@@Tubular Bells
+49@@@52@@@Barry White@@@Honey Please, Can't Ya See
+50@@@69@@@Grand Funk@@@The Loco-Motion
+51@@@61@@@Billy Joel@@@Piano Man
+52@@@39@@@Olivia Newton-John@@@Let Me Be There
+53@@@35@@@Dickie Goodman@@@Energy Crisis '74
+54@@@56@@@The Chi-lites@@@Homely Girl
+55@@@65@@@Bloodstone@@@Outside Woman
+56@@@62@@@Tanya Tucker@@@Would You Lay With Me (in A Field Of Stone)
+57@@@59@@@Tyrone Davis@@@I Wish It Was Me
+58@@@79@@@Jackson 5@@@Dancing Machine
+59@@@48@@@Billy Paul@@@Thanks For Saving My Life
+60@@@66@@@Daryl Hall & John Oates@@@She's Gone
+61@@@64@@@The Steve Miller Band@@@Your Cash Ain't Nothin' But Trash
+62@@@71@@@The Guess Who@@@Star Baby
+63@@@73@@@Maria Muldaur@@@Midnight At The Oasis
+64@@@67@@@Bill Amesbury@@@Virginia (Touch Me Like You Do)
+65@@@70@@@The James Gang@@@Must Be Love
+66@@@80@@@Chicago@@@(i've Been) Searchin' So Long
+67@@@74@@@Albert Hammond@@@I'm A Train
+68@@@68@@@The New Birth@@@It's Been A Long Time
+69@@@83@@@Bobby Blue Bland@@@Goin' Down Slow
+70@@@81@@@Seals & Crofts@@@Unborn Child
+71@@@76@@@Al Wilson@@@Touch And Go
+72@@@90@@@Three Dog Night@@@The Show Must Go On
+73@@@78@@@Loggins & Messina@@@Watching The River Run
+74@@@86@@@Earth, Wind & Fire@@@Mighty Mighty
+75@@@85@@@Think@@@Once You Understand
+76@@@51@@@Wednesday@@@Last Kiss
+77@@@87@@@Joni Mitchell@@@Help Me
+78@@@88@@@Cat Stevens@@@Oh Very Young
+79@@@84@@@Neil Diamond@@@Skybird
+80@@@82@@@Southcote@@@She
+81@@@101@@@James Brown@@@The Payback - Part I
+82@@@49@@@Byron MacGregor@@@Americans
+83@@@89@@@Cozy Powell@@@Dance With The Devil
+84@@@101@@@The Stylistics@@@You Make Me Feel Brand New
+85@@@96@@@The Temptations@@@Heavenly
+86@@@91@@@The Peppers@@@Pepper Box
+87@@@101@@@Gilbert O'Sullivan@@@Happiness Is Me And You
+88@@@101@@@Marvin Hamlisch/The Sting@@@The Entertainer
+89@@@50@@@The Rolling Stones@@@Doo Doo Doo Doo Doo (heartbreaker)
+90@@@101@@@The Isley Brothers@@@Summer Breeze (Part 1)
+91@@@94@@@The Persuaders@@@Best Thing That Ever Happened To Me
+92@@@92@@@Lou Christie@@@Beyond The Blue Horizon
+93@@@95@@@Bee Gees@@@Mr. Natural
+94@@@99@@@Bill Haley And His Comets@@@Rock Around The Clock
+95@@@97@@@Heartsfield@@@Music Eyes
+96@@@101@@@Herbie Hancock@@@Chameleon
+97@@@101@@@Leon Haywood@@@Keep It In The Family
+98@@@101@@@Kris Kristofferson & Rita Coolidge@@@Loving Arms
+99@@@101@@@Deep Purple@@@Might Just Take Your Life
+100@@@101@@@The Emotions@@@Put A Little Love Away

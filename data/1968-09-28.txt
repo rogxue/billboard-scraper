@@ -1,0 +1,100 @@
+1@@@3@@@The Beatles@@@Hey Jude
+2@@@1@@@Jeannie C. Riley@@@Harper Valley P.T.A.
+3@@@2@@@The Rascals@@@People Got To Be Free
+4@@@4@@@Deep Purple@@@Hush
+5@@@15@@@The Crazy World Of Arthur Brown@@@Fire
+6@@@8@@@Sergio Mendes & Brasil '66@@@The Fool On The Hill
+7@@@5@@@1910 Fruitgum Co.@@@1, 2, 3, Red Light
+8@@@9@@@Bee Gees@@@I've Gotta Get A Message To You
+9@@@16@@@The O'Kaysions@@@Girl Watcher
+10@@@13@@@Clarence Carter@@@Slip Away
+11@@@11@@@The Chambers Brothers@@@Time Has Come Today
+12@@@12@@@The Beatles@@@Revolution
+13@@@10@@@Aretha Franklin@@@The House That Jack Built
+14@@@14@@@Aretha Franklin@@@I Say A Little Prayer
+15@@@7@@@Steppenwolf@@@Born To Be Wild
+16@@@18@@@Canned Heat@@@On The Road Again
+17@@@6@@@Jose Feliciano@@@Light My Fire
+18@@@21@@@The Grass Roots@@@Midnight Confessions
+19@@@19@@@The Vogues@@@My Special Angel
+20@@@27@@@O.C. Smith@@@Little Green Apples
+21@@@31@@@James Brown@@@Say It Loud - I'm Black And I'm Proud (Part 1)
+22@@@17@@@Marvin Gaye & Tammi Terrell@@@You're All I Need To Get By
+23@@@22@@@The Vanilla Fudge@@@You Keep Me Hangin' On
+24@@@45@@@Big Brother & The Holding Company@@@Piece Of My Heart
+25@@@26@@@The Who@@@Magic Bus
+26@@@34@@@Smokey Robinson & The Miracles@@@Special Occasion
+27@@@44@@@Creedence Clearwater Revival@@@Suzie Q. (Part One)
+28@@@29@@@Don Fardon@@@(The Lament Of The Cherokee) Indian Reservation
+29@@@54@@@Gary Puckett And The Union Gap@@@Over You
+30@@@40@@@Al Wilson@@@The Snake
+31@@@66@@@The Jimi Hendrix Experience@@@All Along The Watchtower
+32@@@24@@@The Moody Blues@@@Tuesday Afternoon (Forever Afternoon)
+33@@@39@@@Dionne Warwick@@@Who Is Gonna Love Me?
+34@@@47@@@The Equals@@@Baby, Come Back
+35@@@38@@@Jr. Walker & The All Stars@@@Hip City - Pt. 2
+36@@@63@@@Max Frost And The Troopers@@@Shape Of Things To Come
+37@@@28@@@Barbara Acklin@@@Love Makes A Woman
+38@@@42@@@Iron Butterfly@@@In-A-Gadda-Da-Vida
+39@@@20@@@The Beach Boys@@@Do It Again
+40@@@33@@@Ohio Express@@@Down At Lulu's
+41@@@59@@@Gladys Knight And The Pips@@@I Wish It Would Rain
+42@@@60@@@Jerry Butler@@@Hey, Western Union Man
+43@@@68@@@The Box Tops@@@I Met Her In Church
+44@@@64@@@The Delfonics@@@Break Your Promise
+45@@@55@@@Eddie Harris@@@Listen Here
+46@@@46@@@Bill Medley@@@Brown Eyed Woman
+47@@@61@@@Big Brother & The Holding Company@@@Down On Me
+48@@@48@@@Tom Jones@@@Help Yourself
+49@@@87@@@Wilson Pickett@@@I Found A True Love
+50@@@50@@@Martha Reeves & The Vandellas@@@I Can't Dance To That Music You're Playin'
+51@@@51@@@Herb Alpert@@@To Wait For Love
+52@@@72@@@Marvin Gaye@@@Chained
+53@@@86@@@The Cowsills@@@Poor Baby
+54@@@97@@@The Turtles@@@Elenore
+55@@@56@@@Jackie DeShannon@@@The Weight
+56@@@57@@@The Rolling Stones@@@Street Fighting Man
+57@@@80@@@The Avant-Garde@@@Naturally Stoned
+58@@@52@@@Lulu@@@Morning Dew
+59@@@90@@@Johnny Nash@@@Hold Me Tight
+60@@@58@@@The Association@@@Six Man Band
+61@@@77@@@The Impressions@@@Fool For You
+62@@@85@@@Andy Kim@@@Shoot'em Up, Baby
+63@@@70@@@The Band@@@The Weight
+64@@@71@@@Frank Sinatra@@@My Way Of Life
+65@@@62@@@Patti Drew@@@Workin' On A Groovy Thing
+66@@@73@@@Bobby Womack@@@Fly Me To The Moon
+67@@@65@@@Dionne Warwick@@@(There's) Always Something There To Remind Me
+68@@@91@@@Bull & The Matadors@@@The Funky Judge
+69@@@101@@@Otis Redding@@@I've Got Dreams To Remember
+70@@@101@@@Mary Hopkin@@@Those Were The Days
+71@@@101@@@The Archies@@@Bang-Shang-A-Lang
+72@@@101@@@The Status Quo@@@Ice In The Sun
+73@@@74@@@The Sweet Inspirations@@@Unchained Melody
+74@@@69@@@Lou Rawls@@@Down Here On The Ground
+75@@@78@@@Five Stairsteps & Cubie@@@Don't Change Your Love
+76@@@100@@@The Unifics@@@Court Of Love
+77@@@75@@@Judy Clay & William Bell@@@Private Number
+78@@@76@@@Merrilee Rush & The Turnabouts@@@That Kind Of Woman
+79@@@79@@@Glen Campbell@@@Gentle On My Mind
+80@@@101@@@Los Pop Tops@@@Oh Lord, Why Lord
+81@@@81@@@The Mamas & The Papas@@@For The Love Of Ivy
+82@@@101@@@Joe Simon@@@Message From Maria
+83@@@94@@@Gene Chandler@@@There Was A Time
+84@@@88@@@Cliff Nobles & Co.@@@Horse Fever
+85@@@101@@@Archie Bell & The Drells@@@Do The Choo Choo
+86@@@101@@@Ray Charles@@@Sweet Young Thing Like You
+87@@@89@@@The Doors@@@Light My Fire
+88@@@101@@@The Masqueraders@@@I Ain't Got To Love Nobody Else
+89@@@101@@@The 5th Dimension@@@Sweet Blindness
+90@@@101@@@Hugh Masekela@@@Puffin' On Down The Track
+91@@@99@@@Fantastic Four@@@I Love You Madly
+92@@@92@@@The Irish Rovers@@@The Biplane, Ever More
+93@@@93@@@Fever Tree@@@San Francisco Girls (Return of the Native)
+94@@@84@@@Eddy Arnold@@@Then You Can Tell Me Goodbye
+95@@@95@@@Harpers Bizarre@@@Battle Of New Orleans
+96@@@96@@@The O'Jays@@@The Choice
+97@@@98@@@Ronnie Dove@@@Tomboy
+98@@@101@@@B.B. King@@@The B.B. Jones
+99@@@101@@@Elvis Presley With The Jordanaires@@@Almost In Love
+100@@@101@@@Nancy Wilson@@@Peace Of Mind

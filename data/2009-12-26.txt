@@ -1,0 +1,100 @@
+1@@@1@@@Jay-Z + Alicia Keys@@@Empire State Of Mind
+2@@@3@@@Ke$ha@@@TiK ToK
+3@@@2@@@Lady Gaga@@@Bad Romance
+4@@@4@@@Iyaz@@@Replay
+5@@@5@@@Owl City@@@Fireflies
+6@@@7@@@David Guetta Featuring Akon@@@Sexy Chick
+7@@@6@@@Jason Derulo@@@Whatcha Say
+8@@@8@@@The Black Eyed Peas@@@Meet Me Halfway
+9@@@9@@@Britney Spears@@@3
+10@@@10@@@Jay Sean Featuring Lil Wayne@@@Down
+11@@@11@@@Lady Gaga@@@Paparazzi
+12@@@12@@@Beyonce@@@Sweet Dreams
+13@@@101@@@Ludacris@@@How Low
+14@@@15@@@Drake Featuring Kanye West, Lil Wayne & Eminem@@@Forever
+15@@@13@@@Kelly Clarkson@@@Already Gone
+16@@@19@@@Jay Sean Featuring Sean Paul & Lil Jon@@@Do You Remember
+17@@@14@@@Miley Cyrus@@@Party In The U.S.A.
+18@@@17@@@The Black Eyed Peas@@@I Gotta Feeling
+19@@@16@@@Lady Antebellum@@@Need You Now
+20@@@24@@@Young Money Featuring Lloyd@@@Bedrock
+21@@@20@@@Rihanna Featuring Jeezy@@@Hard
+22@@@18@@@Taylor Swift@@@You Belong With Me
+23@@@21@@@Kings Of Leon@@@Use Somebody
+24@@@22@@@Chris Brown Featuring Lil Wayne & Swizz Beatz@@@I Can Transform Ya
+25@@@25@@@Cascada@@@Evacuate The Dancefloor
+26@@@26@@@Birdman Featuring Lil Wayne & Drake@@@Money To Blow
+27@@@23@@@Taylor Swift@@@Fifteen
+28@@@32@@@Boys Like Girls Featuring Taylor Swift@@@Two Is Better Than One
+29@@@31@@@50 Cent Featuring Ne-Yo@@@Baby By Me
+30@@@28@@@Carrie Underwood@@@Cowboy Casanova
+31@@@75@@@Timbaland Featuring Justin Timberlake@@@Carry Out
+32@@@27@@@Jay-Z, Rihanna & Kanye West@@@Run This Town
+33@@@37@@@New Boyz Featuring Ray J@@@Tie Me Down
+34@@@29@@@Shakira Featuring Lil Wayne@@@Give It Up To Me
+35@@@39@@@Snoop Dogg Featuring The-Dream@@@Gangsta Luv
+36@@@44@@@Kris Allen@@@Live Like We're Dying
+37@@@35@@@Luke Bryan@@@Do I
+38@@@40@@@Trey Songz Featuring Fabolous@@@Say Aah
+39@@@33@@@Colbie Caillat@@@Fallin' For You
+40@@@38@@@Reba@@@Consider Me Gone
+41@@@34@@@Justin Bieber@@@One Time
+42@@@48@@@Gucci Mane Featuring Usher@@@Spotlight
+43@@@43@@@Trey Songz Featuring Drake@@@I Invented Sex
+44@@@30@@@Rihanna@@@Russian Roulette
+45@@@45@@@Train@@@Hey, Soul Sister
+46@@@41@@@Lady Gaga Featuring Beyonce@@@Telephone
+47@@@42@@@Shinedown@@@If You Only Knew
+48@@@47@@@Jason Aldean@@@The Truth
+49@@@46@@@Miranda Lambert@@@White Liar
+50@@@49@@@Tim McGraw@@@Southern Voice
+51@@@101@@@Glee Cast Featuring Lea Michele, Cory Monteith, Jenna Ushkowitz & Amber Riley@@@My Life Would Suck Without You
+52@@@52@@@Dierks Bentley@@@I Wanna Make You Close Your Eyes
+53@@@101@@@Glee Cast Featuring Lea Michele@@@Don't Rain On My Parade
+54@@@56@@@Melanie Fiona@@@It Kills Me
+55@@@67@@@Orianthi@@@According To You
+56@@@51@@@Alicia Keys@@@Try Sleeping With A Broken Heart
+57@@@36@@@Usher@@@Papers
+58@@@53@@@Uncle Kracker@@@Smile
+59@@@54@@@David Nail@@@Red Light
+60@@@65@@@Chris Brown@@@Crawl
+61@@@62@@@Nickelback@@@Never Gonna Be Alone
+62@@@101@@@Lil Wayne@@@On Fire
+63@@@101@@@Jason Derulo@@@In My Head
+64@@@66@@@Daughtry@@@Life After You
+65@@@57@@@Craig Morgan@@@Bonfire
+66@@@59@@@Muse@@@Uprising
+67@@@101@@@Mary J. Blige@@@I Am
+68@@@58@@@Gucci Mane Featuring Plies Or OJ Da Juiceman@@@Wasted
+69@@@50@@@Jesse McCartney Featuring T-Pain@@@Body Language
+70@@@64@@@Darius Rucker@@@History In The Making
+71@@@101@@@Glee Cast Featuring Lea Michele, Cory Monteith, Kevin McHale & Amber Riley@@@You Can't Always Get What You Want
+72@@@101@@@Thirty Seconds To Mars@@@This Is War
+73@@@74@@@Justin Bieber@@@One Less Lonely Girl
+74@@@68@@@Michael Buble@@@Haven't Met You Yet
+75@@@76@@@Josh Turner@@@Why Don't We Just Dance
+76@@@72@@@Rob Thomas@@@Someday
+77@@@70@@@Jake Owen@@@Eight Second Ride
+78@@@71@@@Maxwell@@@Bad Habits
+79@@@77@@@OneRepublic@@@All The Right Moves
+80@@@101@@@Snoop Dogg@@@I Wanna Rock
+81@@@78@@@Breaking Benjamin@@@I Will Not Bow
+82@@@94@@@Thirty Seconds To Mars@@@Kings And Queens
+83@@@85@@@Pitbull Featuring Akon@@@Shut It Down
+84@@@82@@@Three Days Grace@@@Break
+85@@@87@@@Billy Currington@@@That's How Country Boys Roll
+86@@@80@@@Chris Young@@@Gettin' You Home (The Black Dress Song)
+87@@@90@@@Phoenix@@@1901
+88@@@101@@@Chris Brown Featuring Plies@@@What I Do
+89@@@63@@@Glee Cast@@@Last Christmas
+90@@@100@@@Brad Paisley@@@American Saturday Night
+91@@@97@@@Toby Keith@@@Cryin' For Me (Wayman's Song)
+92@@@83@@@Omarion Featuring Gucci Mane@@@I Get It In
+93@@@96@@@The Script@@@Breakeven
+94@@@101@@@Glee Cast Featuring Amber Riley@@@And I Am Telling You I'm Not Going
+95@@@86@@@Weezer@@@(If You're Wondering If I Want You To) I Want You To
+96@@@84@@@Drake Featuring Lil Wayne & Young Jeezy@@@I'm Going In
+97@@@81@@@Beyonce@@@Video Phone
+98@@@92@@@Ester Dean Featuring Chris Brown@@@Drop It Low
+99@@@101@@@Lifehouse@@@Halfway Gone
+100@@@101@@@George Strait@@@Twang

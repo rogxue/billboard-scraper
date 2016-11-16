@@ -1,0 +1,100 @@
+1@@@1@@@Michael Jackson@@@Beat It
+2@@@3@@@David Bowie@@@Let's Dance
+3@@@2@@@Greg Kihn Band@@@Jeopardy
+4@@@6@@@Men At Work@@@Overkill
+5@@@7@@@Thomas Dolby@@@She Blinded Me With Science
+6@@@4@@@Dexys Midnight Runners@@@Come On Eileen
+7@@@13@@@Irene Cara@@@Flashdance...What A Feeling
+8@@@9@@@Prince@@@Little Red Corvette
+9@@@11@@@Laura Branigan@@@Solitaire
+10@@@5@@@After The Fire@@@Der Kommissar
+11@@@10@@@Toto@@@I Won't Hold You Back
+12@@@17@@@Lionel Richie@@@My Love
+13@@@15@@@Def Leppard@@@Photograph
+14@@@16@@@Duran Duran@@@Rio
+15@@@18@@@Bryan Adams@@@Straight From The Heart
+16@@@8@@@Styx@@@Mr. Roboto
+17@@@19@@@Culture Club@@@Time (Clock Of The Heart)
+18@@@12@@@Bob Seger & The Silver Bullet Band@@@Even Now
+19@@@20@@@Rick Springfield@@@Affair Of The Heart
+20@@@23@@@Journey@@@Faithfully
+21@@@22@@@Jarreau@@@Mornin'
+22@@@28@@@Naked Eyes@@@Always Something There To Remind Me
+23@@@27@@@Styx@@@Don't Let It End
+24@@@14@@@Michael Jackson@@@Billie Jean
+25@@@29@@@Ronnie Milsap@@@Stranger In My House
+26@@@32@@@Daryl Hall & John Oates@@@Family Man
+27@@@37@@@The Tubes@@@She's A Beauty
+28@@@25@@@Stephen Bishop@@@It Might Be You
+29@@@21@@@Journey@@@Separate Ways (Worlds Apart)
+30@@@42@@@Champaign@@@Try Again
+31@@@24@@@Kenny Loggins@@@Welcome To Heartlight
+32@@@26@@@Barry Manilow@@@Some Kind Of Friend
+33@@@35@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+34@@@30@@@Patrick Simmons@@@So Wrong
+35@@@48@@@Sergio Mendes@@@Never Gonna Let You Go
+36@@@31@@@Daryl Hall & John Oates@@@One On One
+37@@@34@@@Culture Club@@@Do You Really Want To Hurt Me
+38@@@40@@@ZZ Top@@@Gimme All Your Lovin
+39@@@56@@@Elton John@@@I'm Still Standing
+40@@@46@@@INXS@@@The One Thing
+41@@@50@@@Kajagoogoo@@@Too Shy
+42@@@33@@@Duran Duran@@@Hungry Like The Wolf
+43@@@36@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+44@@@51@@@Pat Benatar@@@Looking For A Stranger
+45@@@60@@@Eddy Grant@@@Electric Avenue
+46@@@59@@@Christopher Cross@@@No Time For Talk
+47@@@43@@@Golden Earring@@@Twilight Zone
+48@@@52@@@Walter Egan@@@Fool Moon Fire
+49@@@44@@@Debarge@@@I Like It
+50@@@38@@@Lionel Richie@@@You Are
+51@@@67@@@Kenny Rogers@@@All My Life
+52@@@53@@@Robbie Patton@@@Smiling Islands
+53@@@57@@@U2@@@New Year's Day
+54@@@54@@@Night Ranger@@@Sing Me Away
+55@@@61@@@Debarge@@@All This Love
+56@@@58@@@Eddie Rabbitt@@@You Can't Run From Love
+57@@@74@@@Little River Band@@@We Two
+58@@@63@@@Sparks & Jane Wiedlin@@@Cool Places
+59@@@70@@@Jim Capaldi@@@That's Love
+60@@@65@@@Linda Ronstadt@@@Easy For You To Say
+61@@@69@@@Chris DeBurgh@@@Don't Pay The Ferryman
+62@@@62@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+63@@@72@@@Thompson Twins@@@Love On Your Side
+64@@@76@@@Madness@@@Our House
+65@@@68@@@Planet P@@@Why Me?
+66@@@71@@@Neil Diamond@@@Front Page Story
+67@@@39@@@Oxo@@@Whirly Girl
+68@@@49@@@John Anderson@@@Swingin'
+69@@@66@@@Total Coelo@@@I Eat Cannibals
+70@@@78@@@Todd Rundgren@@@Bang The Drum All Day
+71@@@89@@@Alabama@@@The Closer You Get
+72@@@90@@@The Kinks@@@Come Dancing
+73@@@88@@@New Edition@@@Candy Girl
+74@@@83@@@"Weird Al" Yankovic@@@Ricky
+75@@@81@@@The Belle Stars@@@Sign Of The Times
+76@@@101@@@George Benson@@@Inside Love (so Personal)
+77@@@41@@@Frida@@@I Know There's Something Going On
+78@@@64@@@Saga@@@Wind Him Up
+79@@@45@@@Pretenders@@@Back On The Chain Gang
+80@@@101@@@James Ingram And Patti Austin@@@How Do You Keep The Music Playing
+81@@@87@@@The Call@@@The Walls Came Down
+82@@@101@@@Earth, Wind & Fire@@@Side By Side
+83@@@101@@@A Flock Of Seagulls@@@Wishing (If I Had A Photograph Of You)
+84@@@85@@@Gary Portnoy@@@Where Everybody Knows Your Name (The Theme From Cheers)
+85@@@47@@@Mac McAnally@@@Minimum Love
+86@@@101@@@Sheriff@@@When I'm With You
+87@@@101@@@Phil Collins@@@I Cannot Believe It's True
+88@@@84@@@The Whispers@@@Tonight
+89@@@101@@@Carl Wilson@@@What You Do To Me
+90@@@101@@@Eurythmics@@@Sweet Dreams (Are Made Of This)
+91@@@55@@@Sammy Hagar@@@Never Give Up
+92@@@73@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+93@@@101@@@Dave Edmunds@@@Slipping Away
+94@@@82@@@Wall Of Voodoo@@@Mexican Radio
+95@@@101@@@Michael Bolton@@@Fools Game
+96@@@75@@@Dionne Warwick@@@Take The Short Way Home
+97@@@86@@@Dan Fogelberg@@@Make Love Stay
+98@@@93@@@Modern English@@@I Melt With You
+99@@@77@@@Bow Wow Wow@@@Do You Wanna Hold Me?
+100@@@79@@@Golden Earring@@@The Devil Made Me Do It

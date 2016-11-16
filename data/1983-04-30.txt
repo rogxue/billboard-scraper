@@ -1,0 +1,100 @@
+1@@@2@@@Michael Jackson@@@Beat It
+2@@@1@@@Dexys Midnight Runners@@@Come On Eileen
+3@@@4@@@Greg Kihn Band@@@Jeopardy
+4@@@3@@@Styx@@@Mr. Roboto
+5@@@6@@@After The Fire@@@Der Kommissar
+6@@@9@@@David Bowie@@@Let's Dance
+7@@@5@@@Michael Jackson@@@Billie Jean
+8@@@10@@@Thomas Dolby@@@She Blinded Me With Science
+9@@@15@@@Men At Work@@@Overkill
+10@@@12@@@Prince@@@Little Red Corvette
+11@@@16@@@Toto@@@I Won't Hold You Back
+12@@@8@@@Journey@@@Separate Ways (Worlds Apart)
+13@@@13@@@Bob Seger & The Silver Bullet Band@@@Even Now
+14@@@18@@@Laura Branigan@@@Solitaire
+15@@@7@@@Daryl Hall & John Oates@@@One On One
+16@@@11@@@Duran Duran@@@Hungry Like The Wolf
+17@@@31@@@Duran Duran@@@Rio
+18@@@14@@@Culture Club@@@Do You Really Want To Hurt Me
+19@@@26@@@Def Leppard@@@Photograph
+20@@@17@@@Lionel Richie@@@You Are
+21@@@34@@@Bryan Adams@@@Straight From The Heart
+22@@@32@@@Lionel Richie@@@My Love
+23@@@33@@@Irene Cara@@@Flashdance...What A Feeling
+24@@@27@@@Kenny Loggins@@@Welcome To Heartlight
+25@@@19@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+26@@@30@@@Barry Manilow@@@Some Kind Of Friend
+27@@@29@@@Stephen Bishop@@@It Might Be You
+28@@@37@@@Jarreau@@@Mornin'
+29@@@39@@@Rick Springfield@@@Affair Of The Heart
+30@@@46@@@Culture Club@@@Time (Clock Of The Heart)
+31@@@41@@@Journey@@@Faithfully
+32@@@36@@@Patrick Simmons@@@So Wrong
+33@@@40@@@Naked Eyes@@@Always Something There To Remind Me
+34@@@38@@@Ronnie Milsap@@@Stranger In My House
+35@@@101@@@Styx@@@Don't Let It End
+36@@@28@@@Oxo@@@Whirly Girl
+37@@@21@@@Pretenders@@@Back On The Chain Gang
+38@@@20@@@Frida@@@I Know There's Something Going On
+39@@@23@@@Golden Earring@@@Twilight Zone
+40@@@35@@@Debarge@@@I Like It
+41@@@42@@@Mac McAnally@@@Minimum Love
+42@@@45@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+43@@@101@@@Daryl Hall & John Oates@@@Family Man
+44@@@24@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+45@@@50@@@ZZ Top@@@Gimme All Your Lovin
+46@@@48@@@Sammy Hagar@@@Never Give Up
+47@@@43@@@John Anderson@@@Swingin'
+48@@@56@@@Champaign@@@Try Again
+49@@@58@@@The Tubes@@@She's A Beauty
+50@@@22@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+51@@@25@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+52@@@44@@@Psychedelic Furs@@@Love My Way
+53@@@57@@@INXS@@@The One Thing
+54@@@52@@@Dionne Warwick@@@Take The Short Way Home
+55@@@62@@@Walter Egan@@@Fool Moon Fire
+56@@@59@@@Robbie Patton@@@Smiling Islands
+57@@@61@@@Night Ranger@@@Sing Me Away
+58@@@60@@@Wall Of Voodoo@@@Mexican Radio
+59@@@71@@@Pat Benatar@@@Looking For A Stranger
+60@@@80@@@Sergio Mendes@@@Never Gonna Let You Go
+61@@@55@@@Dan Fogelberg@@@Make Love Stay
+62@@@70@@@U2@@@New Year's Day
+63@@@73@@@Eddie Rabbitt@@@You Can't Run From Love
+64@@@69@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+65@@@67@@@Saga@@@Wind Him Up
+66@@@74@@@Total Coelo@@@I Eat Cannibals
+67@@@78@@@Sparks & Jane Wiedlin@@@Cool Places
+68@@@77@@@Linda Ronstadt@@@Easy For You To Say
+69@@@76@@@Planet P@@@Why Me?
+70@@@81@@@Kajagoogoo@@@Too Shy
+71@@@72@@@Ultravox@@@Reap The Wild Wind
+72@@@82@@@Eddy Grant@@@Electric Avenue
+73@@@83@@@Debarge@@@All This Love
+74@@@84@@@Neil Diamond@@@Front Page Story
+75@@@47@@@ABC@@@Poison Arrow
+76@@@101@@@Kenny Rogers@@@All My Life
+77@@@101@@@Jim Capaldi@@@That's Love
+78@@@101@@@Chris DeBurgh@@@Don't Pay The Ferryman
+79@@@85@@@Bow Wow Wow@@@Do You Wanna Hold Me?
+80@@@53@@@Christopher Cross@@@All Right
+81@@@87@@@Golden Earring@@@The Devil Made Me Do It
+82@@@54@@@Thompson Twins@@@Lies
+83@@@49@@@Pat Benatar@@@Little Too Late
+84@@@51@@@Earth, Wind & Fire@@@Fall In Love With Me
+85@@@101@@@Thompson Twins@@@Love On Your Side
+86@@@79@@@Tony Carey@@@I Won't Be Home Tonight
+87@@@101@@@The Whispers@@@Tonight
+88@@@68@@@Stray Cats@@@Stray Cat Strut
+89@@@101@@@Gary Portnoy@@@Where Everybody Knows Your Name (The Theme From Cheers)
+90@@@101@@@"Weird Al" Yankovic@@@Ricky
+91@@@63@@@Joe Jackson@@@Breaking Us In Two
+92@@@65@@@Lou Rawls@@@Wind Beneath My Wings
+93@@@64@@@The Gap Band@@@Outstanding
+94@@@66@@@Robert Hazard@@@Escalator Of Life
+95@@@91@@@Modern English@@@I Melt With You
+96@@@88@@@The Temptations@@@Love On My Mind Tonight
+97@@@75@@@Felony@@@The Fanatic
+98@@@86@@@Billy Joel@@@Goodnight Saigon
+99@@@97@@@Adam Ant@@@Desperate But Not Serious
+100@@@93@@@Patti Austin@@@Every Home Should Have One

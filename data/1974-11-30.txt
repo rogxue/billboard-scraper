@@ -1,0 +1,100 @@
+1@@@1@@@Billy Swan@@@I Can Help
+2@@@7@@@Carl Douglas@@@Kung Fu Fighting
+3@@@8@@@The Three Degrees@@@When Will I See You Again
+4@@@2@@@B.T. Express@@@Do It ('Til You're Satisfied)
+5@@@5@@@Neil Diamond@@@Longfellow Serenade
+6@@@6@@@Carl Carlton@@@Everlasting Love
+7@@@3@@@Bobby Vinton@@@My Melody Of Love
+8@@@34@@@Bachman-Turner Overdrive@@@You Ain't Seen Nothing Yet/Free Wheelin'
+9@@@10@@@Harry Chapin@@@Cat's In The Cradle
+10@@@14@@@Helen Reddy@@@Angie Baby
+11@@@15@@@Chicago@@@Wishing You Were Here
+12@@@13@@@The Kiki Dee Band@@@I've Got The Music In Me
+13@@@17@@@Al Green@@@Sha-La-La (Make Me Happy)
+14@@@9@@@John Denver@@@Back Home Again
+15@@@28@@@Paul McCartney & Wings@@@Junior's Farm/Sally G
+16@@@20@@@Rufus Featuring Chaka Khan@@@You Got The Love
+17@@@27@@@Barry White@@@You're The First, The Last, My Everything
+18@@@23@@@Elvis Presley@@@Promised Land
+19@@@25@@@Fancy@@@Touch Me
+20@@@26@@@The Pointer Sisters@@@Fairytale
+21@@@12@@@John Lennon With The Plastic Ono Nuclear Band@@@Whatever Gets You Thru The Night
+22@@@24@@@Prelude@@@After The Goldrush
+23@@@29@@@Gladys Knight And The Pips@@@I Feel A Song (In My Heart)/Don't Burn Down The Bridge
+24@@@32@@@Neil Sedaka@@@Laughter In The Rain
+25@@@4@@@America@@@Tin Man
+26@@@37@@@Shirley Brown@@@Woman To Woman
+27@@@33@@@The Rolling Stones@@@Ain't Too Proud To Beg
+28@@@35@@@Andy Kim@@@Fire, Baby I'm On Fire
+29@@@11@@@Jim Weatherly@@@The Need To Be
+30@@@38@@@The J. Geils Band@@@Must Of Got Lost
+31@@@39@@@Latimore@@@Let's Straighten It Out
+32@@@40@@@Eric Clapton@@@Willie And The Hand Jive
+33@@@19@@@Carole King@@@Jazzman
+34@@@53@@@Ringo Starr@@@Only You
+35@@@16@@@Reunion@@@Life Is A Rock (But The Radio Rolled Me)
+36@@@36@@@Blue Magic@@@Three Ring Circus
+37@@@49@@@Paul Anka with Odia Coates@@@One Man Woman/One Woman Man
+38@@@51@@@Stevie Wonder@@@Boogie On Reggae Woman
+39@@@47@@@Jackson 5@@@Whatever You Got, I Want
+40@@@50@@@Jethro Tull@@@Bungle In The Jungle
+41@@@43@@@Paul Davis@@@Ride 'em Cowboy
+42@@@18@@@The Hues Corporation@@@Rockin' Soul
+43@@@54@@@The Righteous Brothers@@@Dream On
+44@@@56@@@Gloria Gaynor@@@Never Can Say Goodbye
+45@@@55@@@Bo Donaldson And The Heywoods@@@The Heartbreak Kid
+46@@@21@@@The Hudson Brothers@@@So You Are A Star
+47@@@57@@@Barry Manilow@@@Mandy
+48@@@101@@@Elton John@@@Lucy In The Sky With Diamonds
+49@@@22@@@Gino Vannelli@@@People Gotta Move
+50@@@59@@@Johnny Bristol@@@You And I
+51@@@41@@@The Stylistics@@@Heavy Fallin' Out
+52@@@63@@@Donny & Marie Osmond@@@Morning Side Of The Mountain
+53@@@69@@@George Harrison@@@Dark Horse
+54@@@30@@@Al Wilson@@@La La Peace Song
+55@@@65@@@Aretha Franklin@@@Without Love
+56@@@77@@@Carpenters@@@Please Mr. Postman
+57@@@81@@@The Guess Who@@@Dancin' Fool
+58@@@67@@@Cheech & Chong@@@Black Lassie (Featuring Johnny Stash)
+59@@@31@@@The Spinners@@@Love Don't Love Nobody - Pt. I
+60@@@60@@@Dave Loggins@@@Someday
+61@@@61@@@The Joneses@@@Sugar Pie Guy Pt. 1
+62@@@73@@@James Brown@@@Funky President (People It's Bad)/Coldblooded
+63@@@58@@@The Doobie Brothers@@@Nobody
+64@@@42@@@Gordon Lightfoot@@@Carefree Highway
+65@@@45@@@Stevie Wonder@@@You Haven't Done Nothin
+66@@@46@@@Three Dog Night@@@Play Something Sweet (Brickyard Blues)
+67@@@48@@@Sam Neely@@@You Can Have Her
+68@@@85@@@Percy Sledge@@@I'll Be Your Everything
+69@@@64@@@Tavares@@@She's Gone
+70@@@70@@@Charley Pride@@@Mississippi Cotton Picking Delta Town
+71@@@62@@@Paper Lace@@@The Black-Eyed Boys
+72@@@44@@@Elton John@@@The Bitch Is Back
+73@@@52@@@Ecstasy, Passion & Pain@@@Ask Me
+74@@@74@@@Ike & Tina Turner@@@Sexy Ida (Part 1)
+75@@@76@@@The Main Ingredient@@@California My Way
+76@@@87@@@Lynyrd Skynyrd@@@Free Bird
+77@@@75@@@Dynamic Superiors@@@Shoe Shoe Shine
+78@@@90@@@Disco Tex & The Sex-O-Lettes@@@Get Dancin'
+79@@@101@@@Carol Douglas@@@Doctor's Orders
+80@@@92@@@Billy Crash Craddock@@@Ruby, Baby
+81@@@101@@@Billy Joel@@@The Entertainer
+82@@@82@@@Gene Cotton@@@Sunshine Roses
+83@@@101@@@Eagles@@@Best Of My Love
+84@@@78@@@Commodores@@@I Feel Sanctified
+85@@@101@@@Barbara Mason@@@From His Woman To You
+86@@@91@@@The First Class@@@Dreams Are Ten A Penny
+87@@@101@@@Love Unlimited@@@I Belong To You
+88@@@95@@@Bobby Bland@@@I Wouldn't Treat A Dog (The Way You Treated Me)
+89@@@101@@@B.B. King@@@Philadelphia
+90@@@94@@@Frankie Valli@@@My Eyes Adored You
+91@@@71@@@Maureen McGovern@@@Give Me A Reason To Be Gone
+92@@@72@@@Grand Canyon@@@Evil Boll-weevil
+93@@@68@@@Sammy Johns@@@Early Morning Love
+94@@@88@@@The Independents@@@Let This Be A Lesson To You
+95@@@66@@@Raspberries@@@Overnight Sensation (Hit Record)
+96@@@79@@@The Miracles@@@Do It Baby
+97@@@80@@@Harold Melvin And The Blue Notes@@@Where Are All My Friends
+98@@@84@@@Jefferson Starship@@@Ride The Tiger
+99@@@86@@@Donna Fargo@@@U.S. Of A
+100@@@83@@@Dionne Warwicke & Spinners@@@Then Came You

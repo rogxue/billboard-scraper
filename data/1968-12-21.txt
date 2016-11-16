@@ -1,0 +1,100 @@
+1@@@1@@@Marvin Gaye@@@I Heard It Through The Grapevine
+2@@@2@@@Diana Ross & The Supremes@@@Love Child
+3@@@3@@@Stevie Wonder@@@For Once In My Life
+4@@@4@@@Dion@@@Abraham, Martin And John
+5@@@7@@@Glen Campbell@@@Wichita Lineman
+6@@@8@@@Classics IV Featuring Dennis Yost@@@Stormy
+7@@@5@@@Johnnie Taylor@@@Who's Making Love
+8@@@11@@@Judy Collins@@@Both Sides Now
+9@@@9@@@Bobby Vinton@@@I Love How You Love Me
+10@@@10@@@Steppenwolf@@@Magic Carpet Ride
+11@@@6@@@The Beatles@@@Hey Jude
+12@@@13@@@The Temptations@@@Cloud Nine
+13@@@17@@@Derek@@@Cinnamon
+14@@@14@@@Aretha Franklin@@@See Saw
+15@@@15@@@Ohio Express@@@Chewy Chewy
+16@@@16@@@Sergio Mendes & Brasil '66@@@Scarborough Fair
+17@@@20@@@Diana Ross And The Supremes & The Temptations@@@I'm Gonna Make You Love Me
+18@@@18@@@Eddie Floyd@@@Bring It On Home To Me
+19@@@12@@@Mary Hopkin@@@Those Were The Days
+20@@@24@@@Young-Holt Unlimited@@@Soulful Strut
+21@@@21@@@Leapy Lee@@@Little Arrows
+22@@@23@@@B.J. Thomas@@@Hooked On A Feeling
+23@@@22@@@Dionne Warwick@@@Promises, Promises
+24@@@36@@@Dusty Springfield@@@Son-Of-A Preacher Man
+25@@@19@@@Johnny Nash@@@Hold Me Tight
+26@@@52@@@Canned Heat@@@Going Up The Country
+27@@@29@@@The Vogues@@@Till
+28@@@28@@@Clarence Carter@@@Too Weak To Fight
+29@@@30@@@Magic Lanterns@@@Shame, Shame
+30@@@32@@@Rene & Rene@@@Lo Mucho Que Te Quiero (The More I Love You)
+31@@@33@@@Otis Redding@@@Papa's Got A Brand New Bag
+32@@@25@@@The Archies@@@Bang-Shang-A-Lang
+33@@@27@@@Peggy Scott & Jo Jo Benson@@@Pickin' Wild Mountain Berries
+34@@@45@@@Andy Williams with the St. Charles Borromeo Choir@@@Battle Hymn Of The Republic
+35@@@39@@@The Rascals@@@A Ray Of Hope
+36@@@40@@@Elvis Presley@@@If I Can Dream
+37@@@44@@@The Chambers Brothers@@@I Can't Turn You Loose
+38@@@38@@@Deep Purple@@@Kentucky Woman
+39@@@85@@@Tommy James And The Shondells@@@Crimson And Clover
+40@@@37@@@1910 Fruitgum Co.@@@Goody Goody Gumdrops
+41@@@41@@@Booker T. & The MG's@@@Hang 'Em High
+42@@@42@@@Wilson Pickett@@@A Man And A Half
+43@@@50@@@The Impressions@@@This Is My Country
+44@@@43@@@Dean Martin@@@Not Enough Indians
+45@@@31@@@James Brown@@@Goodbye My Love
+46@@@46@@@The Lettermen@@@Put Your Head On My Shoulder
+47@@@75@@@Herb Alpert & The Tijuana Brass@@@My Favorite Things
+48@@@48@@@Autry Inman@@@Ballad Of Two Brothers
+49@@@58@@@The Grass Roots@@@Bella Linda
+50@@@69@@@The Royal Guardsmen@@@Baby Let's Wait
+51@@@51@@@Tammy Wynette@@@Stand By Your Man
+52@@@61@@@The Jimi Hendrix Experience@@@Crosstown Traffic
+53@@@53@@@The Tymes@@@People
+54@@@55@@@Aretha Franklin@@@My Song
+55@@@72@@@Sly & The Family Stone@@@Everyday People
+56@@@83@@@Jeannie C. Riley@@@The Girl Most Likely
+57@@@67@@@Bobby Taylor & The Vancouvers@@@Malinda
+58@@@54@@@The Intruders@@@Slow Drag
+59@@@59@@@Creedence Clearwater Revival@@@I Put A Spell On You
+60@@@66@@@The Delfonics@@@Ready Or Not Here I Come (Can't Hide From Love)
+61@@@101@@@Bee Gees@@@I Started A Joke
+62@@@62@@@Petula Clark@@@American Boys
+63@@@63@@@The Fireballs@@@Come On, React!
+64@@@64@@@Bobby Bland@@@Rockin' In The Same Old Boat
+65@@@84@@@Nancy Sinatra@@@Good Time Girl
+66@@@73@@@Alvin Cash@@@Keep On Dancing
+67@@@74@@@The Beach Boys@@@Bluebirds Over The Mountain
+68@@@88@@@Eric Burdon & The Animals@@@White Houses
+69@@@68@@@Joe Cocker@@@With A Little Help From My Friends
+70@@@70@@@Barbara Acklin@@@Just Ain't No Love
+71@@@92@@@Bobby Womack@@@California Dreamin'
+72@@@101@@@The 5th Dimension@@@California Soul
+73@@@101@@@Vanilla Fudge@@@Season Of The Witch, Pt. 1
+74@@@101@@@Tyrone Davis@@@Can I Change My Mind
+75@@@87@@@Archie Bell & The Drells@@@There's Gonna Be A Showdown
+76@@@80@@@O.C. Smith@@@Isn't It Lonely Together
+77@@@77@@@The O'Kaysions@@@Love Machine
+78@@@78@@@Jerry Butler@@@Are You Happy
+79@@@79@@@Della Humphrey@@@Don't Make The Good Girls Go Bad
+80@@@76@@@The Mamas & The Papas@@@Do You Wanna Dance
+81@@@101@@@Sam & Dave@@@Soul Sister, Brown Sugar
+82@@@89@@@Merrilee Rush@@@Reach Out
+83@@@82@@@Paul Mauriat@@@Chitty Chitty Bang Bang
+84@@@101@@@Bob Seger System@@@Ramblin' Gamblin' Man
+85@@@86@@@The Unifics@@@The Beginning Of My End
+86@@@96@@@Johnny Adams@@@Release Me
+87@@@101@@@Andy Kim@@@Rainbow Ride
+88@@@101@@@Tom Jones@@@A Minute Of Your Time
+89@@@90@@@Johnny Nash@@@You Got Soul
+90@@@101@@@Wilson Pickett@@@Hey Jude
+91@@@98@@@John W. Anderson presents KaSandra@@@Don't Pat Me On The Back And Call Me Brother
+92@@@101@@@James Brown@@@Tit For Tat (Ain't No Taking Back)
+93@@@94@@@Sammy Davis Jr.@@@I've Gotta Be Me
+94@@@95@@@Spanky And Our Gang@@@Yesterday's Rain
+95@@@101@@@Five Stairsteps & Cubie@@@Stay Close To Me
+96@@@101@@@Chambers Brothers@@@Shout! - Part 1
+97@@@100@@@Roger Miller@@@Vance
+98@@@101@@@Brooklyn Bridge@@@Worst That Could Happen
+99@@@101@@@The Crystal Mansion@@@The Thought Of Loving You
+100@@@101@@@The Goodees@@@Condition Red

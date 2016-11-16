@@ -1,0 +1,100 @@
+1@@@1@@@Lionel Richie@@@All Night Long (All Night)
+2@@@4@@@Paul McCartney And Michael Jackson@@@Say Say Say
+3@@@3@@@Billy Joel@@@Uptown Girl
+4@@@2@@@Kenny Rogers with Dolly Parton@@@Islands In The Stream
+5@@@7@@@Quiet Riot@@@Cum On Feel The Noize
+6@@@5@@@Bonnie Tyler@@@Total Eclipse Of The Heart
+7@@@13@@@Pat Benatar@@@Love Is A Battlefield
+8@@@6@@@The Fixx@@@One Thing Leads To Another
+9@@@10@@@The Motels@@@Suddenly Last Summer
+10@@@17@@@Daryl Hall & John Oates@@@Say It Isn't So
+11@@@8@@@Prince@@@Delirious
+12@@@15@@@Huey Lewis & The News@@@Heart And Soul
+13@@@18@@@Michael Jackson@@@P.Y.T. (Pretty Young Thing)
+14@@@19@@@John Cougar Mellencamp@@@Crumblin' Down
+15@@@11@@@Sheena Easton@@@Telefone (long Distance Love Affair)
+16@@@9@@@Air Supply@@@Making Love Out Of Nothing At All
+17@@@22@@@Culture Club@@@Church Of The Poison Mind
+18@@@16@@@Peabo Bryson/Roberta Flack@@@Tonight, I Celebrate My Love
+19@@@14@@@David Bowie@@@Modern Love
+20@@@28@@@Irene Cara@@@Why Me?
+21@@@12@@@Spandau Ballet@@@True
+22@@@21@@@Stevie Nicks@@@If Anyone Falls
+23@@@25@@@Journey@@@Send Her My Love
+24@@@42@@@Duran Duran@@@Union Of The Snake
+25@@@26@@@Jackson Browne@@@Tender Is The Night
+26@@@30@@@Big Country@@@In A Big Country
+27@@@27@@@Dionne Warwick & Luther Vandross@@@How Many Times Can We Say Goodbye
+28@@@32@@@Peter Schilling@@@Major Tom (Coming Home)
+29@@@29@@@Rufus & Chaka Khan@@@Ain't Nobody
+30@@@31@@@The Human League@@@Mirror Man
+31@@@23@@@Eurythmics@@@Love Is A Stranger
+32@@@38@@@Olivia Newton-John@@@Twist Of Fate
+33@@@36@@@Rick Springfield@@@Souls
+34@@@41@@@The Police@@@Synchronicity II
+35@@@35@@@Asia@@@The Smile Has Left Your Eyes
+36@@@37@@@Joboxers@@@Just Got Lucky
+37@@@45@@@Yes@@@Owner Of A Lonely Heart
+38@@@46@@@Elton John@@@I Guess That's Why They Call It The Blues
+39@@@48@@@The Rolling Stones@@@Undercover Of The Night
+40@@@20@@@The Police@@@King Of Pain
+41@@@43@@@Kim Carnes@@@Invisible Hands
+42@@@47@@@Matthew Wilder@@@Break My Stride
+43@@@51@@@Debarge@@@Time Will Reveal
+44@@@24@@@Talking Heads@@@Burning Down The House
+45@@@53@@@Barbra Streisand@@@The Way He Makes Me Feel
+46@@@39@@@Michael Stanley Band@@@My Town
+47@@@62@@@Thirty Eight Special@@@If I'd Been The One
+48@@@55@@@Stray Cats@@@I Won't Stand In Your Way
+49@@@59@@@Paul Simon@@@Allergies
+50@@@54@@@The Pointer Sisters@@@I Need You
+51@@@63@@@Jennifer Holliday@@@I Am Love
+52@@@58@@@Naked Eyes@@@When The Lights Go Out
+53@@@101@@@Barry Manilow@@@Read 'Em And Weep
+54@@@56@@@Commodores@@@Only You
+55@@@60@@@Jeffrey Osborne@@@Stay With Me Tonight
+56@@@44@@@Michael Sembello@@@Automatic Man
+57@@@61@@@The Romantics@@@Talking In Your Sleep
+58@@@34@@@Loverboy@@@Queen Of The Broken Hearts
+59@@@75@@@Kool & The Gang@@@Joanna
+60@@@68@@@Madonna@@@Holiday
+61@@@33@@@Men Without Hats@@@The Safety Dance
+62@@@67@@@Deborah Allen@@@Baby I Lied
+63@@@49@@@Def Leppard@@@Foolin'
+64@@@66@@@John Cafferty & The Beaver Brown Band@@@On The Dark Side
+65@@@81@@@Ray Parker Jr.@@@I Still Can't Get Over Loving You
+66@@@72@@@Linda Ronstadt & The Nelson Riddle Orchestra@@@What's New
+67@@@50@@@Klique@@@Stop Doggin' Me Around
+68@@@101@@@Spandau Ballet@@@Gold
+69@@@40@@@The Manhattan Transfer@@@Spice Of Life
+70@@@52@@@Agnetha Faltskog@@@Can't Shake Loose
+71@@@64@@@Billy Joel@@@Tell Her About It
+72@@@69@@@Bob Seger & The Silver Bullet Band@@@Old Time Rock & Roll
+73@@@74@@@Four Tops@@@I Just Can't Walk Away
+74@@@89@@@Rainbow@@@Street Of Dreams
+75@@@85@@@Earth, Wind & Fire@@@Magnetic
+76@@@88@@@The Moody Blues@@@Blue World
+77@@@101@@@The Alan Parsons Project@@@You Don't Believe
+78@@@79@@@Melissa Manchester@@@No One Can Love You More Than Me
+79@@@57@@@Bryan Adams@@@This Time
+80@@@91@@@Shannon@@@Let The Music Play
+81@@@76@@@Alabama@@@Lady Down On Love
+82@@@87@@@KISS@@@Lick It Up
+83@@@65@@@Men At Work@@@Dr. Heckyll & Mr. Jive
+84@@@78@@@Stacy Lattisaw@@@Miracles
+85@@@70@@@Naked Eyes@@@Promises, Promises
+86@@@93@@@Men Without Hats@@@I Like
+87@@@95@@@Real Life@@@Send Me An Angel
+88@@@101@@@Robert Plant@@@In The Mood
+89@@@84@@@The S.O.S. Band@@@Just Be Good To Me
+90@@@94@@@Jennifer Warnes/Chris Thompson@@@All The Right Moves
+91@@@86@@@Genesis@@@Mama
+92@@@101@@@Industry@@@State Of The Union
+93@@@82@@@Elvis Costello And The Attractions@@@Everyday I Write The Book
+94@@@101@@@The S.O.S. Band@@@Tell Me If You Still Care
+95@@@77@@@Survivor@@@Caught In The Game
+96@@@101@@@Eddie Money@@@Big Crash
+97@@@80@@@Robert Plant@@@Big Log
+98@@@73@@@Cliff Richard@@@Never Say Die (Give A Little Bit More)
+99@@@83@@@Heart@@@Allies
+100@@@90@@@Juice Newton@@@Dirty Looks

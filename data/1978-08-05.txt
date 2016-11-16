@@ -1,0 +1,100 @@
+1@@@3@@@The Rolling Stones@@@Miss You
+2@@@6@@@Commodores@@@Three Times A Lady
+3@@@5@@@Frankie Valli@@@Grease
+4@@@4@@@Donna Summer@@@Last Dance
+5@@@1@@@Andy Gibb@@@Shadow Dancing
+6@@@2@@@Gerry Rafferty@@@Baker Street
+7@@@8@@@The O'Jays@@@Use Ta Be My Girl
+8@@@11@@@Foreigner@@@Hot Blooded
+9@@@10@@@Pablo Cruise@@@Love Will Find A Way
+10@@@7@@@Bob Seger & The Silver Bullet Band@@@Still The Same
+11@@@16@@@Walter Egan@@@Magnet And Steel
+12@@@13@@@Barry Manilow@@@Copacabana (at The Copa)
+13@@@14@@@Joe Walsh@@@Life's Been Good
+14@@@15@@@Toby Beau@@@My Angel Baby
+15@@@18@@@Atlanta Rhythm Section@@@I'm Not Gonna Let It Bother Me Tonight
+16@@@29@@@Andy Gibb@@@An Everlasting Love
+17@@@28@@@A Taste Of Honey@@@Boogie Oogie Oogie
+18@@@26@@@Olivia Newton-John@@@Hopelessly Devoted To You
+19@@@24@@@Steve Martin and the Toot Uncommons@@@King Tut
+20@@@9@@@Heatwave@@@The Groove Line
+21@@@23@@@Jackson Browne@@@Stay/The Load-Out
+22@@@12@@@Jefferson Starship@@@Runaway
+23@@@33@@@Evelyn Champagne King@@@Shame
+24@@@17@@@ABBA@@@Take A Chance On Me
+25@@@27@@@Wings@@@I've Had Enough
+26@@@36@@@Chris Rea@@@Fool If You Think It's Over
+27@@@43@@@Exile@@@Kiss You All Over
+28@@@34@@@Quincy Jones@@@Stuff Like That
+29@@@30@@@Todd Rundgren@@@Can We Still Be Friends
+30@@@35@@@Rita Coolidge@@@You
+31@@@20@@@Peter Brown with Betty Wright@@@Dance With Me
+32@@@38@@@Eddie Money@@@Two Tickets To Paradise
+33@@@46@@@Rick James@@@You And I
+34@@@45@@@Nick Gilder@@@Hot Child In The City
+35@@@37@@@Boney M@@@Rivers Of Babylon
+36@@@39@@@Electric Light Orchestra@@@Mr. Blue Sky
+37@@@40@@@Village People@@@Macho Man
+38@@@41@@@Gene Cotton With Kim Carnes@@@You're A Part Of Me
+39@@@69@@@Earth, Wind & Fire@@@Got To Get You Into My Life
+40@@@54@@@John Paul Young@@@Love Is In The Air
+41@@@42@@@Tom Petty And The Heartbreakers@@@I Need To Know
+42@@@44@@@John Travolta & Olivia Newton-John@@@You're The One That I Want
+43@@@50@@@The Cars@@@Just What I Needed
+44@@@47@@@Meat Loaf@@@Two Out Of Three Ain't Bad
+45@@@52@@@Teddy Pendergrass@@@Close The Door
+46@@@19@@@Bonnie Tyler@@@It's A Heartache
+47@@@21@@@Michael Johnson@@@Bluer Than Blue
+48@@@22@@@Steely Dan@@@FM (No Static At All)
+49@@@25@@@Barbra Streisand@@@Songbird
+50@@@31@@@Love And Kisses@@@Thank God It's Friday
+51@@@32@@@Kenny Rogers@@@Love Or Something Like It
+52@@@48@@@Eric Clapton@@@Wonderful Tonight
+53@@@53@@@Eddie Rabbitt@@@You Don't Love Me Anymore
+54@@@49@@@Roberta Flack@@@If Ever I See You Again
+55@@@68@@@Anne Murray@@@You Needed Me
+56@@@81@@@Little River Band@@@Reminiscing
+57@@@75@@@The Kinks@@@A Rock 'N' Roll Fantasy
+58@@@64@@@Alicia Bridges@@@I Love The Nightlife (Disco 'Round)
+59@@@71@@@Cheryl Ladd@@@Think It Over
+60@@@60@@@Dave Mason@@@Will You Still Love Me Tomorrow
+61@@@61@@@Demis Roussos@@@That Once In A Lifetime
+62@@@72@@@Teri DeSario@@@Ain't Nothing Gonna Keep Me From You
+63@@@76@@@Foxy@@@Get Off
+64@@@70@@@REO Speedwagon@@@Time For Me To Fly
+65@@@79@@@Barbra Streisand@@@Love Theme From Eyes Of Laura Mars (Prisoner)
+66@@@101@@@John Travolta & Olivia Newton-John & Cast@@@Summer Nights
+67@@@56@@@Carly Simon@@@You Belong To Me
+68@@@58@@@Billy Joel@@@Only The Good Die Young
+69@@@84@@@Johnny Mathis & Deniece Williams@@@You're All I Need To Get By
+70@@@83@@@Crystal Gayle@@@Talking In Your Sleep
+71@@@73@@@Cheap Trick@@@Surrender
+72@@@82@@@The Spinners@@@If You Wanna Do A Dance
+73@@@74@@@Helen Reddy@@@Ready Or Not
+74@@@78@@@Kristy And Jimmy McNichol@@@He's So Fine
+75@@@86@@@Paul Nicholas@@@On The Strip
+76@@@88@@@The Moody Blues@@@Steppin' In A Slide Zone
+77@@@77@@@Linda Clifford@@@Runaway Love
+78@@@55@@@Eruption@@@I Can't Stand The Rain
+79@@@51@@@Bruce Springsteen@@@Prove It All Night
+80@@@90@@@Kenny Loggins@@@Whenever I Call You Friend
+81@@@101@@@Aerosmith@@@Come Together
+82@@@93@@@Prism@@@Flyin'
+83@@@101@@@Captain & Tennille@@@You Never Done It Like That
+84@@@101@@@Chilliwack@@@Arms Of Mary
+85@@@85@@@Burton Cummings@@@Break It To Them Gently
+86@@@101@@@Stonebolt@@@I Will Still Love You
+87@@@87@@@British Lions@@@Wild In The Streets
+88@@@101@@@Charlie@@@She Loves To Be In Love
+89@@@89@@@Spellbound@@@Rumor At The Honky Tonk
+90@@@101@@@Trooper@@@Raise A Little Hell
+91@@@96@@@Louisiana's Le Roux@@@New Orleans Ladies
+92@@@94@@@The Tarney/Spencer Band@@@It's Really You
+93@@@57@@@Sweet@@@Love Is Like Oxygen
+94@@@62@@@Patti Smith Group@@@Because The Night
+95@@@63@@@Ronnie Milsap@@@Only One Love In My Life
+96@@@65@@@Bob Welch@@@Hot Love, Cold World
+97@@@66@@@Tuxedo Junction@@@Chattanooga Choo Choo
+98@@@59@@@Genesis@@@Follow You Follow Me
+99@@@67@@@Andrew Gold@@@Never Let Her Slip Away
+100@@@80@@@Bill Anderson@@@I Can't Wait Any Longer

@@ -1,0 +1,100 @@
+1@@@1@@@The Rolling Stones@@@Honky Tonk Women
+2@@@2@@@Johnny Cash@@@A Boy Named Sue
+3@@@3@@@The Archies@@@Sugar, Sugar
+4@@@7@@@Creedence Clearwater Revival@@@Green River
+5@@@6@@@The Youngbloods@@@Get Together
+6@@@4@@@Jackie DeShannon@@@Put A Little Love In Your Heart
+7@@@9@@@Bob Dylan@@@Lay Lady Lay
+8@@@13@@@Three Dog Night@@@Easy To Be Hard
+9@@@5@@@Neil Diamond@@@Sweet Caroline (Good Times Never Seemed So Good)
+10@@@14@@@Tom Jones@@@I'll Never Fall In Love Again
+11@@@30@@@The Temptations@@@I Can't Get Next To You
+12@@@12@@@The Guess Who@@@Laughing
+13@@@11@@@Tony Joe White@@@Polk Salad Annie
+14@@@15@@@Plastic Ono Band@@@Give Peace A Chance
+15@@@19@@@The Lettermen@@@Hurt So Bad
+16@@@17@@@The Grass Roots@@@I'd Wait A Million Years
+17@@@10@@@Tommy James And The Shondells@@@Crystal Blue Persuasion
+18@@@18@@@The Box Tops@@@Soul Deep
+19@@@8@@@Zager & Evans@@@In The Year 2525
+20@@@23@@@Aretha Franklin@@@Share Your Love With Me
+21@@@33@@@Oliver@@@Jean
+22@@@28@@@The Electric Indian@@@Keem-O-Sabe
+23@@@24@@@Gladys Knight And The Pips@@@The Nitty Gritty
+24@@@20@@@The 5th Dimension@@@Workin' On A Groovy Thing
+25@@@16@@@Andy Kim@@@Baby, I Love You
+26@@@27@@@Underground Sunshine@@@Birthday
+27@@@29@@@The Dells@@@Oh, What A Night
+28@@@44@@@Nilsson@@@Everybody's Talkin'
+29@@@36@@@Sly & The Family Stone@@@Hot Fun In The Summertime
+30@@@31@@@Lou Rawls@@@Your Good Thing (Is About To End)
+31@@@25@@@The Impressions@@@Choice Of Colors
+32@@@34@@@The Illusion@@@Did You See Her Eyes
+33@@@32@@@Crosby, Stills & Nash@@@Marrakesh Express
+34@@@66@@@Bobby Sherman@@@Little Woman
+35@@@35@@@Creedence Clearwater Revival@@@Commotion
+36@@@39@@@Donovan/Jeff Beck Group@@@Goo Goo Barabajagal (Love Is Hot)
+37@@@42@@@Steppenwolf@@@Move Over
+38@@@43@@@Gary Puckett And The Union Gap@@@This Girl Is A Woman Now
+39@@@64@@@Jerry Butler@@@What's The Use Of Breaking Up
+40@@@40@@@Mama Cass@@@It's Getting Better
+41@@@49@@@Marvin Gaye@@@That's The Way Love Is
+42@@@47@@@Motherlode@@@When I Die
+43@@@48@@@Dionne Warwick@@@Odds And Ends
+44@@@55@@@Bill Deal & The Rhondels@@@What Kind Of Fool Do You Think I Am
+45@@@45@@@Clarence Reid@@@Nobody But You Babe
+46@@@78@@@The Clique@@@Sugar On Sunday
+47@@@59@@@Lou Christie@@@I'm Gonna Make You Mine
+48@@@56@@@Johnnie Taylor@@@I Could Never Be President
+49@@@51@@@Dennis Yost And The Classics IV@@@Change Of Heart
+50@@@50@@@Tim Hardin@@@Simple Song Of Freedom
+51@@@38@@@Glen Campbell@@@True Grit
+52@@@37@@@The Who@@@I'm Free
+53@@@53@@@Little Anthony And The Imperials@@@Out Of Sight, Out Of Mind
+54@@@83@@@O.C. Smith@@@Daddy's Little Man
+55@@@58@@@Engelbert Humperdinck@@@I'm A Better Man
+56@@@57@@@The Intrigues@@@In A Moment
+57@@@60@@@James Brown@@@Lowdown Popcorn
+58@@@46@@@Brooklyn Bridge@@@Your Husband - My Wife
+59@@@52@@@Johnny Rivers@@@Muddy River
+60@@@80@@@The Rugbys@@@You, I
+61@@@76@@@The Delfonics@@@You Got Yours And I'll Get Mine
+62@@@67@@@The Moments@@@I Do
+63@@@63@@@The Cascades@@@Maybe The Rain Will Fall
+64@@@68@@@Bobby Goldsboro@@@Muddy Mississippi Line
+65@@@65@@@Billy Preston@@@That's The Way God Planned It
+66@@@73@@@The Friends Of Distinction@@@Going In Circles
+67@@@71@@@Smokey Robinson & The Miracles@@@Here I Go Again
+68@@@69@@@The O'Jays@@@One Night Affair
+69@@@88@@@Isaac Hayes@@@By The Time I Get To Phoenix
+70@@@101@@@The Rascals@@@Carry Me Back
+71@@@89@@@Spiral Starecase@@@No One For Me To Turn To
+72@@@81@@@1910 Fruitgum Co.@@@The Train
+73@@@91@@@The Intruders@@@Sad Girl
+74@@@79@@@Al Wilson@@@Lodi
+75@@@101@@@John Stewart@@@Armstrong
+76@@@77@@@Jose Feliciano@@@Rain
+77@@@74@@@Peaches & Herb@@@Let Me Be The One
+78@@@85@@@Eddie Bo@@@Hook And Sling-Part I
+79@@@82@@@Joe South and The Believers@@@Don't It Make You Want To Go Home
+80@@@101@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@We Gotta All Get Together
+81@@@101@@@Piero Umiliani@@@Mah Na Mah Na
+82@@@101@@@Thunderclap Newman@@@Something In The Air
+83@@@90@@@The New Colony Six@@@I Want You To Know
+84@@@92@@@Evie Sands@@@Any Way That You Want Me
+85@@@93@@@Orpheus@@@Can't Find The Time
+86@@@101@@@Ohio Express@@@Sausalito (Is The Place To Go)
+87@@@99@@@The Isley Brothers@@@Black Berries - Pt 1
+88@@@95@@@The Association@@@Goodbye Columbus
+89@@@101@@@The Doors@@@Runnin' Blue
+90@@@101@@@Wind@@@Make Believe
+91@@@101@@@Henry Mancini And His Orchestra@@@Moonlight Sonata
+92@@@98@@@The Vogues@@@Green Fields
+93@@@101@@@Waylon Jennings & The Kimberlys@@@MacArthur Park
+94@@@101@@@Smith@@@Baby It's You
+95@@@101@@@Dickie Goodman@@@Luna Trip
+96@@@96@@@Tammy Wynette@@@The Ways To Love A Man
+97@@@97@@@Charley Pride@@@All I Have To Offer You (Is Me)
+98@@@101@@@Booker T. & The MG's@@@Slum Baby
+99@@@101@@@Abaco Dream@@@Life And Death In G & A
+100@@@100@@@B.B. King@@@Get Off My Back Woman

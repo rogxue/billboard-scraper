@@ -1,0 +1,100 @@
+1@@@5@@@The Beatles@@@Penny Lane
+2@@@8@@@The Turtles@@@Happy Together
+3@@@3@@@Johnny Rivers@@@Baby I Need Your Lovin'
+4@@@1@@@The Supremes@@@Love Is Here And Now You're Gone
+5@@@2@@@The Rolling Stones@@@Ruby Tuesday
+6@@@10@@@The Mamas & The Papas@@@Dedicated To The One I Love
+7@@@7@@@Mitch Ryder And The Detroit Wheels@@@Sock It To Me-Baby!
+8@@@12@@@Herman's Hermits@@@There's A Kind Of Hush
+9@@@9@@@Ed Ames@@@My Cup Runneth Over
+10@@@6@@@The Casinos@@@Then You Can Tell Me Goodbye
+11@@@16@@@The Beatles@@@Strawberry Fields Forever
+12@@@15@@@The Buffalo Springfield@@@For What It's Worth (Stop, Hey What's That Sound)
+13@@@14@@@The Marvelettes@@@The Hunter Gets Captured By The Game
+14@@@4@@@The Buckinghams@@@Kind Of A Drag
+15@@@17@@@The Lovin' Spoonful@@@Darling Be Home Soon
+16@@@27@@@Lesley Gore@@@California Nights
+17@@@22@@@The Young Rascals@@@I've Been Lonely Too Long
+18@@@31@@@Tommy James And The Shondells@@@I Think We're Alone Now
+19@@@19@@@Donovan@@@Epistle To Dippy
+20@@@11@@@The Spencer Davis Group@@@Gimme Some Lovin'
+21@@@26@@@Peaches & Herb@@@Let's Fall In Love
+22@@@24@@@Paul Revere & The Raiders@@@Ups And Downs
+23@@@65@@@Four Tops@@@Bernadette
+24@@@25@@@P.J. Proby@@@Niki Hoeky
+25@@@52@@@Aretha Franklin@@@I Never Loved A Man (The Way I Love You)
+26@@@42@@@Harpers Bizarre@@@The 59th Street Bridge Song (Feelin' Groovy)
+27@@@37@@@The Royal Guardsmen@@@The Return Of The Red Baron
+28@@@57@@@Petula Clark@@@This Is My Song
+29@@@50@@@Martha & The Vandellas@@@Jimmy Mack
+30@@@40@@@Smokey Robinson & The Miracles@@@The Love I Saw In You Was Just A Mirage
+31@@@34@@@Jr. Walker & The All Stars@@@Pucker Up Buttercup
+32@@@32@@@Marvin Gaye & Kim Weston@@@It Takes Two
+33@@@13@@@Cannonball Adderley@@@Mercy, Mercy, Mercy
+34@@@18@@@Sonny & Cher@@@The Beat Goes On
+35@@@58@@@The Five Americans@@@Western Union
+36@@@46@@@The Mojo Men@@@Sit Down, I Think I Love You
+37@@@56@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Beggin'
+38@@@28@@@The 5th Dimension@@@Go Where You Wanna Go
+39@@@20@@@The Seekers@@@Georgy Girl
+40@@@45@@@Herman's Hermits@@@No Milk Today
+41@@@51@@@Brenda & The Tabulations@@@Dry Your Eyes
+42@@@43@@@Al Martino@@@Daddy's Little Girl
+43@@@21@@@The Monkees@@@I'm A Believer
+44@@@47@@@Jack Jones@@@Lady
+45@@@48@@@Ronnie Dove@@@One More Mountain To Climb
+46@@@53@@@The Seekers@@@Morningtown Ride
+47@@@39@@@Frankie Laine@@@I'll Take Care Of Your Cares
+48@@@23@@@Neil Diamond@@@You Got To Me
+49@@@29@@@Wilson Pickett@@@Everybody Needs Somebody To Love
+50@@@101@@@Nancy Sinatra & Frank Sinatra@@@Somethin' Stupid
+51@@@68@@@The Platters@@@With This Ring
+52@@@55@@@Sam & Dave@@@When Something Is Wrong With My Baby
+53@@@64@@@Stevie Wonder@@@Travlin' Man
+54@@@38@@@Elvis Presley With The Jordanaires and The Imperials Quartet@@@Indescribably Blue
+55@@@81@@@Arthur Conley@@@Sweet Soul Music
+56@@@36@@@The Brass Ring featuring Phil Bodner@@@The Dis-Advantages Of You
+57@@@72@@@Gary Lewis And The Playboys@@@The Loser (With A Broken Heart)
+58@@@62@@@Brian Hyland@@@Hung Up In Your Eyes
+59@@@74@@@James Brown And The Famous Flames@@@Kansas City
+60@@@60@@@Jerry Butler@@@I Dig You Baby
+61@@@71@@@Herb Alpert & The Tijuana Brass@@@Wade In The Water
+62@@@54@@@The Association@@@No Fair At All
+63@@@80@@@Joe Tex@@@Show Me
+64@@@84@@@Tom Jones@@@Detroit City
+65@@@76@@@Sandy Posey@@@What A Woman In Love Won't Do
+66@@@63@@@Don Ho and the Aliis@@@Tiny Bubbles
+67@@@70@@@Ramsey Lewis@@@One, Two, Three
+68@@@66@@@The Music Machine@@@The People In Me
+69@@@75@@@New Colony Six@@@Love You So Much
+70@@@85@@@Marlena Shaw@@@Mercy, Mercy, Mercy
+71@@@83@@@Nancy Sinatra with Lee Hazlewood@@@Summer Wine
+72@@@73@@@Shirley Ellis@@@Soul Time
+73@@@88@@@Chris Montez@@@Because Of You
+74@@@101@@@Jimmy Ruffin@@@Gonna Give Her All The Love I've Got
+75@@@79@@@The Innocence@@@Mairzy Doats
+76@@@92@@@Gene Chandler@@@Girl Don't Care
+77@@@101@@@Keith@@@Tell Me To My Face
+78@@@93@@@The Rainy Daze@@@That Acapulco Gold
+79@@@91@@@James Carr@@@The Dark End Of The Street
+80@@@82@@@Micky Dolenz@@@Don't Do It
+81@@@101@@@Blues Magoos@@@Pipe Dream
+82@@@101@@@Bobby Vinton@@@For He's A Jolly Good Fellow
+83@@@98@@@The Buckinghams@@@Laudy Miss Claudy
+84@@@86@@@Jackie Wilson@@@I Don't Want To Lose You
+85@@@100@@@The Buckinghams@@@Don't You Care
+86@@@90@@@The Seeds@@@Mr. Farmer
+87@@@87@@@Percy Sledge@@@Baby, Help Me
+88@@@101@@@Eddy Arnold@@@Lonely Again
+89@@@101@@@Simon & Garfunkel@@@At The Zoo
+90@@@101@@@Dusty Springfield@@@I'll Try Anything
+91@@@101@@@Jimmy Hughes@@@Why Not Tonight
+92@@@101@@@The Artistics@@@Girl I Need You
+93@@@94@@@The Peanut Butter Conspiracy@@@It's A Happening Thing
+94@@@101@@@Dionne Warwick@@@The Beginning Of Loneliness
+95@@@101@@@2 Of Clubs@@@Walk Tall
+96@@@101@@@Sam The Sham and the Pharaohs@@@Oh That's Good, No That's Bad
+97@@@97@@@The Woolies@@@Who Do You Love
+98@@@101@@@Ray Charles@@@I Want To Talk About You
+99@@@101@@@The Hollies@@@On A Carousel
+100@@@101@@@The Easybeats@@@Friday On My Mind

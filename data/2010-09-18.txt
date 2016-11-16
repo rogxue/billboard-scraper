@@ -1,0 +1,100 @@
+1@@@2@@@Katy Perry@@@Teenage Dream
+2@@@1@@@Eminem Featuring Rihanna@@@Love The Way You Lie
+3@@@3@@@Taio Cruz@@@Dynamite
+4@@@6@@@Bruno Mars@@@Just The Way You Are
+5@@@4@@@Enrique Iglesias Featuring Pitbull@@@I Like It
+6@@@5@@@Usher Featuring Pitbull@@@DJ Got Us Fallin' In Love
+7@@@9@@@Taylor Swift@@@Mine
+8@@@10@@@Ke$ha@@@Take It Off
+9@@@13@@@Nelly@@@Just A Dream
+10@@@7@@@Katy Perry Featuring Snoop Dogg@@@California Gurls
+11@@@8@@@Mike Posner@@@Cooler Than Me
+12@@@11@@@B.o.B Featuring Rivers Cuomo@@@Magic
+13@@@16@@@Flo Rida Featuring David Guetta@@@Club Can't Handle Me
+14@@@12@@@B.o.B Featuring Hayley Williams@@@Airplanes
+15@@@14@@@Jason Derulo@@@Ridin' Solo
+16@@@15@@@Eminem@@@Not Afraid
+17@@@17@@@Maroon 5@@@Misery
+18@@@18@@@Travie McCoy Featuring Bruno Mars@@@Billionaire
+19@@@24@@@Chris Brown Featuring Tyga & Kevin McCall@@@Deuces
+20@@@27@@@Trey Songz Featuring Nicki Minaj@@@Bottoms Up
+21@@@41@@@Far*East Movement Featuring Cataracs & Dev@@@Like A G6
+22@@@20@@@Usher Featuring will.i.am@@@OMG
+23@@@21@@@Drake@@@Find Your Love
+24@@@26@@@Sugarland@@@Stuck Like Glue
+25@@@23@@@Nicki Minaj@@@Your Love
+26@@@19@@@Lil Wayne Featuring Drake@@@Right Above It
+27@@@25@@@Usher Featuring Jay-Z@@@Hot Tottie
+28@@@29@@@Kenny Chesney@@@The Boys of Fall
+29@@@35@@@OneRepublic@@@Secrets
+30@@@33@@@Neon Trees@@@Animal
+31@@@31@@@Cali Swag District@@@Teach Me How To Dougie
+32@@@30@@@Train@@@Hey, Soul Sister
+33@@@96@@@Cee Lo Green@@@F**k You (Forget You)
+34@@@28@@@Paramore@@@The Only Exception
+35@@@32@@@Adam Lambert@@@If I Had You
+36@@@36@@@John Mayer@@@Half Of My Heart
+37@@@38@@@Uncle Kracker@@@Smile
+38@@@34@@@Lady Antebellum@@@Need You Now
+39@@@39@@@Drake Featuring Lil Wayne@@@Miss Me
+40@@@53@@@Sean Kingston Featuring Nicki Minaj@@@Letting Go (Dutty Love)
+41@@@42@@@Billy Currington@@@Pretty Good At Drinkin' Beer
+42@@@37@@@Taio Cruz Featuring Ludacris@@@Break Your Heart
+43@@@43@@@The Band Perry@@@If I Die Young
+44@@@47@@@Train@@@If It's Love
+45@@@45@@@La Roux@@@Bulletproof
+46@@@44@@@Lady Gaga@@@Alejandro
+47@@@50@@@The Script@@@Breakeven
+48@@@48@@@Lee Brice@@@Love Like Crazy
+49@@@60@@@Jay Sean Featuring Nicki Minaj@@@2012 (It Ain't The End)
+50@@@40@@@Usher@@@There Goes My Baby
+51@@@58@@@Sara Bareilles@@@King Of Anything
+52@@@56@@@Lady Antebellum@@@Our Kind Of Love
+53@@@51@@@Shontelle@@@Impossible
+54@@@46@@@T.I. Featuring Keri Hilson@@@Got Your Back
+55@@@52@@@Auburn Featuring Iyaz@@@La La La
+56@@@49@@@Soulja Boy Tell'em@@@Pretty Boy Swag
+57@@@63@@@Drake Featuring T.I. & Swizz Beatz@@@Fancy
+58@@@66@@@Darius Rucker@@@Come Back Song
+59@@@61@@@Carrie Underwood@@@Undo It
+60@@@62@@@Monica@@@Love All Over Me
+61@@@55@@@Blake Shelton@@@All About Tonight
+62@@@22@@@Kid Cudi Featuring Kanye West@@@Erase Me
+63@@@64@@@Rick Ross Featuring Styles P@@@B.M.F. (Blowin' Money Fast)
+64@@@59@@@Little Big Town@@@Little White Church
+65@@@54@@@Jason Aldean@@@My Kinda Party
+66@@@75@@@Daughtry@@@September
+67@@@57@@@Zac Brown Band@@@Free
+68@@@69@@@New Boyz Featuring Iyaz@@@Break My Bank
+69@@@65@@@Keith Urban@@@I'm In
+70@@@81@@@Easton Corbin@@@Roll With It
+71@@@77@@@Josh Turner@@@All Over Me
+72@@@80@@@Rodney Atkins@@@Farmer's Daughter
+73@@@68@@@Jerrod Niemann@@@Lover, Lover
+74@@@70@@@Rascal Flatts@@@Why Wait
+75@@@72@@@Linkin Park@@@The Catalyst
+76@@@84@@@David Guetta & Chris Willis Featuring Fergie & LMFAO@@@Gettin' Over You
+77@@@82@@@Pink@@@Glitter In The Air
+78@@@88@@@Zac Brown Band Featuring Alan Jackson@@@As She's Walking Away
+79@@@76@@@Kanye West@@@POWER
+80@@@83@@@Shakira Featuring Freshlyground@@@Waka Waka (This Time For Africa)
+81@@@74@@@Fantasia@@@Bittersweet
+82@@@79@@@Selena Gomez & The Scene@@@Round & Round
+83@@@85@@@Craig Morgan@@@This Ain't Nothin'
+84@@@73@@@Ciara Featuring Ludacris@@@Ride
+85@@@90@@@The Ready Set@@@Love Like Woe
+86@@@78@@@Miranda Cosgrove@@@Kissin U
+87@@@94@@@YG@@@Toot It And Boot It
+88@@@98@@@Jazmine Sullivan@@@Holding You Down (Goin In Circles)
+89@@@91@@@Mumford & Sons@@@Little Lion Man
+90@@@89@@@Ne-Yo@@@Champagne Life
+91@@@86@@@The Script@@@The Man Who Can't Be Moved
+92@@@71@@@Justin Bieber Featuring Usher@@@Somebody To Love
+93@@@87@@@3OH!3 Featuring Ke$ha@@@My First Kiss
+94@@@92@@@Antoine Dodson & The Gregory Brothers Featuring Kelly Dodson@@@Bed Intruder Song
+95@@@101@@@George Strait@@@The Breath You Take
+96@@@101@@@Miranda Lambert@@@Only Prettier
+97@@@97@@@Toby Keith@@@Trailerhood
+98@@@100@@@Josh Thompson@@@Way Out Here
+99@@@101@@@Gyptian@@@Hold You (Hold Yuh)
+100@@@101@@@Brad Paisley@@@Anything Like Me

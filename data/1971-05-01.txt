@@ -1,0 +1,100 @@
+1@@@1@@@Three Dog Night@@@Joy To The World
+2@@@3@@@Ocean@@@Put Your Hand In The Hand
+3@@@4@@@Jackson 5@@@Never Can Say Goodbye
+4@@@2@@@Marvin Gaye@@@What's Going On
+5@@@6@@@Neil Diamond@@@I Am...I Said/Done Too Soon
+6@@@8@@@Bread@@@If
+7@@@10@@@The Bells@@@Stay Awhile
+8@@@5@@@Paul McCartney@@@Another Day/Oh Woman Oh Why
+9@@@7@@@The Temptations@@@Just My Imagination (Running Away With Me)
+10@@@17@@@Daddy Dewdrop@@@Chick-A-Boom (Don't Ya Jes' Love It)
+11@@@15@@@John Lennon/Plastic Ono Band' Yoko Ono/Plastic Ono Band@@@Power To The People
+12@@@24@@@Aretha Franklin@@@Bridge Over Troubled Water/Brand New Me
+13@@@14@@@Stevie Wonder@@@We Can Work It Out
+14@@@11@@@Brewer And Shipley@@@One Toke Over The Line
+15@@@9@@@Tom Jones@@@She's A Lady
+16@@@30@@@Lobo@@@Me And You And A Dog Named Boo
+17@@@26@@@The Buoys@@@Timothy
+18@@@12@@@Janis Joplin@@@Me And Bobby McGee
+19@@@37@@@The Doors@@@Love Her Madly
+20@@@16@@@The Partridge Family Starring Shirley Jones Featuring David Cassidy@@@Doesn't Somebody Want To Be Wanted
+21@@@19@@@Cat Stevens@@@Wild World
+22@@@46@@@Donny Osmond of The Osmonds@@@Sweet And Innocent
+23@@@35@@@The Fuzz@@@I Love You For All Seasons
+24@@@20@@@Andy Williams@@@(Where Do I Begin) Love Story
+25@@@27@@@Smokey Robinson & The Miracles@@@I Don't Blame You At All
+26@@@22@@@B.J. Thomas@@@No Love At All
+27@@@13@@@Carpenters@@@For All We Know
+28@@@18@@@Sammi Smith@@@Help Me Make It Through The Night
+29@@@31@@@King Floyd@@@Baby Let Me Kiss You
+30@@@25@@@Dawn@@@I Play And Sing
+31@@@21@@@Alice Cooper@@@Eighteen
+32@@@59@@@The Honey Cone@@@Want Ads
+33@@@45@@@Brenda & The Tabulations@@@Right On The Tip Of My Tongue
+34@@@34@@@Elton John@@@Friends
+35@@@39@@@Richie Havens@@@Here Comes The Sun
+36@@@36@@@Ray Charles@@@Don't Change On Me
+37@@@41@@@C Company Featuring Terry Nelson@@@Battle Hymn Of Lt. Calley
+38@@@40@@@Matthews' Southern Comfort@@@Woodstock
+39@@@29@@@The 5th Dimension@@@Love's Lines, Angles And Rhymes
+40@@@101@@@The Rolling Stones@@@Brown Sugar
+41@@@63@@@Murray Head With The Trinidad Singers@@@Superstar
+42@@@42@@@Ray Price@@@I Won't Mention It Again
+43@@@52@@@Nilsson@@@Me And My Arrow
+44@@@47@@@The Mixtures@@@Pushbike Song
+45@@@56@@@Tin Tin@@@Toast And Marmalade For Tea
+46@@@65@@@The Chi-lites@@@(For God's Sake) Give More Power To The People
+47@@@58@@@Helen Reddy@@@I Don't Know How To Love Him
+48@@@49@@@Emerson, Lake & Palmer@@@Lucky Man
+49@@@101@@@Ringo Starr@@@It Don't Come Easy
+50@@@57@@@Paul Humphrey & His Cool Aid Chemists@@@Cool Aid
+51@@@55@@@Derek & The Dominos@@@Layla
+52@@@64@@@The Ray Charles Orchestra@@@Booty Butt
+53@@@43@@@Detroit Emeralds@@@Do Me Right
+54@@@51@@@Kenny Rogers & The First Edition@@@Someone Who Cares
+55@@@80@@@Yvonne Elliman@@@I Don't Know How To Love Him
+56@@@54@@@Barbra Streisand@@@Time And Love
+57@@@53@@@Perry Como@@@I Think Of You
+58@@@72@@@Cornelius Brothers & Sister Rose@@@Treat Her Like A Lady
+59@@@74@@@The Guess Who@@@Albert Flasher/Broken
+60@@@66@@@Seatrain@@@13 Questions
+61@@@96@@@Wilson Pickett@@@Don't Knock My Love - Pt. 1
+62@@@68@@@The Raeletts@@@Bad Water
+63@@@62@@@Andy Kim@@@I Wish I Were
+64@@@60@@@Tyrone Davis@@@Could I Forget You
+65@@@67@@@Jimi Hendrix@@@Freedom
+66@@@101@@@Diana Ross@@@Reach Out I'll Be There
+67@@@76@@@R. Dean Taylor@@@Gotta See Jane
+68@@@69@@@Booker T. & The MG's@@@Melting Pot
+69@@@73@@@Poco@@@C'mon
+70@@@82@@@Boz Scaggs@@@We Were Always Sweethearts
+71@@@95@@@Carly Simon@@@That's The Way I've Always Heard It Should Be
+72@@@83@@@The Raiders@@@Indian Reservation (The Lament Of The Cherokee Reservation Indian)
+73@@@78@@@The Ides Of March@@@L.A. Goodbye
+74@@@77@@@Jeannie C. Riley@@@Oh, Singer
+75@@@87@@@Edwin Starr@@@Funky Music Sho Nuff Turns Me On
+76@@@81@@@Susan Raye@@@L.A. International Airport
+77@@@79@@@Mountain@@@The Animal Trainer And The Toad
+78@@@101@@@Grand Funk Railroad@@@Feelin' Alright
+79@@@85@@@Michael Nesmith & The First National Band@@@Nevada Fighter
+80@@@101@@@The Brotherhood Of Man@@@Reach Out Your Hand
+81@@@91@@@Whatnauts@@@I'll Erase Away Your Pain
+82@@@84@@@Runt-Todd Rundgren@@@Be Nice To Me
+83@@@86@@@Jerry Butler Featuring Brenda Lee Eager@@@If It's Real What I Feel
+84@@@88@@@Joy Of Cooking@@@Brownsville
+85@@@89@@@Nitty Gritty Dirt Band@@@House At Pooh Corner
+86@@@90@@@Hudson and Landry@@@Ajax Liquor Store
+87@@@101@@@Dave Edmunds@@@I'm Comin' Home
+88@@@101@@@Ray Stevens@@@A Mama And A Papa
+89@@@101@@@Johnny Winter@@@Jumpin' Jack Flash
+90@@@101@@@Bobby Sherman@@@The Drum
+91@@@101@@@John Denver@@@Take Me Home, Country Roads
+92@@@92@@@Cissy Houston@@@Be My Baby
+93@@@97@@@Rose Colored Glass@@@Can't Find The Time
+94@@@94@@@Loretta Lynn@@@I Wanna Be Free
+95@@@101@@@David Crosby@@@Music Is Love
+96@@@101@@@Solomon Burke@@@The Electronic Magnetism (That's Heavy, Baby)
+97@@@98@@@B.B. King@@@That Evil Child
+98@@@100@@@Hog Heaven@@@Happy
+99@@@99@@@Red Eye@@@Red Eye Blues
+100@@@101@@@Luther Ingram@@@Be Good To Me Baby

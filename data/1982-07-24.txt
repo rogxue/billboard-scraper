@@ -1,0 +1,100 @@
+1@@@4@@@Survivor@@@Eye Of The Tiger
+2@@@2@@@Toto@@@Rosanna
+3@@@3@@@John Cougar@@@Hurts So Good
+4@@@6@@@Fleetwood Mac@@@Hold Me
+5@@@5@@@Dazz Band@@@Let It Whip
+6@@@11@@@The Steve Miller Band@@@Abracadabra
+7@@@1@@@The Human League@@@Don't You Want Me
+8@@@8@@@Soft Cell@@@Tainted Love
+9@@@9@@@The Motels@@@Only The Lonely
+10@@@12@@@REO Speedwagon@@@Keep The Fire Burnin'
+11@@@15@@@Chicago@@@Hard To Say I'm Sorry
+12@@@7@@@Juice Newton@@@Love's Been A Little Bit Hard On Me
+13@@@13@@@Stevie Wonder@@@Do I Do
+14@@@16@@@Air Supply@@@Even The Nights Are Better
+15@@@10@@@38 Special@@@Caught Up In You
+16@@@20@@@Crosby, Stills & Nash@@@Wasted On The Way
+17@@@14@@@Ronnie Milsap@@@Any Day Now
+18@@@18@@@Alabama@@@Take Me Down
+19@@@19@@@Journey@@@Still They Ride
+20@@@22@@@Karla Bonoff@@@Personally
+21@@@21@@@Rick Springfield@@@What Kind Of Fool Am I
+22@@@32@@@Go-Go's@@@Vacation
+23@@@31@@@Paul McCartney@@@Take It Away
+24@@@26@@@The Gap Band@@@Early In The Morning
+25@@@25@@@The Rolling Stones@@@Going To A Go-Go
+26@@@30@@@Melissa Manchester@@@You Should Hear How She Talks About You
+27@@@36@@@Donna Summer@@@Love Is In Control (finger On The Trigger)
+28@@@17@@@Kansas@@@Play The Game Tonight
+29@@@44@@@Kenny Rogers@@@Love Will Turn You Around
+30@@@35@@@Gary U.S. Bonds@@@Out Of Work
+31@@@33@@@Larry Elgart And His Manhattan Swing Orchestra@@@Hooked On Swing
+32@@@34@@@Leslie Pearl@@@If The Love Fits Wear It
+33@@@43@@@The Pointer Sisters@@@American Music
+34@@@37@@@Kim Wilde@@@Kids In America
+35@@@38@@@Glenn Frey@@@I Found Somebody
+36@@@41@@@Genesis@@@Paperlate
+37@@@39@@@Eye To Eye@@@Nice Girls
+38@@@40@@@Haircut One Hundred@@@Love Plus One
+39@@@42@@@Daryl Hall & John Oates@@@Your Imagination
+40@@@45@@@Eddie Money@@@Think I'm In Love
+41@@@59@@@Jennifer Holliday@@@And I Am Telling You I'm Not Going
+42@@@46@@@Herb Alpert@@@Route 101
+43@@@49@@@Billy Idol@@@Hot In The City
+44@@@56@@@The Alan Parsons Project@@@Eye In The Sky
+45@@@47@@@Cheap Trick@@@If You Want My Love
+46@@@23@@@Patrice Rushen@@@Forget Me Nots
+47@@@24@@@Asia@@@Heat Of The Moment
+48@@@27@@@Paul McCartney And Stevie Wonder@@@Ebony And Ivory
+49@@@28@@@Willie Nelson@@@Always On My Mind
+50@@@29@@@Joan Jett And The Blackhearts@@@Crimson And Clover
+51@@@48@@@Ray Parker Jr.@@@The Other Woman
+52@@@50@@@Foreigner@@@Break It Up
+53@@@51@@@Heart@@@This Man Is Mine
+54@@@64@@@Jeffrey Osborne@@@I Really Don't Need No Light
+55@@@58@@@The Reddings@@@(Sittin' On) The Dock Of The Bay
+56@@@57@@@Ashford & Simpson@@@Street Corner
+57@@@71@@@Men At Work@@@Who Can It Be Now?
+58@@@70@@@Marshall Crenshaw@@@Someday, Someway
+59@@@69@@@Missing Persons@@@Words
+60@@@67@@@Dr. Hook@@@Loveline
+61@@@74@@@Elton John@@@Blue Eyes
+62@@@75@@@Frank Zappa@@@Valley Girl
+63@@@52@@@Neil Diamond@@@Be Mine Tonight
+64@@@72@@@April Wine@@@Enough Is Enough
+65@@@65@@@Scorpions@@@No One Like You
+66@@@76@@@A Flock Of Seagulls@@@I Ran (So Far Away)
+67@@@73@@@Laura Branigan@@@Gloria
+68@@@78@@@Paul Davis@@@Love Or Let Me Be Lonely
+69@@@101@@@John Cougar@@@Jack & Diane
+70@@@53@@@Blondie@@@Island Of Lost Souls
+71@@@81@@@Ray Parker Jr.@@@Let Me Go
+72@@@79@@@707@@@Mega Force
+73@@@54@@@Van Halen@@@Dancing In The Street
+74@@@55@@@The J. Geils Band@@@Angel In Blue
+75@@@101@@@Jermaine Jackson@@@Let Me Tickle Your Fancy
+76@@@60@@@Olivia Newton-John@@@Landslide
+77@@@61@@@Queen@@@Body Language
+78@@@88@@@Aldo Nova@@@Foolin' Yourself
+79@@@62@@@Frankie Miller@@@To Dream The Dream
+80@@@90@@@Afrika Bambaataa & The Soul Sonic Force@@@Planet Rock
+81@@@101@@@Roberta Flack@@@I'm The One
+82@@@86@@@Greg Kihn Band@@@Every Love Song
+83@@@83@@@One Way@@@Cutie Pie
+84@@@101@@@Asia@@@Only Time Will Tell
+85@@@101@@@Jerry Reed@@@She Got The Goldmine (i Got The Shaft)
+86@@@89@@@Carly Simon@@@Why
+87@@@101@@@Dayton@@@Hot Fun In The Summertime
+88@@@92@@@The Clash@@@Should I Stay Or Should I Go
+89@@@101@@@Michael Murphey@@@What's Forever For
+90@@@101@@@Axe@@@Now Or Never
+91@@@91@@@Rick James@@@Dance Wit' Me - Part 1
+92@@@94@@@Greg Guidry@@@Into My Love
+93@@@63@@@Stevie Nicks@@@After The Glitter Fades
+94@@@98@@@War@@@Outlaw
+95@@@66@@@Deniece Williams@@@It's Gonna Take A Miracle
+96@@@87@@@Tommy Tutone@@@867-5309/jenny
+97@@@85@@@Rick Springfield@@@Don't Talk To Strangers
+98@@@84@@@Roberta Flack@@@Making Love
+99@@@80@@@The Frank Barber Orch.@@@Hooked On Big Bands
+100@@@82@@@Huey Lewis & The News@@@Hope You Love Me Like You Say You Do

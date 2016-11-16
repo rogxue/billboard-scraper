@@ -1,0 +1,100 @@
+1@@@1@@@The Fleetwoods@@@Come Softly To Me
+2@@@2@@@Frankie Avalon@@@Venus
+3@@@3@@@Dodie Stevens@@@Pink Shoe Laces
+4@@@10@@@Elvis Presley With The Jordanaires@@@I Need Your Love Tonight
+5@@@8@@@Elvis Presley With The Jordanaires@@@(Now and Then There's) A Fool Such As I
+6@@@6@@@Ricky Nelson@@@Never Be Anyone Else But You
+7@@@9@@@The Virtues@@@Guitar Boogie Shuffle
+8@@@4@@@Brook Benton@@@It's Just A Matter Of Time
+9@@@5@@@Thomas Wayne With the Delons@@@Tragedy
+10@@@11@@@Ricky Nelson@@@It's Late
+11@@@16@@@Travis & Bob@@@Tell Him No
+12@@@14@@@The Kingston Trio@@@The Tijuana Jail
+13@@@13@@@Dave 'Baby' Cortez@@@The Happy Organ
+14@@@15@@@Frankie Ford@@@Sea Cruise
+15@@@12@@@The Skyliners@@@Since I Don't Have You
+16@@@7@@@The Coasters@@@Charlie Brown
+17@@@17@@@Fabian@@@Turn Me Loose
+18@@@21@@@Tommy Dee with Carol Kay and the Teen-Aires@@@Three Stars
+19@@@22@@@The Platters@@@Enchanted
+20@@@25@@@The Impalas@@@Sorry (I Ran All The Way Home)
+21@@@30@@@Jackie Wilson@@@That's Why (I Love You So)
+22@@@20@@@Rod Bernard@@@This Should Go On Forever
+23@@@27@@@Pat Boone@@@For A Penny
+24@@@23@@@Tommy Edwards@@@Please Mr. Sun
+25@@@28@@@Lloyd Price@@@Where Were You (On Our Wedding Day)?
+26@@@24@@@Buddy Holly@@@It Doesn't Matter Anymore
+27@@@18@@@David Seville And The Chipmunks@@@Alvin's Harmonica
+28@@@29@@@Connie Francis@@@If I Didn't Care
+29@@@19@@@The Bell Notes@@@I've Had It
+30@@@46@@@Duane Eddy His Twangy Guitar And The Rebels@@@Yep!
+31@@@33@@@Sam Cooke@@@Everybody Likes To Cha Cha Cha
+32@@@50@@@The Everly Brothers@@@Take A Message To Mary
+33@@@35@@@Jesse Belvin@@@Guess Who
+34@@@32@@@The Chordettes@@@No Other Arms, No Other Lips
+35@@@26@@@Andy Williams@@@The Hawaiian Wedding Song (Ke Kali Nei Au)
+36@@@67@@@The Everly Brothers@@@Poor Jenny
+37@@@49@@@Marv Johnson@@@Come To Me
+38@@@39@@@The Crests@@@Six Nights A Week
+39@@@48@@@Chuck Berry@@@Almost Grown
+40@@@44@@@Paul Anka@@@I Miss You So
+41@@@31@@@Tommy Edwards@@@The Morning Side Of The Mountain
+42@@@53@@@Dean & Marc@@@Tell Him No
+43@@@79@@@Franck Pourcel's French Fiddles@@@Only You
+44@@@54@@@Johnny Nash@@@As Time Goes By
+45@@@58@@@Johnny Mathis@@@Someone
+46@@@40@@@Jimmie Rodgers@@@I'm Never Gonna Tell
+47@@@70@@@Kathy Linden@@@Goodbye Jimmy, Goodbye
+48@@@43@@@Neil Sedaka@@@I Go Ape
+49@@@34@@@Ritchie Valens@@@Donna
+50@@@62@@@Ronnie Height@@@Come Softly To Me
+51@@@45@@@Teresa Brewer@@@Heavenly Lover
+52@@@61@@@Clyde McPhatter@@@Lovey Dovey
+53@@@52@@@Dale Hawkins@@@Yea - Yea (Class Cutter)
+54@@@38@@@Ray Anthony and His Orchestra@@@Peter Gunn
+55@@@60@@@The Fiestas@@@So Fine
+56@@@59@@@Link Wray And The Wraymen@@@Raw-Hide
+57@@@37@@@The Diamonds@@@She Say (Oom Dooby Doom)
+58@@@42@@@LaVern Baker@@@I Cried A Tear
+59@@@41@@@Marty Robbins@@@The Hanging Tree
+60@@@77@@@Ritchie Valens@@@That's My Little Suzie
+61@@@69@@@Frank Sinatra@@@French Foreign Legion
+62@@@101@@@Pat Boone@@@The Wang Dang Taffy-Apple Tango (Mambo Cha Cha Cha)
+63@@@47@@@The Rivieras@@@Moonlight Serenade
+64@@@36@@@Lloyd Price@@@Stagger Lee
+65@@@51@@@Perry Como@@@Tomboy
+66@@@101@@@Brook Benton@@@Endlessly
+67@@@57@@@The Rockin R's@@@The Beat
+68@@@55@@@Chris Barber's Jazz Band@@@Petite Fleur (Little Flower)
+69@@@101@@@Dion & The Belmonts@@@A Teenager In Love
+70@@@81@@@Joni James@@@I Still Get A Thrill (Thinking Of You)
+71@@@100@@@Wilbert Harrison@@@Kansas City
+72@@@101@@@Edward Byrnes & Connie Stevens@@@Kookie, Kookie (Lend Me Your Comb)
+73@@@76@@@Billy Grammer@@@The Kissing Tree
+74@@@85@@@The Genies@@@Who's That Knocking
+75@@@101@@@Billy Williams@@@Goodnight Irene
+76@@@89@@@The Big Sound Of Don Ralke@@@77 Sunset Strip
+77@@@78@@@Patti Page@@@The Walls Have Ears
+78@@@101@@@Roy Hamilton@@@I Need Your Lovin'
+79@@@95@@@The Exotic Sounds of Martin Denny@@@Quiet Village
+80@@@90@@@Annette@@@Jo-Jo The Dog-Faced Boy
+81@@@87@@@Billy Grammer@@@Bonaparte's Retreat
+82@@@73@@@Cookie And His Cupcakes@@@Matilda
+83@@@88@@@Buddy Knox@@@I Think I'm Gonna Kill Myself
+84@@@75@@@The Playmates@@@Star Love
+85@@@91@@@Billy Storm@@@I've Come Of Age
+86@@@56@@@The McGuire Sisters@@@May You Always
+87@@@94@@@Gary Stites@@@Lonely For You
+88@@@101@@@The Falcons@@@You're So Fine
+89@@@93@@@Jack Scott@@@I Never Felt Like This
+90@@@101@@@Bobby Darin@@@Dream Lover
+91@@@83@@@Stan Robinson@@@Boom-A-Dip-Dip
+92@@@99@@@The Mary Kaye Trio@@@You Can't Be True Dear
+93@@@101@@@Jerry Wallace@@@A Touch Of Pink
+94@@@101@@@Joe Medlin@@@I Kneel At Your Throne
+95@@@101@@@LaVern Baker@@@I Waited Too Long
+96@@@101@@@Ray Anthony and His Orchestra@@@Walkin' To Mother's
+97@@@101@@@Clyde McPhatter@@@I Told Myself A Lie
+98@@@101@@@Bobby Day@@@That's All I Want
+99@@@101@@@David Hill@@@Two Brothers
+100@@@101@@@Jimmy Beck & His Orchestra@@@Pipe Dreams

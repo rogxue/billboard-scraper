@@ -1,0 +1,100 @@
+1@@@2@@@The Troggs@@@Wild Thing
+2@@@1@@@Tommy James And The Shondells@@@Hanky Panky
+3@@@3@@@Sam The Sham and the Pharaohs@@@Lil' Red Riding Hood
+4@@@4@@@Crispian St. Peters@@@The Pied Piper
+5@@@9@@@The Mamas & The Papas@@@I Saw Her Again
+6@@@7@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Hungry
+7@@@21@@@The Lovin' Spoonful@@@Summer In The City
+8@@@10@@@Tommy Roe@@@Sweet Pea
+9@@@17@@@The Rolling Stones@@@Mothers Little Helper
+10@@@14@@@Ray Conniff And The Singers@@@Somewhere, My Love
+11@@@50@@@Napoleon XIV@@@They're Coming To Take Me Away, Ha-Haaa!
+12@@@6@@@The Beatles@@@Paperback Writer
+13@@@8@@@The Cyrkle@@@Red Rubber Ball
+14@@@25@@@Bobby Hebb@@@Sunny
+15@@@5@@@Dusty Springfield@@@You Don't Have To Say You Love Me
+16@@@32@@@Herman's Hermits@@@This Door Swings Both Ways
+17@@@23@@@The Yardbirds@@@Over Under Sideways Down
+18@@@18@@@Herb Alpert & The Tijuana Brass@@@The Work Song
+19@@@19@@@Elvis Presley@@@Love Letters
+20@@@24@@@Bob Dylan@@@I Want You
+21@@@13@@@Syndicate Of Sound@@@Little Girl
+22@@@12@@@Frank Sinatra@@@Strangers In The Night
+23@@@26@@@Tommy McLain@@@Sweet Dreams
+24@@@15@@@The Temptations@@@Ain't Too Proud To Beg
+25@@@30@@@Dionne Warwick@@@Trains And Boats And Planes
+26@@@46@@@Petula Clark@@@I Couldn't Live Without Your Love
+27@@@27@@@Ronnie Dove@@@Happy Summer Days
+28@@@29@@@The Grass Roots@@@Where Were You When I Needed You
+29@@@11@@@The Association@@@Along Comes Mary
+30@@@41@@@The Happenings@@@See You In September
+31@@@16@@@The Standells@@@Dirty Water
+32@@@38@@@Manfred Mann@@@Pretty Flamingo
+33@@@52@@@Bobby Moore And The Rhythm Aces@@@Searching For My Love
+34@@@37@@@B.J. Thomas And The Triumphs@@@Billy And Sue
+35@@@35@@@Jack Jones@@@The Impossible Dream (The Quest)
+36@@@48@@@Nancy Sinatra@@@Friday's Child
+37@@@20@@@The Young Rascals@@@You Better Run
+38@@@36@@@The Capitols@@@Cool Jerk
+39@@@22@@@Johnny Rivers@@@(I Washed My Hands In) Muddy Water
+40@@@68@@@Stevie Wonder@@@Blowin In The Wind
+41@@@28@@@Jan & Dean@@@Popsicle
+42@@@42@@@The Ides Of March@@@You Wouldn't Listen
+43@@@40@@@Roger Miller@@@You Can't Roller Skate In A Buffalo Herd
+44@@@54@@@The Byrds@@@5 D (Fifth Dimension)
+45@@@55@@@Chad & Jeremy@@@Distant Shores
+46@@@47@@@The Miracles@@@Whole Lot Of Shakin' In My Heart (Since I Met You)
+47@@@62@@@Brian Hyland@@@The Joker Went Wild
+48@@@78@@@Percy Sledge@@@Warm And Tender Love
+49@@@56@@@The Bachelors@@@Can I Trust You?
+50@@@64@@@Groove Holmes@@@Misty
+51@@@83@@@The Rolling Stones@@@Lady Jane
+52@@@69@@@Bobby Vee And The Strangers@@@Look At Me Girl
+53@@@61@@@Verdelle Smith@@@Tar And Cement
+54@@@74@@@David Houston@@@Almost Persuaded
+55@@@75@@@Mel Carter@@@You You You
+56@@@80@@@Barbara Lewis@@@Make Me Belong To You
+57@@@82@@@Billy Stewart@@@Summertime
+58@@@57@@@Leroy Pullins@@@I'm A Nut
+59@@@79@@@Eddy Arnold@@@The Tip Of My Fingers
+60@@@59@@@The Shangri-Las@@@Past, Present And Future
+61@@@101@@@The Sandpipers@@@Guantanamera
+62@@@101@@@Cher@@@Alfie
+63@@@93@@@Sandy Posey@@@Born A Woman
+64@@@90@@@Lee Dorsey@@@Working In The Coal Mine
+65@@@89@@@Ramsey Lewis@@@Wade In The Water
+66@@@100@@@Dean Martin@@@A Million And One
+67@@@63@@@Susan Christie@@@I Love Onions
+68@@@65@@@Roger Williams@@@Lara's Theme from Dr. Zhivago
+69@@@70@@@Mike Williams@@@Lonely Soldier
+70@@@73@@@The Isley Brothers@@@I Guess I'll Always Love You
+71@@@66@@@Joe Simon@@@Teenager's Prayer
+72@@@71@@@The Platters@@@I Love You 1000 Times
+73@@@98@@@The Hollies@@@Bus Stop
+74@@@101@@@The McCoys@@@(You Make Me Feel) So Good
+75@@@101@@@Gary Lewis And The Playboys@@@My Heart's Symphony
+76@@@101@@@Wilson Pickett@@@Land Of 1000 Dances
+77@@@88@@@Joe Tex@@@I Believe I'm Gonna Make It
+78@@@76@@@Chubby Checker@@@Hey You! Little Boo-Ga-Loo
+79@@@101@@@James Brown And The Famous Flames@@@Money Won't Change You (Part 1)
+80@@@92@@@The Cryan' Shames@@@Sugar And Spice
+81@@@99@@@Darrell Banks@@@Open The Door To Your Heart
+82@@@101@@@B.J. Thomas@@@Bring Back The Time
+83@@@101@@@Jay & The Americans@@@Livin' Above Your Head
+84@@@101@@@The Beach Boys@@@Wouldn't It Be Nice
+85@@@85@@@Nancy Wilson@@@Uptight (Everything's Alright)
+86@@@101@@@The Shades Of Blue@@@Lonely Summer
+87@@@84@@@Clefs Of Lavender Hill@@@Stop! - Get A Ticket
+88@@@101@@@The Surfaris@@@Wipe Out
+89@@@101@@@Love@@@7 And 7 Is
+90@@@101@@@Donovan@@@Sunshine Superman
+91@@@101@@@The Razor's Edge@@@Let's Call It A Day Girl
+92@@@101@@@Alan Price Set@@@I Put A Spell On You
+93@@@94@@@Bob Kuban And The In-Men@@@Drive My Car
+94@@@95@@@Tony Bennett@@@Georgia Rose
+95@@@96@@@The Intruders@@@(We'll Be) United
+96@@@101@@@Alvin Cash & The Registers@@@The Philly Freeze
+97@@@101@@@Jr. Walker & The All Stars@@@How Sweet It Is (To Be Loved By You)
+98@@@101@@@Peter And Gordon@@@To Show I Love You
+99@@@101@@@James Carr@@@Love Attack
+100@@@101@@@Mitch Ryder And The Detroit Wheels@@@Takin' All I Can Get

@@ -1,0 +1,100 @@
+1@@@1@@@The Osmonds@@@One Bad Apple
+2@@@3@@@Janis Joplin@@@Me And Bobby McGee
+3@@@7@@@Carpenters@@@For All We Know
+4@@@4@@@The Temptations@@@Just My Imagination (Running Away With Me)
+5@@@6@@@Tom Jones@@@She's A Lady
+6@@@2@@@Jackson 5@@@Mama's Pearl
+7@@@12@@@Ike & Tina Turner@@@Proud Mary
+8@@@11@@@Creedence Clearwater Revival@@@Have You Ever Seen The Rain/Hey Tonight
+9@@@15@@@The Partridge Family Starring Shirley Jones Featuring David Cassidy@@@Doesn't Somebody Want To Be Wanted
+10@@@5@@@Gordon Lightfoot@@@If You Could Read My Mind
+11@@@8@@@Jerry Reed@@@Amos Moses
+12@@@9@@@Nitty Gritty Dirt Band@@@Mr. Bojangles
+13@@@13@@@Henry Mancini And His Orchestra@@@(Theme From) Love Story
+14@@@10@@@Wadsworth Mansion@@@Sweet Mary
+15@@@22@@@Sammi Smith@@@Help Me Make It Through The Night
+16@@@23@@@Bobby Sherman@@@Cried Like A Baby
+17@@@18@@@Wilson Pickett@@@Don't Let The Green Grass Fool You
+18@@@29@@@Marvin Gaye@@@What's Going On
+19@@@27@@@George Harrison@@@What Is Life
+20@@@21@@@The Grass Roots@@@Temptation Eyes
+21@@@14@@@Dawn@@@Knock Three Times
+22@@@16@@@Lynn Anderson@@@Rose Garden
+23@@@24@@@Andy Williams@@@(Where Do I Begin) Love Story
+24@@@32@@@Chicago@@@Free
+25@@@26@@@Santana@@@Oye Como Va
+26@@@20@@@Dave Edmunds@@@I Hear You Knocking
+27@@@17@@@Bobby Goldsboro@@@Watching Scotty Grow
+28@@@39@@@Van Morrison@@@Blue Money
+29@@@19@@@Judy Collins@@@Amazing Grace
+30@@@38@@@Aretha Franklin@@@You're All I Need To Get By
+31@@@31@@@Francis Lai And His Orchestra@@@Theme From Love Story
+32@@@45@@@B.J. Thomas@@@No Love At All
+33@@@35@@@Cat Stevens@@@Wild World
+34@@@28@@@Johnnie Taylor@@@Jody's Got Your Girl And Gone
+35@@@34@@@The Mike Curb Congregation@@@Burning Bridges
+36@@@55@@@Paul McCartney@@@Another Day/Oh Woman Oh Why
+37@@@30@@@Rufus Thomas@@@(Do The) Push And Pull Part I
+38@@@46@@@The 5th Dimension@@@Love's Lines, Angles And Rhymes
+39@@@48@@@Brewer And Shipley@@@One Toke Over The Line
+40@@@61@@@James Brown@@@Soul Power (Pt. 1)
+41@@@36@@@Bloodrock@@@D.O.A.
+42@@@42@@@James Taylor@@@Country Road
+43@@@44@@@Chairmen Of The Board@@@Chairman Of The Board
+44@@@49@@@Freda Payne@@@Cherish What Is Dear To You (While It's Near to You)
+45@@@51@@@Alice Cooper@@@Eighteen
+46@@@37@@@Jackie Moore@@@Precious, Precious
+47@@@40@@@Four Tops@@@Just Seven Numbers (Can Straighten Out My Life)
+48@@@43@@@The Guess Who@@@Hang On To Your Life
+49@@@56@@@The Staple Singers@@@Heavy Makes You Happy (Sha-Na-Boom Boom)
+50@@@65@@@B.B. King@@@Ask Me No Questions
+51@@@59@@@The Fuzz@@@I Love You For All Seasons
+52@@@67@@@Engelbert Humperdinck@@@When There's No You
+53@@@101@@@Glen Campbell@@@Dream Baby (How Long Must I Dream)
+54@@@50@@@Joe Simon@@@Your Time To Cry
+55@@@101@@@Stephen Stills@@@Sit Yourself Down
+56@@@53@@@Liz Damon's Orient Express@@@1900 Yesterday
+57@@@66@@@The Impressions@@@Ain't Got Time
+58@@@101@@@Three Dog Night@@@Joy To The World
+59@@@58@@@The Statler Brothers@@@Bed Of Rose's
+60@@@101@@@Elvis Presley@@@Where Did They Go, Lord/Rags To Riches
+61@@@70@@@Brian Hyland@@@Lonely Teardrops
+62@@@68@@@Arkade@@@The Morning Of Our Lives
+63@@@60@@@Murray Head With The Trinidad Singers@@@Superstar
+64@@@75@@@Dusk@@@Angel Baby
+65@@@80@@@Detroit Emeralds@@@Do Me Right
+66@@@74@@@R. Dean Taylor@@@Ain't It A Sad Thing
+67@@@101@@@Stevie Wonder@@@We Can Work It Out
+68@@@69@@@The Presidents@@@Triangle Of Love (Hey Diddle Diddle)
+69@@@78@@@Conway Twitty/Loretta Lynn@@@After The Fire Is Gone
+70@@@79@@@Z.Z. Hill@@@Don't Make Me Pay For His Mistakes
+71@@@73@@@Sugarloaf@@@Tongue In Cheek
+72@@@72@@@Jerry Butler Featuring Brenda Lee Eager@@@If It's Real What I Feel
+73@@@95@@@The Buoys@@@Timothy
+74@@@81@@@The Lettermen@@@Everything Is Good About You
+75@@@101@@@Ray Charles@@@Don't Change On Me
+76@@@99@@@The Bells@@@Stay Awhile
+77@@@84@@@The Mixtures@@@Pushbike Song
+78@@@83@@@Matthews' Southern Comfort@@@Woodstock
+79@@@82@@@Isaac Hayes@@@The Look Of Love
+80@@@87@@@Daddy Dewdrop@@@Chick-A-Boom (Don't Ya Jes' Love It)
+81@@@88@@@The Stairsteps@@@Didn't It Look So Easy
+82@@@85@@@Steppenwolf@@@Snow Blind Friend
+83@@@101@@@The Mob@@@Give It To Me
+84@@@89@@@Donovan@@@Celia Of The Seals
+85@@@94@@@Helen Reddy@@@I Don't Know How To Love Him
+86@@@101@@@Charley Pride@@@I'd Rather Love You
+87@@@101@@@Ocean@@@Put Your Hand In The Hand
+88@@@101@@@King Floyd@@@Baby Let Me Kiss You
+89@@@101@@@Salvage@@@Hot Pants
+90@@@90@@@James Brown@@@Spinning Wheel (Pt. 1)
+91@@@92@@@Ann Peebles@@@I Pity The Fool
+92@@@101@@@Emerson, Lake & Palmer@@@Lucky Man
+93@@@101@@@The Ides Of March@@@L.A. Goodbye
+94@@@101@@@The Raeletts@@@Bad Water
+95@@@101@@@Odds & Ends@@@Love Makes The World Go Round
+96@@@101@@@The Osmond Brothers@@@I Can't Stop
+97@@@101@@@Paul Humphrey & His Cool Aid Chemists@@@Cool Aid
+98@@@101@@@Wilbert Harrison@@@My Heart Is Yours
+99@@@101@@@Mike Reilly@@@1927 Kansas City
+100@@@100@@@Quicksilver Messenger Service@@@What About Me

@@ -1,0 +1,100 @@
+1@@@1@@@Elton John@@@Crocodile Rock
+2@@@2@@@Carly Simon@@@You're So Vain
+3@@@4@@@Hurricane Smith@@@Oh, Babe, What Would You Say?
+4@@@11@@@Deliverance/Eric Weissberg & Steve Mandell@@@Dueling Banjos
+5@@@15@@@Roberta Flack@@@Killing Me Softly With His Song
+6@@@6@@@Steely Dan@@@Do It Again
+7@@@10@@@The Spinners@@@Could It Be I'm Falling In Love
+8@@@9@@@Lobo@@@Don't Expect Me To Be Your Friend
+9@@@3@@@Timmy Thomas@@@Why Can't We Live Together
+10@@@12@@@John Denver@@@Rocky Mountain High
+11@@@7@@@War@@@The World Is A Ghetto
+12@@@5@@@Stevie Wonder@@@Superstition
+13@@@19@@@Edward Bear@@@Last Song
+14@@@14@@@King Harvest@@@Dancing In The Moonlight
+15@@@22@@@The O'Jays@@@Love Train
+16@@@18@@@Jermaine Jackson@@@Daddy's Home
+17@@@8@@@Marvin Gaye@@@Trouble Man
+18@@@21@@@The Blue Ridge Rangers@@@Jambalaya (On The Bayou)
+19@@@30@@@Dr. Hook And The Medicine Show@@@The Cover Of Rolling Stone
+20@@@16@@@Brighter Side Of Darkness@@@Love Jones
+21@@@13@@@Kenny Loggins & Jim Messina@@@Your Mama Don't Dance
+22@@@26@@@Bette Midler@@@Do You Want To Dance?
+23@@@27@@@Don McLean@@@Dreidel
+24@@@17@@@Wings@@@Hi, Hi, Hi
+25@@@50@@@Deodato@@@Also Sprach Zarathustra (2001)
+26@@@25@@@Joni Mitchell@@@You Turn Me On, I'm A Radio
+27@@@29@@@Chuck Berry@@@Reelin' & Rockin'
+28@@@42@@@The Moody Blues@@@I'm Just A Singer (In A Rock And Roll Band)
+29@@@33@@@Eagles@@@Peaceful Easy Feeling
+30@@@36@@@James Brown@@@I Got Ants In My Pants (and i want to dance) (Part 1)
+31@@@20@@@Billy Paul@@@Me And Mrs. Jones
+32@@@34@@@The 5th Dimension@@@Living Together, Growing Together
+33@@@31@@@Bobby Womack & Peace@@@Harry Hippie
+34@@@38@@@Gallery@@@Big City Miss Ruth Ann
+35@@@40@@@Anne Murray@@@Danny's Song
+36@@@56@@@Bread@@@Aubrey
+37@@@41@@@The Doobie Brothers@@@Jesus Is Just Alright
+38@@@44@@@Seals & Crofts@@@Hummingbird
+39@@@23@@@Curtis Mayfield@@@Superfly
+40@@@54@@@Gladys Knight And The Pips@@@Neither One Of Us (Wants To Be The First To Say Goodbye)
+41@@@45@@@Barbara Mason@@@Give Me Your Love
+42@@@53@@@David Bowie@@@Space Oddity
+43@@@48@@@America@@@Don't Cross The River
+44@@@24@@@Elvis Presley@@@Separate Ways
+45@@@49@@@Diana Ross@@@Good Morning Heartache
+46@@@68@@@Four Tops@@@Ain't No Woman (Like The One I've Got)
+47@@@57@@@Loudon Wainwright III@@@Dead Skunk
+48@@@37@@@Cornelius Brothers & Sister Rose@@@I'm Never Gonna Be Alone Anymore
+49@@@58@@@Joe Stampley@@@Soul Song
+50@@@84@@@Johnny Nash@@@Stir It Up
+51@@@46@@@The Main Ingredient@@@You've Got To Take It (If You Want It)
+52@@@60@@@Sam Neely@@@Rosalie
+53@@@88@@@The Stylistics@@@Break Up To Make Up
+54@@@61@@@Bettye Swann@@@Today I Started Loving You Again
+55@@@67@@@Bill Withers@@@Kissing My Love
+56@@@43@@@Three Dog Night@@@Pieces Of April
+57@@@65@@@Alice Cooper@@@Hello Hurray
+58@@@64@@@Les Emmerson@@@Control Of Me
+59@@@63@@@Little Jimmy Osmond@@@Tweedlee Dee
+60@@@66@@@Cymande@@@The Message
+61@@@78@@@Helen Reddy@@@Peaceful
+62@@@74@@@Jim Croce@@@One Less Set Of Footsteps
+63@@@77@@@Aretha Franklin@@@Master Of Eyes (The Deepness Of Your Eyes)
+64@@@51@@@Keith Hampshire@@@Daytime Night-Time
+65@@@76@@@Austin Roberts@@@Keep On Singing
+66@@@71@@@The Grass Roots@@@Love Is What You Make It
+67@@@72@@@Rick Nelson and The Stone Canyon Band@@@Palace Guard
+68@@@70@@@Paul Davis@@@Boogie Woogie Man
+69@@@85@@@The Chi-lites@@@A Letter To Myself
+70@@@73@@@Bobby Darin@@@Happy
+71@@@75@@@Al Green@@@Hot Wire
+72@@@81@@@The Guess Who@@@Follow Your Daughter Home
+73@@@101@@@Al Green@@@Call Me (Come Back Home)
+74@@@80@@@Travis Wammack@@@How Can I Tell You
+75@@@83@@@Shawn Phillips@@@Lost Horizon
+76@@@90@@@Judy Collins@@@Cook With Honey
+77@@@86@@@The Sweet@@@Little Willy
+78@@@82@@@Johnny Williams@@@Slow Motion (Part 1)
+79@@@101@@@Melanie@@@Bitter Bad
+80@@@101@@@Dawn Featuring Tony Orlando@@@Tie A Yellow Ribbon Round The Ole Oak Tree
+81@@@87@@@Candi Staton@@@Do It In The Name Of Love
+82@@@92@@@The Hollies@@@Magic Woman Touch
+83@@@89@@@Paul Kelly@@@Don't Burn Me
+84@@@101@@@Tommy James@@@Boo, Boo, Don't 'Cha Be Blue
+85@@@101@@@Joe Cocker@@@Pardon Me Sir
+86@@@101@@@Joe Simon@@@Step By Step
+87@@@101@@@Mac Davis@@@Dream Me Home
+88@@@101@@@Jud Strunk@@@Daisy A Day
+89@@@101@@@Ronnie Dyson@@@One Man Band (Plays All Alone)
+90@@@100@@@Vicki Lawrence@@@The Night The Lights Went Out In Georgia
+91@@@101@@@Albert King@@@Breaking Up Somebody's Home
+92@@@101@@@Lou Reed@@@Walk On The Wild Side
+93@@@95@@@The Sylvers@@@Wish That I Could Talk To You
+94@@@94@@@The Whispers@@@Somebody Loves You
+95@@@97@@@Michael Redway@@@Good Morning
+96@@@101@@@Eric Clapton@@@Bell Bottom Blues
+97@@@99@@@Bunny Sigler@@@Tossin' And Turnin'
+98@@@98@@@The Raiders@@@Love Music
+99@@@101@@@Skylark@@@Wildflower
+100@@@101@@@Ray Price@@@She's Got To Be A Saint

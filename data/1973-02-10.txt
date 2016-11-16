@@ -1,0 +1,100 @@
+1@@@1@@@Elton John@@@Crocodile Rock
+2@@@2@@@Carly Simon@@@You're So Vain
+3@@@4@@@Timmy Thomas@@@Why Can't We Live Together
+4@@@6@@@Hurricane Smith@@@Oh, Babe, What Would You Say?
+5@@@3@@@Stevie Wonder@@@Superstition
+6@@@9@@@Steely Dan@@@Do It Again
+7@@@8@@@War@@@The World Is A Ghetto
+8@@@7@@@Marvin Gaye@@@Trouble Man
+9@@@12@@@Lobo@@@Don't Expect Me To Be Your Friend
+10@@@13@@@The Spinners@@@Could It Be I'm Falling In Love
+11@@@18@@@Deliverance/Eric Weissberg & Steve Mandell@@@Dueling Banjos
+12@@@14@@@John Denver@@@Rocky Mountain High
+13@@@5@@@Kenny Loggins & Jim Messina@@@Your Mama Don't Dance
+14@@@15@@@King Harvest@@@Dancing In The Moonlight
+15@@@34@@@Roberta Flack@@@Killing Me Softly With His Song
+16@@@16@@@Brighter Side Of Darkness@@@Love Jones
+17@@@10@@@Wings@@@Hi, Hi, Hi
+18@@@21@@@Jermaine Jackson@@@Daddy's Home
+19@@@24@@@Edward Bear@@@Last Song
+20@@@11@@@Billy Paul@@@Me And Mrs. Jones
+21@@@22@@@The Blue Ridge Rangers@@@Jambalaya (On The Bayou)
+22@@@28@@@The O'Jays@@@Love Train
+23@@@17@@@Curtis Mayfield@@@Superfly
+24@@@20@@@Elvis Presley@@@Separate Ways
+25@@@25@@@Joni Mitchell@@@You Turn Me On, I'm A Radio
+26@@@29@@@Bette Midler@@@Do You Want To Dance?
+27@@@27@@@Don McLean@@@Dreidel
+28@@@23@@@Gilbert O'Sullivan@@@Clair
+29@@@32@@@Chuck Berry@@@Reelin' & Rockin'
+30@@@36@@@Dr. Hook And The Medicine Show@@@The Cover Of Rolling Stone
+31@@@33@@@Bobby Womack & Peace@@@Harry Hippie
+32@@@19@@@Johnny Rivers@@@Rockin' Pneumonia - Boogie Woogie Flu
+33@@@38@@@Eagles@@@Peaceful Easy Feeling
+34@@@44@@@The 5th Dimension@@@Living Together, Growing Together
+35@@@26@@@James Taylor@@@Don't Let Me Be Lonely Tonight
+36@@@46@@@James Brown@@@I Got Ants In My Pants (and i want to dance) (Part 1)
+37@@@40@@@Cornelius Brothers & Sister Rose@@@I'm Never Gonna Be Alone Anymore
+38@@@42@@@Gallery@@@Big City Miss Ruth Ann
+39@@@30@@@Donna Fargo@@@Funny Face
+40@@@49@@@Anne Murray@@@Danny's Song
+41@@@43@@@The Doobie Brothers@@@Jesus Is Just Alright
+42@@@58@@@The Moody Blues@@@I'm Just A Singer (In A Rock And Roll Band)
+43@@@37@@@Three Dog Night@@@Pieces Of April
+44@@@50@@@Seals & Crofts@@@Hummingbird
+45@@@52@@@Barbara Mason@@@Give Me Your Love
+46@@@48@@@The Main Ingredient@@@You've Got To Take It (If You Want It)
+47@@@35@@@Blue Haze@@@Smoke Gets In Your Eyes
+48@@@57@@@America@@@Don't Cross The River
+49@@@53@@@Diana Ross@@@Good Morning Heartache
+50@@@74@@@Deodato@@@Also Sprach Zarathustra (2001)
+51@@@54@@@Keith Hampshire@@@Daytime Night-Time
+52@@@55@@@Holland-Dozier@@@Don't Leave Me Starvin' For Your Love (Part 1)
+53@@@60@@@David Bowie@@@Space Oddity
+54@@@62@@@Gladys Knight And The Pips@@@Neither One Of Us (Wants To Be The First To Say Goodbye)
+55@@@47@@@Luther Ingram@@@I'll Be Your Shelter (In Time Of Storm)
+56@@@78@@@Bread@@@Aubrey
+57@@@66@@@Loudon Wainwright III@@@Dead Skunk
+58@@@65@@@Joe Stampley@@@Soul Song
+59@@@51@@@Emerson, Lake & Palmer@@@Lucky Man
+60@@@68@@@Sam Neely@@@Rosalie
+61@@@71@@@Bettye Swann@@@Today I Started Loving You Again
+62@@@59@@@Cashman & West@@@Songman
+63@@@64@@@Little Jimmy Osmond@@@Tweedlee Dee
+64@@@67@@@Les Emmerson@@@Control Of Me
+65@@@72@@@Alice Cooper@@@Hello Hurray
+66@@@69@@@Cymande@@@The Message
+67@@@88@@@Bill Withers@@@Kissing My Love
+68@@@87@@@Four Tops@@@Ain't No Woman (Like The One I've Got)
+69@@@61@@@Engelbert Humperdinck@@@I Never Said Goodbye
+70@@@70@@@Paul Davis@@@Boogie Woogie Man
+71@@@81@@@The Grass Roots@@@Love Is What You Make It
+72@@@75@@@Rick Nelson and The Stone Canyon Band@@@Palace Guard
+73@@@77@@@Bobby Darin@@@Happy
+74@@@80@@@Jim Croce@@@One Less Set Of Footsteps
+75@@@79@@@Al Green@@@Hot Wire
+76@@@86@@@Austin Roberts@@@Keep On Singing
+77@@@101@@@Aretha Franklin@@@Master Of Eyes (The Deepness Of Your Eyes)
+78@@@85@@@Helen Reddy@@@Peaceful
+79@@@76@@@Rita Coolidge@@@Fever/My Crew
+80@@@84@@@Travis Wammack@@@How Can I Tell You
+81@@@90@@@The Guess Who@@@Follow Your Daughter Home
+82@@@83@@@Johnny Williams@@@Slow Motion (Part 1)
+83@@@101@@@Shawn Phillips@@@Lost Horizon
+84@@@101@@@Johnny Nash@@@Stir It Up
+85@@@101@@@The Chi-lites@@@A Letter To Myself
+86@@@89@@@The Sweet@@@Little Willy
+87@@@92@@@Candi Staton@@@Do It In The Name Of Love
+88@@@101@@@The Stylistics@@@Break Up To Make Up
+89@@@93@@@Paul Kelly@@@Don't Burn Me
+90@@@101@@@Judy Collins@@@Cook With Honey
+91@@@94@@@Grateful Dead@@@Sugar Magnolia
+92@@@101@@@The Hollies@@@Magic Woman Touch
+93@@@99@@@Rare Earth@@@We're Gonna Have A Good Time
+94@@@96@@@The Whispers@@@Somebody Loves You
+95@@@97@@@The Sylvers@@@Wish That I Could Talk To You
+96@@@95@@@The New Seekers@@@Come Softly To Me
+97@@@101@@@Michael Redway@@@Good Morning
+98@@@100@@@The Raiders@@@Love Music
+99@@@101@@@Bunny Sigler@@@Tossin' And Turnin'
+100@@@101@@@Vicki Lawrence@@@The Night The Lights Went Out In Georgia

@@ -1,0 +1,100 @@
+1@@@3@@@John Denver@@@Sunshine On My Shoulders
+2@@@7@@@Blue Swede@@@Hooked On A Feeling
+3@@@2@@@Terry Jacks@@@Seasons In The Sun
+4@@@6@@@Elton John@@@Bennie And The Jets
+5@@@1@@@Cher@@@Dark Lady
+6@@@5@@@Carly Simon & James Taylor@@@Mockingbird
+7@@@8@@@Paul McCartney & Wings@@@Jet
+8@@@11@@@Redbone@@@Come And Get Your Love
+9@@@9@@@Mocedades@@@Eres Tu (Touch The Wind)
+10@@@14@@@Sister Janet Mead@@@The Lord's Prayer
+11@@@4@@@Eddie Kendricks@@@Boogie Down
+12@@@16@@@MFSB featuring The Three Degrees@@@TSOP (The Sound Of Philadelphia)
+13@@@10@@@Kool & The Gang@@@Jungle Boogie
+14@@@18@@@Gladys Knight And The Pips@@@Best Thing That Ever Happened To Me
+15@@@15@@@Lamont Dozier@@@Trying To Hold On To My Woman
+16@@@12@@@David Essex@@@Rock On
+17@@@22@@@Charlie Rich@@@A Very Special Love Song
+18@@@19@@@Charlie Rich@@@There Won't Be Anymore
+19@@@28@@@Ringo Starr@@@Oh My My
+20@@@24@@@Bobby Womack@@@Lookin' For A Love
+21@@@20@@@The Spinners@@@Mighty Love - Pt. 1
+22@@@30@@@Jim Croce@@@I'll Have To Say I Love You In A Song
+23@@@13@@@Barbra Streisand@@@The Way We Were
+24@@@17@@@Cliff DeYoung@@@My Sweet Lady
+25@@@21@@@Jim Stafford@@@Spiders & Snakes
+26@@@32@@@The Main Ingredient@@@Just Don't Want To Be Lonely
+27@@@33@@@The Staple Singers@@@Touch A Hand, Make A Friend
+28@@@23@@@Rick Derringer@@@Rock And Roll, Hoochie Koo
+29@@@26@@@Love Unlimited Orchestra@@@Love's Theme
+30@@@37@@@Sami Jo@@@Tell Me A Lie
+31@@@25@@@Moments@@@Sexy Mama
+32@@@40@@@Bachman-Turner Overdrive@@@Let It Ride
+33@@@27@@@Aretha Franklin@@@Until You Come Back To Me (That's What I'm Gonna Do)
+34@@@48@@@Mike Oldfield@@@Tubular Bells
+35@@@43@@@Helen Reddy@@@Keep On Singing
+36@@@38@@@The Soul Children@@@I'll Be The Other Woman
+37@@@45@@@Diana Ross & Marvin Gaye@@@My Mistake (Was To Love You)
+38@@@50@@@Grand Funk@@@The Loco-Motion
+39@@@39@@@Elvis Presley@@@I've Got A Thing About You Baby/Take Good Care Of Her
+40@@@58@@@Jackson 5@@@Dancing Machine
+41@@@51@@@Billy Joel@@@Piano Man
+42@@@31@@@Anne Murray@@@Love Song
+43@@@29@@@Stealers Wheel@@@Star
+44@@@49@@@Barry White@@@Honey Please, Can't Ya See
+45@@@55@@@Bloodstone@@@Outside Woman
+46@@@35@@@The O'Jays@@@Put Your Hands Together
+47@@@41@@@Diana Ross@@@Last Time I Saw Him
+48@@@36@@@Harry Chapin@@@WOLD
+49@@@66@@@Chicago@@@(i've Been) Searchin' So Long
+50@@@34@@@Johnnie Taylor@@@We're Getting Careless With Our Love
+51@@@44@@@Bob Dylan@@@On A Night Like This
+52@@@56@@@Tanya Tucker@@@Would You Lay With Me (in A Field Of Stone)
+53@@@61@@@The Steve Miller Band@@@Your Cash Ain't Nothin' But Trash
+54@@@62@@@The Guess Who@@@Star Baby
+55@@@63@@@Maria Muldaur@@@Midnight At The Oasis
+56@@@72@@@Three Dog Night@@@The Show Must Go On
+57@@@67@@@Albert Hammond@@@I'm A Train
+58@@@54@@@The Chi-lites@@@Homely Girl
+59@@@59@@@Billy Paul@@@Thanks For Saving My Life
+60@@@65@@@The James Gang@@@Must Be Love
+61@@@64@@@Bill Amesbury@@@Virginia (Touch Me Like You Do)
+62@@@77@@@Joni Mitchell@@@Help Me
+63@@@81@@@James Brown@@@The Payback - Part I
+64@@@74@@@Earth, Wind & Fire@@@Mighty Mighty
+65@@@75@@@Think@@@Once You Understand
+66@@@71@@@Al Wilson@@@Touch And Go
+67@@@70@@@Seals & Crofts@@@Unborn Child
+68@@@78@@@Cat Stevens@@@Oh Very Young
+69@@@69@@@Bobby Blue Bland@@@Goin' Down Slow
+70@@@84@@@The Stylistics@@@You Make Me Feel Brand New
+71@@@73@@@Loggins & Messina@@@Watching The River Run
+72@@@60@@@Daryl Hall & John Oates@@@She's Gone
+73@@@57@@@Tyrone Davis@@@I Wish It Was Me
+74@@@85@@@The Temptations@@@Heavenly
+75@@@79@@@Neil Diamond@@@Skybird
+76@@@87@@@Gilbert O'Sullivan@@@Happiness Is Me And You
+77@@@83@@@Cozy Powell@@@Dance With The Devil
+78@@@88@@@Marvin Hamlisch/The Sting@@@The Entertainer
+79@@@86@@@The Peppers@@@Pepper Box
+80@@@97@@@Leon Haywood@@@Keep It In The Family
+81@@@101@@@Barbra Streisand@@@All In Love Is Fair
+82@@@90@@@The Isley Brothers@@@Summer Breeze (Part 1)
+83@@@80@@@Southcote@@@She
+84@@@92@@@Lou Christie@@@Beyond The Blue Horizon
+85@@@91@@@The Persuaders@@@Best Thing That Ever Happened To Me
+86@@@94@@@Bill Haley And His Comets@@@Rock Around The Clock
+87@@@101@@@Al Green@@@Let's Get Married
+88@@@96@@@Herbie Hancock@@@Chameleon
+89@@@101@@@Lois Fletcher@@@I Am What I Am
+90@@@98@@@Kris Kristofferson & Rita Coolidge@@@Loving Arms
+91@@@99@@@Deep Purple@@@Might Just Take Your Life
+92@@@101@@@Martha Reeves@@@Power Of Love
+93@@@100@@@The Emotions@@@Put A Little Love Away
+94@@@101@@@Love Unlimited@@@Under The Influence Of Love
+95@@@101@@@Dawn Featuring Tony Orlando@@@It Only Hurts When I Try To Smile
+96@@@101@@@Mac Davis@@@One Hell Of A Woman
+97@@@101@@@ZZ Top@@@La Grange
+98@@@101@@@Ian Lloyd & Stories@@@If It Feels Good, Do It
+99@@@101@@@Five Man Electrical Band@@@Werewolf
+100@@@95@@@Heartsfield@@@Music Eyes

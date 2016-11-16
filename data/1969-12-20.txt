@@ -1,0 +1,100 @@
+1@@@2@@@Peter, Paul & Mary@@@Leaving On A Jet Plane
+2@@@3@@@Diana Ross & The Supremes@@@Someday We'll Be Together
+3@@@5@@@Creedence Clearwater Revival@@@Down On The Corner/Fortunate Son
+4@@@1@@@Steam@@@Na Na Hey Hey Kiss Him Goodbye
+5@@@9@@@B.J. Thomas@@@Raindrops Keep Fallin' On My Head
+6@@@4@@@The Beatles@@@Come Together/Something
+7@@@7@@@Stevie Wonder@@@Yester-Me, Yester-You, Yesterday
+8@@@6@@@R.B. Greaves@@@Take A Letter Maria
+9@@@13@@@Neil Diamond@@@Holly Holy
+10@@@8@@@Blood, Sweat & Tears@@@And When I Die
+11@@@11@@@Three Dog Night@@@Eli's Coming
+12@@@21@@@Led Zeppelin@@@Whole Lotta Love
+13@@@10@@@Mel And Tim@@@Backfield In Motion
+14@@@34@@@Bobby Sherman@@@La La La (If I Had You)
+15@@@22@@@Ferrante & Teicher@@@Midnight Cowboy
+16@@@16@@@Billy Joe Royal@@@Cherry Hill Park
+17@@@19@@@Jackson 5@@@I Want You Back
+18@@@18@@@Gladys Knight And The Pips@@@Friendship Train
+19@@@12@@@The 5th Dimension@@@Wedding Bell Blues
+20@@@20@@@Jr. Walker & The All Stars@@@These Eyes
+21@@@14@@@The Flying Machine@@@Smile A Little Smile For Me
+22@@@15@@@The Originals@@@Baby, I'm For Real
+23@@@31@@@Tommy Roe@@@Jam Up Jelly Tight
+24@@@25@@@Dusty Springfield@@@A Brand New Me
+25@@@36@@@Elvis Presley@@@Don't Cry Daddy/Rubberneckin'
+26@@@29@@@The Band@@@Up On Cripple Creek
+27@@@24@@@The Grass Roots@@@Heaven Knows
+28@@@35@@@CROW@@@Evil Woman Don't Play Your Games With Me
+29@@@17@@@Aretha Franklin@@@Eleanor Rigby
+30@@@23@@@The Friends Of Distinction@@@Going In Circles
+31@@@77@@@The Shocking Blue@@@Venus
+32@@@27@@@Crosby, Stills & Nash@@@Suite: Judy Blue Eyes
+33@@@30@@@Harlow Wilcox and the Oakies@@@Groovy Grubworm
+34@@@48@@@The Archies@@@Jingle Jangle
+35@@@39@@@Plastic Ono Band@@@Cold Turkey
+36@@@40@@@James Brown@@@Ain't It Funky Now (Part 1)
+37@@@42@@@Vanity Fare@@@Early In The Morning
+38@@@41@@@Oliver@@@Sunday Mornin'
+39@@@37@@@The Flaming Ember@@@Mind, Body and Soul
+40@@@65@@@Tommy James And The Shondells@@@She
+41@@@43@@@Janis Joplin@@@Kozmic Blues
+42@@@47@@@Merle Haggard And The Strangers@@@Okie From Muskogee
+43@@@52@@@Johnny Nash@@@Cupid
+44@@@51@@@Jerry Butler@@@Don't Let Love Hang You Up
+45@@@45@@@The Clique@@@I'll Hold Out My Hand
+46@@@53@@@Four Tops@@@Don't Let Him Take Your Love From Me
+47@@@60@@@Jimmy Cliff@@@Wonderful World, Beautiful People
+48@@@71@@@Engelbert Humperdinck@@@Winter World Of Love
+49@@@49@@@Gloria Taylor@@@You Got To Pay The Price
+50@@@54@@@Marvin Gaye & Tammi Terrell@@@What You Gave Me
+51@@@44@@@The Dells@@@On The Dock Of The Bay
+52@@@50@@@Johnny Cash@@@Blistered/See Ruby Fall
+53@@@32@@@The Archies@@@Sugar, Sugar
+54@@@62@@@Bobbie Gentry@@@Fancy
+55@@@55@@@Nancy Wilson@@@Can't Take My Eyes Off You
+56@@@64@@@Rick Nelson@@@She Belongs To Me
+57@@@28@@@Elvis Presley@@@Suspicious Minds
+58@@@61@@@Dennis Yost And The Classics IV@@@Midnight
+59@@@38@@@Glen Campbell@@@Try A Little Kindness
+60@@@83@@@Joe Cocker@@@She Came In Through The Bathroom Window
+61@@@33@@@The Guess Who@@@Undun
+62@@@59@@@Jackie DeShannon@@@Love Will Find A Way
+63@@@70@@@The Original Caste@@@One Tin Soldier
+64@@@76@@@Smokey Robinson & The Miracles@@@Point It Out
+65@@@73@@@Jefferson Airplane@@@Volunteers
+66@@@89@@@Mark Lindsay@@@Arizona
+67@@@56@@@The Steelers@@@Get It From The Bottom
+68@@@80@@@Wilbert Harrison@@@Let's Work Together (Part 1)
+69@@@74@@@Jay & The Americans@@@Walkin' In The Rain
+70@@@68@@@Johnny Cash@@@Get Rhythm
+71@@@90@@@The Cuff Links@@@When Julie Comes Around
+72@@@101@@@James Brown@@@Let A Man Come In And Do The Popcorn (Part Two)
+73@@@101@@@Jefferson@@@Baby Take Me In Your Arms
+74@@@78@@@Savoy Brown@@@I'm Tired
+75@@@75@@@Judy Collins@@@Turn! Turn! Turn!/To Everything There Is A Season
+76@@@79@@@Otis Leavill@@@I Love You
+77@@@81@@@The Tokens@@@She Lets Her Hair Down (Early In The Morning)
+78@@@87@@@The Turtles@@@Lady-O
+79@@@82@@@Frank Sinatra@@@Goin' Out Of My Head/Forget To Remember
+80@@@101@@@David Ruffin@@@I'm So Glad I Fell For You
+81@@@101@@@The Guess Who@@@No Time
+82@@@91@@@The Meters@@@Look-Ka Py Py
+83@@@101@@@Lou Christie@@@Are You Getting Any Sunshine?
+84@@@101@@@The Sandpipers@@@Come Saturday Morning
+85@@@88@@@Eydie Gorme@@@Tonight I'll Say A Prayer
+86@@@96@@@Tommy Cash@@@Six White Horses
+87@@@101@@@The Illusion@@@Together
+88@@@101@@@The Newbeats@@@Groovin' (Out On Life)
+89@@@101@@@The Intrigues@@@I'm Gonna Love You
+90@@@93@@@Nina Simone@@@To Be Young, Gifted And Black
+91@@@101@@@Simon Stokes/Nighthawks@@@Voodoo Woman
+92@@@101@@@Ike & Tina Turner@@@Bold Soul Sister
+93@@@99@@@Bobby Womack@@@How I Miss You Baby
+94@@@94@@@Syl Johnson@@@Is It Because I'm Black
+95@@@101@@@Johnnie Taylor@@@Love Bones
+96@@@101@@@Betty Everett@@@It's Been A Long Time
+97@@@98@@@Arlo Guthrie@@@Alice's Rock & Roll Restaurant
+98@@@101@@@Grand Funk Railroad@@@Mr. Limousine Driver
+99@@@101@@@100 Proof Aged in Soul@@@Too Many Cooks (Spoil The Soup)
+100@@@101@@@The Hollies@@@He Ain't Heavy, He's My Brother

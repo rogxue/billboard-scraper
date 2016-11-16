@@ -1,0 +1,100 @@
+1@@@1@@@The Monkees@@@I'm A Believer
+2@@@2@@@The Royal Guardsmen@@@Snoopy Vs. The Red Baron
+3@@@3@@@Aaron Neville@@@Tell It Like It Is
+4@@@7@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Good Thing
+5@@@5@@@Nancy Sinatra@@@Sugar Town
+6@@@8@@@The Mamas & The Papas@@@Words Of Love
+7@@@9@@@Four Tops@@@Standing In The Shadows Of Love
+8@@@4@@@The New Vaudeville Band@@@Winchester Cathedral
+9@@@6@@@Frank Sinatra@@@That's Life
+10@@@20@@@The Seekers@@@Georgy Girl
+11@@@11@@@Bobby Vinton@@@Coming Home Soldier
+12@@@15@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Tell It To The Rain
+13@@@10@@@Donovan@@@Mellow Yellow
+14@@@12@@@Sandy Posey@@@Single Girl
+15@@@16@@@The Music Machine@@@Talk Talk
+16@@@24@@@The Lovin' Spoonful@@@Nashville Cats
+17@@@14@@@Mitch Ryder And The Detroit Wheels@@@Devil With A Blue Dress On & Good Golly Miss Molly
+18@@@23@@@Jimmy Ruffin@@@I've Passed This Way Before
+19@@@13@@@The Temptations@@@(I Know) I'm Losing You
+20@@@32@@@The Monkees@@@(I'm Not Your) Steppin' Stone
+21@@@17@@@The Beach Boys@@@Good Vibrations
+22@@@18@@@Ronnie Dove@@@Cry
+23@@@28@@@Petula Clark@@@Color My World
+24@@@31@@@Blues Magoos@@@(We Ain't Got) Nothin' Yet
+25@@@37@@@Keith@@@98.6
+26@@@43@@@Spyder Turner@@@Stand By Me
+27@@@27@@@Herman's Hermits@@@East West
+28@@@39@@@Gary Lewis And The Playboys@@@Where Will The Words Come From
+29@@@34@@@Otis Redding@@@Try A Little Tenderness
+30@@@33@@@Senator Everett McKinley Dirksen@@@Gallant Men
+31@@@41@@@Peter And Gordon@@@Knight In Rusty Armour
+32@@@26@@@Wilson Pickett@@@Mustang Sally
+33@@@19@@@Stevie Wonder@@@A Place In The Sun
+34@@@36@@@The Innocence@@@There's Got To Be A Word!
+35@@@29@@@Eric Burdon & The Animals@@@Help Me Girl
+36@@@25@@@? (Question Mark) & The Mysterians@@@I Need Somebody
+37@@@42@@@Bobby Goldsboro@@@Blue Autumn
+38@@@30@@@The Yardbirds@@@Happenings Ten Years Time Ago
+39@@@22@@@Roger Williams@@@Born Free
+40@@@48@@@Pozo Seco Singers@@@Look What You've Done
+41@@@51@@@Tom Jones@@@Green, Green Grass Of Home
+42@@@66@@@The Buckinghams@@@Kind Of A Drag
+43@@@50@@@Sam The Sham and the Pharaohs@@@How Do You Catch A Girl
+44@@@47@@@The Electric Prunes@@@I Had Too Much To Dream (Last Night)
+45@@@45@@@Gene Chandler@@@I Fooled You This Time
+46@@@53@@@The Young Holt Trio@@@Wack Wack
+47@@@58@@@Bob Crewe Generation@@@Music To Watch Girls By
+48@@@49@@@Joe Tex@@@Papa Was Too
+49@@@59@@@Dionne Warwick@@@Another Night
+50@@@21@@@The Supremes@@@You Keep Me Hangin' On
+51@@@52@@@The Happenings@@@Goodnight My Love
+52@@@77@@@Senator Bobby Featuring Bill Minkin@@@Wild Thing
+53@@@64@@@Tommy Roe@@@It's Now Winters Day
+54@@@46@@@Terry Knight and The Pack@@@I (Who Have Nothing)
+55@@@63@@@Dean Martin@@@(Open Up The Door) Let The Good Times In
+56@@@61@@@The Youngbloods@@@Grizzly Bear
+57@@@57@@@The Emperor's@@@Karate
+58@@@65@@@The Sopwith Camel@@@Hello Hello
+59@@@78@@@James Brown And The Famous Flames@@@Bring It Up
+60@@@60@@@Roy Orbison@@@Communication Breakdown
+61@@@55@@@Lou Rawls@@@You Can Bring Me All Your Heartaches
+62@@@71@@@The Artistics@@@I'm Gonna Miss You
+63@@@80@@@The Spencer Davis Group@@@Gimme Some Lovin'
+64@@@67@@@Jimmy Castor@@@Hey, Leroy, Your Mama's Callin' You
+65@@@76@@@The Seeds@@@Pushin' Too Hard
+66@@@72@@@The Gunter Kallmann Chorus@@@Wish Me A Rainbow
+67@@@82@@@Cannonball Adderley@@@Mercy, Mercy, Mercy
+68@@@88@@@Marvin Gaye & Kim Weston@@@It Takes Two
+69@@@79@@@Freddy Scott@@@Are You Lonely For Me
+70@@@70@@@Gene Pitney@@@Just One Smile
+71@@@62@@@The Drifters@@@Baby What I Mean
+72@@@101@@@Sonny & Cher@@@The Beat Goes On
+73@@@75@@@The Mamas & The Papas@@@Dancing In The Street
+74@@@74@@@Ramsey Lewis@@@Day Tripper
+75@@@73@@@Damita Jo@@@If You Go Away
+76@@@84@@@The Dave Clark Five@@@I've Got To Have A Reason
+77@@@86@@@Sam & Dave@@@You Got Me Hummin'
+78@@@81@@@Sergio Mendes & Brasil '66@@@Constant Rain (Chove Chuva)
+79@@@101@@@Lowell Fulsom@@@Tramp
+80@@@87@@@Howard Tate@@@Look At Granny Run, Run
+81@@@96@@@The Left Banke@@@Pretty Ballerina
+82@@@85@@@The Joe Cuba Sextet@@@Oh Yeah!
+83@@@83@@@J.J. Jackson@@@I Dig Girls
+84@@@92@@@Bobby Hebb@@@Love Me
+85@@@98@@@The Kinks@@@Deadend Street
+86@@@101@@@Bobby Darin@@@Lovin' You
+87@@@101@@@Brenda Lee@@@Ride, Ride, Ride
+88@@@91@@@The McCoys@@@I Got To Go Back (And Watch That Little Girl Dance)
+89@@@99@@@The Lovin' Spoonful@@@Full Measure
+90@@@95@@@Don Ho and the Aliis@@@Tiny Bubbles
+91@@@101@@@Felice Taylor@@@It May Be Winter Outside (But In My Heart It's Spring)
+92@@@100@@@Jack Greene@@@There Goes My Everything
+93@@@94@@@The Bachelors@@@Walk With Faith In Your Heart
+94@@@101@@@The Casinos@@@Then You Can Tell Me Goodbye
+95@@@101@@@The 5th Dimension@@@Go Where You Wanna Go
+96@@@101@@@The Metros@@@Sweetest One
+97@@@101@@@The Five Stairsteps@@@Danger! She's A Stranger
+98@@@101@@@Big Maybelle@@@96 Tears
+99@@@101@@@Carla Thomas@@@Something Good (Is Going To Happen To You)
+100@@@101@@@James Darren@@@All

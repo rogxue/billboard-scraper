@@ -1,0 +1,100 @@
+1@@@3@@@Roberta Flack@@@Feel Like Makin' Love
+2@@@5@@@Paper Lace@@@The Night Chicago Died
+3@@@1@@@John Denver@@@ANNIE'S SONG
+4@@@2@@@Elton John@@@Don't Let The Sun Go Down On Me
+5@@@8@@@Dave Loggins@@@Please Come To Boston
+6@@@9@@@Chicago@@@Call On Me
+7@@@11@@@ABBA@@@Waterloo
+8@@@10@@@Blue Magic@@@Sideshow
+9@@@14@@@Jim Stafford@@@Wildwood Weed
+10@@@19@@@Rufus@@@Tell Me Something Good
+11@@@15@@@Wet Willie@@@Keep On Smilin'
+12@@@16@@@Bachman-Turner Overdrive@@@Takin' Care Of Business
+13@@@23@@@Paul Anka with Odia Coates@@@(You're) Having My Baby
+14@@@7@@@The Righteous Brothers@@@Rock And Roll Heaven
+15@@@4@@@Steely Dan@@@Rikki Don't Lose That Number
+16@@@21@@@Three Dog Night@@@Sure As I'm Sittin' Here
+17@@@6@@@The Hollies@@@The Air That I Breathe
+18@@@22@@@Grand Funk@@@Shinin' On
+19@@@26@@@Donny & Marie Osmond@@@I'm Leaving It (All) Up To You
+20@@@24@@@Andy Kim@@@Rock Me Gently
+21@@@25@@@Helen Reddy@@@You And Me Against The World
+22@@@18@@@Golden Earring@@@Radar Love
+23@@@34@@@Eric Clapton@@@I Shot The Sheriff
+24@@@29@@@Johnny Bristol@@@Hang On In There Baby
+25@@@30@@@Billy Crash Craddock@@@Rub It In
+26@@@12@@@George McCrae@@@Rock Your Baby
+27@@@13@@@The Hues Corporation@@@Rock The Boat
+28@@@32@@@Fancy@@@Wild Thing
+29@@@38@@@Dionne Warwicke & Spinners@@@Then Came You
+30@@@20@@@Gladys Knight And The Pips@@@On And On
+31@@@39@@@Billy Preston@@@Nothing From Nothing
+32@@@37@@@James Brown@@@My Thang
+33@@@41@@@Edgar Winter@@@River's Risin'
+34@@@17@@@Elvis Presley@@@If You Talk In Your Sleep
+35@@@27@@@Mac Davis@@@One Hell Of A Woman
+36@@@47@@@The Guess Who@@@Clap For The Wolfman
+37@@@43@@@The Main Ingredient@@@Happiness Is Just Around The Bend
+38@@@28@@@Commodores@@@Machine Gun
+39@@@51@@@Barry White@@@Can't Get Enough Of Your Love, Babe
+40@@@36@@@Lamont Dozier@@@Fish Ain't Bitin'
+41@@@31@@@The Impressions@@@Finally Got Myself Together (I'm A Changed Man)
+42@@@33@@@Gene Redding@@@This Heart
+43@@@40@@@Curtis Mayfield@@@Kung Fu
+44@@@52@@@Sly & The Family Stone@@@Time For Livin'
+45@@@45@@@Jimmy Buffett@@@Come Monday
+46@@@35@@@Jim Croce@@@Workin' At The Car Wash Blues
+47@@@57@@@The Stylistics@@@Let's Put It All Together
+48@@@42@@@Olivia Newton-John@@@If You Love Me (let Me Know)
+49@@@53@@@Diana Ross & Marvin Gaye@@@Don't Knock My Love
+50@@@65@@@First Class@@@Beach Baby
+51@@@93@@@Stevie Wonder@@@You Haven't Done Nothin
+52@@@62@@@Tower Of Power@@@Don't Change Horses (In The Middle Of A Stream)
+53@@@71@@@The Rubettes@@@Sugar Baby Love
+54@@@44@@@Anne Murray@@@You Won't See Me
+55@@@76@@@Bo Donaldson And The Heywoods@@@Who Do You Think You Are
+56@@@72@@@Lynyrd Skynyrd@@@Sweet Home Alabama
+57@@@63@@@Gladys Knight And The Pips@@@Between Her Goodbye And My Hello
+58@@@77@@@Joni Mitchell@@@Free Man In Paris
+59@@@64@@@Bobby Womack@@@You're Welcome, Stop On By
+60@@@48@@@Kool & The Gang@@@Hollywood Swinging
+61@@@67@@@Earth, Wind & Fire@@@Kalimba Story
+62@@@50@@@William DeVaughn@@@Be Thankful For What You Got
+63@@@100@@@Cat Stevens@@@Another Saturday Night
+64@@@69@@@Lobo@@@Rings
+65@@@46@@@Joe Cocker@@@Put Out The Light
+66@@@96@@@Charlie Rich@@@I Love My Friend
+67@@@70@@@Donna Fargo@@@You Can't Be A Beacon (if Your Light Don't Shine)
+68@@@74@@@Betty Wright@@@Secretary
+69@@@59@@@Jackson 5@@@Dancing Machine
+70@@@60@@@Paul McCartney & Wings@@@Band On The Run
+71@@@85@@@The Doobie Brothers@@@Eyes Of Silver
+72@@@81@@@Neil Young@@@Walk On
+73@@@84@@@Ray Stevens@@@Moonlight Special
+74@@@49@@@Bo Donaldson And The Heywoods@@@Billy, Don't Be A Hero
+75@@@58@@@Ohio Players@@@Jive Turkey (Part 1)
+76@@@86@@@The Isley Brothers@@@Live It Up Part 1
+77@@@61@@@Mickey Gilley@@@Room Full Of Roses
+78@@@68@@@The Stylistics@@@You Make Me Feel Brand New
+79@@@94@@@The Rolling Stones@@@It's Only Rock 'N Roll (But I Like It)
+80@@@88@@@Bob Seger@@@Get Out Of Denver
+81@@@95@@@The Wombles@@@Wombling Summer Party
+82@@@56@@@War@@@Ballero
+83@@@89@@@Sami Jo@@@It Could Have Been Me
+84@@@101@@@Eddie Kendricks@@@Tell Her Love Has Felt The Need
+85@@@101@@@Bob Dylan/The Band@@@Most Likely You Go Your Way (And I'll Go Mine)
+86@@@101@@@Margie Joseph@@@My Love
+87@@@101@@@Cher@@@I Saw A Man And He Danced With His Wife
+88@@@75@@@Eagles@@@Already Gone
+89@@@98@@@Dick Feller@@@Makin' The Best Of A Bad Situation
+90@@@97@@@Frank Sinatra@@@You Turned My World Around
+91@@@99@@@Tanya Tucker@@@The Man That Turned My Mama On
+92@@@101@@@Cheech & Chong@@@Earache My Eye (Featuring Alice Bowie)
+93@@@82@@@Bloodstone@@@That's Not How It Goes
+94@@@101@@@Simon Stokes@@@Captain Howdy
+95@@@66@@@Gordon Lightfoot@@@Sundown
+96@@@78@@@Don Covay@@@It's Better To Have (and Don't Need)
+97@@@73@@@The Spinners@@@I'm Coming Home
+98@@@54@@@C.W. McCall@@@Old Home Filler-up An' Keep On-a-truckin' Cafe
+99@@@101@@@Clarence Reid@@@Funky Party
+100@@@101@@@Bobby Bland@@@Ain't No Love In The Heart Of The City

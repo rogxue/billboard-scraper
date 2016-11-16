@@ -1,0 +1,100 @@
+1@@@1@@@Barbra Streisand@@@Woman In Love
+2@@@4@@@Kenny Rogers@@@Lady
+3@@@3@@@The Pointer Sisters@@@He's So Shy
+4@@@2@@@Queen@@@Another One Bites The Dust
+5@@@6@@@Donna Summer@@@The Wanderer
+6@@@9@@@Diana Ross@@@I'm Coming Out
+7@@@8@@@Stephanie Mills@@@Never Knew Love Like This Before
+8@@@10@@@Stevie Wonder@@@Master Blaster (Jammin')
+9@@@5@@@The Doobie Brothers@@@Real Love
+10@@@7@@@Diana Ross@@@Upside Down
+11@@@11@@@Carly Simon@@@Jesse
+12@@@13@@@Cliff Richard@@@Dreaming
+13@@@15@@@The Jacksons@@@Lovely One
+14@@@20@@@Leo Sayer@@@More Than I Can Say
+15@@@17@@@Supertramp@@@Dreamer
+16@@@12@@@Air Supply@@@All Out Of Love
+17@@@19@@@Devo@@@Whip It
+18@@@21@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+19@@@25@@@Pat Benatar@@@Hit Me With Your Best Shot
+20@@@22@@@Willie Nelson@@@On The Road Again
+21@@@23@@@Irene Cara@@@Out Here On My Own
+22@@@24@@@Jackson Browne@@@That Girl Could Sing
+23@@@32@@@Neil Diamond@@@Love On The Rocks
+24@@@31@@@Christopher Cross@@@Never Be The Same
+25@@@26@@@Stacy Lattisaw@@@Let Me Be Your Angel
+26@@@28@@@The Rolling Stones@@@She's So Cold
+27@@@30@@@Roger Daltrey@@@Without Your Love
+28@@@14@@@Boz Scaggs@@@Look What You've Done To Me
+29@@@16@@@Kenny Loggins@@@I'm Alright
+30@@@101@@@Bruce Springsteen@@@Hungry Heart
+31@@@35@@@Jimmy Hall@@@I'm Happy That Love Has Found You
+32@@@38@@@John Lennon@@@(Just Like) Starting Over
+33@@@33@@@Anne Murray@@@Could I Have This Dance
+34@@@39@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+35@@@36@@@AC/DC@@@You Shook Me All Night Long
+36@@@40@@@Billy Joel@@@Sometimes A Fantasy
+37@@@50@@@Randy Meisner@@@Deep Inside My Heart
+38@@@48@@@The Korgis@@@Everybody's Got To Learn Sometime
+39@@@43@@@John Cougar@@@This Time
+40@@@41@@@Kansas@@@Hold On
+41@@@45@@@Nielsen/Pearson@@@If You Should Sail
+42@@@46@@@The Vapors@@@Turning Japanese
+43@@@68@@@Barbra Streisand & Barry Gibb@@@Guilty
+44@@@44@@@Kim Carnes@@@Cry Like A Baby
+45@@@49@@@Don Williams@@@I Believe In You
+46@@@18@@@Eddie Rabbitt@@@Drivin' My Life Away
+47@@@63@@@Diana Ross@@@It's My Turn
+48@@@66@@@Paul Simon@@@One-Trick Pony
+49@@@53@@@The Doolittle Band@@@Who Were You Thinkin' Of
+50@@@64@@@The Police@@@De Do Do Do, De Da Da Da
+51@@@27@@@Olivia Newton-John/Electric Light Orchestra@@@Xanadu
+52@@@58@@@707@@@I Could Be Good For You
+53@@@29@@@Paul Simon@@@Late In The Evening
+54@@@70@@@Harry Chapin@@@Sequel
+55@@@71@@@Air Supply@@@Every Woman In The World
+56@@@34@@@George Benson@@@Give Me The Night
+57@@@67@@@Mac Davis@@@Texas In My Rear View Mirror
+58@@@69@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+59@@@77@@@Kool & The Gang@@@Celebration
+60@@@37@@@Al Stewart@@@Midnight Rocks
+61@@@61@@@George Benson@@@Love X Love
+62@@@42@@@Ali Thomson@@@Live Every Minute
+63@@@47@@@Johnny Lee@@@Lookin' For Love
+64@@@51@@@Robbie Dupree@@@Hot Rod Hearts
+65@@@65@@@Eddie Money (with Valerie Carter)@@@Let's Be Lovers Again
+66@@@52@@@Donna Summer@@@Walk Away
+67@@@54@@@The Cars@@@Touch And Go
+68@@@55@@@Earth, Wind & Fire@@@Let Me Talk
+69@@@80@@@Dr. Hook@@@Girls Can Get It
+70@@@72@@@Robert John@@@Sherry
+71@@@56@@@Pure Prairie League@@@I'm Almost Ready
+72@@@57@@@Irene Cara@@@Fame
+73@@@59@@@Amy Holland@@@How Do I Survive
+74@@@75@@@The B-52s@@@Private Idaho
+75@@@85@@@Billy Burnette@@@Don't Say No
+76@@@78@@@Larry Graham@@@When We Get Married
+77@@@87@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+78@@@88@@@Robbin Thompson Band@@@Brite Eyes
+79@@@60@@@The Charlie Daniels Band@@@The Legend Of Wooley Swamp
+80@@@101@@@Tierra@@@Together
+81@@@101@@@The Pointer Sisters@@@Could I Be Dreaming
+82@@@62@@@Larsen-Feiten Band@@@Who'll Be The Fool Tonight
+83@@@73@@@Commodores@@@Heroes
+84@@@101@@@Cheap Trick@@@Stop This Game
+85@@@101@@@Rupert Holmes@@@Morning Man
+86@@@101@@@Eric Clapton And His Band@@@Blues Power
+87@@@101@@@Marcy Levy & Robin Gibb@@@Help Me!
+88@@@91@@@Burt Reynolds@@@Let's Do Something Cheap And Superficial
+89@@@101@@@Eddie Rabbitt@@@I Love A Rainy Night
+90@@@101@@@Bob Seger@@@The Horizontal Bop
+91@@@74@@@Electric Light Orchestra@@@All Over The World
+92@@@76@@@Dionne Warwick@@@No Night So Long
+93@@@79@@@Bob Seger@@@You'll Accomp'ny Me
+94@@@82@@@Billy Joel@@@Don't Ask Me Why
+95@@@95@@@Teddy Pendergrass@@@Can't We Try
+96@@@83@@@Larry Graham@@@One In A Million You
+97@@@84@@@The Rolling Stones@@@Emotional Rescue
+98@@@86@@@Zapp@@@More Bounce To The Ounce Part I
+99@@@89@@@Natalie Cole@@@Someone That I Used To Love
+100@@@92@@@Ambrosia@@@You're The Only Woman (You & I)

@@ -1,0 +1,100 @@
+1@@@2@@@TLC@@@Creep
+2@@@1@@@Boyz II Men@@@On Bended Knee
+3@@@3@@@Real McCoy@@@Another Night
+4@@@4@@@Bon Jovi@@@Always
+5@@@5@@@Madonna@@@Take A Bow
+6@@@6@@@Ini Kamoze@@@Here Comes The Hotstepper (From "Ready To Wear")
+7@@@12@@@Des'ree@@@You Gotta Be
+8@@@7@@@BLACKstreet@@@Before I Let You Go
+9@@@10@@@4PM@@@Sukiyaki
+10@@@8@@@Melissa Etheridge@@@I'm The Only One
+11@@@14@@@Corona@@@The Rhythm Of The Night
+12@@@9@@@Brandy@@@I Wanna Be Down
+13@@@13@@@Janet Jackson@@@You Want This/70's Love Groove
+14@@@16@@@Hootie & The Blowfish@@@Hold My Hand
+15@@@11@@@Boyz II Men@@@I'll Make Love To You
+16@@@21@@@Tom Petty@@@You Don't Know How It Feels
+17@@@15@@@69 Boyz@@@Tootsee Roll
+18@@@20@@@Vanessa Williams@@@The Sweetest Days
+19@@@27@@@Brownstone@@@If You Love Me
+20@@@24@@@Jade@@@Every Day Of The Week
+21@@@30@@@R.E.M.@@@Bang And Blame
+22@@@19@@@Immature@@@Constantly
+23@@@22@@@20 Fingers Featuring Gillette@@@Short Dick Man
+24@@@25@@@Pretenders@@@I'll Stand By You
+25@@@17@@@Sheryl Crow@@@All I Wanna Do
+26@@@18@@@Madonna@@@Secret
+27@@@45@@@Soul For Real@@@Candy Rain
+28@@@23@@@Gloria Estefan@@@Turn The Beat Around (From "The Specialist")
+29@@@26@@@Crystal Waters@@@100% Pure Love
+30@@@28@@@Toni Braxton@@@I Belong To You/How Many Ways
+31@@@41@@@The Notorious B.I.G.@@@Big Poppa/Warning
+32@@@52@@@Sheryl Crow@@@Strong Enough
+33@@@33@@@Jon Secada@@@Mental Picture
+34@@@34@@@N II U@@@I Miss You
+35@@@29@@@Barry White@@@Practice What You Preach
+36@@@32@@@John Mellencamp With Me'Shell Ndegeocello@@@Wild Night
+37@@@36@@@Deadeye Dick@@@New Age Girl (From "Dumb And Dumber")
+38@@@35@@@Babyface@@@When Can I See You
+39@@@31@@@The Four Seasons@@@December, 1963 (Oh, What a Night)
+40@@@37@@@R.E.M.@@@What's The Frequency, Kenneth?
+41@@@42@@@Changing Faces@@@Foolin' Around
+42@@@38@@@Mary J. Blige@@@Be Happy
+43@@@47@@@Andru Donalds@@@Mishale
+44@@@46@@@Amy Grant With Vince Gill@@@House Of Love
+45@@@39@@@Zhane@@@Shame (From "A Low Down Dirty Shame")
+46@@@44@@@Sting@@@When We Dance
+47@@@56@@@Martin Page@@@In The House Of Stone And Light
+48@@@58@@@Craig Mack@@@Get Down
+49@@@43@@@Craig Mack@@@Flava In Ya Ear
+50@@@49@@@Candlebox@@@Far Behind
+51@@@40@@@Ace Of Base@@@Living In Danger
+52@@@48@@@Rappin' 4-Tay@@@Playaz Club
+53@@@57@@@2 Unlimited@@@Get Ready For This
+54@@@54@@@Method Man@@@Bring The Pain
+55@@@51@@@Scarface@@@I Never Seen A Man Cry (aka I Seen A Man Die)
+56@@@55@@@Warren G@@@Do You See
+57@@@53@@@Bone Thugs-N-Harmony@@@Thuggish Ruggish Bone
+58@@@59@@@Luther Vandross@@@Always And Forever
+59@@@64@@@69 Boyz@@@Kitty Kitty
+60@@@68@@@Freedy Johnston@@@Bad Reputation
+61@@@101@@@Dionne Farris@@@I Know
+62@@@62@@@Hole@@@Doll Parts
+63@@@69@@@The Flaming Lips@@@She Don't Use Jelly
+64@@@61@@@Toad The Wet Sprocket@@@Something's Always Wrong
+65@@@72@@@Nine@@@Whutcha Want?
+66@@@63@@@John Mellencamp@@@Dance Naked
+67@@@76@@@Willi One Blood@@@Whiney, Whiney (From "Dumb And Dumber")
+68@@@67@@@Harry Connick, Jr.@@@(I Could Only) Whisper Your Name
+69@@@91@@@Fu-Schnickens@@@Breakdown
+70@@@95@@@Dru Down@@@Pimp Of The Year
+71@@@60@@@Aerosmith@@@Blind Man
+72@@@88@@@Vicious@@@Nika
+73@@@79@@@Lil Suzy@@@Promise Me
+74@@@71@@@Tevin Campbell@@@Don't Say Goodbye Girl
+75@@@65@@@B.M.U. (Black Men United)@@@U Will Know (From "Jason's Lyric")
+76@@@84@@@Too Short@@@Cocktales
+77@@@101@@@Gloria Estefan@@@Everlasting Love
+78@@@87@@@All-4-One@@@(She's Got) Skillz
+79@@@66@@@Da Brat@@@Fa All Y'all
+80@@@101@@@Livin' Joy@@@Dreamer
+81@@@70@@@Keith Murray@@@The Most Beautifullest Thing In This World
+82@@@80@@@Anita Baker@@@I Apologize
+83@@@77@@@Guns N' Roses@@@Sympathy For The Devil ("Interview With The Vampire")
+84@@@86@@@Aaliyah@@@Age Ain't Nothing But A Number
+85@@@75@@@Silk@@@I Can Go Deep (From "A Low Down Dirty Shame")
+86@@@101@@@Jewell@@@Woman To Woman
+87@@@83@@@Heavy D & The Boyz@@@Black Coffee
+88@@@101@@@Jamie Walters@@@Hold On
+89@@@73@@@Lucas@@@Lucas With The Lid Off
+90@@@85@@@Lords Of The Underground@@@Tic Toc
+91@@@74@@@Keith Sweat (Featuring Kut Klose)@@@Get Up On It
+92@@@82@@@Reba McEntire@@@Till You Love Me
+93@@@96@@@Celine Dion@@@Only One Road
+94@@@92@@@Nuttin' Nyce@@@Down 4 Whateva (From "A Low Down Dirty Shame")
+95@@@94@@@Aimee Mann@@@That's Just What You Are
+96@@@89@@@Shaquille O'Neal@@@Biological Didn't Bother
+97@@@97@@@The Murmurs@@@You Suck
+98@@@81@@@Urge Overkill@@@Girl, You'll Be A Woman Soon (From "Pulp Fiction")
+99@@@90@@@Eagles@@@Get Over It
+100@@@93@@@Jeff Foxworthy@@@Redneck Stomp

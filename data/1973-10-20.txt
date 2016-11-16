@@ -1,0 +1,100 @@
+1@@@5@@@The Rolling Stones@@@Angie
+2@@@1@@@Cher@@@Half-Breed
+3@@@2@@@The Allman Brothers Band@@@Ramblin Man
+4@@@3@@@Marvin Gaye@@@Let's Get It On
+5@@@8@@@Gladys Knight And The Pips@@@Midnight Train To Georgia
+6@@@6@@@The Isley Brothers@@@That Lady (Part 1)
+7@@@9@@@Eddie Kendricks@@@Keep On Truckin' (Part 1)
+8@@@4@@@Stevie Wonder@@@Higher Ground
+9@@@12@@@The DeFranco Family featuring Tony DeFranco@@@Heartbeat - It's A Lovebeat
+10@@@13@@@Marie Osmond@@@Paper Roses
+11@@@11@@@The Pointer Sisters@@@Yes We Can Can
+12@@@10@@@Grand Funk@@@We're An American Band
+13@@@19@@@Garfunkel@@@All I Know
+14@@@7@@@Paul Simon (with The Dixie Hummingbirds)@@@Loves Me Like A Rock
+15@@@17@@@Cheech & Chong@@@Basketball Jones Featuring Tyrone Shoelaces
+16@@@20@@@Bob Dylan@@@Knockin' On Heaven's Door
+17@@@14@@@Edgar Winter Group@@@Free Ride
+18@@@15@@@The Doobie Brothers@@@China Grove
+19@@@16@@@B.W. Stevenson@@@My Maria
+20@@@26@@@Billy Preston@@@Space Race
+21@@@23@@@Kris Kristofferson@@@Why Me
+22@@@40@@@Jim Croce@@@I Got A Name
+23@@@24@@@Joe Walsh@@@Rocky Mountain Way
+24@@@18@@@Helen Reddy@@@Delta Dawn
+25@@@29@@@Millie Jackson@@@Hurts So Good
+26@@@35@@@Diana Ross & Marvin Gaye@@@You're A Special Part Of Me
+27@@@33@@@Bobby Goldsboro@@@Summer (The First Time)
+28@@@43@@@Chicago@@@Just You 'n' Me
+29@@@60@@@Ringo Starr@@@Photograph
+30@@@31@@@Seals & Crofts@@@We May Never Pass This Way (Again)
+31@@@56@@@Carpenters@@@Top Of The World
+32@@@32@@@Kool & The Gang@@@Funky Stuff
+33@@@38@@@Roberta Flack@@@Jesse
+34@@@28@@@Jackson 5@@@Get It Together
+35@@@21@@@Dawn Featuring Tony Orlando@@@Say, Has Anybody Seen My Sweet Gypsy Rose
+36@@@36@@@The Osmonds@@@Let Me In
+37@@@50@@@Teddy Pendergrass@@@The Whole Town's Laughing At Me
+38@@@22@@@Stories@@@Brother Louie
+39@@@27@@@Conway Twitty@@@You've Never Been This Far Before
+40@@@25@@@Diana Ross@@@Touch Me In The Morning
+41@@@44@@@Ike & Tina Turner@@@Nutbush City Limits
+42@@@34@@@Ohio Players@@@Ecstasy
+43@@@53@@@Charlie Rich@@@The Most Beautiful Girl
+44@@@39@@@Looking Glass@@@Jimmy Loves Mary-Anne
+45@@@46@@@Elvis Presley@@@Raised On Rock/For Ol' Times Sake
+46@@@30@@@Cross Country@@@In The Midnight Hour
+47@@@49@@@Dr. John@@@Such A Night
+48@@@37@@@Joe Simon featuring The Mainstreeters@@@Theme From Cleopatra Jones
+49@@@42@@@Elton John@@@Saturday Night's Alright For Fighting
+50@@@57@@@Ann Peebles@@@I Can't Stand The Rain
+51@@@54@@@Bloodstone@@@Never Let You Go
+52@@@55@@@Bette Midler@@@Friends/chapel Of Love
+53@@@59@@@Tavares@@@Check It Out
+54@@@45@@@The Chi-lites@@@Stoned Out Of My Mind
+55@@@61@@@Nino Tempo & 5th Ave. Sax@@@Sister James
+56@@@48@@@Sutherland Brothers And Quiver@@@(I Don't Want To Love You But) You Got Me Anyway
+57@@@77@@@Johnnie Taylor@@@Cheaper To Keep Her
+58@@@63@@@B.B. King@@@To Know You Is To Love You
+59@@@47@@@Sly & The Family Stone@@@If You Want Me To Stay
+60@@@65@@@Deep Purple@@@Woman From Tokyo
+61@@@62@@@Eagles@@@Outlaw Man
+62@@@81@@@Gilbert O'Sullivan@@@Ooh Baby
+63@@@66@@@The 5th Dimension@@@Ashes To Ashes
+64@@@64@@@The Temptations@@@Hey Girl (i Like Your Style)
+65@@@68@@@Tower Of Power@@@This Time It's Real
+66@@@82@@@Four Tops@@@Sweet Understanding Love
+67@@@88@@@Donna Fargo@@@Little Girl Gone
+68@@@71@@@Dottie West@@@Country Sunshine
+69@@@83@@@Todd Rundgren@@@Hello It's Me
+70@@@73@@@Johnny Rodriguez@@@Ridin' My Thumb To Mexico
+71@@@75@@@Moments@@@Gotta Find A Way
+72@@@72@@@Betty Wright@@@Let Me Be Your Lovemaker
+73@@@76@@@10cc@@@Rubber Bullets
+74@@@80@@@The Dells@@@My Pretending Days Are Over
+75@@@78@@@Dr. Hook And The Medicine Show@@@Life Ain't Easy
+76@@@69@@@Merle Haggard And The Strangers@@@Everybody's Had The Blues
+77@@@101@@@David Gates@@@Sail Around The World
+78@@@87@@@Johnny Mathis@@@I'm Coming Home
+79@@@85@@@Rod Stewart@@@Oh! No Not My Baby
+80@@@101@@@The Stylistics@@@Rockin' Roll Baby
+81@@@79@@@Painter@@@West Coast Woman
+82@@@90@@@Ray Price@@@You're The Best Thing That Ever Happened To Me
+83@@@101@@@Led Zeppelin@@@D'yer Mak'er
+84@@@86@@@Hank Wilson@@@Roll In My Sweet Baby's Arms/I'm So Lonesome I Could Cry
+85@@@89@@@Jackson Browne@@@Redneck Friend
+86@@@101@@@The Steve Miller Band@@@The Joker
+87@@@84@@@The Manhattans@@@You'd Better Believe It
+88@@@101@@@Aerosmith@@@Dream On
+89@@@74@@@Tanya Tucker@@@Blood Red And Goin' Down
+90@@@101@@@Curtis Mayfield@@@If I Were Only A Child Again
+91@@@95@@@Maureen McGovern@@@I Won't Last A Day Without You
+92@@@94@@@Foster Sylvers@@@Hey, Little Girl
+93@@@101@@@Jermaine Jackson@@@You're In Good Hands
+94@@@98@@@Uriah Heep@@@Stealin'
+95@@@99@@@The Ovations@@@Having A Party medley
+96@@@101@@@Al Wilson@@@Show And Tell
+97@@@101@@@Spirit@@@Mr. Skin
+98@@@92@@@Jean Shepard@@@Slippin' Away
+99@@@93@@@Wilson Pickett@@@Take A Closer Look At The Woman You're With
+100@@@100@@@Barbara Fairchild@@@Kid Stuff

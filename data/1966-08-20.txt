@@ -1,0 +1,100 @@
+1@@@1@@@The Lovin' Spoonful@@@Summer In The City
+2@@@7@@@Bobby Hebb@@@Sunny
+3@@@2@@@Sam The Sham and the Pharaohs@@@Lil' Red Riding Hood
+4@@@4@@@The Troggs@@@Wild Thing
+5@@@3@@@Napoleon XIV@@@They're Coming To Take Me Away, Ha-Haaa!
+6@@@14@@@The Happenings@@@See You In September
+7@@@5@@@Crispian St. Peters@@@The Pied Piper
+8@@@8@@@The Rolling Stones@@@Mothers Little Helper
+9@@@11@@@Petula Clark@@@I Couldn't Live Without Your Love
+10@@@20@@@Donovan@@@Sunshine Superman
+11@@@18@@@Stevie Wonder@@@Blowin In The Wind
+12@@@10@@@Tommy Roe@@@Sweet Pea
+13@@@13@@@The Yardbirds@@@Over Under Sideways Down
+14@@@19@@@Gary Lewis And The Playboys@@@My Heart's Symphony
+15@@@16@@@Tommy McLain@@@Sweet Dreams
+16@@@21@@@Billy Stewart@@@Summertime
+17@@@22@@@Lee Dorsey@@@Working In The Coal Mine
+18@@@12@@@Herman's Hermits@@@This Door Swings Both Ways
+19@@@9@@@Ray Conniff And The Singers@@@Somewhere, My Love
+20@@@25@@@Wilson Pickett@@@Land Of 1000 Dances
+21@@@26@@@Brian Hyland@@@The Joker Went Wild
+22@@@28@@@Sandy Posey@@@Born A Woman
+23@@@23@@@Percy Sledge@@@Warm And Tender Love
+24@@@6@@@The Mamas & The Papas@@@I Saw Her Again
+25@@@17@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Hungry
+26@@@51@@@The Beach Boys@@@Wouldn't It Be Nice
+27@@@33@@@The Sandpipers@@@Guantanamera
+28@@@66@@@The Supremes@@@You Can't Hurry Love
+29@@@35@@@Barbara Lewis@@@Make Me Belong To You
+30@@@31@@@Chad & Jeremy@@@Distant Shores
+31@@@47@@@The Hollies@@@Bus Stop
+32@@@43@@@Ramsey Lewis@@@Wade In The Water
+33@@@15@@@Tommy James And The Shondells@@@Hanky Panky
+34@@@57@@@The Outsiders@@@Respectable
+35@@@41@@@Cher@@@Alfie
+36@@@24@@@The Rolling Stones@@@Lady Jane
+37@@@58@@@Tommy James And The Shondells@@@Say I Am (What I Am)
+38@@@39@@@Verdelle Smith@@@Tar And Cement
+39@@@27@@@Bobby Moore And The Rhythm Aces@@@Searching For My Love
+40@@@29@@@Manfred Mann@@@Pretty Flamingo
+41@@@45@@@Dean Martin@@@A Million And One
+42@@@34@@@The Temptations@@@Ain't Too Proud To Beg
+43@@@40@@@B.J. Thomas And The Triumphs@@@Billy And Sue
+44@@@46@@@Groove Holmes@@@Misty
+45@@@48@@@Eddy Arnold@@@The Tip Of My Fingers
+46@@@49@@@David Houston@@@Almost Persuaded
+47@@@60@@@The Troggs@@@With A Girl Like You
+48@@@59@@@The Righteous Brothers@@@Go Ahead And Cry
+49@@@50@@@Mel Carter@@@You You You
+50@@@30@@@Herb Alpert & The Tijuana Brass@@@The Work Song
+51@@@61@@@The Surfaris@@@Wipe Out
+52@@@101@@@The Beatles@@@Yellow Submarine
+53@@@54@@@James Brown And The Famous Flames@@@Money Won't Change You (Part 1)
+54@@@64@@@The Cryan' Shames@@@Sugar And Spice
+55@@@68@@@The Kinks@@@Sunny Afternoon
+56@@@53@@@The McCoys@@@(You Make Me Feel) So Good
+57@@@70@@@Simon & Garfunkel@@@The Dangling Conversation
+58@@@75@@@The Cyrkle@@@Turn-Down Day
+59@@@63@@@Darrell Banks@@@Open The Door To Your Heart
+60@@@79@@@Jr. Walker & The All Stars@@@How Sweet It Is (To Be Loved By You)
+61@@@62@@@The Isley Brothers@@@I Guess I'll Always Love You
+62@@@65@@@Bobby Vee And The Strangers@@@Look At Me Girl
+63@@@71@@@Love@@@7 And 7 Is
+64@@@81@@@The Beach Boys@@@God Only Knows
+65@@@86@@@The Critters@@@Mr. Dieingly Sad
+66@@@92@@@The Five Stairsteps@@@World Of Fantasy
+67@@@67@@@Joe Tex@@@I Believe I'm Gonna Make It
+68@@@72@@@Roy Orbison@@@Too Soon To Know
+69@@@88@@@The Dave Clark Five@@@Satisfied With You
+70@@@74@@@The Chiffons@@@Out Of This World
+71@@@76@@@Vic Dana@@@A Million And One
+72@@@73@@@The Shades Of Blue@@@Lonely Summer
+73@@@89@@@Alvin Cash & The Registers@@@The Philly Freeze
+74@@@90@@@Chris Montez@@@There Will Never Be Another You
+75@@@78@@@B.J. Thomas@@@Bring Back The Time
+76@@@77@@@Jay & The Americans@@@Livin' Above Your Head
+77@@@84@@@The Sidekicks@@@Suspicions
+78@@@82@@@The Intruders@@@(We'll Be) United
+79@@@94@@@Shelby Flint@@@Cast Your Fate To The Wind
+80@@@101@@@The Temptations@@@Beauty Is Only Skin Deep
+81@@@85@@@Bobby Vinton@@@Petticoat White (Summer Sky Blue)
+82@@@100@@@Los Bravos@@@Black Is Black
+83@@@83@@@The Razor's Edge@@@Let's Call It A Day Girl
+84@@@87@@@Al Martino@@@Just Yesterday
+85@@@97@@@Rosco Robinson@@@That's Enough
+86@@@96@@@The Standells@@@Sometimes Good Guys Don't Wear White
+87@@@101@@@Jimmy Ruffin@@@What Becomes Of The Brokenhearted
+88@@@101@@@Neil Diamond@@@Cherry, Cherry
+89@@@101@@@Carla Thomas@@@B-A-B-Y
+90@@@101@@@Marvin Gaye@@@Little Darling, I Need You
+91@@@99@@@The Mindbenders@@@Ashes To Ashes
+92@@@91@@@Nat King Cole@@@Let Me Tell You, Babe
+93@@@101@@@Howard Tate@@@Ain't Nobody Home
+94@@@101@@@Flip Cartridge@@@Dear Mrs. Applebee
+95@@@101@@@The Thirteenth Floor Elevators@@@You're Gonna Miss Me
+96@@@101@@@The Swingin' Medallions@@@She Drives Me Out Of My Mind
+97@@@98@@@Etta James & Sugar Pie DeSanto@@@In The Basement - Part 1
+98@@@101@@@Julie Monday@@@Come Share The Good Times With Me
+99@@@101@@@Georgie Fame And The Blue Flames@@@Get Away
+100@@@101@@@Syndicate Of Sound@@@Rumors

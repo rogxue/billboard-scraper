@@ -1,0 +1,100 @@
+1@@@2@@@Hollywood Argyles@@@Alley-Oop
+2@@@3@@@Brenda Lee@@@I'm Sorry
+3@@@1@@@Connie Francis@@@Everybody's Somebody's Fool
+4@@@4@@@Duane Eddy And The Rebels@@@Because They're Young
+5@@@9@@@The Fendermen@@@Mule Skinner Blues
+6@@@11@@@Roy Orbison@@@Only The Lonely (Know How I Feel)
+7@@@6@@@Brenda Lee@@@That's All You Gotta Do
+8@@@8@@@Paul Anka@@@My Home Town
+9@@@10@@@Dinah Washington & Brook Benton@@@A Rockin' Good Way (To Mess Around And Fall In Love)
+10@@@20@@@The Everly Brothers@@@When Will I Be Loved
+11@@@7@@@Jack Scott@@@Burning Bridges
+12@@@22@@@Ray Peterson@@@Tell Laura I Love Her
+13@@@5@@@The Everly Brothers@@@Cathy's Clown
+14@@@16@@@Hank Locklin@@@Please Help Me, I'm Falling
+15@@@15@@@Dante and the Evergreens@@@Alley-Oop
+16@@@13@@@Anita Bryant@@@Paper Roses
+17@@@43@@@Safaris with The Phantom's Band@@@Image Of A Girl
+18@@@12@@@Sam Cooke@@@Wonderful World
+19@@@14@@@Paul Evans@@@Happy-Go-Lucky-Me
+20@@@59@@@Brian Hyland@@@Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+21@@@31@@@Fats Domino@@@Walking To New Orleans
+22@@@24@@@Ron Holden with The Thunderbirds@@@Love You So
+23@@@25@@@The Fleetwoods@@@Runaround
+24@@@23@@@Connie Francis@@@Jealous Of You (Tango Della Gelosia)
+25@@@35@@@Garry Miles@@@Look For A Star
+26@@@29@@@The Skyliners@@@Pennies From Heaven
+27@@@27@@@Don Costa And His Orchestra And Chorus@@@Theme From The Unforgiven (The Need For Love)
+28@@@33@@@Bill Black's Combo@@@Josephine
+29@@@18@@@Tommy Edwards@@@I Really Don't Want To Know
+30@@@19@@@Bobby Darin@@@Won't You Come Home Bill Bailey
+31@@@34@@@Patti Page@@@One Of Us (Will Weep Tonight)
+32@@@37@@@Deane Hawley@@@Look For A Star
+33@@@46@@@Bobby Marchan@@@There's Something On Your Mind (Part 2)
+34@@@79@@@Donnie Brooks@@@Mission Bell
+35@@@17@@@Jimmy Jones@@@Good Timin'
+36@@@38@@@Annette With The Afterbeats@@@Train Of Love
+37@@@42@@@Jim Reeves@@@I'm Gettin' Better
+38@@@21@@@Bobby Rydell@@@Swingin' School
+39@@@28@@@Ella Fitzgerald@@@Mack The Knife
+40@@@50@@@Conway Twitty@@@Is A Blue Bird Blue
+41@@@26@@@Ricky Nelson@@@Young Emotions
+42@@@75@@@Dinah Washington@@@This Bitter Earth
+43@@@32@@@Bobby Rydell@@@Ding-A-Ling
+44@@@36@@@Jimmy Clanton@@@Another Sleepless Night
+45@@@49@@@The Beau-Marks@@@Clap Your Hands
+46@@@56@@@Billy Vaughn And His Orchestra@@@Look For A Star
+47@@@55@@@Jackie Wilson@@@Doggin' Around
+48@@@51@@@Etta James@@@All I Could Do Was Cry
+49@@@30@@@Jeanne Black@@@He'll Have To Stay
+50@@@39@@@Elvis Presley With The Jordanaires@@@Stuck On You
+51@@@41@@@Paul Anka@@@Something Happened
+52@@@90@@@Fats Domino@@@Don't Come Knockin'
+53@@@60@@@Hank Ballard And The Midnighters@@@Finger Poppin' Time
+54@@@63@@@Pat Boone@@@Spring Rain
+55@@@61@@@Dorsey Burnette@@@Hey Little One
+56@@@62@@@Garry Mills@@@Look For A Star - Part I
+57@@@68@@@The Crests@@@Trouble In Paradise
+58@@@80@@@Lloyd Price and His Orchestra@@@Question
+59@@@58@@@Jan And Kjeld@@@Banjo Boy
+60@@@67@@@Frankie Avalon@@@Where Are You
+61@@@40@@@Connie Stevens@@@Sixteen Reasons
+62@@@48@@@Johnny And The Hurricanes@@@Down Yonder
+63@@@65@@@Marv Johnson@@@All The Love I've Got
+64@@@66@@@The Kingston Trio@@@Bad Man Blunder
+65@@@47@@@Charlie Rich@@@Lonely Weekends
+66@@@86@@@Ray Charles and his Orchestra@@@Sticks And Stones
+67@@@54@@@The Drifters@@@Lonely Winds
+68@@@69@@@Adam Wade@@@I Can't Help It
+69@@@71@@@The Coasters@@@Wake Me, Shake Me
+70@@@44@@@Jackie Wilson@@@Night
+71@@@76@@@Marty Robbins@@@Is There Any Chance
+72@@@52@@@Percy Faith And His Orchestra@@@Theme For Young Lovers
+73@@@92@@@Johnny Preston@@@Feel So Fine
+74@@@82@@@Johnny Horton@@@Johnny Freedom
+75@@@78@@@The Brothers Four@@@My Tani
+76@@@81@@@Red River Dave@@@There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers)
+77@@@83@@@Little Willie John@@@Heartbreak (It's Hurtin' Me)
+78@@@84@@@Johnny Mathis@@@Maria
+79@@@101@@@Bobby Darin@@@I'll Be There
+80@@@101@@@Jackie Wilson@@@(You Were Made For) All My Love
+81@@@93@@@Andy Williams@@@Do You Mind?
+82@@@101@@@The Everly Brothers@@@Be Bop A-Lula
+83@@@64@@@Jessie Hill@@@Ooh Poo Pah Doo - Part II
+84@@@53@@@Pat Boone@@@Walking The Floor Over You
+85@@@91@@@Joanie Sommers@@@One Boy
+86@@@96@@@Johnny Cash@@@Second Honeymoon
+87@@@98@@@Connie Stevens@@@Too Young To Go Steady
+88@@@95@@@The Bobbettes@@@I Shot Mr. Lee
+89@@@101@@@Johnny Cash And The Tennessee Two@@@Down The Street To 301
+90@@@101@@@Jackie Wilson@@@A Woman, A Lover, A Friend
+91@@@77@@@Freddy Cannon@@@Jump Over
+92@@@101@@@Charlie Ryan and the Timberline Riders@@@Hot Rod Lincoln
+93@@@70@@@Walter Brennan With Billy Vaughn and his Orchestra@@@Dutchman's Gold
+94@@@101@@@Anita Bryant@@@In My Little Corner Of The World
+95@@@74@@@Marv Johnson@@@Ain't Gonna Be That Way
+96@@@101@@@Shirley and Lee@@@I've Been Loved Before
+97@@@100@@@The Demensions@@@Over The Rainbow
+98@@@101@@@Jimmy Jones@@@That's When I Cried
+99@@@57@@@Skip And Flip@@@Cherry Pie
+100@@@101@@@Guy Mitchell@@@My Shoes Keep Walking Back To You

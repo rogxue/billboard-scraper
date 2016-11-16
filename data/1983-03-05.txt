@@ -1,0 +1,100 @@
+1@@@4@@@Michael Jackson@@@Billie Jean
+2@@@2@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+3@@@3@@@Stray Cats@@@Stray Cat Strut
+4@@@5@@@Culture Club@@@Do You Really Want To Hurt Me
+5@@@6@@@Duran Duran@@@Hungry Like The Wolf
+6@@@1@@@Patti Austin With James Ingram@@@Baby, Come To Me
+7@@@7@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+8@@@9@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+9@@@11@@@Pretenders@@@Back On The Chain Gang
+10@@@10@@@Musical Youth@@@Pass The Dutchie
+11@@@14@@@Lionel Richie@@@You Are
+12@@@16@@@Christopher Cross@@@All Right
+13@@@13@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+14@@@8@@@Men At Work@@@Down Under
+15@@@20@@@Journey@@@Separate Ways (Worlds Apart)
+16@@@18@@@Golden Earring@@@Twilight Zone
+17@@@17@@@Billy Joel@@@Allentown
+18@@@21@@@Daryl Hall & John Oates@@@One On One
+19@@@23@@@Joe Jackson@@@Breaking Us In Two
+20@@@24@@@Styx@@@Mr. Roboto
+21@@@27@@@Earth, Wind & Fire@@@Fall In Love With Me
+22@@@25@@@Frida@@@I Know There's Something Going On
+23@@@12@@@Adam Ant@@@Goody Two Shoes
+24@@@15@@@Kenny Loggins@@@Heart To Heart
+25@@@31@@@Dexys Midnight Runners@@@Come On Eileen
+26@@@26@@@Saga@@@On The Loose
+27@@@19@@@Toto@@@Africa
+28@@@32@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+29@@@22@@@Phil Collins@@@You Can't Hurry Love
+30@@@34@@@Steel Breeze@@@Dreamin' Is Easy
+31@@@55@@@After The Fire@@@Der Kommissar
+32@@@37@@@Supertramp Featuring Rick Davies@@@My Kind Of Lady
+33@@@33@@@Donna Summer@@@The Woman In Me
+34@@@41@@@Greg Kihn Band@@@Jeopardy
+35@@@35@@@Neil Diamond@@@I'm Alive
+36@@@39@@@ABC@@@Poison Arrow
+37@@@47@@@Pat Benatar@@@Little Too Late
+38@@@38@@@Olivia Newton-John@@@Tied Up
+39@@@42@@@Dan Fogelberg@@@Make Love Stay
+40@@@40@@@Night Ranger@@@Don't Tell Me You Love Me
+41@@@44@@@Jefferson Starship@@@Winds Of Change
+42@@@45@@@Diana Ross@@@So Close
+43@@@43@@@Vandenberg@@@Burning Heart
+44@@@46@@@Thompson Twins@@@Lies
+45@@@54@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+46@@@50@@@The Weather Girls@@@It's Raining Men
+47@@@52@@@Debarge@@@I Like It
+48@@@48@@@Don Henley@@@I Can't Stand Still
+49@@@49@@@Evelyn King@@@Betcha She Don't Love You
+50@@@53@@@Melissa Manchester@@@Nice Girls
+51@@@56@@@Ric Ocasek@@@Something To Grab For
+52@@@57@@@Stephen Bishop@@@It Might Be You
+53@@@58@@@Phil Collins@@@I Don't Care Anymore
+54@@@61@@@Oxo@@@Whirly Girl
+55@@@36@@@Pia Zadora@@@The Clapping Song
+56@@@62@@@Thomas Dolby@@@She Blinded Me With Science
+57@@@63@@@The Clash@@@Should I Stay Or Should I Go
+58@@@60@@@Janet Jackson@@@Come Give Your Love To Me
+59@@@59@@@Firefall@@@Always
+60@@@71@@@Felony@@@The Fanatic
+61@@@65@@@Dionne Warwick@@@Take The Short Way Home
+62@@@66@@@Prince@@@Little Red Corvette
+63@@@67@@@Marty Balin@@@What Love Is
+64@@@64@@@The John Hall Band@@@Love Me Again
+65@@@78@@@Michael Jackson@@@Beat It
+66@@@28@@@Little River Band@@@The Other Guy
+67@@@77@@@The J. Geils Band@@@Land Of A Thousand Dances
+68@@@68@@@Robert John@@@Bread And Butter
+69@@@79@@@Barry Manilow@@@Some Kind Of Friend
+70@@@29@@@Marvin Gaye@@@Sexual Healing
+71@@@30@@@Daryl Hall & John Oates@@@Maneater
+72@@@51@@@Randy Newman & Paul Simon@@@The Blues
+73@@@101@@@Psychedelic Furs@@@Love My Way
+74@@@69@@@Crosby, Stills & Nash@@@Too Much Love To Hide
+75@@@101@@@John Anderson@@@Swingin'
+76@@@76@@@The Clash@@@Rock The Casbah
+77@@@83@@@Toni Basil@@@Shoppin' From A To Z
+78@@@70@@@Juice Newton@@@Heart Of The Night
+79@@@101@@@Berlin@@@Sex (I'm A...)
+80@@@90@@@Yaz@@@Only You
+81@@@101@@@Mac McAnally@@@Minimum Love
+82@@@89@@@Gentle Persuasion@@@Please Mr. Postman
+83@@@101@@@Robert Hazard@@@Escalator Of Life
+84@@@101@@@Single Bullet Theory@@@Keep It Tight
+85@@@73@@@Moving Pictures@@@What About Me
+86@@@74@@@A Flock Of Seagulls@@@Space Age Love Song
+87@@@75@@@Billy Squier@@@She's A Runner
+88@@@80@@@Tom Petty And The Heartbreakers@@@You Got Lucky
+89@@@81@@@Poco@@@Shoot For The Moon
+90@@@101@@@The System@@@You Are In My System
+91@@@82@@@Don Henley@@@Dirty Laundry
+92@@@84@@@Missing Persons@@@Windows
+93@@@85@@@John Cougar@@@Hand To Hold On To
+94@@@86@@@Donald Fagen@@@New Frontier
+95@@@87@@@Neil Young@@@Little Thing Called Love
+96@@@88@@@Toni Basil@@@Mickey
+97@@@91@@@Michael Jackson And Paul McCartney@@@The Girl Is Mine
+98@@@92@@@Laura Branigan@@@Gloria
+99@@@72@@@Rachel Sweet@@@Voo Doo
+100@@@93@@@Dionne Warwick@@@Heartbreaker

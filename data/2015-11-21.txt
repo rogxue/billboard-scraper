@@ -1,0 +1,100 @@
+1@@@1@@@Adele@@@Hello
+2@@@3@@@Drake@@@Hotline Bling
+3@@@4@@@The Weeknd@@@The Hills
+4@@@2@@@Justin Bieber@@@Sorry
+5@@@5@@@Justin Bieber@@@What Do You Mean?
+6@@@6@@@Shawn Mendes@@@Stitches
+7@@@101@@@Ariana Grande@@@Focus
+8@@@7@@@Taylor Swift@@@Wildest Dreams
+9@@@8@@@Fetty Wap Featuring Remy Boyz@@@679
+10@@@13@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+11@@@9@@@R. City Featuring Adam Levine@@@Locked Away
+12@@@12@@@Elle King@@@Ex's & Oh's
+13@@@15@@@Alessia Cara@@@Here
+14@@@10@@@The Weeknd@@@Can't Feel My Face
+15@@@11@@@Silento@@@Watch Me
+16@@@14@@@Drake & Future@@@Jumpman
+17@@@18@@@Selena Gomez@@@Same Old Love
+18@@@19@@@Ellie Goulding@@@On My Mind
+19@@@17@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+20@@@20@@@X Ambassadors@@@Renegades
+21@@@16@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+22@@@22@@@iLoveMemphis@@@Hit The Quan
+23@@@101@@@Chris Stapleton@@@Tennessee Whiskey
+24@@@23@@@Fetty Wap@@@Trap Queen
+25@@@21@@@Selena Gomez Featuring A$AP Rocky@@@Good For You
+26@@@24@@@One Direction@@@Drag Me Down
+27@@@32@@@Travi$ Scott@@@Antidote
+28@@@33@@@Thomas Rhett@@@Die A Happy Man
+29@@@27@@@Calvin Harris & Disciples@@@How Deep Is Your Love
+30@@@31@@@Future Featuring Drake@@@Where Ya At
+31@@@25@@@OMI@@@Cheerleader
+32@@@35@@@Demi Lovato@@@Confident
+33@@@26@@@Ed Sheeran@@@Photograph
+34@@@30@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+35@@@28@@@Fetty Wap Featuring Monty@@@My Way
+36@@@37@@@Post Malone@@@White Iverson
+37@@@34@@@Mark Ronson Featuring Bruno Mars@@@Uptown Funk!
+38@@@36@@@WALK THE MOON@@@Shut Up And Dance
+39@@@42@@@Fetty Wap@@@Again
+40@@@38@@@Rachel Platten@@@Fight Song
+41@@@40@@@Ed Sheeran@@@Thinking Out Loud
+42@@@52@@@Sam Hunt@@@Break Up In A Small Town
+43@@@39@@@Luke Bryan@@@Strip It Down
+44@@@29@@@One Direction@@@Perfect
+45@@@101@@@Michael Jackson@@@Thriller
+46@@@41@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+47@@@46@@@Chris Young@@@I'm Comin' Over
+48@@@44@@@Old Dominion@@@Break Up With Him
+49@@@51@@@Carrie Underwood@@@Smoke Break
+50@@@47@@@Jason Derulo@@@Want To Want Me
+51@@@101@@@Justin Bieber@@@I'll Show You
+52@@@43@@@Drake@@@Back To Back
+53@@@54@@@Bryson Tiller@@@Don't
+54@@@58@@@DeJ Loaf Featuring Big Sean@@@Back Up
+55@@@50@@@Cam@@@Burning House
+56@@@53@@@J. Cole@@@No Role Modelz
+57@@@45@@@Meek Mill Featuring Chris Brown & Nicki Minaj@@@All Eyes On You
+58@@@56@@@Rae Sremmurd@@@Come Get Her
+59@@@62@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+60@@@48@@@Hailee Steinfeld@@@Love Myself
+61@@@59@@@Cole Swindell@@@Let Me See Ya Girl
+62@@@63@@@Dan + Shay@@@Nothin' Like You
+63@@@70@@@Blake Shelton@@@Gonna
+64@@@72@@@Tory Lanez@@@Say It
+65@@@55@@@Florida Georgia Line@@@Anything Goes
+66@@@66@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+67@@@65@@@Chris Brown@@@Liquor
+68@@@71@@@The Chainsmokers Featuring ROZES@@@Roses
+69@@@73@@@Nelly Featuring Jeremih@@@The Fix
+70@@@64@@@Drake & Future@@@Big Rings
+71@@@76@@@twenty one pilots@@@Stressed Out
+72@@@57@@@Demi Lovato@@@Cool For The Summer
+73@@@77@@@Brothers Osborne@@@Stay A Little Longer
+74@@@67@@@Drake@@@Right Hand
+75@@@79@@@Kenny Chesney@@@Save It For A Rainy Day
+76@@@80@@@Daya@@@Hide Away
+77@@@69@@@K Camp@@@Comfortable
+78@@@81@@@Jana Kramer@@@I Got The Boy
+79@@@85@@@Jason Aldean@@@Gonna Know We Were Here
+80@@@75@@@Drake & Future@@@Diamonds Dancing
+81@@@78@@@Fetty Wap@@@RGF Island
+82@@@89@@@Tim McGraw@@@Top Of The World
+83@@@101@@@G-Eazy x Bebe Rexha@@@Me, Myself & I
+84@@@60@@@Nick Jonas@@@Levels
+85@@@83@@@DNCE@@@Cake By The Ocean
+86@@@98@@@Bryson Tiller@@@Exchange
+87@@@86@@@Jess Glynne@@@Hold My Hand
+88@@@97@@@LoCash@@@I Love This Life
+89@@@94@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+90@@@93@@@Kelsea Ballerini@@@Dibs
+91@@@92@@@J Balvin@@@Ginza
+92@@@87@@@Halsey@@@New Americana
+93@@@101@@@Big Sean Featuring Chris Brown & Ty Dolla $ign@@@Play No Games
+94@@@95@@@Drake & Future@@@Scholarships
+95@@@101@@@Zac Brown Band@@@Beautiful Drug
+96@@@101@@@Parmalee@@@Already Callin' You Mine
+97@@@99@@@Fetty Wap Featuring Monty@@@Jugg
+98@@@68@@@Panic! At The Disco@@@Emperor's New Clothes
+99@@@90@@@Drake & Future@@@Digital Dash
+100@@@101@@@Randy Houser@@@We Went

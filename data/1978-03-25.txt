@@ -1,0 +1,100 @@
+1@@@1@@@Bee Gees@@@Night Fever
+2@@@2@@@Bee Gees@@@Stayin' Alive
+3@@@3@@@Samantha Sang@@@Emotion
+4@@@4@@@Eric Clapton@@@Lay Down Sally
+5@@@6@@@Barry Manilow@@@Can't Smile Without You
+6@@@5@@@Andy Gibb@@@(Love Is) Thicker Than Water
+7@@@7@@@Paul Davis@@@I Go Crazy
+8@@@8@@@Dan Hill@@@Sometimes When We Touch
+9@@@14@@@Yvonne Elliman@@@If I Can't Have You
+10@@@11@@@Jay Ferguson@@@Thunder Island
+11@@@10@@@Billy Joel@@@Just The Way You Are
+12@@@23@@@Kansas@@@Dust In The Wind
+13@@@9@@@Chic@@@Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)
+14@@@15@@@LeBlanc & Carr@@@Falling
+15@@@19@@@Raydio@@@Jack And Jill
+16@@@18@@@Natalie Cole@@@Our Love
+17@@@17@@@Art Garfunkel With James Taylor & Paul Simon@@@(What A)' Wonderful World
+18@@@26@@@England Dan & John Ford Coley@@@We'll Never Have To Say Goodbye Again
+19@@@22@@@Bob Welch@@@Ebony Eyes
+20@@@25@@@Jackson Browne@@@Running On Empty
+21@@@21@@@Heatwave@@@Always And Forever
+22@@@24@@@David Gates@@@Goodbye Girl
+23@@@27@@@Stargard@@@Theme Song From Which Way Is Up
+24@@@28@@@Parliament@@@Flash Light
+25@@@29@@@Electric Light Orchestra@@@Sweet Talkin' Woman
+26@@@30@@@Gene Cotton@@@Before My Heart Finds Out
+27@@@31@@@Lou Rawls@@@Lady Love
+28@@@39@@@Roberta Flack & Donny Hathaway@@@The Closer I Get To You
+29@@@33@@@Rod Stewart@@@Hot Legs
+30@@@34@@@Andrew Gold@@@Thank You For Being A Friend
+31@@@12@@@ABBA@@@The Name Of The Game
+32@@@40@@@Chuck Mangione@@@Feels So Good
+33@@@35@@@Bee Gees@@@How Deep Is Your Love
+34@@@38@@@Enchantment@@@It's You That I Need
+35@@@58@@@Jefferson Starship@@@Count On Me
+36@@@37@@@Van Halen@@@You Really Got Me
+37@@@42@@@Gordon Lightfoot@@@The Circle Is Small (I Can See It In Your Eyes)
+38@@@41@@@KC And The Sunshine Band@@@Boogie Shoes
+39@@@43@@@The Trammps@@@Disco Inferno
+40@@@45@@@Atlanta Rhythm Section@@@Imaginary Lover
+41@@@46@@@Styx@@@Fooling Yourself (The Angry Young Man)
+42@@@44@@@Waylon & Willie@@@Mammas Don't Let Your Babies Grow Up To Be Cowboys
+43@@@13@@@Lynyrd Skynyrd@@@What's Your Name
+44@@@54@@@Earth, Wind & Fire@@@Fantasy
+45@@@55@@@Chicago@@@Little One
+46@@@51@@@Eddie Money@@@Baby Hold On
+47@@@52@@@Rubicon@@@I'm Gonna Take Care Of Everything
+48@@@36@@@Queen@@@We Will Rock You/We Are The Champions
+49@@@60@@@Tavares@@@More Than A Woman
+50@@@65@@@Player@@@This Time I'm In It For Love
+51@@@56@@@Sweet@@@Love Is Like Oxygen
+52@@@53@@@Carpenters@@@Sweet, Sweet Smile
+53@@@57@@@Kiss@@@Rocket Ride
+54@@@69@@@Dolly Parton@@@Two Doors Down
+55@@@61@@@Donna Summer@@@Rumour Has It
+56@@@16@@@Little River Band@@@Happy Anniversary
+57@@@63@@@Diana Ross@@@Your Love Is So Good For Me
+58@@@20@@@Rita Coolidge@@@The Way You Do The Things You Do
+59@@@32@@@Steely Dan@@@Peg
+60@@@66@@@Bunny Sigler@@@Let Me Party With You (Part 1) (Party, Party, Party)
+61@@@64@@@James Taylor@@@Honey Don't Leave L.a.
+62@@@62@@@Leif Garrett@@@Put Your Head On My Shoulder
+63@@@71@@@George Benson@@@On Broadway
+64@@@73@@@L.T.D.@@@Never Get Enough Of Your Love
+65@@@75@@@Sea Level@@@That's Your Secret
+66@@@68@@@John Denver@@@It Amazes Me
+67@@@67@@@Boz Scaggs@@@Hollywood
+68@@@47@@@Player@@@Baby Come Back
+69@@@79@@@Billy Joel@@@Movin' Out (Anthony's Song)
+70@@@101@@@Wings@@@With A Little Luck
+71@@@76@@@The Michael Zager Band@@@Let's All Chant
+72@@@74@@@Aerosmith@@@Kings And Queens
+73@@@83@@@Crystal Gayle@@@Ready For The Times To Get Better
+74@@@101@@@Shaun Cassidy@@@Do You Believe In Magic
+75@@@77@@@Wild Cherry@@@I Love My Music
+76@@@101@@@Warren Zevon@@@Werewolves Of London
+77@@@89@@@Bob Weir@@@Bombs Away
+78@@@101@@@Bonnie Tyler@@@It's A Heartache
+79@@@81@@@Don Brown@@@Sitting In Limbo
+80@@@82@@@Starz@@@(Any Way That You Want It) I'll Be There
+81@@@84@@@Claudja Barry@@@Dancin' Fever
+82@@@85@@@Bill Brandon@@@We Fell In Love While Dancing
+83@@@101@@@Brooklyn Dreams@@@Music, Harmony And Rhythm
+84@@@88@@@Ashford & Simpson@@@Don't Cost You Nothing
+85@@@90@@@Meat Loaf@@@Two Out Of Three Ain't Bad
+86@@@101@@@Allan Clarke@@@(I Will Be Your) Shadow In The Street
+87@@@101@@@Robert Palmer@@@Every Kinda People
+88@@@91@@@Stargard@@@Disco Rufus
+89@@@92@@@High Inergy@@@Love Is All You Need
+90@@@95@@@Hotel@@@You'll Love Again
+91@@@93@@@Peter Brown with Betty Wright@@@Dance With Me
+92@@@94@@@Barbara Mandrell@@@Woman To Woman
+93@@@96@@@Eruption@@@I Can't Stand The Rain
+94@@@97@@@Belle Epoque@@@Miss Broadway
+95@@@98@@@Ronnie McDowell@@@I Love You, I Love You, I Love You
+96@@@48@@@John Williams@@@Theme From Close Encounters Of The Third Kind
+97@@@99@@@Eloise Laws@@@Number One
+98@@@49@@@Linda Ronstadt@@@Poor Poor Pitiful Me
+99@@@50@@@Randy Newman@@@Short People
+100@@@59@@@Rod Stewart@@@You're In My Heart (The Final Acclaim)

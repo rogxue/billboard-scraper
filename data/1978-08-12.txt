@@ -1,0 +1,100 @@
+1@@@2@@@Commodores@@@Three Times A Lady
+2@@@3@@@Frankie Valli@@@Grease
+3@@@4@@@Donna Summer@@@Last Dance
+4@@@1@@@The Rolling Stones@@@Miss You
+5@@@8@@@Foreigner@@@Hot Blooded
+6@@@17@@@A Taste Of Honey@@@Boogie Oogie Oogie
+7@@@9@@@Pablo Cruise@@@Love Will Find A Way
+8@@@12@@@Barry Manilow@@@Copacabana (at The Copa)
+9@@@11@@@Walter Egan@@@Magnet And Steel
+10@@@16@@@Andy Gibb@@@An Everlasting Love
+11@@@18@@@Olivia Newton-John@@@Hopelessly Devoted To You
+12@@@13@@@Joe Walsh@@@Life's Been Good
+13@@@14@@@Toby Beau@@@My Angel Baby
+14@@@15@@@Atlanta Rhythm Section@@@I'm Not Gonna Let It Bother Me Tonight
+15@@@5@@@Andy Gibb@@@Shadow Dancing
+16@@@6@@@Gerry Rafferty@@@Baker Street
+17@@@19@@@Steve Martin and the Toot Uncommons@@@King Tut
+18@@@27@@@Exile@@@Kiss You All Over
+19@@@23@@@Evelyn Champagne King@@@Shame
+20@@@21@@@Jackson Browne@@@Stay/The Load-Out
+21@@@26@@@Chris Rea@@@Fool If You Think It's Over
+22@@@7@@@The O'Jays@@@Use Ta Be My Girl
+23@@@10@@@Bob Seger & The Silver Bullet Band@@@Still The Same
+24@@@34@@@Nick Gilder@@@Hot Child In The City
+25@@@25@@@Wings@@@I've Had Enough
+26@@@28@@@Quincy Jones@@@Stuff Like That
+27@@@30@@@Rita Coolidge@@@You
+28@@@33@@@Rick James@@@You And I
+29@@@39@@@Earth, Wind & Fire@@@Got To Get You Into My Life
+30@@@32@@@Eddie Money@@@Two Tickets To Paradise
+31@@@37@@@Village People@@@Macho Man
+32@@@40@@@John Paul Young@@@Love Is In The Air
+33@@@35@@@Boney M@@@Rivers Of Babylon
+34@@@56@@@Little River Band@@@Reminiscing
+35@@@36@@@Electric Light Orchestra@@@Mr. Blue Sky
+36@@@38@@@Gene Cotton With Kim Carnes@@@You're A Part Of Me
+37@@@20@@@Heatwave@@@The Groove Line
+38@@@22@@@Jefferson Starship@@@Runaway
+39@@@43@@@The Cars@@@Just What I Needed
+40@@@45@@@Teddy Pendergrass@@@Close The Door
+41@@@24@@@ABBA@@@Take A Chance On Me
+42@@@42@@@John Travolta & Olivia Newton-John@@@You're The One That I Want
+43@@@55@@@Anne Murray@@@You Needed Me
+44@@@44@@@Meat Loaf@@@Two Out Of Three Ain't Bad
+45@@@57@@@The Kinks@@@A Rock 'N' Roll Fantasy
+46@@@66@@@John Travolta & Olivia Newton-John & Cast@@@Summer Nights
+47@@@29@@@Todd Rundgren@@@Can We Still Be Friends
+48@@@59@@@Cheryl Ladd@@@Think It Over
+49@@@63@@@Foxy@@@Get Off
+50@@@62@@@Teri DeSario@@@Ain't Nothing Gonna Keep Me From You
+51@@@31@@@Peter Brown with Betty Wright@@@Dance With Me
+52@@@41@@@Tom Petty And The Heartbreakers@@@I Need To Know
+53@@@60@@@Dave Mason@@@Will You Still Love Me Tomorrow
+54@@@58@@@Alicia Bridges@@@I Love The Nightlife (Disco 'Round)
+55@@@65@@@Barbra Streisand@@@Love Theme From Eyes Of Laura Mars (Prisoner)
+56@@@49@@@Barbra Streisand@@@Songbird
+57@@@50@@@Love And Kisses@@@Thank God It's Friday
+58@@@70@@@Crystal Gayle@@@Talking In Your Sleep
+59@@@69@@@Johnny Mathis & Deniece Williams@@@You're All I Need To Get By
+60@@@76@@@The Moody Blues@@@Steppin' In A Slide Zone
+61@@@72@@@The Spinners@@@If You Wanna Do A Dance
+62@@@64@@@REO Speedwagon@@@Time For Me To Fly
+63@@@51@@@Kenny Rogers@@@Love Or Something Like It
+64@@@52@@@Eric Clapton@@@Wonderful Tonight
+65@@@80@@@Kenny Loggins@@@Whenever I Call You Friend
+66@@@81@@@Aerosmith@@@Come Together
+67@@@83@@@Captain & Tennille@@@You Never Done It Like That
+68@@@101@@@Robin Gibb@@@Oh! Darling
+69@@@71@@@Cheap Trick@@@Surrender
+70@@@74@@@Kristy And Jimmy McNichol@@@He's So Fine
+71@@@75@@@Paul Nicholas@@@On The Strip
+72@@@82@@@Prism@@@Flyin'
+73@@@73@@@Helen Reddy@@@Ready Or Not
+74@@@84@@@Chilliwack@@@Arms Of Mary
+75@@@86@@@Stonebolt@@@I Will Still Love You
+76@@@88@@@Charlie@@@She Loves To Be In Love
+77@@@77@@@Linda Clifford@@@Runaway Love
+78@@@101@@@Bob Seger & The Silver Bullet Band@@@Hollywood Nights
+79@@@101@@@Gerry Rafferty@@@Right Down The Line
+80@@@90@@@Trooper@@@Raise A Little Hell
+81@@@101@@@City Boy@@@5.7.0.5.
+82@@@101@@@Meat Loaf@@@Paradise By The Dashboard Light
+83@@@101@@@Sweet@@@California Nights
+84@@@101@@@Billy Joel@@@She's Always A Woman
+85@@@85@@@Burton Cummings@@@Break It To Them Gently
+86@@@101@@@Michael Johnson@@@Almost Like Being In Love
+87@@@101@@@Mick Jackson@@@Blame It On The Boogie
+88@@@92@@@The Tarney/Spencer Band@@@It's Really You
+89@@@91@@@Louisiana's Le Roux@@@New Orleans Ladies
+90@@@101@@@Jimmy Buffett@@@Livingston Saturday Night
+91@@@87@@@British Lions@@@Wild In The Streets
+92@@@101@@@Dan Hill@@@All I See Is Your Face
+93@@@97@@@Tuxedo Junction@@@Chattanooga Choo Choo
+94@@@101@@@Genya Ravan@@@Back In My Arms Again
+95@@@61@@@Demis Roussos@@@That Once In A Lifetime
+96@@@101@@@David Gates@@@Took The Last Train
+97@@@54@@@Roberta Flack@@@If Ever I See You Again
+98@@@46@@@Bonnie Tyler@@@It's A Heartache
+99@@@67@@@Carly Simon@@@You Belong To Me
+100@@@89@@@Spellbound@@@Rumor At The Honky Tonk

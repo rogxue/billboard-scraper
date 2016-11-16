@@ -1,0 +1,100 @@
+1@@@2@@@Bobby Vinton@@@Roses Are Red (My Love)
+2@@@1@@@David Rose and His Orchestra@@@The Stripper
+3@@@3@@@Ray Charles@@@I Can't Stop Loving You
+4@@@14@@@The Orlons@@@The Wah Watusi
+5@@@12@@@Brian Hyland@@@Sealed With A Kiss
+6@@@4@@@Freddy Cannon@@@Palisades Park
+7@@@7@@@Claude King@@@Wolverton Mountain
+8@@@5@@@Johnny Tillotson@@@It Keeps Right On A-Hurtin'
+9@@@16@@@Dee Dee Sharp@@@Gravy (For My Mashed Potatoes)
+10@@@6@@@Emilio Pericoli@@@Al Di La'
+11@@@9@@@Joanie Sommers@@@Johnny Get Angry
+12@@@8@@@Joe Henderson@@@Snap Your Fingers
+13@@@22@@@Pat Boone@@@Speedy Gonzales
+14@@@18@@@Bobby Rydell@@@I'll Never Dance Again
+15@@@17@@@Richard Chamberlain@@@Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+16@@@10@@@The Marvelettes@@@Playboy
+17@@@21@@@Sam Cooke@@@Having A Party
+18@@@47@@@Ray Stevens@@@Ahab, The Arab
+19@@@26@@@Neil Sedaka@@@Breaking Up Is Hard To Do
+20@@@30@@@Chubby Checker@@@Dancin' Party
+21@@@11@@@Johnny Crawford@@@Cindy's Birthday
+22@@@24@@@Shelley Fabares@@@Johnny Loves Me
+23@@@31@@@The Isley Brothers@@@Twist And Shout
+24@@@33@@@Don Gardner And Dee Dee Ford@@@I Need Your Loving
+25@@@28@@@Clyde McPhatter@@@Little Bitty Pretty One
+26@@@27@@@Roy Orbison@@@The Crowd
+27@@@29@@@The Dovells@@@Bristol Twistin' Annie
+28@@@13@@@Paul Anka@@@A Steel Guitar And A Glass Of Wine
+29@@@38@@@Eddie Hodges@@@(Girls, Girls, Girls) Made To Love
+30@@@15@@@Bobby Vee@@@Sharing You
+31@@@25@@@Jimmy Smith And The Big Band@@@Walk On The Wild Side (Part 1)
+32@@@36@@@Gary U.S. Bonds@@@Seven Day Weekend
+33@@@43@@@Barbara Lynn@@@You'll Lose A Good Thing
+34@@@39@@@The Shirelles@@@Welcome Home Baby
+35@@@46@@@Little Joey And The Flips@@@Bongo Stomp
+36@@@19@@@Mr. Acker Bilk@@@Stranger On The Shore
+37@@@42@@@Toni Fisher@@@West Of The Wall
+38@@@45@@@Andy Williams@@@Stranger On The Shore
+39@@@23@@@The Everly Brothers@@@That's Old Fashioned (That's The Way Love Should Be)
+40@@@50@@@The Champs@@@Limbo Rock
+41@@@53@@@Brenda Lee@@@It Started All Over Again
+42@@@20@@@Gene Pitney@@@(The Man Who Shot) Liberty Valance
+43@@@55@@@Ketty Lester@@@But Not For Me
+44@@@32@@@The Volume's@@@I Love You
+45@@@34@@@Mary Wells@@@The One Who Really Loves You
+46@@@37@@@Chuck Jackson@@@Any Day Now (My Wild Beautiful Bird)
+47@@@44@@@The Miracles@@@I'll Try Something New
+48@@@40@@@Dinah Washington@@@Where Are You
+49@@@41@@@Bobby Curtola@@@Fortuneteller
+50@@@56@@@Sue Thompson@@@Have A Good Time
+51@@@57@@@Jimmy Dean@@@Steel Men
+52@@@71@@@Little Eva@@@The Loco-Motion
+53@@@72@@@Dion@@@Little Diane
+54@@@66@@@Nelson Riddle@@@Route 66 Theme
+55@@@65@@@Brenda Lee@@@Heart In Hand
+56@@@61@@@Jimmy Norman@@@I Don't Love You No More (I Don't Care About You)
+57@@@52@@@Earl Grant@@@Swingin' Gently
+58@@@74@@@Joe Dowell@@@Little Red Rented Rowboat
+59@@@68@@@The Jamies@@@Summertime, Summertime
+60@@@78@@@Claudine Clark@@@Party Lights
+61@@@88@@@Bobby Darin@@@Things
+62@@@77@@@James Darren@@@Mary's Little Lamb
+63@@@35@@@Valjean on Piano@@@Theme From Ben Casey
+64@@@70@@@John Lee Hooker@@@Boom Boom
+65@@@60@@@Mickey Shorr and The Cutups@@@Dr. Ben Basey
+66@@@54@@@Elvis Presley@@@Follow That Dream
+67@@@69@@@Connie Stevens@@@Why'd You Wanna Make Me Cry
+68@@@51@@@Nathaniel Mayer And The Fabulous Twilights@@@Village Of Love
+69@@@58@@@Paul Petersen@@@Keep Your Love Locked (Deep In Your Heart)
+70@@@75@@@Linda Scott@@@Never In A Million Years
+71@@@73@@@Lawrence Welk And His Orchestra@@@Baby Elephant Walk
+72@@@82@@@Vince Edwards@@@Why Did You Leave Me?
+73@@@86@@@James Brown And The Famous Flames@@@Shout And Shimmy
+74@@@84@@@Solomon Burke@@@Down In The Valley
+75@@@80@@@Dreamlovers@@@If I Should Lose You
+76@@@81@@@Floyd Cramer@@@Hot Pepper
+77@@@79@@@Jimmy Reed@@@Good Lover
+78@@@83@@@Duane Eddy@@@The Ballad Of Paladin
+79@@@62@@@Arthur Alexander@@@Where Have You Been (All My Life)
+80@@@101@@@Dickie Goodman@@@Ben Crazy
+81@@@91@@@Ray Anthony@@@Worried Mind
+82@@@85@@@Fats Domino@@@Nothing New (Same Old Thing)
+83@@@94@@@Little Jo Ann@@@My Daddy Is President
+84@@@92@@@Jackie Wilson@@@I Just Can't Help It
+85@@@101@@@Sam Cooke@@@Bring It On Home To Me
+86@@@90@@@Janie Grant@@@That Greasy Kid Stuff
+87@@@101@@@Mr. Acker Bilk@@@Above The Stars
+88@@@101@@@Timi Yuro@@@What's A Matter Baby (Is It Hurting You)
+89@@@101@@@Sandy Nelson@@@All Night Long
+90@@@93@@@Jerry Reed And The Hully Girlies@@@Goodnight, Irene
+91@@@97@@@Bobby Gregg and His Friends@@@Potato Peeler
+92@@@101@@@The Highwaymen@@@The Bird Man
+93@@@98@@@April Stevens & Nino Tempo@@@Sweet And Lovely
+94@@@101@@@The Playmates@@@Keep Your Hands In Your Pockets
+95@@@101@@@Martin Denny and His Orchestra@@@A Taste Of Honey
+96@@@100@@@Jerry Butler@@@Make It Easy On Yourself
+97@@@101@@@Baby Cortez@@@Rinky Dink
+98@@@101@@@Henry Mancini And His Orchestra@@@Theme From Hatari!
+99@@@101@@@The Tokens@@@La Bomba
+100@@@101@@@Frankie Avalon@@@A Miracle

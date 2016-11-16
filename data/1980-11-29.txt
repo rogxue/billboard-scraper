@@ -1,0 +1,100 @@
+1@@@1@@@Kenny Rogers@@@Lady
+2@@@2@@@Barbra Streisand@@@Woman In Love
+3@@@3@@@Donna Summer@@@The Wanderer
+4@@@4@@@Queen@@@Another One Bites The Dust
+5@@@5@@@Diana Ross@@@I'm Coming Out
+6@@@8@@@Leo Sayer@@@More Than I Can Say
+7@@@7@@@Stevie Wonder@@@Master Blaster (Jammin')
+8@@@9@@@John Lennon@@@(Just Like) Starting Over
+9@@@11@@@Neil Diamond@@@Love On The Rocks
+10@@@10@@@Cliff Richard@@@Dreaming
+11@@@18@@@Bruce Springsteen@@@Hungry Heart
+12@@@13@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+13@@@15@@@Pat Benatar@@@Hit Me With Your Best Shot
+14@@@14@@@Devo@@@Whip It
+15@@@16@@@Christopher Cross@@@Never Be The Same
+16@@@20@@@Barbra Streisand & Barry Gibb@@@Guilty
+17@@@17@@@The Pointer Sisters@@@He's So Shy
+18@@@6@@@Stephanie Mills@@@Never Knew Love Like This Before
+19@@@24@@@Air Supply@@@Every Woman In The World
+20@@@22@@@Roger Daltrey@@@Without Your Love
+21@@@21@@@Stacy Lattisaw@@@Let Me Be Your Angel
+22@@@12@@@The Jacksons@@@Lovely One
+23@@@26@@@The Korgis@@@Everybody's Got To Learn Sometime
+24@@@30@@@The Police@@@De Do Do Do, De Da Da Da
+25@@@29@@@Randy Meisner@@@Deep Inside My Heart
+26@@@28@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+27@@@31@@@Diana Ross@@@It's My Turn
+28@@@25@@@Diana Ross@@@Upside Down
+29@@@36@@@Harry Chapin@@@Sequel
+30@@@32@@@John Cougar@@@This Time
+31@@@33@@@Don Williams@@@I Believe In You
+32@@@35@@@Kool & The Gang@@@Celebration
+33@@@41@@@Heart@@@Tell It Like It Is
+34@@@34@@@Willie Nelson@@@On The Road Again
+35@@@39@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+36@@@37@@@The Vapors@@@Turning Japanese
+37@@@50@@@Rod Stewart@@@Passion
+38@@@58@@@Blondie@@@The Tide Is High
+39@@@47@@@Dr. Hook@@@Girls Can Get It
+40@@@40@@@Paul Simon@@@One-Trick Pony
+41@@@19@@@Irene Cara@@@Out Here On My Own
+42@@@54@@@The Doobie Brothers@@@One Step Closer
+43@@@43@@@AC/DC@@@You Shook Me All Night Long
+44@@@27@@@Jimmy Hall@@@I'm Happy That Love Has Found You
+45@@@23@@@Supertramp@@@Dreamer
+46@@@38@@@Nielsen/Pearson@@@If You Should Sail
+47@@@61@@@Barry Manilow@@@I Made It Through The Rain
+48@@@42@@@The Rolling Stones@@@She's So Cold
+49@@@59@@@Tierra@@@Together
+50@@@56@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+51@@@51@@@Mac Davis@@@Texas In My Rear View Mirror
+52@@@65@@@Andy Gibb@@@Time Is Time
+53@@@63@@@Eddie Rabbitt@@@I Love A Rainy Night
+54@@@60@@@Cheap Trick@@@Stop This Game
+55@@@62@@@The Pointer Sisters@@@Could I Be Dreaming
+56@@@67@@@Bob Seger@@@The Horizontal Bop
+57@@@44@@@The Doobie Brothers@@@Real Love
+58@@@69@@@The Babys@@@Turn And Walk Away
+59@@@45@@@Carly Simon@@@Jesse
+60@@@64@@@Marcy Levy & Robin Gibb@@@Help Me!
+61@@@46@@@Boz Scaggs@@@Look What You've Done To Me
+62@@@49@@@Air Supply@@@All Out Of Love
+63@@@48@@@Jackson Browne@@@That Girl Could Sing
+64@@@75@@@Climax Blues Band@@@Gotta Have More Love
+65@@@101@@@Steely Dan@@@Hey Nineteen
+66@@@53@@@Kenny Loggins@@@I'm Alright
+67@@@52@@@Billy Joel@@@Sometimes A Fantasy
+68@@@81@@@Earth, Wind & Fire@@@You
+69@@@80@@@L.T.D.@@@Shine On
+70@@@71@@@Rupert Holmes@@@Morning Man
+71@@@82@@@ABBA@@@The Winner Takes It All
+72@@@86@@@Michael Stanley Band@@@He Can't Love You
+73@@@101@@@Dolly Parton@@@9 To 5
+74@@@84@@@Rockpile@@@Teacher Teacher
+75@@@85@@@Bette Midler@@@My Mother's Eyes
+76@@@101@@@Queen@@@Need Your Loving Tonight
+77@@@87@@@Fred Knoblock & Susan Anton@@@Killin' Time
+78@@@88@@@Dionne Warwick@@@Easy Love
+79@@@79@@@Chic@@@Real People/Chip Off The Old Block
+80@@@90@@@Teena Marie@@@I Need Your Lovin'
+81@@@101@@@Donna Summer@@@Cold Love
+82@@@101@@@The Manhattan Transfer@@@Trickle Trickle
+83@@@101@@@Ronnie Milsap@@@Smoky Mountain Rain
+84@@@55@@@Anne Murray@@@Could I Have This Dance
+85@@@101@@@Teddy Pendergrass@@@Love T.K.O.
+86@@@57@@@Eddie Rabbitt@@@Drivin' My Life Away
+87@@@101@@@Boz Scaggs@@@Miss Sun
+88@@@101@@@REO Speedwagon@@@Keep On Loving You
+89@@@89@@@Pete Townshend@@@Rough Boys
+90@@@66@@@Robbin Thompson Band@@@Brite Eyes
+91@@@68@@@Billy Burnette@@@Don't Say No
+92@@@92@@@The Reddings@@@Remote Control
+93@@@70@@@Kansas@@@Hold On
+94@@@73@@@Olivia Newton-John/Electric Light Orchestra@@@Xanadu
+95@@@74@@@George Benson@@@Give Me The Night
+96@@@76@@@Eric Clapton And His Band@@@Blues Power
+97@@@78@@@Johnny Lee@@@Lookin' For Love
+98@@@101@@@Pendulum@@@Gypsy Spirit
+99@@@99@@@707@@@I Could Be Good For You
+100@@@100@@@Irene Cara@@@Fame

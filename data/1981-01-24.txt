@@ -1,0 +1,100 @@
+1@@@1@@@John Lennon@@@(Just Like) Starting Over
+2@@@2@@@Neil Diamond@@@Love On The Rocks
+3@@@4@@@Blondie@@@The Tide Is High
+4@@@3@@@Barbra Streisand & Barry Gibb@@@Guilty
+5@@@5@@@Bruce Springsteen@@@Hungry Heart
+6@@@6@@@Air Supply@@@Every Woman In The World
+7@@@7@@@Rod Stewart@@@Passion
+8@@@12@@@Eddie Rabbitt@@@I Love A Rainy Night
+9@@@11@@@Diana Ross@@@It's My Turn
+10@@@10@@@The Police@@@De Do Do Do, De Da Da Da
+11@@@13@@@Barry Manilow@@@I Made It Through The Rain
+12@@@14@@@Kool & The Gang@@@Celebration
+13@@@8@@@Heart@@@Tell It Like It Is
+14@@@15@@@Steely Dan@@@Hey Nineteen
+15@@@18@@@Andy Gibb@@@Time Is Time
+16@@@19@@@Delbert McClinton@@@Giving It Up For Your Love
+17@@@21@@@Boz Scaggs@@@Miss Sun
+18@@@22@@@Dolly Parton@@@9 To 5
+19@@@26@@@Dan Fogelberg@@@Same Old Lang Syne
+20@@@9@@@Kenny Rogers@@@Lady
+21@@@25@@@ABBA@@@The Winner Takes It All
+22@@@23@@@Tierra@@@Together
+23@@@28@@@REO Speedwagon@@@Keep On Loving You
+24@@@20@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+25@@@29@@@Eagles@@@Seven Bridges Road
+26@@@32@@@Stevie Wonder@@@I Ain't Gonna Stand For It
+27@@@36@@@John Lennon@@@Woman
+28@@@16@@@Pat Benatar@@@Hit Me With Your Best Shot
+29@@@17@@@Leo Sayer@@@More Than I Can Say
+30@@@35@@@The Jacksons@@@Heartbreak Hotel
+31@@@101@@@Styx@@@The Best Of Times
+32@@@34@@@Fred Knoblock & Susan Anton@@@Killin' Time
+33@@@33@@@Donna Summer@@@Cold Love
+34@@@43@@@Cliff Richard@@@A Little In Love
+35@@@37@@@Michael Stanley Band@@@He Can't Love You
+36@@@42@@@Ronnie Milsap@@@Smoky Mountain Rain
+37@@@101@@@Don McLean@@@Crying
+38@@@40@@@Teena Marie@@@I Need Your Lovin'
+39@@@39@@@Bette Midler@@@My Mother's Eyes
+40@@@44@@@The Alan Parsons Project@@@Games People Play
+41@@@41@@@L.T.D.@@@Shine On
+42@@@46@@@Blues Brothers@@@Who's Making Love
+43@@@24@@@The Doobie Brothers@@@One Step Closer
+44@@@45@@@Teddy Pendergrass@@@Love T.K.O.
+45@@@27@@@Stevie Wonder@@@Master Blaster (Jammin')
+46@@@51@@@Rita Coolidge@@@Fool That I Am
+47@@@30@@@Queen@@@Another One Bites The Dust
+48@@@52@@@Donnie Iris@@@Ah! Leah!
+49@@@54@@@AC/DC@@@Back In Black
+50@@@68@@@Pat Benatar@@@Treat Me Right
+51@@@31@@@Barbra Streisand@@@Woman In Love
+52@@@38@@@The Korgis@@@Everybody's Got To Learn Sometime
+53@@@47@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+54@@@64@@@Outlaws@@@(Ghost) Riders In The Sky
+55@@@48@@@Devo@@@Whip It
+56@@@49@@@Don Williams@@@I Believe In You
+57@@@50@@@Christopher Cross@@@Never Be The Same
+58@@@60@@@Aretha Franklin@@@United Together
+59@@@61@@@Shalamar@@@Full Of Fire
+60@@@62@@@Dire Straits@@@Skateaway
+61@@@53@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+62@@@55@@@Queen@@@Need Your Loving Tonight
+63@@@56@@@Diana Ross@@@I'm Coming Out
+64@@@79@@@Queen@@@Flash's Theme Aka Flash
+65@@@101@@@Randy Meisner@@@Hearts On Fire
+66@@@57@@@Dr. Hook@@@Girls Can Get It
+67@@@77@@@Peter Allen@@@Fly Away
+68@@@58@@@Rockpile@@@Teacher Teacher
+69@@@101@@@Daryl Hall & John Oates@@@Kiss On My List
+70@@@59@@@Earth, Wind & Fire@@@You
+71@@@63@@@Harry Chapin@@@Sequel
+72@@@65@@@The Babys@@@Turn And Walk Away
+73@@@66@@@Donna Summer@@@The Wanderer
+74@@@67@@@Climax Blues Band@@@Gotta Have More Love
+75@@@101@@@Con Funk Shun@@@Too Tight
+76@@@69@@@Supertramp@@@Breakfast In America
+77@@@101@@@Elvis Presley@@@Guitar Man
+78@@@101@@@Phil Seymour@@@Precious To Me
+79@@@80@@@J.D. Drews@@@Don't Want No-Body
+80@@@90@@@Slave@@@Watching You
+81@@@101@@@Firefall@@@Staying With It
+82@@@70@@@Cliff Richard@@@Dreaming
+83@@@71@@@Randy Meisner@@@Deep Inside My Heart
+84@@@94@@@Terri Gibbs@@@Somebody's Knockin'
+85@@@101@@@Leo Sayer@@@Living In A Fantasy
+86@@@73@@@David Bowie@@@Fashion
+87@@@101@@@Glen Campbell@@@I Don't Want To Know Your Name
+88@@@101@@@The Doobie Brothers@@@Wynken, Blynken And Nod
+89@@@101@@@Charles Fox@@@Seasons
+90@@@101@@@Suzi Quatro@@@Lipstick
+91@@@92@@@The Reddings@@@Remote Control
+92@@@76@@@Kansas@@@Got To Rock On
+93@@@97@@@McGuffey Lane@@@Long Time Lovin' You
+94@@@78@@@Stephanie Mills@@@Never Knew Love Like This Before
+95@@@82@@@Bob Seger@@@The Horizontal Bop
+96@@@84@@@Dionne Warwick@@@Easy Love
+97@@@85@@@The Jacksons@@@Lovely One
+98@@@86@@@Diana Ross@@@Upside Down
+99@@@87@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+100@@@89@@@Cheap Trick@@@Stop This Game

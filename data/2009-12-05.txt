@@ -1,0 +1,100 @@
+1@@@1@@@Jay-Z + Alicia Keys@@@Empire State Of Mind
+2@@@11@@@Lady Gaga@@@Bad Romance
+3@@@2@@@Owl City@@@Fireflies
+4@@@3@@@Jason DeRulo@@@Whatcha Say
+5@@@10@@@Ke$ha@@@TiK ToK
+6@@@4@@@Iyaz@@@Replay
+7@@@12@@@David Guetta Featuring Akon@@@Sexy Chick
+8@@@9@@@Lady Gaga@@@Paparazzi
+9@@@6@@@Britney Spears@@@3
+10@@@7@@@Jay Sean Featuring Lil Wayne@@@Down
+11@@@8@@@Miley Cyrus@@@Party In The U.S.A.
+12@@@15@@@The Black Eyed Peas@@@Meet Me Halfway
+13@@@13@@@Beyonce@@@Sweet Dreams
+14@@@5@@@Lady Antebellum@@@Need You Now
+15@@@14@@@Taylor Swift@@@You Belong With Me
+16@@@20@@@Kelly Clarkson@@@Already Gone
+17@@@19@@@Drake Featuring Kanye West, Lil Wayne & Eminem@@@Forever
+18@@@18@@@The Black Eyed Peas@@@I Gotta Feeling
+19@@@16@@@Rihanna@@@Russian Roulette
+20@@@17@@@Jay-Z, Rihanna & Kanye West@@@Run This Town
+21@@@22@@@Kings Of Leon@@@Use Somebody
+22@@@24@@@Chris Brown Featuring Lil Wayne & Swizz Beatz@@@I Can Transform Ya
+23@@@21@@@Carrie Underwood@@@Cowboy Casanova
+24@@@23@@@Justin Bieber@@@One Time
+25@@@101@@@John Mayer@@@Half Of My Heart
+26@@@26@@@Taylor Swift@@@Fifteen
+27@@@27@@@Cascada@@@Evacuate The Dancefloor
+28@@@25@@@Colbie Caillat@@@Fallin' For You
+29@@@28@@@50 Cent Featuring Ne-Yo@@@Baby By Me
+30@@@30@@@Jay Sean Featuring Sean Paul & Lil Jon@@@Do You Remember
+31@@@59@@@Leona Lewis@@@Happy
+32@@@34@@@Birdman Featuring Lil Wayne & Drake@@@Money To Blow
+33@@@29@@@Zac Brown Band@@@Toes
+34@@@35@@@Luke Bryan@@@Do I
+35@@@36@@@Jesse McCartney Featuring T-Pain@@@Body Language
+36@@@37@@@Usher@@@Papers
+37@@@32@@@Kenny Chesney With Dave Matthews@@@I'm Alive
+38@@@33@@@Mariah Carey@@@Obsessed
+39@@@39@@@Reba@@@Consider Me Gone
+40@@@48@@@Boys Like Girls Featuring Taylor Swift@@@Two Is Better Than One
+41@@@70@@@Kris Allen@@@Live Like We're Dying
+42@@@38@@@Miranda Lambert@@@White Liar
+43@@@40@@@Michael Franti & Spearhead Featuring Cherine Anderson@@@Say Hey (I Love You)
+44@@@50@@@New Boyz Featuring Ray J@@@Tie Me Down
+45@@@46@@@Train@@@Hey, Soul Sister
+46@@@41@@@Mario Featuring Gucci Mane & Sean Garrett@@@Break Up
+47@@@43@@@Pitbull@@@Hotel Room Service
+48@@@51@@@Shinedown@@@If You Only Knew
+49@@@42@@@Gucci Mane Featuring Plies Or OJ Da Juiceman@@@Wasted
+50@@@101@@@Glee Cast Featuring Kevin McHale & Amber Riley@@@Lean On Me
+51@@@55@@@Snoop Dogg Featuring The-Dream@@@Gangsta Luv
+52@@@49@@@Tim McGraw@@@Southern Voice
+53@@@72@@@OneRepublic@@@All The Right Moves
+54@@@53@@@Muse@@@Uprising
+55@@@71@@@John Mayer@@@Who Says
+56@@@44@@@Pink@@@Funhouse
+57@@@60@@@Trey Songz Featuring Drake@@@I Invented Sex
+58@@@101@@@Alicia Keys@@@Try Sleeping With A Broken Heart
+59@@@54@@@Uncle Kracker@@@Smile
+60@@@61@@@Dierks Bentley@@@I Wanna Make You Close Your Eyes
+61@@@58@@@Shakira Featuring Lil Wayne@@@Give It Up To Me
+62@@@66@@@David Nail@@@Red Light
+63@@@65@@@Craig Morgan@@@Bonfire
+64@@@101@@@Glee Cast Featuring Matthew Morrison@@@Don't Stand So Close To Me / Young Girl
+65@@@52@@@Shakira@@@She Wolf
+66@@@78@@@Jason Aldean@@@The Truth
+67@@@86@@@Gucci Mane Featuring Usher@@@Spotlight
+68@@@81@@@Trey Songz Featuring Fabolous@@@Say Aah
+69@@@57@@@Michael Buble@@@Haven't Met You Yet
+70@@@63@@@Chris Young@@@Gettin' You Home (The Black Dress Song)
+71@@@77@@@Darius Rucker@@@History In The Making
+72@@@64@@@Jeremih@@@Imma Star (Everywhere We Are)
+73@@@101@@@Glee Cast Featuring Cory Monteith@@@I'll Stand By You
+74@@@31@@@Glee Cast Featuring Chris Colfer & Lea Michele@@@Defying Gravity
+75@@@76@@@Drake Featuring Lil Wayne & Young Jeezy@@@I'm Going In
+76@@@75@@@Maxwell@@@Bad Habits
+77@@@67@@@Ester Dean Featuring Chris Brown@@@Drop It Low
+78@@@101@@@Glee Cast Featuring Matthew Morrison & Lea Michele@@@Endless Love
+79@@@101@@@Justin Bieber@@@Down To Earth
+80@@@101@@@Rihanna Featuring Jeezy@@@Hard
+81@@@80@@@Breaking Benjamin@@@I Will Not Bow
+82@@@89@@@Rob Thomas@@@Someday
+83@@@82@@@Jake Owen@@@Eight Second Ride
+84@@@79@@@Yo Gotti@@@5 Star Chick
+85@@@62@@@Keith Urban@@@Only You Can Love Me This Way
+86@@@92@@@Nickelback@@@Never Gonna Be Alone
+87@@@56@@@Brad Paisley@@@Welcome To The Future
+88@@@101@@@Melanie Fiona@@@It Kills Me
+89@@@68@@@Bon Jovi@@@We Weren't Born To Follow
+90@@@94@@@Three Days Grace@@@Break
+91@@@87@@@LeToya Featuring Ludacris@@@Regret
+92@@@83@@@Alicia Keys@@@Doesn't Mean Anything
+93@@@99@@@Josh Turner@@@Why Don't We Just Dance
+94@@@101@@@Justin Bieber@@@Bigger
+95@@@93@@@Foo Fighters@@@Wheels
+96@@@98@@@Omarion Featuring Gucci Mane@@@I Get It In
+97@@@101@@@50 Cent@@@The Invitation
+98@@@97@@@Weezer@@@(If You're Wondering If I Want You To) I Want You To
+99@@@101@@@Justin Bieber Featuring Usher@@@First Dance
+100@@@101@@@John Mayer@@@Heartbreak Warfare

@@ -1,0 +1,100 @@
+1@@@1@@@Carly Simon@@@You're So Vain
+2@@@4@@@Stevie Wonder@@@Superstition
+3@@@3@@@Billy Paul@@@Me And Mrs. Jones
+4@@@2@@@Gilbert O'Sullivan@@@Clair
+5@@@5@@@Donna Fargo@@@Funny Face
+6@@@8@@@Kenny Loggins & Jim Messina@@@Your Mama Don't Dance
+7@@@7@@@Johnny Rivers@@@Rockin' Pneumonia - Boogie Woogie Flu
+8@@@9@@@Curtis Mayfield@@@Superfly
+9@@@13@@@Elton John@@@Crocodile Rock
+10@@@11@@@Four Tops@@@Keeper Of The Castle
+11@@@12@@@Jethro Tull@@@Living In The Past
+12@@@6@@@Albert Hammond@@@It Never Rains In Southern California
+13@@@19@@@Timmy Thomas@@@Why Can't We Live Together
+14@@@15@@@James Taylor@@@Don't Let Me Be Lonely Tonight
+15@@@25@@@Hurricane Smith@@@Oh, Babe, What Would You Say?
+16@@@18@@@Cat Stevens@@@Sitting
+17@@@26@@@Marvin Gaye@@@Trouble Man
+18@@@22@@@Wings@@@Hi, Hi, Hi
+19@@@21@@@Three Dog Night@@@Pieces Of April
+20@@@23@@@Raspberries@@@I Wanna Be With You
+21@@@30@@@War@@@The World Is A Ghetto
+22@@@10@@@Al Green@@@You Ought To Be With Me
+23@@@31@@@Steely Dan@@@Do It Again
+24@@@24@@@Carole King@@@Been To Canaan
+25@@@32@@@Brighter Side Of Darkness@@@Love Jones
+26@@@28@@@Elvis Presley@@@Separate Ways
+27@@@29@@@Blue Haze@@@Smoke Gets In Your Eyes
+28@@@17@@@Neil Diamond@@@Walk On Water
+29@@@35@@@John Denver@@@Rocky Mountain High
+30@@@34@@@King Harvest@@@Dancing In The Moonlight
+31@@@14@@@Helen Reddy@@@I Am Woman
+32@@@38@@@Joni Mitchell@@@You Turn Me On, I'm A Radio
+33@@@54@@@Lobo@@@Don't Expect Me To Be Your Friend
+34@@@37@@@The Blue Ridge Rangers@@@Jambalaya (On The Bayou)
+35@@@41@@@Jermaine Jackson@@@Daddy's Home
+36@@@16@@@Austin Roberts@@@Something's Wrong With Me
+37@@@40@@@Chuck Berry@@@Reelin' & Rockin'
+38@@@27@@@The Temptations@@@Papa Was A Rollin' Stone
+39@@@43@@@The Who@@@The Relay
+40@@@42@@@Bobby Womack & Peace@@@Harry Hippie
+41@@@61@@@The Spinners@@@Could It Be I'm Falling In Love
+42@@@46@@@Luther Ingram@@@I'll Be Your Shelter (In Time Of Storm)
+43@@@52@@@Don McLean@@@Dreidel
+44@@@49@@@Bette Midler@@@Do You Want To Dance?
+45@@@20@@@Bread@@@Sweet Surrender
+46@@@33@@@Johnny Nash@@@I Can See Clearly Now
+47@@@48@@@Bill Withers@@@Let Us Love
+48@@@36@@@Harold Melvin And The Blue Notes@@@If You Don't Know Me By Now
+49@@@57@@@The Partridge Family Starring Shirley Jones Featuring David Cassidy@@@Looking Through The Eyes Of Love
+50@@@50@@@Peter Skellern@@@You're A Lady
+51@@@53@@@Smokey Robinson & The Miracles@@@I Can't Stand To See You Cry
+52@@@60@@@Cornelius Brothers & Sister Rose@@@I'm Never Gonna Be Alone Anymore
+53@@@62@@@Nilsson@@@Remember (Christmas)
+54@@@47@@@Bulldog@@@No
+55@@@65@@@Dr. Hook And The Medicine Show@@@The Cover Of Rolling Stone
+56@@@59@@@The Main Ingredient@@@You've Got To Take It (If You Want It)
+57@@@39@@@Jackson 5@@@Corner Of The Sky
+58@@@67@@@Eagles@@@Peaceful Easy Feeling
+59@@@56@@@Joe Cocker and The Chris Stainton Band@@@Woman To Woman
+60@@@74@@@Edward Bear@@@Last Song
+61@@@51@@@Clean Living@@@In Heaven There Is No Beer
+62@@@73@@@James Brown-Lyn Collins@@@What My Baby Needs Now Is A Little More Lovin'
+63@@@45@@@The Hollies@@@Long Dark Road
+64@@@76@@@The 5th Dimension@@@Living Together, Growing Together
+65@@@68@@@Wayne Newton@@@Anthem
+66@@@75@@@Emerson, Lake & Palmer@@@Lucky Man
+67@@@72@@@Keith Hampshire@@@Daytime Night-Time
+68@@@80@@@The Doobie Brothers@@@Jesus Is Just Alright
+69@@@79@@@Gallery@@@Big City Miss Ruth Ann
+70@@@70@@@Dawn Featuring Tony Orlando@@@You're A Lady
+71@@@86@@@Engelbert Humperdinck@@@I Never Said Goodbye
+72@@@64@@@Joe Simon@@@Trouble In My Home/I Found My Dad
+73@@@77@@@Cashman & West@@@Songman
+74@@@66@@@Dennis Yost And The Classics IV@@@What Am I Crying For?
+75@@@81@@@Valerie Simpson@@@Silly Wasn't I
+76@@@78@@@Slade@@@Mama Weer All Crazee Now
+77@@@83@@@Anne Murray@@@Danny's Song
+78@@@93@@@Holland-Dozier@@@Don't Leave Me Starvin' For Your Love (Part 1)
+79@@@82@@@Glen Campbell@@@One Last Time
+80@@@101@@@Deliverance/Eric Weissberg & Steve Mandell@@@Dueling Banjos
+81@@@85@@@Merry Clayton@@@Oh No, Not My Baby
+82@@@89@@@Paul Davis@@@Boogie Woogie Man
+83@@@98@@@Joe Stampley@@@Soul Song
+84@@@84@@@Limmie & Family Cookin'@@@You Can Do Magic
+85@@@88@@@Barbra Streisand@@@Didn't We
+86@@@101@@@Les Emmerson@@@Control Of Me
+87@@@87@@@Joey Heatherton@@@I'm Sorry
+88@@@92@@@Bobby Darin@@@Happy
+89@@@95@@@Ten Years After@@@Choo Choo Mama
+90@@@90@@@Rita Coolidge@@@Fever/My Crew
+91@@@91@@@Kris Kristofferson@@@Jesus Was A Capricorn
+92@@@94@@@Bobby Vinton@@@But I Do
+93@@@97@@@Ray Price@@@She's Got To Be A Saint
+94@@@100@@@Johnny Williams@@@Slow Motion (Part 1)
+95@@@101@@@Barbara Mason@@@Give Me Your Love
+96@@@99@@@Anacostia@@@On And Off (Part 1)
+97@@@101@@@Shawn Phillips@@@We
+98@@@101@@@Diana Ross@@@Good Morning Heartache
+99@@@101@@@Little Jimmy Osmond@@@Tweedlee Dee
+100@@@101@@@Millie Jackson@@@I Miss You Baby

@@ -1,0 +1,100 @@
+1@@@3@@@Gloria Gaynor@@@I Will Survive
+2@@@1@@@Rod Stewart@@@Da Ya Think I'm Sexy?
+3@@@4@@@Bee Gees@@@Tragedy
+4@@@2@@@The Pointer Sisters@@@Fire
+5@@@6@@@Donna Summer with Brooklyn Dreams@@@Heaven Knows
+6@@@5@@@Olivia Newton-John@@@A Little More Love
+7@@@11@@@Peaches & Herb@@@Shake Your Groove Thing
+8@@@10@@@The Doobie Brothers@@@What A Fool Believes
+9@@@8@@@Village People@@@Y.M.C.A.
+10@@@13@@@Dire Straits@@@Sultans Of Swing
+11@@@7@@@Chic@@@Le Freak
+12@@@9@@@Nicolette Larson@@@Lotta Love
+13@@@12@@@Cheryl Lynn@@@Got To Be Real
+14@@@17@@@Melissa Manchester@@@Don't Cry Out Loud
+15@@@20@@@Bobby Caldwell@@@What You Won't Do For Love
+16@@@19@@@The Babys@@@Every Time I Think Of You
+17@@@16@@@Kenny Rogers@@@The Gambler
+18@@@18@@@Nigel Olsson@@@Dancin' Shoes
+19@@@21@@@Little River Band@@@Lady
+20@@@22@@@Anne Murray@@@I Just Fall In Love Again
+21@@@23@@@Billy Joel@@@Big Shot
+22@@@24@@@Amii Stewart@@@Knock On Wood
+23@@@25@@@Poco@@@Crazy Love
+24@@@28@@@Neil Diamond@@@Forever In Blue Jeans
+25@@@30@@@Suzi Quatro & Chris Norman@@@Stumblin' In
+26@@@27@@@Gonzalez@@@Haven't Stopped Dancing Yet
+27@@@14@@@Chicago@@@No Tell Lover
+28@@@15@@@Foreigner@@@Blue Morning, Blue Day
+29@@@29@@@Al Stewart@@@Song On The Radio
+30@@@40@@@Frank Mills@@@Music Box Dancer
+31@@@26@@@Leif Garrett@@@I Was Made For Dancin'
+32@@@31@@@Barry Manilow@@@Somewhere In The Night
+33@@@37@@@Eddie Money@@@Maybe I'm A Fool
+34@@@38@@@Evelyn Champagne King@@@I Don't Know If It's Right
+35@@@39@@@Eddie Rabbitt@@@Every Which Way But Loose
+36@@@35@@@Bee Gees@@@Too Much Heaven
+37@@@41@@@Bell & James@@@Livin' It Up (Friday Night)
+38@@@42@@@Sister Sledge@@@He's The Greatest Dancer
+39@@@49@@@Chic@@@I Want Your Love
+40@@@44@@@Giorgio Moroder@@@Chase
+41@@@45@@@Herbie Mann@@@Superman
+42@@@46@@@Heart@@@Dog + Butterfly
+43@@@47@@@Chuck Brown & The Soul Searchers@@@Bustin' Loose Part 1
+44@@@48@@@Cher@@@Take Me Home
+45@@@50@@@Linda Ronstadt@@@Just One Look
+46@@@53@@@Bob Welch@@@Precious Love
+47@@@57@@@Blondie@@@Heart Of Glass
+48@@@34@@@Blues Brothers@@@Soul Man
+49@@@33@@@Ian Matthews@@@Shake It
+50@@@55@@@Toto@@@I'll Supply The Love
+51@@@65@@@Instant Funk@@@I Got My Mind Made Up (You Can Get It Girl)
+52@@@58@@@Eric Clapton And His Band@@@Watch Out For Lucy
+53@@@59@@@Third World@@@Now That We Found Love
+54@@@56@@@Delegation@@@Oh Honey
+55@@@63@@@The Jacksons@@@Shake Your Body (Down To The Ground)
+56@@@60@@@Cindy Bullens@@@Survivor
+57@@@62@@@Desmond Child And Rouge@@@Our Love Is Insane
+58@@@66@@@Blues Brothers@@@Rubber Biscuit
+59@@@67@@@Gary's Gang@@@Keep On Dancin'
+60@@@54@@@Dr. Hook@@@All The Time In The World
+61@@@61@@@Neil Young@@@Four Strong Winds
+62@@@69@@@Kim Carnes@@@It Hurts So Bad
+63@@@74@@@George Benson@@@Love Ballad
+64@@@72@@@Voyage@@@Souvenirs
+65@@@75@@@The Police@@@Roxanne
+66@@@68@@@Edwin Starr@@@Contact
+67@@@77@@@Nancy Brooks@@@I'm Not Gonna Cry Anymore
+68@@@78@@@The Faragher Bros.@@@Stay The Night
+69@@@79@@@George Harrison@@@Blow Away
+70@@@32@@@Santana@@@Stormy
+71@@@36@@@Sylvester@@@You Make Me Feel (Mighty Real)
+72@@@82@@@Brooklyn Dreams@@@Make It Last
+73@@@83@@@The Beach Boys@@@Here Comes The Night
+74@@@84@@@April Wine@@@Roller
+75@@@76@@@Zwol@@@Call Out My Name
+76@@@43@@@Firefall@@@Goodbye, I Love You
+77@@@52@@@Dolly Parton@@@Baby I'm Burnin'
+78@@@80@@@Gino Vannelli@@@Wheels Of Life
+79@@@51@@@Hot Chocolate@@@Every 1's A Winner
+80@@@90@@@The Marc Tanner Band@@@Elena
+81@@@101@@@England Dan & John Ford Coley@@@Love Is The Answer
+82@@@92@@@BTO@@@Heartaches
+83@@@64@@@Earth, Wind & Fire@@@September
+84@@@101@@@Grey & Hanks@@@Dancin'
+85@@@101@@@The J. Geils Band@@@Take It Back
+86@@@88@@@Maureen McGovern@@@Can You Read My Mind
+87@@@87@@@The Wonder Band@@@Whole Lotta Love
+88@@@101@@@T-Connection@@@At Midnight
+89@@@101@@@Bandit@@@One Way Love
+90@@@101@@@Arpeggio@@@Love And Desire (Part I)
+91@@@93@@@T.M.G.@@@Lazy Eyes
+92@@@95@@@Sad Cafe@@@Run Home Girl
+93@@@73@@@Billy Joel@@@My Life
+94@@@71@@@Sarah Dash@@@Sinner Man
+95@@@81@@@Michael Jackson@@@You Can't Win (Part 1)
+96@@@85@@@Kate Bush@@@The Man With The Child In His Eyes
+97@@@86@@@Queen@@@Don't Stop Me Now
+98@@@70@@@Stonebolt@@@Love Struck
+99@@@91@@@Dan Hartman@@@This Is It
+100@@@94@@@Diana Ross, Marvin Gaye, Smokey Robinson & Stevie Wonder@@@Pops, We Love You (A Tribute To Father)

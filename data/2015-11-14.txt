@@ -1,0 +1,100 @@
+1@@@101@@@Adele@@@Hello
+2@@@101@@@Justin Bieber@@@Sorry
+3@@@2@@@Drake@@@Hotline Bling
+4@@@1@@@The Weeknd@@@The Hills
+5@@@3@@@Justin Bieber@@@What Do You Mean?
+6@@@4@@@Shawn Mendes@@@Stitches
+7@@@5@@@Taylor Swift@@@Wildest Dreams
+8@@@6@@@Fetty Wap Featuring Remy Boyz@@@679
+9@@@8@@@R. City Featuring Adam Levine@@@Locked Away
+10@@@7@@@The Weeknd@@@Can't Feel My Face
+11@@@9@@@Silento@@@Watch Me
+12@@@15@@@Elle King@@@Ex's & Oh's
+13@@@18@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+14@@@12@@@Drake & Future@@@Jumpman
+15@@@20@@@Alessia Cara@@@Here
+16@@@13@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+17@@@11@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+18@@@16@@@Selena Gomez@@@Same Old Love
+19@@@19@@@Ellie Goulding@@@On My Mind
+20@@@17@@@X Ambassadors@@@Renegades
+21@@@14@@@Selena Gomez Featuring A$AP Rocky@@@Good For You
+22@@@21@@@iLoveMemphis@@@Hit The Quan
+23@@@23@@@Fetty Wap@@@Trap Queen
+24@@@24@@@One Direction@@@Drag Me Down
+25@@@22@@@OMI@@@Cheerleader
+26@@@25@@@Ed Sheeran@@@Photograph
+27@@@29@@@Calvin Harris & Disciples@@@How Deep Is Your Love
+28@@@26@@@Fetty Wap Featuring Monty@@@My Way
+29@@@10@@@One Direction@@@Perfect
+30@@@27@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+31@@@28@@@Future Featuring Drake@@@Where Ya At
+32@@@35@@@Travi$ Scott@@@Antidote
+33@@@36@@@Thomas Rhett@@@Die A Happy Man
+34@@@30@@@Mark Ronson Featuring Bruno Mars@@@Uptown Funk!
+35@@@31@@@Demi Lovato@@@Confident
+36@@@33@@@WALK THE MOON@@@Shut Up And Dance
+37@@@44@@@Post Malone@@@White Iverson
+38@@@34@@@Rachel Platten@@@Fight Song
+39@@@32@@@Luke Bryan@@@Strip It Down
+40@@@39@@@Ed Sheeran@@@Thinking Out Loud
+41@@@37@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+42@@@41@@@Fetty Wap@@@Again
+43@@@40@@@Drake@@@Back To Back
+44@@@47@@@Old Dominion@@@Break Up With Him
+45@@@43@@@Meek Mill Featuring Chris Brown & Nicki Minaj@@@All Eyes On You
+46@@@52@@@Chris Young@@@I'm Comin' Over
+47@@@45@@@Jason Derulo@@@Want To Want Me
+48@@@38@@@Hailee Steinfeld@@@Love Myself
+49@@@46@@@Maroon 5@@@Sugar
+50@@@51@@@Cam@@@Burning House
+51@@@56@@@Carrie Underwood@@@Smoke Break
+52@@@59@@@Sam Hunt@@@Break Up In A Small Town
+53@@@53@@@J. Cole@@@No Role Modelz
+54@@@65@@@Bryson Tiller@@@Don't
+55@@@55@@@Florida Georgia Line@@@Anything Goes
+56@@@58@@@Rae Sremmurd@@@Come Get Her
+57@@@42@@@Demi Lovato@@@Cool For The Summer
+58@@@62@@@DeJ Loaf Featuring Big Sean@@@Back Up
+59@@@61@@@Cole Swindell@@@Let Me See Ya Girl
+60@@@48@@@Nick Jonas@@@Levels
+61@@@54@@@Charlie Puth Featuring Meghan Trainor@@@Marvin Gaye
+62@@@74@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+63@@@64@@@Dan + Shay@@@Nothin' Like You
+64@@@57@@@Drake & Future@@@Big Rings
+65@@@60@@@Chris Brown@@@Liquor
+66@@@70@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+67@@@68@@@Drake@@@Right Hand
+68@@@101@@@Panic! At The Disco@@@Emperor's New Clothes
+69@@@63@@@K Camp@@@Comfortable
+70@@@75@@@Blake Shelton@@@Gonna
+71@@@95@@@The Chainsmokers Featuring ROZES@@@Roses
+72@@@90@@@Tory Lanez@@@Say It
+73@@@76@@@Nelly Featuring Jeremih@@@The Fix
+74@@@97@@@One Direction@@@Home
+75@@@66@@@Drake & Future@@@Diamonds Dancing
+76@@@81@@@twenty one pilots@@@Stressed Out
+77@@@80@@@Brothers Osborne@@@Stay A Little Longer
+78@@@69@@@Fetty Wap@@@RGF Island
+79@@@71@@@Kenny Chesney@@@Save It For A Rainy Day
+80@@@85@@@Daya@@@Hide Away
+81@@@91@@@Jana Kramer@@@I Got The Boy
+82@@@101@@@Kane Brown@@@Used To Love You Sober
+83@@@79@@@DNCE@@@Cake By The Ocean
+84@@@101@@@Gwen Stefani@@@Used To Love You
+85@@@92@@@Jason Aldean@@@Gonna Know We Were Here
+86@@@89@@@Jess Glynne@@@Hold My Hand
+87@@@87@@@Halsey@@@New Americana
+88@@@73@@@Chase Rice@@@Gonna Wanna Tonight
+89@@@94@@@Tim McGraw@@@Top Of The World
+90@@@77@@@Drake & Future@@@Digital Dash
+91@@@86@@@Lil Wayne & Charlie Puth@@@Nothing But Trouble (Instagram Models)
+92@@@84@@@J Balvin@@@Ginza
+93@@@101@@@Kelsea Ballerini@@@Dibs
+94@@@100@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+95@@@82@@@Drake & Future@@@Scholarships
+96@@@83@@@Major Lazer Featuring Ellie Goulding & Tarrus Riley@@@Powerful
+97@@@101@@@LoCash@@@I Love This Life
+98@@@101@@@Bryson Tiller@@@Exchange
+99@@@101@@@Fetty Wap Featuring Monty@@@Jugg
+100@@@88@@@The Game Featuring Drake@@@100

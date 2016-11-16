@@ -1,0 +1,100 @@
+1@@@2@@@The Archies@@@Sugar, Sugar
+2@@@1@@@The Rolling Stones@@@Honky Tonk Women
+3@@@4@@@Creedence Clearwater Revival@@@Green River
+4@@@3@@@Johnny Cash@@@A Boy Named Sue
+5@@@8@@@Three Dog Night@@@Easy To Be Hard
+6@@@6@@@Tom Jones@@@I'll Never Fall In Love Again
+7@@@5@@@The Youngbloods@@@Get Together
+8@@@18@@@Oliver@@@Jean
+9@@@16@@@Bobby Sherman@@@Little Woman
+10@@@10@@@The Temptations@@@I Can't Get Next To You
+11@@@11@@@The Dells@@@Oh, What A Night
+12@@@14@@@The Lettermen@@@Hurt So Bad
+13@@@13@@@Aretha Franklin@@@Share Your Love With Me
+14@@@17@@@Gary Puckett And The Union Gap@@@This Girl Is A Woman Now
+15@@@15@@@The Grass Roots@@@I'd Wait A Million Years
+16@@@7@@@Bob Dylan@@@Lay Lady Lay
+17@@@12@@@Neil Diamond@@@Sweet Caroline (Good Times Never Seemed So Good)
+18@@@23@@@Nilsson@@@Everybody's Talkin'
+19@@@9@@@Jackie DeShannon@@@Put A Little Love In Your Heart
+20@@@20@@@Lou Rawls@@@Your Good Thing (Is About To End)
+21@@@26@@@Sly & The Family Stone@@@Hot Fun In The Summertime
+22@@@22@@@The Electric Indian@@@Keem-O-Sabe
+23@@@36@@@Bill Deal & The Rhondels@@@What Kind Of Fool Do You Think I Am
+24@@@32@@@Motherlode@@@When I Die
+25@@@25@@@The Box Tops@@@Soul Deep
+26@@@24@@@The Guess Who@@@Laughing
+27@@@35@@@Lou Christie@@@I'm Gonna Make You Mine
+28@@@31@@@Marvin Gaye@@@That's The Way Love Is
+29@@@27@@@The 5th Dimension@@@Workin' On A Groovy Thing
+30@@@19@@@Gladys Knight And The Pips@@@The Nitty Gritty
+31@@@37@@@Steppenwolf@@@Move Over
+32@@@47@@@The Rascals@@@Carry Me Back
+33@@@33@@@The Illusion@@@Did You See Her Eyes
+34@@@41@@@O.C. Smith@@@Daddy's Little Man
+35@@@38@@@Jerry Butler@@@What's The Use Of Breaking Up
+36@@@77@@@Elvis Presley@@@Suspicious Minds
+37@@@44@@@The Clique@@@Sugar On Sunday
+38@@@34@@@Underground Sunshine@@@Birthday
+39@@@30@@@Creedence Clearwater Revival@@@Commotion
+40@@@40@@@Clarence Reid@@@Nobody But You Babe
+41@@@45@@@James Brown@@@Lowdown Popcorn
+42@@@42@@@Mama Cass@@@It's Getting Better
+43@@@43@@@Isaac Hayes@@@By The Time I Get To Phoenix
+44@@@28@@@Tony Joe White@@@Polk Salad Annie
+45@@@49@@@Engelbert Humperdinck@@@I'm A Better Man
+46@@@46@@@The Rugbys@@@You, I
+47@@@50@@@The Intrigues@@@In A Moment
+48@@@55@@@The Friends Of Distinction@@@Going In Circles
+49@@@29@@@Plastic Ono Band@@@Give Peace A Chance
+50@@@53@@@Smokey Robinson & The Miracles@@@Here I Go Again
+51@@@51@@@The Delfonics@@@You Got Yours And I'll Get Mine
+52@@@68@@@Spiral Starecase@@@No One For Me To Turn To
+53@@@58@@@Bobby Goldsboro@@@Muddy Mississippi Line
+54@@@52@@@Little Anthony And The Imperials@@@Out Of Sight, Out Of Mind
+55@@@48@@@Johnnie Taylor@@@I Could Never Be President
+56@@@65@@@Joe South and The Believers@@@Don't It Make You Want To Go Home
+57@@@60@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@We Gotta All Get Together
+58@@@70@@@James Brown@@@World (Part 1)
+59@@@59@@@The Intruders@@@Sad Girl
+60@@@72@@@The Four Seasons@@@And That Reminds Me (My Heart Reminds Me)
+61@@@101@@@The Winstons@@@Love Of The Common People
+62@@@90@@@Smith@@@Baby It's You
+63@@@66@@@Piero Umiliani@@@Mah Na Mah Na
+64@@@64@@@1910 Fruitgum Co.@@@The Train
+65@@@69@@@Supremes & Temptations@@@The Weight
+66@@@62@@@The Moments@@@I Do
+67@@@67@@@Al Wilson@@@Lodi
+68@@@89@@@The Cuff Links@@@Tracy
+69@@@61@@@The Cascades@@@Maybe The Rain Will Fall
+70@@@81@@@Wind@@@Make Believe
+71@@@101@@@Tommy Roe@@@Jack And Jill
+72@@@78@@@Garland Green@@@Jealous Kind Of Fella
+73@@@74@@@The New Colony Six@@@I Want You To Know
+74@@@75@@@John Stewart@@@Armstrong
+75@@@80@@@Thunderclap Newman@@@Something In The Air
+76@@@85@@@The Doors@@@Runnin' Blue
+77@@@76@@@Jose Feliciano@@@Rain
+78@@@73@@@Eddie Bo@@@Hook And Sling-Part I
+79@@@79@@@The Isley Brothers@@@Black Berries - Pt 1
+80@@@83@@@Evie Sands@@@Any Way That You Want Me
+81@@@101@@@Buchanan Brothers@@@Son Of A Lovin' Man
+82@@@82@@@B.B. King@@@Get Off My Back Woman
+83@@@92@@@Isaac Hayes@@@Walk On By
+84@@@84@@@Orpheus@@@Can't Find The Time
+85@@@98@@@Frank Sinatra@@@Love's Been Good To Me
+86@@@88@@@Bobby Bland@@@Chains Of Love
+87@@@87@@@Abaco Dream@@@Life And Death In G & A
+88@@@91@@@Henry Mancini And His Orchestra@@@Moonlight Sonata
+89@@@101@@@Dyke And The Blazers@@@Let A Woman Be A Woman - Let A Man Be A Man
+90@@@101@@@Dionne Warwick@@@You've Lost That Lovin' Feeling
+91@@@94@@@Charley Pride@@@All I Have To Offer You (Is Me)
+92@@@101@@@Bee Gees@@@Don't Forget To Remember
+93@@@96@@@Archie Bell & The Drells@@@My Balloon's Going Up
+94@@@101@@@Lawrence Reynolds@@@Jesus Is A Soul Man
+95@@@101@@@The Association@@@Goodbye Columbus
+96@@@100@@@Kool & The Gang@@@Kool And The Gang
+97@@@101@@@Sonny James@@@Since I Met You, Baby
+98@@@101@@@Nancy Sinatra@@@Drummer Man
+99@@@99@@@Johnny Mathis@@@Love Theme From Romeo And Juliet (A Time For Us)
+100@@@101@@@The Monkees@@@Good Clean Fun

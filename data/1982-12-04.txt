@@ -1,0 +1,100 @@
+1@@@1@@@Lionel Richie@@@Truly
+2@@@2@@@Laura Branigan@@@Gloria
+3@@@6@@@Toni Basil@@@Mickey
+4@@@7@@@Daryl Hall & John Oates@@@Maneater
+5@@@5@@@Neil Diamond@@@Heartlight
+6@@@4@@@Joe Cocker And Jennifer Warnes@@@Up Where We Belong
+7@@@8@@@Joe Jackson@@@Steppin' Out
+8@@@9@@@Michael Jackson And Paul McCartney@@@The Girl Is Mine
+9@@@11@@@Don Henley@@@Dirty Laundry
+10@@@10@@@Diana Ross@@@Muscles
+11@@@12@@@Stray Cats@@@Rock This Town
+12@@@13@@@Marvin Gaye@@@Sexual Healing
+13@@@14@@@Supertramp Featuring Roger Hodgson@@@It's Raining Again
+14@@@16@@@Pat Benatar@@@Shadows Of The Night
+15@@@15@@@Sylvia@@@Nobody
+16@@@3@@@Olivia Newton-John@@@Heart Attack
+17@@@19@@@Dionne Warwick@@@Heartbreaker
+18@@@18@@@Crosby, Stills & Nash@@@Southern Cross
+19@@@31@@@Men At Work@@@Down Under
+20@@@20@@@Billy Joel@@@Pressure
+21@@@25@@@ABC@@@The Look Of Love (Part One)
+22@@@24@@@Chicago@@@Love Me Tomorrow
+23@@@27@@@Dan Fogelberg@@@Missing You
+24@@@28@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+25@@@29@@@The Clash@@@Rock The Casbah
+26@@@26@@@Donald Fagen@@@I.g.y. (what A Beautiful World)
+27@@@33@@@Toto@@@Africa
+28@@@40@@@Phil Collins@@@You Can't Hurry Love
+29@@@32@@@Jefferson Starship@@@Be My Lady
+30@@@30@@@The Pointer Sisters@@@I'm So Excited
+31@@@45@@@Patti Austin With James Ingram@@@Baby, Come To Me
+32@@@35@@@Jeffrey Osborne@@@On The Wings Of Love
+33@@@36@@@John Cougar@@@Hand To Hold On To
+34@@@51@@@Little River Band@@@The Other Guy
+35@@@38@@@Billy Squier@@@Everybody Wants You
+36@@@39@@@Tavares@@@A Penny For Your Thoughts
+37@@@37@@@Moving Pictures@@@What About Me
+38@@@44@@@Tom Petty And The Heartbreakers@@@You Got Lucky
+39@@@41@@@Peter Gabriel@@@Shock The Monkey
+40@@@49@@@Kool & The Gang@@@Let's Go Dancin' (ooh La, La, La)
+41@@@43@@@Chilliwack@@@Whatcha Gonna Do
+42@@@42@@@Missing Persons@@@Destination Unknown
+43@@@50@@@The J. Geils Band@@@I Do
+44@@@17@@@Survivor@@@American Heartbeat
+45@@@61@@@Adam Ant@@@Goody Two Shoes
+46@@@48@@@Charlene & Stevie Wonder@@@Used To Be
+47@@@59@@@Kenny Loggins@@@Heart To Heart
+48@@@52@@@Kim Carnes@@@Does It Make You Remember
+49@@@53@@@Prince@@@1999
+50@@@54@@@Air Supply@@@Two Less Lonely People In The World
+51@@@72@@@Fleetwood Mac@@@Love In Store
+52@@@21@@@Men At Work@@@Who Can It Be Now?
+53@@@60@@@George Harrison@@@Wake Up My Love
+54@@@58@@@Michael McDonald@@@I Gotta Try
+55@@@57@@@Luther Vandross@@@Bad Boy/Having A Party
+56@@@66@@@Joni Mitchell@@@(you're So Square) Baby, I Don't Care
+57@@@63@@@Bill Conti@@@Theme From Dynasty
+58@@@65@@@A Flock Of Seagulls@@@Space Age Love Song
+59@@@73@@@Juice Newton@@@Heart Of The Night
+60@@@62@@@The Motels@@@Forever Mine
+61@@@22@@@John Cougar@@@Jack & Diane
+62@@@69@@@Barry Manilow@@@Memory
+63@@@76@@@Billy Joel@@@Allentown
+64@@@78@@@America@@@Right Before Your Eyes
+65@@@71@@@Scandal Featuring Patty Smyth@@@Goodbye To You
+66@@@68@@@Frida@@@I Know There's Something Going On
+67@@@67@@@Judas Priest@@@You've Got Another Thing Comin'
+68@@@23@@@Steel Breeze@@@You Don't Want Me Anymore
+69@@@77@@@Sonny Charles@@@Put It In A Magazine
+70@@@101@@@Ray Parker Jr.@@@Bad Boy
+71@@@82@@@The Alan Parsons Project@@@Psychobabble
+72@@@79@@@Santana@@@Nowhere To Run
+73@@@80@@@Golden Earring@@@Twilight Zone
+74@@@74@@@Robert Plant@@@Pledge Pin
+75@@@34@@@America@@@You Can Do Magic
+76@@@46@@@Michael McDonald@@@I Keep Forgettin' (Every Time You're Near)
+77@@@47@@@Kenny Rogers@@@A Love Song
+78@@@84@@@Elvis Presley@@@The Elvis Medley
+79@@@55@@@The Alan Parsons Project@@@Eye In The Sky
+80@@@101@@@Culture Club@@@Do You Really Want To Hurt Me
+81@@@56@@@Linda Ronstadt@@@Get Closer
+82@@@101@@@Lee Ritenour@@@Cross My Heart
+83@@@64@@@Sheena Easton@@@I Wouldn't Beg For Water
+84@@@101@@@Lanier & Co.@@@After I Cry Tonight
+85@@@101@@@Commodores@@@Painted Picture
+86@@@101@@@Saga@@@On The Loose
+87@@@70@@@Steve Winwood@@@Valerie
+88@@@75@@@Glenn Frey@@@The One You Love
+89@@@83@@@Rush@@@New World Man
+90@@@81@@@Evelyn King@@@Love Come Down
+91@@@86@@@Juice Newton@@@Break It To Me Gently
+92@@@90@@@The Fixx@@@Stand Or Fall
+93@@@87@@@Fleetwood Mac@@@Gypsy
+94@@@89@@@The Who@@@Athena
+95@@@91@@@Donna Summer@@@State Of Independence
+96@@@92@@@Jackson Browne@@@Somebody's Baby
+97@@@93@@@The Steve Miller Band@@@Cool Magic
+98@@@95@@@Eddie Money@@@Shakin'
+99@@@96@@@A Flock Of Seagulls@@@I Ran (So Far Away)
+100@@@97@@@Michael Murphey@@@What's Forever For

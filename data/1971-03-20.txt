@@ -1,0 +1,100 @@
+1@@@2@@@Janis Joplin@@@Me And Bobby McGee
+2@@@5@@@Tom Jones@@@She's A Lady
+3@@@4@@@The Temptations@@@Just My Imagination (Running Away With Me)
+4@@@1@@@The Osmonds@@@One Bad Apple
+5@@@3@@@Carpenters@@@For All We Know
+6@@@7@@@Ike & Tina Turner@@@Proud Mary
+7@@@9@@@The Partridge Family Starring Shirley Jones Featuring David Cassidy@@@Doesn't Somebody Want To Be Wanted
+8@@@18@@@Marvin Gaye@@@What's Going On
+9@@@15@@@Sammi Smith@@@Help Me Make It Through The Night
+10@@@10@@@Gordon Lightfoot@@@If You Could Read My Mind
+11@@@11@@@Jerry Reed@@@Amos Moses
+12@@@8@@@Creedence Clearwater Revival@@@Have You Ever Seen The Rain/Hey Tonight
+13@@@6@@@Jackson 5@@@Mama's Pearl
+14@@@23@@@Andy Williams@@@(Where Do I Begin) Love Story
+15@@@19@@@George Harrison@@@What Is Life
+16@@@16@@@Bobby Sherman@@@Cried Like A Baby
+17@@@12@@@Nitty Gritty Dirt Band@@@Mr. Bojangles
+18@@@20@@@The Grass Roots@@@Temptation Eyes
+19@@@13@@@Henry Mancini And His Orchestra@@@(Theme From) Love Story
+20@@@36@@@Paul McCartney@@@Another Day/Oh Woman Oh Why
+21@@@14@@@Wadsworth Mansion@@@Sweet Mary
+22@@@33@@@Cat Stevens@@@Wild World
+23@@@24@@@Chicago@@@Free
+24@@@25@@@Santana@@@Oye Como Va
+25@@@28@@@Van Morrison@@@Blue Money
+26@@@39@@@Brewer And Shipley@@@One Toke Over The Line
+27@@@30@@@Aretha Franklin@@@You're All I Need To Get By
+28@@@32@@@B.J. Thomas@@@No Love At All
+29@@@17@@@Wilson Pickett@@@Don't Let The Green Grass Fool You
+30@@@22@@@Lynn Anderson@@@Rose Garden
+31@@@29@@@Judy Collins@@@Amazing Grace
+32@@@40@@@James Brown@@@Soul Power (Pt. 1)
+33@@@38@@@The 5th Dimension@@@Love's Lines, Angles And Rhymes
+34@@@21@@@Dawn@@@Knock Three Times
+35@@@31@@@Francis Lai And His Orchestra@@@Theme From Love Story
+36@@@27@@@Bobby Goldsboro@@@Watching Scotty Grow
+37@@@42@@@James Taylor@@@Country Road
+38@@@45@@@Alice Cooper@@@Eighteen
+39@@@35@@@The Mike Curb Congregation@@@Burning Bridges
+40@@@49@@@The Staple Singers@@@Heavy Makes You Happy (Sha-Na-Boom Boom)
+41@@@41@@@Bloodrock@@@D.O.A.
+42@@@43@@@Chairmen Of The Board@@@Chairman Of The Board
+43@@@34@@@Johnnie Taylor@@@Jody's Got Your Girl And Gone
+44@@@44@@@Freda Payne@@@Cherish What Is Dear To You (While It's Near to You)
+45@@@58@@@Three Dog Night@@@Joy To The World
+46@@@50@@@B.B. King@@@Ask Me No Questions
+47@@@53@@@Glen Campbell@@@Dream Baby (How Long Must I Dream)
+48@@@55@@@Stephen Stills@@@Sit Yourself Down
+49@@@60@@@Elvis Presley@@@Where Did They Go, Lord/Rags To Riches
+50@@@52@@@Engelbert Humperdinck@@@When There's No You
+51@@@51@@@The Fuzz@@@I Love You For All Seasons
+52@@@67@@@Stevie Wonder@@@We Can Work It Out
+53@@@65@@@Detroit Emeralds@@@Do Me Right
+54@@@57@@@The Impressions@@@Ain't Got Time
+55@@@61@@@Brian Hyland@@@Lonely Teardrops
+56@@@76@@@The Bells@@@Stay Awhile
+57@@@64@@@Dusk@@@Angel Baby
+58@@@75@@@Ray Charles@@@Don't Change On Me
+59@@@71@@@Sugarloaf@@@Tongue In Cheek
+60@@@62@@@Arkade@@@The Morning Of Our Lives
+61@@@69@@@Conway Twitty/Loretta Lynn@@@After The Fire Is Gone
+62@@@70@@@Z.Z. Hill@@@Don't Make Me Pay For His Mistakes
+63@@@80@@@Daddy Dewdrop@@@Chick-A-Boom (Don't Ya Jes' Love It)
+64@@@78@@@Matthews' Southern Comfort@@@Woodstock
+65@@@63@@@Murray Head With The Trinidad Singers@@@Superstar
+66@@@82@@@Steppenwolf@@@Snow Blind Friend
+67@@@73@@@The Buoys@@@Timothy
+68@@@77@@@The Mixtures@@@Pushbike Song
+69@@@72@@@Jerry Butler Featuring Brenda Lee Eager@@@If It's Real What I Feel
+70@@@88@@@King Floyd@@@Baby Let Me Kiss You
+71@@@87@@@Ocean@@@Put Your Hand In The Hand
+72@@@101@@@Ray Price@@@I Won't Mention It Again
+73@@@101@@@Elton John@@@Friends
+74@@@101@@@Dionne Warwick@@@Who Gets The Guy
+75@@@83@@@The Mob@@@Give It To Me
+76@@@89@@@Salvage@@@Hot Pants
+77@@@85@@@Helen Reddy@@@I Don't Know How To Love Him
+78@@@92@@@Emerson, Lake & Palmer@@@Lucky Man
+79@@@101@@@Smokey Robinson & The Miracles@@@I Don't Blame You At All
+80@@@101@@@Johnny Cash@@@Man In Black
+81@@@94@@@The Raeletts@@@Bad Water
+82@@@101@@@Barbra Streisand@@@Time And Love
+83@@@97@@@Paul Humphrey & His Cool Aid Chemists@@@Cool Aid
+84@@@86@@@Charley Pride@@@I'd Rather Love You
+85@@@91@@@Ann Peebles@@@I Pity The Fool
+86@@@101@@@Perry Como@@@I Think Of You
+87@@@95@@@Odds & Ends@@@Love Makes The World Go Round
+88@@@101@@@Tyrone Davis@@@Could I Forget You
+89@@@93@@@The Ides Of March@@@L.A. Goodbye
+90@@@101@@@The New Seekers featuring Eve Graham@@@Nickel Song
+91@@@101@@@Merle Haggard And The Strangers@@@Soldier's Last Letter
+92@@@101@@@The Ray Charles Orchestra@@@Booty Butt
+93@@@101@@@The Intruders@@@I'm Girl Scoutin'
+94@@@101@@@Booker T. & The MG's@@@Melting Pot
+95@@@101@@@Tommy James@@@Adrienne
+96@@@101@@@Richie Havens@@@Here Comes The Sun
+97@@@99@@@Mike Reilly@@@1927 Kansas City
+98@@@98@@@Wilbert Harrison@@@My Heart Is Yours
+99@@@101@@@The Kimberlys@@@I Don't Know How To Love Him/Everything's Alright
+100@@@101@@@Nilsson@@@Me And My Arrow

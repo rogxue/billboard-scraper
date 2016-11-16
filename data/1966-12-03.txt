@@ -1,0 +1,100 @@
+1@@@3@@@The New Vaudeville Band@@@Winchester Cathedral
+2@@@2@@@The Beach Boys@@@Good Vibrations
+3@@@1@@@The Supremes@@@You Keep Me Hangin' On
+4@@@4@@@Mitch Ryder And The Detroit Wheels@@@Devil With A Blue Dress On & Good Golly Miss Molly
+5@@@9@@@Donovan@@@Mellow Yellow
+6@@@6@@@James & Bobby Purify@@@I'm Your Puppet
+7@@@8@@@Peter And Gordon@@@Lady Godiva
+8@@@10@@@Roger Williams@@@Born Free
+9@@@5@@@Johnny Rivers@@@Poor Side Of Town
+10@@@7@@@The Monkees@@@Last Train To Clarksville
+11@@@12@@@Brenda Lee@@@Coming On Strong
+12@@@16@@@Martha & The Vandellas@@@I'm Ready For Love
+13@@@13@@@The Hollies@@@Stop Stop Stop
+14@@@17@@@Simon & Garfunkel@@@A Hazy Shade Of Winter
+15@@@42@@@Frank Sinatra@@@That's Life
+16@@@26@@@Jackie Wilson@@@Whispers (Gettin' Louder)
+17@@@27@@@Neil Diamond@@@I Got The Feelin' (Oh No No)
+18@@@11@@@? (Question Mark) & The Mysterians@@@96 Tears
+19@@@14@@@The Lovin' Spoonful@@@Rain On The Roof
+20@@@36@@@The Miracles@@@(Come 'Round Here) I'm The One You Need
+21@@@19@@@Tommy Roe@@@Hooray For Hazel
+22@@@34@@@Percy Sledge@@@It Tears Me Up
+23@@@37@@@Stevie Wonder@@@A Place In The Sun
+24@@@21@@@Petula Clark@@@Who Am I
+25@@@20@@@Jimmy Ruffin@@@What Becomes Of The Brokenhearted
+26@@@31@@@Margaret Whiting@@@The Wheel Of Hurt
+27@@@28@@@J.J. Jackson@@@But It's Alright
+28@@@33@@@Brian Hyland@@@Run, Run, Look And See
+29@@@35@@@Eddie Floyd@@@Knock On Wood
+30@@@18@@@Lou Rawls@@@Love Is A Hurtin' Thing
+31@@@45@@@Herb Alpert & The Tijuana Brass@@@Mame
+32@@@43@@@The Temptations@@@(I Know) I'm Losing You
+33@@@15@@@Bobby Darin@@@If I Were A Carpenter
+34@@@32@@@Lee Dorsey@@@Holy Cow
+35@@@30@@@The Sandpipers@@@Louie, Louie
+36@@@46@@@Chris Montez@@@Time After Time
+37@@@39@@@The Chicago Loop@@@(When She Needs Good Lovin') She Comes To Me
+38@@@22@@@Four Tops@@@Reach Out I'll Be There
+39@@@25@@@Herman's Hermits@@@Dandy
+40@@@29@@@Billy Stewart@@@Secret Love
+41@@@24@@@The Mamas & The Papas@@@Look Through My Window
+42@@@56@@@Tommy James And The Shondells@@@It's Only Love
+43@@@23@@@The Left Banke@@@Walk Away Renee
+44@@@62@@@Nancy Sinatra@@@Sugar Town
+45@@@38@@@Carla Thomas@@@B-A-B-Y
+46@@@57@@@Eddie Fisher@@@Games That Lovers Play
+47@@@58@@@The Music Machine@@@Talk Talk
+48@@@50@@@The Outsiders@@@Help Me Girl
+49@@@53@@@Pat Boone@@@Wish You Were Here, Buddy
+50@@@52@@@The Elgins@@@Heaven Must Have Sent You
+51@@@51@@@The Arbors@@@A Symphony For Susan
+52@@@66@@@Wilson Pickett@@@Mustang Sally
+53@@@69@@@Sandy Posey@@@Single Girl
+54@@@47@@@The Righteous Brothers@@@On This Side Of Goodbye
+55@@@73@@@Bobby Vinton@@@Coming Home Soldier
+56@@@71@@@? (Question Mark) & The Mysterians@@@I Need Somebody
+57@@@100@@@Ronnie Dove@@@Cry
+58@@@77@@@The Association@@@Pandora's Golden Heebie Jeebies
+59@@@54@@@The Standells@@@Why Pick On Me
+60@@@74@@@Jr. Walker & The All Stars@@@Money (That's What I Want) (Part 1)
+61@@@79@@@Terry Knight and The Pack@@@I (Who Have Nothing)
+62@@@64@@@Jack Jones@@@A Day In The Life Of A Fool
+63@@@63@@@The Joe Cuba Sextet@@@Bang Bang
+64@@@55@@@Darrell Banks@@@Somebody (Somewhere) Needs You
+65@@@67@@@The Capitols@@@We Got A Thing That's In The Groove
+66@@@68@@@Ray Charles and his Orchestra@@@Please Say You're Fooling
+67@@@78@@@Gene Chandler@@@I Fooled You This Time
+68@@@70@@@Frankie Valli@@@The Proud One
+69@@@61@@@The Five Stairsteps@@@Come Back
+70@@@85@@@Dr. West's Medicine Show and Junk Band@@@The Eggplant That Ate Chicago
+71@@@72@@@Dana Rollin@@@Winchester Cathedral
+72@@@59@@@Al Martino@@@The Wheel Of Hurt
+73@@@88@@@Lou Rawls@@@You Can Bring Me All Your Heartaches
+74@@@82@@@Baja Marimba Band@@@Ghost Riders In The Sky
+75@@@75@@@B.B. King@@@Don't Answer The Door - Part 1
+76@@@76@@@Barbara Lewis@@@Baby What Do You Want Me To Do
+77@@@99@@@The Yardbirds@@@Happenings Ten Years Time Ago
+78@@@101@@@Aaron Neville@@@Tell It Like It Is
+79@@@80@@@Ray Charles and his Orchestra@@@I Don't Need No Doctor
+80@@@81@@@Alvin Cash & The Registers@@@Alvin's Boo-Ga-Loo
+81@@@101@@@The Mamas & The Papas@@@Words Of Love
+82@@@101@@@The Seekers@@@Georgy Girl
+83@@@101@@@Herman's Hermits@@@East West
+84@@@101@@@Jimmy Ruffin@@@I've Passed This Way Before
+85@@@101@@@Otis Redding@@@Try A Little Tenderness
+86@@@101@@@The Cyrkle@@@Please Don't Ever Leave Me
+87@@@90@@@The Cryan' Shames@@@I Wanna Meet You
+88@@@101@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Good Thing
+89@@@91@@@Eric Burdon & The Animals@@@Help Me Girl
+90@@@101@@@The Innocence@@@There's Got To Be A Word!
+91@@@95@@@Jay & The Americans@@@(He's) Raining In My Sunshine
+92@@@93@@@Don Ho and the Aliis@@@Tiny Bubbles
+93@@@94@@@Dee Dee Warwick@@@I'm Gonna Make You Love Me
+94@@@101@@@Baby Ray@@@There's Something On Your Mind
+95@@@101@@@The Emperor's@@@Karate
+96@@@101@@@Sam & Dave@@@You Got Me Hummin'
+97@@@98@@@The Searchers@@@Have You Ever Loved Somebody
+98@@@101@@@The Drifters@@@Baby What I Mean
+99@@@101@@@The Platters@@@I'll Be Home
+100@@@101@@@The Critters@@@Bad Misunderstanding

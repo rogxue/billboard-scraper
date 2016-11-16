@@ -1,0 +1,100 @@
+1@@@1@@@Paul and Paula@@@Hey Paula
+2@@@2@@@The Rooftop Singers@@@Walk Right In
+3@@@6@@@The Four Seasons@@@Walk Like A Man
+4@@@7@@@Dion@@@Ruby Baby
+5@@@9@@@The Cascades@@@Rhythm Of The Rain
+6@@@11@@@Ned Miller@@@From A Jack To A King
+7@@@3@@@Bobby Vee@@@The Night Has A Thousand Eyes
+8@@@8@@@The Miracles@@@You've Really Got A Hold On Me
+9@@@4@@@Johnny Thunder@@@Loop De Loop
+10@@@5@@@The Drifters@@@Up On The Roof
+11@@@16@@@The Crystals@@@He's Sure The Boy I Love
+12@@@20@@@Bobby Darin@@@You're The Reason I'm Living
+13@@@24@@@Del Shannon@@@Little Town Flirt
+14@@@10@@@Steve Lawrence@@@Go Away Little Girl
+15@@@23@@@The Rebels@@@Wild Weekend
+16@@@21@@@Jan Bradley@@@Mama Didn't Lie
+17@@@18@@@Joe Harnell And His Orchestra@@@Fly Me To The Moon - Bossa Nova
+18@@@34@@@Eydie Gorme@@@Blame It On The Bossa Nova
+19@@@12@@@Gene Pitney@@@Half Heaven - Half Heartache
+20@@@28@@@Sam Cooke@@@Send Me Some Lovin'
+21@@@13@@@Rick Nelson@@@It's Up To You
+22@@@31@@@Bobby Bland@@@Call On Me
+23@@@33@@@Johnny Mathis@@@What Will My Mary Say
+24@@@17@@@Paul Petersen@@@My Dad
+25@@@19@@@Dickey Lee@@@I Saw Linda Yesterday
+26@@@30@@@Paul Anka@@@Love (Makes the World Go 'Round)
+27@@@25@@@The Pastel Six@@@The Cinnamon Cinder (It's A Very Nice Dance)
+28@@@35@@@Vince Guaraldi Trio@@@Cast Your Fate To The Wind
+29@@@14@@@The Exciters@@@Tell Him
+30@@@42@@@Lou Christie@@@The Gypsy Cried
+31@@@15@@@Mary Wells@@@Two Lovers
+32@@@57@@@Neil Sedaka@@@Alice In Wonderland
+33@@@22@@@Kitty Kallen@@@My Coloring Book
+34@@@41@@@Brenda Lee@@@Your Used To Be
+35@@@26@@@Dionne Warwick@@@Don't Make Me Over
+36@@@48@@@Skeeter Davis@@@The End Of The World
+37@@@27@@@Sandy Stewart@@@My Coloring Book
+38@@@70@@@Bill Pursell@@@Our Winter Love
+39@@@29@@@Johnny Crawford@@@Proud
+40@@@49@@@Tony Bennett@@@I Wanna Be Around
+41@@@58@@@The Kingston Trio@@@Greenback Dollar
+42@@@32@@@Connie Francis@@@I'm Gonna' Be Warm This Winter
+43@@@46@@@The Alley Cats@@@Puddin N' Tain (Ask Me Again, I'll Tell You The Same)
+44@@@62@@@Little Eva@@@Let's Turkey Trot
+45@@@38@@@Bobby Bland@@@That's The Way Love Is
+46@@@43@@@The Contours@@@Shake Sherry
+47@@@81@@@Roy Orbison@@@In Dreams
+48@@@51@@@Brenda Lee@@@She'll Never Know
+49@@@36@@@The Tornadoes@@@Telstar
+50@@@37@@@The Shirelles@@@Everybody Loves A Lover
+51@@@86@@@Duane Eddy and the Rebelettes@@@Boss Guitar
+52@@@74@@@Bobby Rydell@@@Butterfly Baby
+53@@@79@@@Ruby And The Romantics@@@Our Day Will Come
+54@@@55@@@Marvin Gaye@@@Hitch Hike
+55@@@60@@@Henry Mancini And His Orchestra@@@Days Of Wine And Roses
+56@@@59@@@Steve Alaimo@@@Every Day I Have To Cry
+57@@@65@@@The Matys Bros.@@@Who Stole The Keeshka?
+58@@@56@@@Peter, Paul & Mary@@@Settle Down (Goin' Down That Highway)
+59@@@101@@@Elvis Presley With The Mello Men@@@One Broken Heart For Sale
+60@@@64@@@Chuck Jackson@@@Tell Him I'm Not Home
+61@@@53@@@Floyd Cramer@@@Java
+62@@@44@@@Lester Flatt, Earl Scruggs & The Foggy Mountain Boys@@@The Ballad Of Jed Clampett
+63@@@73@@@Teddy Randazzo@@@Big Wide World
+64@@@67@@@Jimmy McGriff@@@All About My Girl
+65@@@101@@@Chubby Checker@@@Let's Limbo Some More
+66@@@54@@@Peggy Lee@@@I'm A Woman
+67@@@50@@@Marion Worth@@@Shake Me I Rattle (Squeeze Me I Cry)
+68@@@72@@@Little Esther Phillips@@@I Really Don't Want To Know
+69@@@69@@@Baby Jane & The Rockabyes@@@How Much Is That Doggie In The Window
+70@@@71@@@Sammy Davis Jr.@@@As Long As She Needs Me
+71@@@87@@@Sam Cooke@@@Baby, Baby, Baby
+72@@@61@@@The Marvelettes@@@Strange I Know
+73@@@66@@@Etta James@@@Would It Make Any Difference To You
+74@@@63@@@Bent Fabric and His Piano@@@Chicken Feed
+75@@@90@@@James Darren@@@Pin A Medal On Joey
+76@@@101@@@The Orlons@@@South Street
+77@@@94@@@Arthur Lyman Group@@@Love For Sale
+78@@@75@@@Don Covay@@@The Popeye Waddle
+79@@@80@@@The Impressions@@@I'm The One Who Loves You
+80@@@101@@@The Tornadoes@@@Ridin' The Wind
+81@@@101@@@Bob B. Soxx And The Blue Jeans@@@Why Do Lovers Break Each Other's Heart?
+82@@@93@@@The Ribbons@@@Ain't Gonna Kiss Ya
+83@@@89@@@Richard Chamberlain@@@All I Have To Do Is Dream
+84@@@84@@@Patsy Cline@@@Leavin' On Your Mind
+85@@@76@@@Mike Clifford@@@What To Do With Laurie
+86@@@85@@@Tony Bennett@@@I Will Live My Life For You
+87@@@101@@@The Rumblers@@@Boss
+88@@@101@@@Ferrante & Teicher@@@Theme From Lawrence Of Arabia
+89@@@101@@@Bobby Comstock@@@Let's Stomp
+90@@@101@@@The Supremes@@@Let Me Go The Right Way
+91@@@92@@@The Duprees@@@I'd Rather Be Here In Your Arms
+92@@@100@@@The Furys@@@Zing! Went The Strings Of My Heart
+93@@@98@@@Rufus Thomas@@@The Dog
+94@@@97@@@Connie Francis@@@Al Di La
+95@@@95@@@Jimmy McGriff@@@M.G. Blues
+96@@@101@@@The Dave Brubeck Quartet@@@Bossa Nova U.S.A.
+97@@@101@@@Richard Chamberlain@@@Hi-Lili, Hi-Lo
+98@@@101@@@Cannonball Adderley@@@The Jive Samba
+99@@@101@@@Johnny Cymbal@@@Mr. Bass Man
+100@@@101@@@Joey Dee@@@Baby, You're Driving Me Crazy

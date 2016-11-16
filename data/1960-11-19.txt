@@ -1,0 +1,100 @@
+1@@@4@@@Ray Charles@@@Georgia On My Mind
+2@@@3@@@Johnny Tillotson@@@Poetry In Motion
+3@@@5@@@Joe Jones@@@You Talk Too Much
+4@@@2@@@Brenda Lee@@@I Want To Be Wanted
+5@@@1@@@The Drifters@@@Save The Last Dance For Me
+6@@@7@@@Maurice Williams & The Zodiacs@@@Stay
+7@@@8@@@Hank Ballard And The Midnighters@@@Let's Go, Let's Go, Let's Go
+8@@@16@@@Floyd Cramer@@@Last Date
+9@@@22@@@Kathy Young with The Innocents@@@A Thousand Stars
+10@@@9@@@Roy Orbison@@@Blue Angel
+11@@@17@@@U.S. Bonds@@@New Orleans
+12@@@18@@@Johnny Horton@@@North To Alaska
+13@@@14@@@Little Willie John@@@Sleep
+14@@@11@@@Bill Black's Combo@@@Don't Be Cruel
+15@@@19@@@Jackie Wilson@@@Alone At Last
+16@@@13@@@Bob Luman@@@Let's Think About Living
+17@@@10@@@Bobby Vee@@@Devil Or Angel
+18@@@29@@@Chubby Checker@@@The Hucklebuck
+19@@@6@@@Connie Francis@@@My Heart Has A Mind Of Its Own
+20@@@12@@@Sam Cooke@@@Chain Gang
+21@@@23@@@Bobby Darin@@@Artificial Flowers
+22@@@21@@@The Platters@@@To Each His Own
+23@@@35@@@Jerry Butler@@@He Will Break Your Heart
+24@@@15@@@Paul Anka@@@Summer's Gone
+25@@@20@@@Ferrante & Teicher@@@Theme From The Apartment
+26@@@25@@@Brook Benton@@@Kiddio
+27@@@30@@@Duane Eddy His Twangy Guitar And The Rebels@@@Peter Gunn
+28@@@39@@@Damita Jo@@@I'll Save The Last Dance For You
+29@@@24@@@Chubby Checker@@@The Twist
+30@@@38@@@Dinah Washington@@@Love Walked In
+31@@@44@@@The Ventures@@@Perfidia
+32@@@26@@@The Everly Brothers@@@So Sad (To Watch Good Love Go Bad)
+33@@@27@@@Frankie Avalon@@@Togetherness
+34@@@65@@@Lolita@@@Sailor (Your Home Is The Sea)
+35@@@101@@@Elvis Presley With The Jordanaires@@@Are You Lonesome To-night?
+36@@@50@@@Dion@@@Lonely Teenager
+37@@@41@@@Fats Domino@@@My Girl Josephine
+38@@@64@@@Tobin Mathews & Co.@@@Ruby Duby Du
+39@@@28@@@Jimmy Charles and The Revelletts@@@A Million To One
+40@@@54@@@Bobby Rydell@@@Sway
+41@@@62@@@Johnny Burnette@@@You're Sixteen
+42@@@61@@@Jackie Wilson@@@Am I The Man
+43@@@43@@@Etta James@@@My Dearest Darling
+44@@@48@@@The Playmates@@@Wait For Me
+45@@@40@@@The Shirelles@@@Tonights The Night
+46@@@37@@@The Paradons@@@Diamonds And Pearls
+47@@@32@@@Elvis Presley With The Jordanaires@@@It's Now Or Never
+48@@@34@@@Larry Verne@@@Mr. Custer
+49@@@79@@@Connie Francis@@@Many Tears Ago
+50@@@101@@@Bert Kaempfert And His Orchestra@@@Wonderland By Night
+51@@@92@@@Frank Sinatra@@@Ol' Mac Donald
+52@@@56@@@Pat Boone@@@Dear John
+53@@@58@@@Jim Reeves@@@Am I Losing You
+54@@@101@@@Brook Benton@@@Fools Rush In (Where Angels Fear To Tread)
+55@@@60@@@Marty Robbins@@@Ballad Of The Alamo
+56@@@33@@@Ike & Tina Turner@@@A Fool In Love
+57@@@52@@@Fats Domino@@@Natural Born Lover
+58@@@47@@@Marv Johnson@@@(You've Got To) Move Two Mountains
+59@@@51@@@Billy Vaughn And His Orchestra@@@The Sundowners
+60@@@36@@@Fats Domino@@@Three Nights A Week
+61@@@45@@@Bobby Darin@@@Somebody To Love
+62@@@67@@@Anita Bryant@@@One Of The Lucky Ones
+63@@@42@@@Chubby Checker@@@Whole Lotta Shakin' Goin' On
+64@@@76@@@Bud & Travis@@@Ballad Of The Alamo
+65@@@101@@@Elvis Presley With The Jordanaires@@@I Gotta Know
+66@@@70@@@The Everly Brothers@@@Like Strangers
+67@@@46@@@Teresa Brewer@@@Anymore
+68@@@53@@@The Olympics@@@Shimmy Like Kate
+69@@@82@@@Conway Twitty@@@Whole Lot Of Shakin' Going On
+70@@@81@@@Ernie Freeman@@@(Theme from) The Dark At The Top Of The Stairs
+71@@@101@@@Ferrante & Teicher@@@Exodus
+72@@@78@@@The Bobbettes@@@Have Mercy Baby
+73@@@88@@@Bobby Hendricks@@@Psycho
+74@@@59@@@Danny & The Juniors@@@Twistin' U.S.A.
+75@@@68@@@Pat Boone@@@Alabam
+76@@@63@@@Cowboy Copas@@@Alabam
+77@@@86@@@James Booker@@@Gonzo
+78@@@80@@@The Mark II@@@Night Theme
+79@@@31@@@Don Costa And His Orchestra And Chorus@@@Never On Sunday
+80@@@57@@@The Ventures@@@Walk -- Don't Run
+81@@@73@@@Patti Page@@@I Wish I'd Never Been Born
+82@@@90@@@The Brothers Four@@@The Green Leaves Of Summer
+83@@@94@@@The Chimes@@@Once In Awhile
+84@@@84@@@Charlie Ryan and the Timberline Riders@@@Side Car Cycle
+85@@@99@@@Etta Jones@@@Don't Go To Strangers
+86@@@71@@@Neil Sedaka@@@Run Samson Run
+87@@@100@@@Bobby Bland@@@Cry Cry Cry
+88@@@101@@@Louis Prima@@@Wonderland By Night
+89@@@101@@@Jim Reeves@@@I Missed Me
+90@@@101@@@Austin Taylor@@@Push Push
+91@@@101@@@James Brown@@@The Bells
+92@@@66@@@Charles Wolcott@@@Ruby Duby Du From Key Witness
+93@@@72@@@Felix Slatkin Orchestra and Chorus@@@Theme From The Sundowners
+94@@@101@@@Cornbread & Biscuits@@@The Big Time Spender (Parts I & II)
+95@@@101@@@Jan & Dean@@@Gee
+96@@@101@@@LaVern Baker@@@Bumble Bee
+97@@@101@@@Don Gibson@@@Sweet Dreams
+98@@@75@@@Brian Hyland@@@That's How Much
+99@@@101@@@The Browns featuring Jim Edward Brown@@@Send Me The Pillow You Dream On
+100@@@49@@@Annette With The Afterbeats@@@Pineapple Princess

@@ -1,0 +1,100 @@
+1@@@3@@@The Rolling Stones@@@Paint It, Black
+2@@@4@@@The Lovin' Spoonful@@@Did You Ever Have To Make Up Your Mind?
+3@@@5@@@Simon & Garfunkel@@@I Am A Rock
+4@@@1@@@Percy Sledge@@@When A Man Loves A Woman
+5@@@2@@@The Mindbenders@@@A Groovy Kind Of Love
+6@@@10@@@Frank Sinatra@@@Strangers In The Night
+7@@@6@@@The Mamas & The Papas@@@Monday, Monday
+8@@@8@@@James Brown And The Famous Flames@@@It's A Man's Man's Man's World
+9@@@9@@@Gary Lewis And The Playboys@@@Green Grass
+10@@@12@@@Robert Parker@@@Barefootin'
+11@@@13@@@The Chiffons@@@Sweet Talkin' Guy
+12@@@17@@@The Capitols@@@Cool Jerk
+13@@@18@@@Shades Of Blue@@@Oh How Happy
+14@@@19@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Opus 17 (Don't You Worry 'Bout Me)
+15@@@7@@@Bob Dylan@@@Rainy Day Women #12 & 35
+16@@@21@@@Chris Montez@@@The More I See You
+17@@@23@@@Dusty Springfield@@@You Don't Have To Say You Love Me
+18@@@11@@@The Supremes@@@Love Is Like An Itching In My Heart
+19@@@35@@@The Cyrkle@@@Red Rubber Ball
+20@@@24@@@Jr. Walker & The All Stars@@@(I'm A) Road Runner
+21@@@26@@@Swingin' Medallions@@@Double Shot (Of My Baby's Love)
+22@@@30@@@The Animals@@@Don't Bring Me Down
+23@@@33@@@The Outsiders@@@Girl In Love
+24@@@25@@@B.J. Thomas@@@Mama
+25@@@22@@@The McCoys@@@Come On Let's Go
+26@@@29@@@Sam & Dave@@@Hold On! I'm A Comin'
+27@@@14@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Kicks
+28@@@101@@@The Beatles@@@Paperback Writer
+29@@@15@@@The Young Rascals@@@Good Lovin'
+30@@@20@@@Dionne Warwick@@@Message To Michael
+31@@@45@@@The Standells@@@Dirty Water
+32@@@16@@@The Walker Bros.@@@The Sun Ain't Gonna Shine (Anymore)
+33@@@27@@@The Beach Boys@@@Sloop John B
+34@@@40@@@Vic Dana@@@I Love You Drops
+35@@@41@@@Dean Martin@@@Come Running Back
+36@@@44@@@The Temptations@@@Ain't Too Proud To Beg
+37@@@28@@@Nancy Sinatra@@@How Does That Grab You, Darlin'?
+38@@@50@@@Jay & The Americans@@@Crying
+39@@@39@@@The Platters@@@I Love You 1000 Times
+40@@@34@@@Gene Pitney@@@Backstage
+41@@@46@@@The Kinks@@@Dedicated Follower Of Fashion
+42@@@49@@@Jimmie Rodgers@@@It's Over
+43@@@51@@@The Leaves@@@Hey Joe
+44@@@48@@@Joe Tex@@@S.Y.S.L.J.F.M. (The Letter Song)
+45@@@37@@@Frank Gallop@@@The Ballad Of Irving
+46@@@66@@@Jan & Dean@@@Popsicle
+47@@@47@@@Eddy Arnold@@@The Last Word In Lonesome Is Me
+48@@@75@@@Tommy James And The Shondells@@@Hanky Panky
+49@@@59@@@Dee Jay And The Runaways@@@Peter Rabbit
+50@@@54@@@Peter And Gordon@@@There's No Living Without Your Loving
+51@@@78@@@Syndicate Of Sound@@@Little Girl
+52@@@89@@@The Righteous Brothers@@@He
+53@@@76@@@The Vogues@@@The Land Of Milk And Honey
+54@@@57@@@Love@@@My Little Red Book
+55@@@55@@@Marvin Gaye@@@Take This Heart Of Mine
+56@@@74@@@The Shadows Of Knight@@@Oh Yeah
+57@@@60@@@Al Martino@@@Wiederseh'n
+58@@@58@@@Little Anthony And The Imperials@@@Better Use Your Head
+59@@@64@@@Ray Charles@@@Let's Go Get Stoned
+60@@@56@@@Bobby Goldsboro@@@I Know You Better Than That
+61@@@61@@@Ko Ko Taylor@@@Wang Dang Doodle
+62@@@82@@@Sonny & Cher@@@Have I Stayed Too Long
+63@@@63@@@Mitch Ryder And The Detroit Wheels@@@Break Out
+64@@@79@@@The Association@@@Along Comes Mary
+65@@@67@@@Barry McGuire@@@Cloudy Summer Afternoon (Raindrops)
+66@@@69@@@The Isley Brothers@@@Take Some Time Out For Love
+67@@@71@@@The Critters@@@Younger Girl
+68@@@68@@@Wilson Pickett@@@Ninety-Nine And A Half (Won't Do)
+69@@@72@@@The Hondells@@@Younger Girl
+70@@@73@@@Neil Diamond@@@Solitary Man
+71@@@86@@@Four Tops@@@Loving You Is Sweeter Than Ever
+72@@@101@@@The Beatles@@@Rain
+73@@@70@@@Dickie Goodman@@@Batman & His Grandmother
+74@@@53@@@Bobby Darin@@@Mame
+75@@@52@@@The Five Americans@@@Evol-Not Love
+76@@@80@@@Esther Phillips@@@When A Woman Loves A Man
+77@@@77@@@The Gentrys@@@Everyday I Have To Cry
+78@@@101@@@Johnny Sea@@@Day For Decision
+79@@@101@@@The Dave Clark Five@@@Please Tell Me Why
+80@@@90@@@The Holidays@@@I'll Love You Forever
+81@@@101@@@Johnny Rivers@@@(I Washed My Hands In) Muddy Water
+82@@@84@@@Bobby Bland@@@Good Time Charlie
+83@@@83@@@Jackie DeShannon@@@Come And Get Me
+84@@@101@@@Martha & The Vandellas@@@What Am I Going To Do Without Your Love
+85@@@97@@@Tammi Terrell@@@Come On And See Me
+86@@@87@@@Otis Redding@@@My Lover's Prayer
+87@@@100@@@Jack Jones@@@The Impossible Dream (The Quest)
+88@@@92@@@Buck Owens and The Buckaroos@@@Think Of Me
+89@@@81@@@Louis Armstrong@@@Mame
+90@@@101@@@Tommy Roe@@@Sweet Pea
+91@@@93@@@Dave Baby Cortez@@@Count Down
+92@@@95@@@Jeannie Seely@@@Don't Touch Me
+93@@@94@@@Ike & Tina Turner Featuring Tina@@@River Deep-Mountain High
+94@@@101@@@Susan Christie@@@I Love Onions
+95@@@96@@@Beau Brummels@@@One Too Many Mornings
+96@@@98@@@Walter Jackson@@@It's An Uphill Climb To The Bottom
+97@@@99@@@Jimmy Hughes@@@Neighbor, Neighbor
+98@@@101@@@Crispian St. Peters@@@The Pied Piper
+99@@@101@@@Sam The Sham and the Pharaohs@@@Lil' Red Riding Hood
+100@@@101@@@Barbara Mason@@@I Need Love

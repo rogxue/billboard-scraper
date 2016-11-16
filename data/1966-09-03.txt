@@ -1,0 +1,100 @@
+1@@@5@@@Donovan@@@Sunshine Superman
+2@@@1@@@The Lovin' Spoonful@@@Summer In The City
+3@@@3@@@The Happenings@@@See You In September
+4@@@7@@@The Supremes@@@You Can't Hurry Love
+5@@@8@@@The Beatles@@@Yellow Submarine
+6@@@2@@@Bobby Hebb@@@Sunny
+7@@@15@@@Wilson Pickett@@@Land Of 1000 Dances
+8@@@12@@@Lee Dorsey@@@Working In The Coal Mine
+9@@@11@@@Stevie Wonder@@@Blowin In The Wind
+10@@@10@@@Billy Stewart@@@Summertime
+11@@@16@@@The Beach Boys@@@Wouldn't It Be Nice
+12@@@4@@@Sam The Sham and the Pharaohs@@@Lil' Red Riding Hood
+13@@@14@@@Gary Lewis And The Playboys@@@My Heart's Symphony
+14@@@9@@@Petula Clark@@@I Couldn't Live Without Your Love
+15@@@29@@@The Outsiders@@@Respectable
+16@@@22@@@The Sandpipers@@@Guantanamera
+17@@@18@@@Percy Sledge@@@Warm And Tender Love
+18@@@23@@@The Hollies@@@Bus Stop
+19@@@20@@@Sandy Posey@@@Born A Woman
+20@@@21@@@Brian Hyland@@@The Joker Went Wild
+21@@@26@@@Tommy James And The Shondells@@@Say I Am (What I Am)
+22@@@35@@@The Kinks@@@Sunny Afternoon
+23@@@31@@@The Cyrkle@@@Turn-Down Day
+24@@@27@@@Ramsey Lewis@@@Wade In The Water
+25@@@34@@@Simon & Garfunkel@@@The Dangling Conversation
+26@@@62@@@The Temptations@@@Beauty Is Only Skin Deep
+27@@@66@@@The Association@@@Cherish
+28@@@39@@@The Surfaris@@@Wipe Out
+29@@@47@@@Jr. Walker & The All Stars@@@How Sweet It Is (To Be Loved By You)
+30@@@38@@@The Righteous Brothers@@@Go Ahead And Cry
+31@@@6@@@The Troggs@@@Wild Thing
+32@@@42@@@The Troggs@@@With A Girl Like You
+33@@@28@@@Barbara Lewis@@@Make Me Belong To You
+34@@@24@@@Ray Conniff And The Singers@@@Somewhere, My Love
+35@@@19@@@Tommy Roe@@@Sweet Pea
+36@@@40@@@David Houston@@@Almost Persuaded
+37@@@32@@@Cher@@@Alfie
+38@@@54@@@The Critters@@@Mr. Dieingly Sad
+39@@@17@@@Tommy McLain@@@Sweet Dreams
+40@@@13@@@The Rolling Stones@@@Mothers Little Helper
+41@@@63@@@Los Bravos@@@Black Is Black
+42@@@53@@@Love@@@7 And 7 Is
+43@@@59@@@Chris Montez@@@There Will Never Be Another You
+44@@@41@@@Dean Martin@@@A Million And One
+45@@@51@@@The Beach Boys@@@God Only Knows
+46@@@25@@@The Yardbirds@@@Over Under Sideways Down
+47@@@65@@@The Beatles@@@Eleanor Rigby
+48@@@58@@@Darrell Banks@@@Open The Door To Your Heart
+49@@@52@@@The Cryan' Shames@@@Sugar And Spice
+50@@@55@@@The Dave Clark Five@@@Satisfied With You
+51@@@43@@@Eddy Arnold@@@The Tip Of My Fingers
+52@@@69@@@Jimmy Ruffin@@@What Becomes Of The Brokenhearted
+53@@@64@@@Alvin Cash & The Registers@@@The Philly Freeze
+54@@@72@@@Neil Diamond@@@Cherry, Cherry
+55@@@73@@@Marvin Gaye@@@Little Darling, I Need You
+56@@@75@@@The Mindbenders@@@Ashes To Ashes
+57@@@57@@@James Brown And The Famous Flames@@@Money Won't Change You (Part 1)
+58@@@48@@@Groove Holmes@@@Misty
+59@@@49@@@Chad & Jeremy@@@Distant Shores
+60@@@61@@@The Five Stairsteps@@@World Of Fantasy
+61@@@68@@@The Standells@@@Sometimes Good Guys Don't Wear White
+62@@@71@@@The Sidekicks@@@Suspicions
+63@@@74@@@Shelby Flint@@@Cast Your Fate To The Wind
+64@@@86@@@Andy Williams@@@In The Arms Of Love
+65@@@83@@@Carla Thomas@@@B-A-B-Y
+66@@@97@@@Syndicate Of Sound@@@Rumors
+67@@@88@@@Jim Reeves@@@Blue Side Of Lonesome
+68@@@84@@@The Thirteenth Floor Elevators@@@You're Gonna Miss Me
+69@@@79@@@Rosco Robinson@@@That's Enough
+70@@@70@@@Roy Orbison@@@Too Soon To Know
+71@@@101@@@Ray Charles & The Raelets@@@I Chose To Sing The Blues
+72@@@101@@@Herb Alpert & The Tijuana Brass@@@Flamingo
+73@@@81@@@Georgie Fame And The Blue Flames@@@Get Away
+74@@@101@@@Frank Sinatra@@@Summer Wind
+75@@@101@@@? (Question Mark) & The Mysterians@@@96 Tears
+76@@@93@@@The Swingin' Medallions@@@She Drives Me Out Of My Mind
+77@@@82@@@The Razor's Edge@@@Let's Call It A Day Girl
+78@@@87@@@The Capitols@@@I Got To Handle It
+79@@@101@@@Ronnie Dove@@@I Really Don't Want To Know
+80@@@95@@@Dee Dee Warwick@@@I Want To Be With You
+81@@@89@@@Walter Wanderley@@@Summer Samba (So Nice)
+82@@@101@@@Four Tops@@@Reach Out I'll Be There
+83@@@101@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@I've Got You Under My Skin
+84@@@92@@@Howard Tate@@@Ain't Nobody Home
+85@@@85@@@The Shades Of Blue@@@Lonely Summer
+86@@@99@@@Roger Williams@@@Born Free
+87@@@101@@@Ronny And The Daytonas@@@Dianne, Dianne
+88@@@101@@@The Toys@@@Baby Toys
+89@@@101@@@The Impressions@@@Can't Satisfy
+90@@@101@@@Booker T. & The MG's@@@My Sweet Potato
+91@@@101@@@The Shindogs@@@Who Do You Think You Are
+92@@@101@@@The Dynatones@@@The Fife Piper
+93@@@101@@@Billy Joe Royal@@@Campfire Girls
+94@@@94@@@Jimmy Smith@@@I'm Your Hoochie Cooche Man (Part 1)
+95@@@101@@@Bobby Goldsboro@@@It Hurts Me
+96@@@101@@@The Trade Winds@@@Mind Excursion
+97@@@98@@@Cilla Black@@@Alfie
+98@@@101@@@Jimmy Holiday@@@Baby I Love You
+99@@@101@@@Jan & Dean@@@Fiddle Around
+100@@@101@@@The Vontastics@@@Day Tripper

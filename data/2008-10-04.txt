@@ -1,0 +1,100 @@
+1@@@2@@@T.I.@@@Whatever You Like
+2@@@1@@@Pink@@@So What
+3@@@101@@@Kanye West@@@Love Lockdown
+4@@@3@@@Rihanna@@@Disturbia
+5@@@16@@@Taylor Swift@@@Love Story
+6@@@4@@@M.I.A.@@@Paper Planes
+7@@@7@@@Ne-Yo@@@Closer
+8@@@8@@@T-Pain Featuring Lil Wayne@@@Can't Believe It
+9@@@12@@@Katy Perry@@@Hot N Cold
+10@@@9@@@Estelle Featuring Kanye West@@@American Boy
+11@@@6@@@Chris Brown@@@Forever
+12@@@10@@@Lil Wayne Featuring T-Pain@@@Got Money
+13@@@13@@@Jason Mraz@@@I'm Yours
+14@@@20@@@Ne-Yo@@@Miss Independent
+15@@@32@@@David Archuleta@@@Crush
+16@@@14@@@Coldplay@@@Viva La Vida
+17@@@11@@@Kardinal Offishall Featuring Akon@@@Dangerous
+18@@@18@@@Leona Lewis@@@Better In Time
+19@@@17@@@Jordin Sparks@@@One Step At A Time
+20@@@15@@@Flo Rida Featuring will.i.am@@@In The Ayer
+21@@@33@@@Kevin Rudolf Featuring Lil Wayne@@@Let It Rock
+22@@@5@@@Jay-Z & T.I. Featuring Kanye West & Lil Wayne@@@Swagga Like Us
+23@@@23@@@Secondhand Serenade@@@Fall For You
+24@@@34@@@Lil Wayne Featuring Bobby Valentino & Kidd Kidd@@@Mrs. Officer
+25@@@29@@@The Game Featuring Lil Wayne@@@My Life
+26@@@19@@@Katy Perry@@@I Kissed A Girl
+27@@@25@@@Rihanna@@@Take A Bow
+28@@@24@@@Young Jeezy Featuring Kanye West@@@Put On
+29@@@28@@@Kid Rock@@@All Summer Long
+30@@@26@@@Lil Wayne@@@A Milli
+31@@@30@@@Leona Lewis@@@Bleeding Love
+32@@@22@@@The Pussycat Dolls@@@When I Grow Up
+33@@@27@@@Jesse McCartney@@@Leavin'
+34@@@37@@@Gavin Rossdale@@@Love Remains The Same
+35@@@35@@@Metro Station@@@Shake It
+36@@@40@@@Darius Rucker@@@Don't Think I Don't Think About It
+37@@@38@@@Jazmine Sullivan@@@Need U Bad
+38@@@101@@@The Rock Heroes@@@All Summer Long
+39@@@39@@@Natasha Bedingfield@@@Pocketful Of Sunshine
+40@@@31@@@David Banner Featuring Chris Brown@@@Get Like Me
+41@@@42@@@Jennifer Hudson@@@Spotlight
+42@@@71@@@Nelly Featuring Akon & Ashanti@@@Body On Me
+43@@@47@@@Carrie Underwood@@@Just A Dream
+44@@@79@@@John Legend Featuring Andre 3000@@@Green Light
+45@@@48@@@Savage Featuring Soulja Boy Tell'em@@@Swing
+46@@@43@@@Jimmy Wayne@@@Do You Believe Me Now
+47@@@45@@@Lil Wayne Featuring Static Major@@@Lollipop
+48@@@46@@@David Cook@@@The Time Of My Life
+49@@@51@@@Ludacris Co-Starring Chris Brown & Sean Garrett@@@What Them Girls Like
+50@@@41@@@Yung Berg Featuring Casha@@@The Business
+51@@@49@@@Kenny Chesney@@@Everybody Wants To Go To Heaven
+52@@@52@@@Toby Keith@@@She Never Cried In Front Of Me
+53@@@57@@@Saving Abel@@@Addicted
+54@@@56@@@O.A.R.@@@Shattered (Turn The Car Around)
+55@@@55@@@Daughtry@@@What About Now
+56@@@44@@@Three 6 Mafia Featuring Project Pat, Young D & Superpower@@@Lolli Lolli (Pop That Body)
+57@@@50@@@Brad Paisley@@@Waitin' On A Woman
+58@@@69@@@Shontelle@@@T-Shirt
+59@@@58@@@Heidi Newfield@@@Johnny & June
+60@@@101@@@Zac Brown Band@@@Chicken Fried
+61@@@60@@@George Strait@@@Troubadour
+62@@@61@@@DJ Khaled Feat. Akon, Plies, Young Jeezy, Rick Ross, Ace Hood, Trick Daddy & Lil' Boosie@@@Out Here Grindin
+63@@@21@@@Fall Out Boy@@@I Don't Care
+64@@@54@@@LL Cool J Featuring The-Dream@@@Baby
+65@@@73@@@Rehab@@@Bartender Song
+66@@@74@@@Plies Featuring Jamie Foxx & The-Dream@@@Please Excuse My Hands
+67@@@62@@@Robin Thicke@@@Magic
+68@@@53@@@Jonas Brothers@@@Burnin' Up
+69@@@101@@@DJ Khaled Featuring Kanye West & T-Pain@@@Go Hard
+70@@@36@@@Artists Stand Up To Cancer@@@Just Stand Up!
+71@@@78@@@Slim Featuring Yung Joc@@@So Fly
+72@@@64@@@Rick Ross Featuring Nelly & Avery Storm@@@Here I Am
+73@@@75@@@Lady GaGa Featuring Colby O'Donis@@@Just Dance
+74@@@59@@@Gym Class Heroes Featuring The-Dream@@@Cookie Jar
+75@@@85@@@Matt Nathanson@@@Come On Get Higher
+76@@@81@@@September@@@Cry For You
+77@@@77@@@WE the Kings@@@Check Yes Juliet (Run Baby Run)
+78@@@70@@@Keith Anderson@@@I Still Miss You
+79@@@65@@@Keith Urban@@@You Look Good In My Shirt
+80@@@63@@@The Ting Tings@@@Shut Up And Let Me Go
+81@@@68@@@The Lost Trailers@@@Holler Back
+82@@@67@@@Sugarland@@@All I Want To Do
+83@@@66@@@Taylor Swift@@@Should've Said No
+84@@@80@@@Keri Hilson@@@Energy
+85@@@101@@@Metallica@@@The Day That Never Comes
+86@@@76@@@Paramore@@@That's What You Get
+87@@@83@@@Brandy@@@Right Here (Departed)
+88@@@84@@@Jonas Brothers@@@Lovebug
+89@@@97@@@Alicia Keys@@@Superwoman
+90@@@86@@@Boys Like Girls@@@Thunder
+91@@@96@@@Montgomery Gentry@@@Roll With Me
+92@@@87@@@Lil Wayne Featuring Jay-Z@@@Mr. Carter
+93@@@101@@@Natasha Bedingfield@@@Angel
+94@@@89@@@Alan Jackson@@@Good Time
+95@@@100@@@Tim McGraw@@@Let It Go
+96@@@95@@@Luke Bryan@@@Country Man
+97@@@82@@@Joshua Radin@@@I'd Rather Be With You
+98@@@93@@@Demi Lovato@@@Get Back
+99@@@90@@@Maroon 5 Featuring Rihanna@@@If I Never See Your Face Again
+100@@@92@@@Luis Fonsi@@@No Me Doy Por Vencido

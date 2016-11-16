@@ -1,0 +1,100 @@
+1@@@1@@@Michael Jackson@@@Billie Jean
+2@@@2@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+3@@@4@@@Culture Club@@@Do You Really Want To Hurt Me
+4@@@5@@@Duran Duran@@@Hungry Like The Wolf
+5@@@6@@@Pretenders@@@Back On The Chain Gang
+6@@@7@@@Lionel Richie@@@You Are
+7@@@8@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+8@@@10@@@Journey@@@Separate Ways (Worlds Apart)
+9@@@11@@@Daryl Hall & John Oates@@@One On One
+10@@@13@@@Styx@@@Mr. Roboto
+11@@@3@@@Stray Cats@@@Stray Cat Strut
+12@@@12@@@Christopher Cross@@@All Right
+13@@@14@@@Golden Earring@@@Twilight Zone
+14@@@20@@@Dexys Midnight Runners@@@Come On Eileen
+15@@@16@@@Frida@@@I Know There's Something Going On
+16@@@27@@@Greg Kihn Band@@@Jeopardy
+17@@@18@@@Earth, Wind & Fire@@@Fall In Love With Me
+18@@@19@@@Joe Jackson@@@Breaking Us In Two
+19@@@21@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+20@@@25@@@After The Fire@@@Der Kommissar
+21@@@9@@@Patti Austin With James Ingram@@@Baby, Come To Me
+22@@@15@@@Men At Work@@@Down Under
+23@@@17@@@Billy Joel@@@Allentown
+24@@@44@@@Michael Jackson@@@Beat It
+25@@@29@@@Pat Benatar@@@Little Too Late
+26@@@22@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+27@@@31@@@ABC@@@Poison Arrow
+28@@@38@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+29@@@34@@@Dan Fogelberg@@@Make Love Stay
+30@@@30@@@Steel Breeze@@@Dreamin' Is Easy
+31@@@32@@@Supertramp Featuring Rick Davies@@@My Kind Of Lady
+32@@@36@@@Thompson Twins@@@Lies
+33@@@23@@@Musical Youth@@@Pass The Dutchie
+34@@@24@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+35@@@26@@@Saga@@@On The Loose
+36@@@52@@@Thomas Dolby@@@She Blinded Me With Science
+37@@@54@@@Prince@@@Little Red Corvette
+38@@@41@@@Jefferson Starship@@@Winds Of Change
+39@@@39@@@Vandenberg@@@Burning Heart
+40@@@42@@@Diana Ross@@@So Close
+41@@@43@@@Debarge@@@I Like It
+42@@@45@@@Melissa Manchester@@@Nice Girls
+43@@@47@@@Phil Collins@@@I Don't Care Anymore
+44@@@51@@@Oxo@@@Whirly Girl
+45@@@48@@@Stephen Bishop@@@It Might Be You
+46@@@46@@@The Weather Girls@@@It's Raining Men
+47@@@50@@@Ric Ocasek@@@Something To Grab For
+48@@@56@@@Dionne Warwick@@@Take The Short Way Home
+49@@@55@@@Felony@@@The Fanatic
+50@@@74@@@Bob Seger & The Silver Bullet Band@@@Even Now
+51@@@67@@@Toto@@@I Won't Hold You Back
+52@@@57@@@The Clash@@@Should I Stay Or Should I Go
+53@@@65@@@Kenny Loggins@@@Welcome To Heartlight
+54@@@61@@@Barry Manilow@@@Some Kind Of Friend
+55@@@28@@@Adam Ant@@@Goody Two Shoes
+56@@@75@@@Mac McAnally@@@Minimum Love
+57@@@64@@@Psychedelic Furs@@@Love My Way
+58@@@58@@@Janet Jackson@@@Come Give Your Love To Me
+59@@@59@@@Firefall@@@Always
+60@@@62@@@The J. Geils Band@@@Land Of A Thousand Dances
+61@@@66@@@John Anderson@@@Swingin'
+62@@@33@@@Donna Summer@@@The Woman In Me
+63@@@35@@@Neil Diamond@@@I'm Alive
+64@@@37@@@Phil Collins@@@You Can't Hurry Love
+65@@@101@@@Laura Branigan@@@Solitaire
+66@@@72@@@Berlin@@@Sex (I'm A...)
+67@@@73@@@Yaz@@@Only You
+68@@@76@@@Robert Hazard@@@Escalator Of Life
+69@@@81@@@Bryan Adams@@@Straight From The Heart
+70@@@79@@@The Gap Band@@@Outstanding
+71@@@101@@@Billy Joel@@@Goodnight Saigon
+72@@@101@@@Patrick Simmons@@@So Wrong
+73@@@84@@@The System@@@You Are In My System
+74@@@80@@@Heaven 17@@@Let Me Go
+75@@@86@@@Adam Ant@@@Desperate But Not Serious
+76@@@83@@@Missing Persons@@@Walking In L.a.
+77@@@87@@@Def Leppard@@@Photograph
+78@@@78@@@Single Bullet Theory@@@Keep It Tight
+79@@@85@@@Naked Eyes@@@Always Something There To Remind Me
+80@@@101@@@Jarreau@@@Mornin'
+81@@@101@@@Le Roux@@@Carrie's Gone
+82@@@101@@@The Oak Ridge Boys@@@American Made
+83@@@101@@@Jeffrey Osborne@@@Eenie Meenie
+84@@@90@@@Robbie Patton@@@Smiling Islands
+85@@@101@@@Patti Austin@@@Every Home Should Have One
+86@@@40@@@Night Ranger@@@Don't Tell Me You Love Me
+87@@@49@@@Evelyn King@@@Betcha She Don't Love You
+88@@@53@@@Don Henley@@@I Can't Stand Still
+89@@@60@@@Olivia Newton-John@@@Tied Up
+90@@@101@@@Wall Of Voodoo@@@Mexican Radio
+91@@@63@@@Marty Balin@@@What Love Is
+92@@@68@@@Kenny Loggins@@@Heart To Heart
+93@@@69@@@Toto@@@Africa
+94@@@71@@@Little River Band@@@The Other Guy
+95@@@77@@@Toni Basil@@@Shoppin' From A To Z
+96@@@82@@@Gentle Persuasion@@@Please Mr. Postman
+97@@@88@@@The John Hall Band@@@Love Me Again
+98@@@89@@@Marvin Gaye@@@Sexual Healing
+99@@@91@@@Daryl Hall & John Oates@@@Maneater
+100@@@70@@@Pia Zadora@@@The Clapping Song

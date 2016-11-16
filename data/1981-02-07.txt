@@ -1,0 +1,100 @@
+1@@@3@@@Kool & The Gang@@@Celebration
+2@@@1@@@Blondie@@@The Tide Is High
+3@@@4@@@Eddie Rabbitt@@@I Love A Rainy Night
+4@@@8@@@Dolly Parton@@@9 To 5
+5@@@6@@@Rod Stewart@@@Passion
+6@@@2@@@John Lennon@@@(Just Like) Starting Over
+7@@@5@@@Air Supply@@@Every Woman In The World
+8@@@17@@@John Lennon@@@Woman
+9@@@9@@@Diana Ross@@@It's My Turn
+10@@@11@@@Delbert McClinton@@@Giving It Up For Your Love
+11@@@12@@@Steely Dan@@@Hey Nineteen
+12@@@14@@@Dan Fogelberg@@@Same Old Lang Syne
+13@@@19@@@REO Speedwagon@@@Keep On Loving You
+14@@@16@@@Boz Scaggs@@@Miss Sun
+15@@@7@@@Neil Diamond@@@Love On The Rocks
+16@@@18@@@ABBA@@@The Winner Takes It All
+17@@@22@@@Styx@@@The Best Of Times
+18@@@21@@@Stevie Wonder@@@I Ain't Gonna Stand For It
+19@@@20@@@Tierra@@@Together
+20@@@27@@@Don McLean@@@Crying
+21@@@23@@@Eagles@@@Seven Bridges Road
+22@@@13@@@Barbra Streisand & Barry Gibb@@@Guilty
+23@@@25@@@The Jacksons@@@Heartbreak Hotel
+24@@@28@@@Cliff Richard@@@A Little In Love
+25@@@32@@@Neil Diamond@@@Hello Again
+26@@@10@@@Barry Manilow@@@I Made It Through The Rain
+27@@@31@@@Ronnie Milsap@@@Smoky Mountain Rain
+28@@@29@@@Fred Knoblock & Susan Anton@@@Killin' Time
+29@@@34@@@The Alan Parsons Project@@@Games People Play
+30@@@36@@@Pat Benatar@@@Treat Me Right
+31@@@15@@@Andy Gibb@@@Time Is Time
+32@@@24@@@Bruce Springsteen@@@Hungry Heart
+33@@@33@@@Michael Stanley Band@@@He Can't Love You
+34@@@26@@@The Police@@@De Do Do Do, De Da Da Da
+35@@@30@@@Heart@@@Tell It Like It Is
+36@@@35@@@Kenny Rogers@@@Lady
+37@@@50@@@Randy Meisner@@@Hearts On Fire
+38@@@44@@@Donnie Iris@@@Ah! Leah!
+39@@@39@@@Blues Brothers@@@Who's Making Love
+40@@@45@@@AC/DC@@@Back In Black
+41@@@41@@@Pat Benatar@@@Hit Me With Your Best Shot
+42@@@61@@@Blondie@@@Rapture
+43@@@55@@@Daryl Hall & John Oates@@@Kiss On My List
+44@@@48@@@Outlaws@@@(Ghost) Riders In The Sky
+45@@@40@@@L.T.D.@@@Shine On
+46@@@52@@@Queen@@@Flash's Theme Aka Flash
+47@@@38@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+48@@@37@@@Teena Marie@@@I Need Your Lovin'
+49@@@42@@@Leo Sayer@@@More Than I Can Say
+50@@@60@@@Con Funk Shun@@@Too Tight
+51@@@43@@@Donna Summer@@@Cold Love
+52@@@72@@@Barbra Streisand & Barry Gibb@@@What Kind Of Fool
+53@@@46@@@Rita Coolidge@@@Fool That I Am
+54@@@65@@@Elvis Presley@@@Guitar Man
+55@@@57@@@Shalamar@@@Full Of Fire
+56@@@63@@@Peter Allen@@@Fly Away
+57@@@67@@@Phil Seymour@@@Precious To Me
+58@@@74@@@Leo Sayer@@@Living In A Fantasy
+59@@@47@@@Teddy Pendergrass@@@Love T.K.O.
+60@@@70@@@Firefall@@@Staying With It
+61@@@49@@@Stevie Wonder@@@Master Blaster (Jammin')
+62@@@53@@@The Doobie Brothers@@@One Step Closer
+63@@@73@@@Terri Gibbs@@@Somebody's Knockin'
+64@@@51@@@Bette Midler@@@My Mother's Eyes
+65@@@101@@@Bruce Springsteen@@@Fade Away
+66@@@76@@@Glen Campbell@@@I Don't Want To Know Your Name
+67@@@54@@@Queen@@@Another One Bites The Dust
+68@@@56@@@Aretha Franklin@@@United Together
+69@@@80@@@Suzi Quatro@@@Lipstick
+70@@@58@@@Dire Straits@@@Skateaway
+71@@@81@@@John Cougar@@@Ain't Even Done With The Night
+72@@@59@@@Barbra Streisand@@@Woman In Love
+73@@@83@@@The Association@@@Dreamer
+74@@@85@@@Lakeside@@@Fantastic Voyage
+75@@@77@@@Charles Fox@@@Seasons
+76@@@78@@@The Doobie Brothers@@@Wynken, Blynken And Nod
+77@@@87@@@Loverboy@@@Turn Me Loose
+78@@@101@@@The Police@@@Don't Stand So Close To Me
+79@@@79@@@Slave@@@Watching You
+80@@@101@@@Steve Winwood@@@While You See A Chance
+81@@@62@@@The Korgis@@@Everybody's Got To Learn Sometime
+82@@@101@@@Fleetwood Mac@@@Fireflies
+83@@@64@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+84@@@66@@@Devo@@@Whip It
+85@@@101@@@April Wine@@@Just Between You And Me
+86@@@101@@@Yarbrough & Peoples@@@Don't Stop The Music
+87@@@101@@@Earth, Wind & Fire@@@And Love Goes On
+88@@@91@@@McGuffey Lane@@@Long Time Lovin' You
+89@@@101@@@Spyro Gyra@@@Cafe Amore
+90@@@92@@@Touch@@@Don't You Know What Love Is
+91@@@68@@@Don Williams@@@I Believe In You
+92@@@69@@@Christopher Cross@@@Never Be The Same
+93@@@71@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+94@@@75@@@Queen@@@Need Your Loving Tonight
+95@@@82@@@Diana Ross@@@I'm Coming Out
+96@@@86@@@Rockpile@@@Teacher Teacher
+97@@@88@@@Earth, Wind & Fire@@@You
+98@@@101@@@Sugarhill Gang@@@8th Wonder
+99@@@97@@@Cliff Richard@@@Dreaming
+100@@@100@@@The Reddings@@@Remote Control

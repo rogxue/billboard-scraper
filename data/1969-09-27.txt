@@ -1,0 +1,100 @@
+1@@@1@@@The Archies@@@Sugar, Sugar
+2@@@3@@@Creedence Clearwater Revival@@@Green River
+3@@@2@@@The Rolling Stones@@@Honky Tonk Women
+4@@@5@@@Three Dog Night@@@Easy To Be Hard
+5@@@9@@@Bobby Sherman@@@Little Woman
+6@@@10@@@The Temptations@@@I Can't Get Next To You
+7@@@8@@@Oliver@@@Jean
+8@@@6@@@Tom Jones@@@I'll Never Fall In Love Again
+9@@@21@@@Sly & The Family Stone@@@Hot Fun In The Summertime
+10@@@11@@@The Dells@@@Oh, What A Night
+11@@@4@@@Johnny Cash@@@A Boy Named Sue
+12@@@14@@@Gary Puckett And The Union Gap@@@This Girl Is A Woman Now
+13@@@7@@@The Youngbloods@@@Get Together
+14@@@12@@@The Lettermen@@@Hurt So Bad
+15@@@28@@@Marvin Gaye@@@That's The Way Love Is
+16@@@22@@@The Electric Indian@@@Keem-O-Sabe
+17@@@18@@@Nilsson@@@Everybody's Talkin'
+18@@@20@@@Lou Rawls@@@Your Good Thing (Is About To End)
+19@@@36@@@Elvis Presley@@@Suspicious Minds
+20@@@16@@@Bob Dylan@@@Lay Lady Lay
+21@@@24@@@Motherlode@@@When I Die
+22@@@35@@@Jerry Butler@@@What's The Use Of Breaking Up
+23@@@23@@@Bill Deal & The Rhondels@@@What Kind Of Fool Do You Think I Am
+24@@@19@@@Jackie DeShannon@@@Put A Little Love In Your Heart
+25@@@15@@@The Grass Roots@@@I'd Wait A Million Years
+26@@@27@@@Lou Christie@@@I'm Gonna Make You Mine
+27@@@17@@@Neil Diamond@@@Sweet Caroline (Good Times Never Seemed So Good)
+28@@@25@@@The Box Tops@@@Soul Deep
+29@@@13@@@Aretha Franklin@@@Share Your Love With Me
+30@@@46@@@The Rugbys@@@You, I
+31@@@31@@@Steppenwolf@@@Move Over
+32@@@32@@@The Rascals@@@Carry Me Back
+33@@@37@@@The Clique@@@Sugar On Sunday
+34@@@34@@@O.C. Smith@@@Daddy's Little Man
+35@@@30@@@Gladys Knight And The Pips@@@The Nitty Gritty
+36@@@33@@@The Illusion@@@Did You See Her Eyes
+37@@@58@@@James Brown@@@World (Part 1)
+38@@@45@@@Engelbert Humperdinck@@@I'm A Better Man
+39@@@43@@@Isaac Hayes@@@By The Time I Get To Phoenix
+40@@@42@@@Mama Cass@@@It's Getting Better
+41@@@47@@@The Intrigues@@@In A Moment
+42@@@48@@@The Friends Of Distinction@@@Going In Circles
+43@@@50@@@Smokey Robinson & The Miracles@@@Here I Go Again
+44@@@56@@@Joe South and The Believers@@@Don't It Make You Want To Go Home
+45@@@51@@@The Delfonics@@@You Got Yours And I'll Get Mine
+46@@@40@@@Clarence Reid@@@Nobody But You Babe
+47@@@41@@@James Brown@@@Lowdown Popcorn
+48@@@65@@@Supremes & Temptations@@@The Weight
+49@@@68@@@The Cuff Links@@@Tracy
+50@@@62@@@Smith@@@Baby It's You
+51@@@57@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@We Gotta All Get Together
+52@@@52@@@Spiral Starecase@@@No One For Me To Turn To
+53@@@53@@@Bobby Goldsboro@@@Muddy Mississippi Line
+54@@@70@@@Wind@@@Make Believe
+55@@@60@@@The Four Seasons@@@And That Reminds Me (My Heart Reminds Me)
+56@@@63@@@Piero Umiliani@@@Mah Na Mah Na
+57@@@90@@@Dionne Warwick@@@You've Lost That Lovin' Feeling
+58@@@55@@@Johnnie Taylor@@@I Could Never Be President
+59@@@61@@@The Winstons@@@Love Of The Common People
+60@@@72@@@Garland Green@@@Jealous Kind Of Fella
+61@@@59@@@The Intruders@@@Sad Girl
+62@@@75@@@Thunderclap Newman@@@Something In The Air
+63@@@83@@@Isaac Hayes@@@Walk On By
+64@@@71@@@Tommy Roe@@@Jack And Jill
+65@@@73@@@The New Colony Six@@@I Want You To Know
+66@@@89@@@Dyke And The Blazers@@@Let A Woman Be A Woman - Let A Man Be A Man
+67@@@101@@@The 5th Dimension@@@Wedding Bell Blues
+68@@@67@@@Al Wilson@@@Lodi
+69@@@64@@@1910 Fruitgum Co.@@@The Train
+70@@@94@@@Lawrence Reynolds@@@Jesus Is A Soul Man
+71@@@76@@@The Doors@@@Runnin' Blue
+72@@@80@@@Evie Sands@@@Any Way That You Want Me
+73@@@92@@@Bee Gees@@@Don't Forget To Remember
+74@@@87@@@Abaco Dream@@@Life And Death In G & A
+75@@@85@@@Frank Sinatra@@@Love's Been Good To Me
+76@@@101@@@Peggy Lee@@@Is That All There Is
+77@@@101@@@Clarence Carter@@@Doin' Our Thing
+78@@@78@@@Eddie Bo@@@Hook And Sling-Part I
+79@@@82@@@B.B. King@@@Get Off My Back Woman
+80@@@81@@@Buchanan Brothers@@@Son Of A Lovin' Man
+81@@@86@@@Bobby Bland@@@Chains Of Love
+82@@@101@@@Andy Kim@@@So Good Together
+83@@@84@@@Orpheus@@@Can't Find The Time
+84@@@101@@@Joe Simon@@@San Francisco Is A Lonely Town
+85@@@101@@@Keith Barbour@@@Echo Park
+86@@@101@@@The Originals@@@Baby, I'm For Real
+87@@@88@@@Henry Mancini And His Orchestra@@@Moonlight Sonata
+88@@@93@@@Archie Bell & The Drells@@@My Balloon's Going Up
+89@@@101@@@Booker T. & The MG's@@@Slum Baby
+90@@@97@@@Sonny James@@@Since I Met You, Baby
+91@@@101@@@Grand Funk Railroad@@@Time Machine
+92@@@101@@@The Flaming Ember@@@Mind, Body and Soul
+93@@@101@@@The Isley Brothers@@@Was It Good To You
+94@@@95@@@The Association@@@Goodbye Columbus
+95@@@96@@@Kool & The Gang@@@Kool And The Gang
+96@@@101@@@Maxine Brown@@@We'll Cry Together
+97@@@101@@@Ramsey Lewis@@@Julia
+98@@@98@@@Nancy Sinatra@@@Drummer Man
+99@@@100@@@The Monkees@@@Good Clean Fun
+100@@@101@@@Kenny Rogers & The First Edition@@@Reuben James

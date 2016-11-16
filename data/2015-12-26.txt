@@ -1,0 +1,100 @@
+1@@@1@@@Adele@@@Hello
+2@@@2@@@Justin Bieber@@@Sorry
+3@@@3@@@Drake@@@Hotline Bling
+4@@@4@@@Justin Bieber@@@What Do You Mean?
+5@@@7@@@Justin Bieber@@@Love Yourself
+6@@@5@@@The Weeknd@@@The Hills
+7@@@6@@@Shawn Mendes@@@Stitches
+8@@@8@@@Alessia Cara@@@Here
+9@@@10@@@Selena Gomez@@@Same Old Love
+10@@@9@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+11@@@11@@@Fetty Wap Featuring Remy Boyz@@@679
+12@@@12@@@Elle King@@@Ex's & Oh's
+13@@@13@@@Ellie Goulding@@@On My Mind
+14@@@15@@@Drake & Future@@@Jumpman
+15@@@16@@@The Weeknd@@@Can't Feel My Face
+16@@@19@@@Travi$ Scott@@@Antidote
+17@@@20@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+18@@@14@@@Taylor Swift@@@Wildest Dreams
+19@@@37@@@The Weeknd@@@In The Night
+20@@@24@@@Bryson Tiller@@@Don't
+21@@@101@@@Jordan Smith@@@Somebody To Love
+22@@@26@@@Mariah Carey@@@All I Want For Christmas Is You
+23@@@22@@@Post Malone@@@White Iverson
+24@@@17@@@Ariana Grande@@@Focus
+25@@@23@@@Thomas Rhett@@@Die A Happy Man
+26@@@18@@@Silento@@@Watch Me
+27@@@28@@@Fetty Wap@@@Trap Queen
+28@@@45@@@twenty one pilots@@@Stressed Out
+29@@@36@@@The Chainsmokers Featuring ROZES@@@Roses
+30@@@30@@@Tory Lanez@@@Say It
+31@@@21@@@Demi Lovato@@@Confident
+32@@@27@@@One Direction@@@Perfect
+33@@@25@@@R. City Featuring Adam Levine@@@Locked Away
+34@@@32@@@Sam Hunt@@@Break Up In A Small Town
+35@@@29@@@Future Featuring Drake@@@Where Ya At
+36@@@66@@@G-Eazy x Bebe Rexha@@@Me, Myself & I
+37@@@41@@@J. Cole@@@No Role Modelz
+38@@@31@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+39@@@54@@@Coldplay@@@Adventure Of A Lifetime
+40@@@38@@@Selena Gomez Featuring A$AP Rocky@@@Good For You
+41@@@39@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+42@@@42@@@Fetty Wap@@@Again
+43@@@46@@@OMI@@@Cheerleader
+44@@@101@@@Brenda Lee@@@Rockin' Around The Christmas Tree
+45@@@35@@@iLoveMemphis@@@Hit The Quan
+46@@@33@@@One Direction@@@Drag Me Down
+47@@@48@@@Cam@@@Burning House
+48@@@53@@@Daya@@@Hide Away
+49@@@47@@@DeJ Loaf Featuring Big Sean@@@Back Up
+50@@@40@@@X Ambassadors@@@Renegades
+51@@@34@@@Justin Bieber@@@I'll Show You
+52@@@64@@@Shawn Mendes & Camila Cabello@@@I Know What You Did Last Summer
+53@@@60@@@Bryson Tiller@@@Exchange
+54@@@56@@@Blake Shelton@@@Gonna
+55@@@70@@@Flo Rida@@@My House
+56@@@52@@@Gwen Stefani@@@Used To Love You
+57@@@59@@@Missy Elliott Featuring Pharrell Williams@@@WTF (Where They From)
+58@@@49@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+59@@@65@@@Brothers Osborne@@@Stay A Little Longer
+60@@@58@@@DLOW@@@Bet You Can't Do It Like Me
+61@@@85@@@Rachel Platten@@@Stand By You
+62@@@63@@@Nelly Featuring Jeremih@@@The Fix
+63@@@72@@@DNCE@@@Cake By The Ocean
+64@@@68@@@Drake & Future@@@Big Rings
+65@@@62@@@Jason Aldean@@@Gonna Know We Were Here
+66@@@73@@@Drake@@@Back To Back
+67@@@84@@@Luke Bryan Featuring Karen Fairchild@@@Home Alone Tonight
+68@@@87@@@Yo Gotti Featuring Nicki Minaj@@@Down In The DM
+69@@@51@@@Dan + Shay@@@Nothin' Like You
+70@@@57@@@Justin Bieber Featuring Halsey@@@The Feeling
+71@@@77@@@Jana Kramer@@@I Got The Boy
+72@@@86@@@Young Thug@@@Best Friend
+73@@@78@@@Tim McGraw@@@Top Of The World
+74@@@79@@@LoCash@@@I Love This Life
+75@@@89@@@Charlie Puth@@@One Call Away
+76@@@67@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+77@@@101@@@Selena Gomez@@@Hands To Myself
+78@@@69@@@Adele@@@When We Were Young
+79@@@76@@@Rae Sremmurd@@@Come Get Her
+80@@@75@@@Luke Bryan@@@Strip It Down
+81@@@81@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+82@@@96@@@Halsey@@@New Americana
+83@@@71@@@Carrie Underwood@@@Smoke Break
+84@@@95@@@Fall Out Boy@@@Irresistible
+85@@@74@@@Justin Bieber@@@Purpose
+86@@@91@@@Kelsea Ballerini@@@Dibs
+87@@@101@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+88@@@93@@@Drake@@@Right Hand
+89@@@101@@@Dawin@@@Dessert
+90@@@80@@@Justin Bieber@@@Mark My Words
+91@@@100@@@Parmalee@@@Already Callin' You Mine
+92@@@94@@@Big Sean Featuring Chris Brown & Ty Dolla $ign@@@Play No Games
+93@@@101@@@Granger Smith@@@Backroad Song
+94@@@101@@@G-Eazy@@@Random
+95@@@83@@@Justin Bieber@@@Company
+96@@@88@@@Justin Bieber Featuring Big Sean@@@No Pressure
+97@@@101@@@Rick Ross Featuring Chris Brown@@@Sorry
+98@@@101@@@G-Eazy Featuring Chris Brown & Tory Lanez@@@Drifting
+99@@@82@@@Chris Brown@@@Liquor
+100@@@101@@@Zac Brown Band@@@Beautiful Drug

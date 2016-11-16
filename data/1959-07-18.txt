@@ -1,0 +1,100 @@
+1@@@2@@@Paul Anka@@@Lonely Boy
+2@@@1@@@Johnny Horton@@@The Battle Of New Orleans
+3@@@3@@@Lloyd Price and His Orchestra@@@Personality
+4@@@6@@@Stonewall Jackson@@@Waterloo
+5@@@5@@@Connie Francis@@@Lipstick On Your Collar
+6@@@10@@@Fabian@@@Tiger
+7@@@4@@@Bobby Darin@@@Dream Lover
+8@@@7@@@Freddy Cannon@@@Tallahassee Lassie
+9@@@13@@@Carl Dobkins, Jr.@@@My Heart Is An Open Book
+10@@@12@@@Frankie Avalon@@@A Boy Without A Girl
+11@@@16@@@The Flamingos@@@I Only Have Eyes For You
+12@@@8@@@Frankie Avalon@@@Bobby Sox To Stockings
+13@@@23@@@Duane Eddy And The Rebels@@@Forty Miles Of Bad Road
+14@@@9@@@Connie Francis@@@Frankie
+15@@@18@@@The Kingston Trio@@@M.T.A.
+16@@@11@@@The Coasters@@@Along Came Jones
+17@@@20@@@The Falcons@@@You're So Fine
+18@@@24@@@Pat Boone@@@Twixt Twelve And Twenty
+19@@@15@@@Preston Epps@@@Bongo Rock
+20@@@28@@@The Drifters@@@There Goes My Baby
+21@@@14@@@The Exotic Sounds of Martin Denny@@@Quiet Village
+22@@@21@@@Dee Clark@@@Just Keep It Up
+23@@@25@@@Dinah Washington@@@What A Diff'rence A Day Makes
+24@@@53@@@Ricky Nelson@@@Sweeter Than You
+25@@@43@@@Elvis Presley With The Jordanaires@@@A Big Hunk O' Love
+26@@@31@@@Sammy Turner@@@Lavender-Blue
+27@@@22@@@The Mystics@@@Hushabye
+28@@@32@@@Sam Cooke@@@Only Sixteen
+29@@@17@@@Wilbert Harrison@@@Kansas City
+30@@@26@@@The Skyliners@@@This I Swear
+31@@@27@@@Ray Peterson@@@The Wonder Of You
+32@@@42@@@Ricky Nelson@@@Just A Little Too Much
+33@@@19@@@Dion & The Belmonts@@@A Teenager In Love
+34@@@34@@@Tony Bellus@@@Robbin' The Cradle
+35@@@33@@@Jackie Wilson@@@I'll Be Satisfied
+36@@@65@@@David Seville And The Chipmunks@@@Ragtime Cowboy Joe
+37@@@41@@@Chuck Berry@@@Back In The U.S.A.
+38@@@30@@@The Mickey Mozart Quintet@@@Little Dipper
+39@@@101@@@Elvis Presley With The Jordanaires@@@My Wish Came True
+40@@@59@@@Clyde McPhatter@@@Since You've Been Gone
+41@@@50@@@Carl Mann@@@Mona Lisa
+42@@@49@@@The Platters@@@Remember When
+43@@@82@@@Ray Charles and his Orchestra@@@What'd I Say (Part I & II)
+44@@@64@@@Big Jay McNeely And Band@@@There Is Something On Your Mind
+45@@@29@@@The Fiestas@@@So Fine
+46@@@69@@@Jerry Keller@@@Here Comes Summer
+47@@@57@@@Perry Como@@@I Know
+48@@@85@@@Phil Phillips With The Twilights@@@Sea Of Love
+49@@@72@@@Jacky Noguez And His Musette Orchestra@@@Ciao, Ciao Bambina
+50@@@35@@@Franck Pourcel's French Fiddles@@@Only You
+51@@@51@@@Andre Previn With David Rose@@@Like Young
+52@@@37@@@Jimmie Rodgers@@@Ring-A-Ling-A-Lario
+53@@@56@@@Ronnie Hawkins@@@Forty Days
+54@@@58@@@Johnny Mathis@@@Small World
+55@@@47@@@Duane Eddy His Twangy Guitar And The Rebels@@@The Quiet Three
+56@@@68@@@Frank Sinatra and a bunch of kids@@@High Hopes
+57@@@36@@@Johnny And The Hurricanes@@@Crossfire
+58@@@40@@@Jimmie Rodgers@@@Wonderful You
+59@@@60@@@Patti Page@@@With My Eyes Wide Open I'm Dreaming
+60@@@46@@@Al Martino@@@I Can't Get You Out Of My Heart
+61@@@39@@@Fats Domino@@@I'm Ready
+62@@@77@@@Jack Scott@@@The Way I Walk
+63@@@48@@@The Wailers@@@Tall Cool One
+64@@@55@@@Arthur Lyman@@@Taboo
+65@@@75@@@Anita Bryant@@@Till There Was You
+66@@@45@@@Marty Robbins@@@Cap And Gown
+67@@@89@@@The Playmates@@@What Is Love?
+68@@@63@@@The Megatrons@@@Velvet Waters
+69@@@74@@@Skip And Flip@@@It Was I
+70@@@66@@@Little Bill and The Bluenotes@@@I Love An Angel
+71@@@78@@@Louis Prima And Keely Smith@@@Bei Mir Bist Du SchÃ¶n
+72@@@61@@@Dave 'Baby' Cortez@@@The Whistling Organ
+73@@@62@@@Addrisi Brothers@@@Cherrystone
+74@@@44@@@Billy Storm@@@I've Come Of Age
+75@@@81@@@Jimmy Darren@@@Gidget
+76@@@101@@@Brook Benton@@@Thank You Pretty Baby
+77@@@54@@@Gary Stites@@@Lonely For You
+78@@@80@@@Sil Austin@@@Danny Boy
+79@@@84@@@Carl Smith@@@Ten Thousand Drums
+80@@@38@@@Edward Byrnes & Connie Stevens@@@Kookie, Kookie (Lend Me Your Comb)
+81@@@52@@@Brook Benton@@@Endlessly
+82@@@73@@@Kathy Linden@@@Goodbye Jimmy, Goodbye
+83@@@79@@@The Crests featuring Johnny Mastro@@@Flower Of Love
+84@@@96@@@Annette@@@Lonely Guitar
+85@@@90@@@The Tempos@@@See You In September
+86@@@91@@@Bobby Rydell@@@Kissin' Time
+87@@@101@@@Johnny Cash And The Tennessee Two@@@Katy Too
+88@@@101@@@Eddy Arnold@@@Tennessee Stud
+89@@@93@@@Roger Smith@@@Beach Time
+90@@@92@@@The Impalas@@@Oh, What A Fool
+91@@@71@@@The Impalas@@@Sorry (I Ran All The Way Home)
+92@@@98@@@Bo Diddley@@@Crackin Up
+93@@@101@@@The Tassels@@@To A Soldier Boy
+94@@@101@@@Marv Johnson@@@I'm Coming Home
+95@@@101@@@The Eternals@@@Rockin' In The Jungle
+96@@@101@@@The Shirelles@@@Dedicated To The One I Love
+97@@@101@@@Ritchie Valens@@@Little Girl
+98@@@101@@@Billy & Lillie@@@Bells, Bells, Bells (The Bell Song)
+99@@@101@@@Joni James@@@I Still Get Jealous
+100@@@101@@@Dean Martin@@@On An Evening In Roma

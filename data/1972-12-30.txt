@@ -1,0 +1,100 @@
+1@@@1@@@Billy Paul@@@Me And Mrs. Jones
+2@@@4@@@Gilbert O'Sullivan@@@Clair
+3@@@3@@@Al Green@@@You Ought To Be With Me
+4@@@9@@@Carly Simon@@@You're So Vain
+5@@@5@@@Albert Hammond@@@It Never Rains In Southern California
+6@@@7@@@Donna Fargo@@@Funny Face
+7@@@2@@@Helen Reddy@@@I Am Woman
+8@@@10@@@Johnny Rivers@@@Rockin' Pneumonia - Boogie Woogie Flu
+9@@@12@@@Curtis Mayfield@@@Superfly
+10@@@14@@@Kenny Loggins & Jim Messina@@@Your Mama Don't Dance
+11@@@15@@@Four Tops@@@Keeper Of The Castle
+12@@@13@@@Austin Roberts@@@Something's Wrong With Me
+13@@@17@@@Jethro Tull@@@Living In The Past
+14@@@8@@@The Temptations@@@Papa Was A Rollin' Stone
+15@@@16@@@Bread@@@Sweet Surrender
+16@@@22@@@Stevie Wonder@@@Superstition
+17@@@19@@@Neil Diamond@@@Walk On Water
+18@@@21@@@Cat Stevens@@@Sitting
+19@@@6@@@Harold Melvin And The Blue Notes@@@If You Don't Know Me By Now
+20@@@30@@@Elton John@@@Crocodile Rock
+21@@@27@@@James Taylor@@@Don't Let Me Be Lonely Tonight
+22@@@11@@@Johnny Nash@@@I Can See Clearly Now
+23@@@25@@@Three Dog Night@@@Pieces Of April
+24@@@32@@@Timmy Thomas@@@Why Can't We Live Together
+25@@@18@@@Jackson 5@@@Corner Of The Sky
+26@@@29@@@Carole King@@@Been To Canaan
+27@@@42@@@Wings@@@Hi, Hi, Hi
+28@@@31@@@Raspberries@@@I Wanna Be With You
+29@@@24@@@Seals & Crofts@@@Summer Breeze
+30@@@37@@@Hurricane Smith@@@Oh, Babe, What Would You Say?
+31@@@35@@@Blue Haze@@@Smoke Gets In Your Eyes
+32@@@28@@@The Hollies@@@Long Dark Road
+33@@@50@@@Marvin Gaye@@@Trouble Man
+34@@@39@@@Elvis Presley@@@Separate Ways
+35@@@41@@@War@@@The World Is A Ghetto
+36@@@20@@@America@@@Ventura Highway
+37@@@44@@@Steely Dan@@@Do It Again
+38@@@26@@@The Stylistics@@@I'm Stone In Love With You
+39@@@23@@@The Osmonds@@@Crazy Horses
+40@@@45@@@Joni Mitchell@@@You Turn Me On, I'm A Radio
+41@@@46@@@John Denver@@@Rocky Mountain High
+42@@@36@@@Bee Gees@@@Alive
+43@@@47@@@King Harvest@@@Dancing In The Moonlight
+44@@@49@@@Bulldog@@@No
+45@@@57@@@Bobby Womack & Peace@@@Harry Hippie
+46@@@52@@@Brighter Side Of Darkness@@@Love Jones
+47@@@58@@@The Who@@@The Relay
+48@@@33@@@Chicago@@@Dialogue (Part I & II)
+49@@@59@@@The Blue Ridge Rangers@@@Jambalaya (On The Bayou)
+50@@@53@@@Joe Simon@@@Trouble In My Home/I Found My Dad
+51@@@55@@@Clean Living@@@In Heaven There Is No Beer
+52@@@56@@@Bill Withers@@@Let Us Love
+53@@@61@@@Peter Skellern@@@You're A Lady
+54@@@67@@@Jermaine Jackson@@@Daddy's Home
+55@@@60@@@Chuck Berry@@@Reelin' & Rockin'
+56@@@34@@@Jim Croce@@@Operator (That's Not the Way it Feels)
+57@@@40@@@Dennis Yost And The Classics IV@@@What Am I Crying For?
+58@@@63@@@Joe Cocker and The Chris Stainton Band@@@Woman To Woman
+59@@@51@@@James Brown@@@I Got A Bag Of My Own
+60@@@69@@@Luther Ingram@@@I'll Be Your Shelter (In Time Of Storm)
+61@@@62@@@The Chi-lites@@@We Need Order
+62@@@68@@@Smokey Robinson & The Miracles@@@I Can't Stand To See You Cry
+63@@@65@@@Mac Davis@@@Everybody Loves A Love Song
+64@@@73@@@The Partridge Family Starring Shirley Jones Featuring David Cassidy@@@Looking Through The Eyes Of Love
+65@@@43@@@Rod Stewart@@@Angel
+66@@@75@@@Don McLean@@@Dreidel
+67@@@79@@@The Main Ingredient@@@You've Got To Take It (If You Want It)
+68@@@66@@@The O'Jays@@@992 Arguments
+69@@@74@@@Cornelius Brothers & Sister Rose@@@I'm Never Gonna Be Alone Anymore
+70@@@76@@@Nilsson@@@Remember (Christmas)
+71@@@48@@@Gary Glitter@@@I Didn't Know I Loved You (Till I Saw You Rock And Roll)
+72@@@81@@@Bette Midler@@@Do You Want To Dance?
+73@@@101@@@Eagles@@@Peaceful Easy Feeling
+74@@@77@@@Dawn Featuring Tony Orlando@@@You're A Lady
+75@@@80@@@Wayne Newton@@@Anthem
+76@@@78@@@Keith Hampshire@@@Daytime Night-Time
+77@@@84@@@Dr. Hook And The Medicine Show@@@The Cover Of Rolling Stone
+78@@@98@@@James Brown-Lyn Collins@@@What My Baby Needs Now Is A Little More Lovin'
+79@@@101@@@The Spinners@@@Could It Be I'm Falling In Love
+80@@@96@@@Edward Bear@@@Last Song
+81@@@101@@@Lobo@@@Don't Expect Me To Be Your Friend
+82@@@101@@@Cashman & West@@@Songman
+83@@@85@@@Slade@@@Mama Weer All Crazee Now
+84@@@87@@@Valerie Simpson@@@Silly Wasn't I
+85@@@91@@@Glen Campbell@@@One Last Time
+86@@@101@@@Emerson, Lake & Palmer@@@Lucky Man
+87@@@88@@@Merry Clayton@@@Oh No, Not My Baby
+88@@@101@@@Gallery@@@Big City Miss Ruth Ann
+89@@@90@@@Limmie & Family Cookin'@@@You Can Do Magic
+90@@@93@@@The Doobie Brothers@@@Jesus Is Just Alright
+91@@@101@@@Kris Kristofferson@@@Jesus Was A Capricorn
+92@@@92@@@Mary Hopkin@@@Knock Knock Who's There
+93@@@94@@@Joey Heatherton@@@I'm Sorry
+94@@@97@@@Paul Davis@@@Boogie Woogie Man
+95@@@95@@@Barbra Streisand@@@Didn't We
+96@@@101@@@Rita Coolidge@@@Fever/My Crew
+97@@@99@@@Ten Years After@@@Choo Choo Mama
+98@@@101@@@Bobby Vinton@@@But I Do
+99@@@100@@@Brownsville Station@@@The Red Back Spider
+100@@@101@@@Engelbert Humperdinck@@@I Never Said Goodbye

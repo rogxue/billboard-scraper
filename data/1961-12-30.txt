@@ -1,0 +1,100 @@
+1@@@1@@@The Tokens@@@The Lion Sleeps Tonight
+2@@@3@@@Bobby Vee@@@Run To Him
+3@@@4@@@Chubby Checker@@@The Twist
+4@@@6@@@James Darren@@@Goodbye Cruel World
+5@@@5@@@Leroy Van Dyke@@@Walk On By
+6@@@10@@@Joey Dee & the Starliters@@@Peppermint Twist - Part I
+7@@@2@@@The Marvelettes@@@Please Mr. Postman
+8@@@8@@@Neil Sedaka@@@Happy Birthday, Sweet Sixteen
+9@@@7@@@Sandy Nelson@@@Let There Be Drums
+10@@@18@@@Elvis Presley With The Jordanaires@@@Can't Help Falling In Love
+11@@@12@@@Henry Mancini And His Orchestra@@@Moon River
+12@@@13@@@Linda Scott@@@I Don't Know Why
+13@@@14@@@The Lettermen@@@When I Fall In Love
+14@@@17@@@Ray Charles and his Orchestra@@@Unchain My Heart
+15@@@16@@@Connie Francis@@@When The Boy In Your Arms (Is The Boy In Your Heart)
+16@@@15@@@Jerry Butler@@@Moon River
+17@@@23@@@The Angels@@@'Til
+18@@@11@@@Ferrante & Teicher@@@Tonight
+19@@@9@@@Jimmy Dean@@@Big Bad John
+20@@@33@@@Bing Crosby@@@White Christmas
+21@@@21@@@The Impressions@@@Gypsy Woman
+22@@@28@@@Brook Benton@@@Revenge
+23@@@26@@@The Crystals@@@There's No Other (Like My Baby)
+24@@@27@@@Kenny Dino@@@Your Ma Said You Cried In Your Sleep Last Night
+25@@@32@@@Elvis Presley With The Jordanaires@@@Rock-A-Hula Baby
+26@@@38@@@Barbara George@@@I Know (You Don't Love Me No More)
+27@@@45@@@Bobby Rydell/Chubby Checker@@@Jingle Bell Rock
+28@@@19@@@Brenda Lee@@@Fool #1
+29@@@22@@@Chubby Checker@@@Let's Twist Again
+30@@@31@@@Solomon Burke@@@Just Out Of Reach (Of My Two Open Arms)
+31@@@44@@@Jimmy Elledge@@@Funny How Time Slips Away
+32@@@29@@@The Chantels@@@Well, I Told You
+33@@@39@@@Phil McLean@@@Small Sad Sam
+34@@@69@@@The Harry Simeone Chorale@@@The Little Drummer Boy
+35@@@41@@@Fats Domino@@@Jambalaya (On The Bayou)
+36@@@37@@@Gene Pitney@@@Town Without Pity
+37@@@48@@@The Highwaymen@@@Cotton Fields
+38@@@24@@@The G-Clefs@@@I Understand (Just How You Feel)
+39@@@49@@@James Ray@@@If You Gotta Make A Fool Of Somebody
+40@@@46@@@Pat Boone@@@Johnny Will
+41@@@56@@@Dion@@@The Wanderer
+42@@@43@@@The Highwaymen@@@The Gypsy Rover
+43@@@54@@@Connie Francis@@@Baby's First Christmas
+44@@@55@@@Del Shannon@@@Hey! Little Girl
+45@@@65@@@The Shirelles@@@Baby It's You
+46@@@47@@@Ike & Tina Turner@@@Poor Fool
+47@@@63@@@David Seville And The Chipmunks@@@The Chipmunk Song (Christmas Don't Be Late)
+48@@@51@@@Vic Dana@@@Little Altar Boy
+49@@@58@@@Bobby Helms@@@Jingle Bell Rock
+50@@@53@@@Gary U.S. Bonds@@@Dear Lady Twist
+51@@@52@@@David Seville And The Chipmunks@@@Rudolph The Red Nosed Reindeer
+52@@@73@@@Burl Ives@@@A Little Bitty Tear
+53@@@42@@@Sims Twins@@@Soothe Me
+54@@@36@@@Dion@@@The Majestic
+55@@@20@@@Dion@@@Runaround Sue
+56@@@61@@@Dinah Washington@@@September In The Rain
+57@@@25@@@Patsy Cline@@@Crazy
+58@@@84@@@Brenda Lee@@@Rockin' Around The Christmas Tree
+59@@@40@@@John D. Loudermilk@@@Language Of Love
+60@@@66@@@Sue Thompson@@@Norman
+61@@@74@@@Bobby Bland@@@Turn On Your Love Light
+62@@@70@@@Glen Campbell@@@Turn Around, Look At Me
+63@@@89@@@Bobby Darin@@@Irresistible You
+64@@@87@@@Frank Sinatra@@@Pocketful Of Miracles
+65@@@76@@@Bill Black's Combo@@@Twist-Her
+66@@@82@@@Lee Dorsey@@@Do-Re-Mi
+67@@@101@@@Si Zentner And His Orchestra@@@Up A Lazy River
+68@@@77@@@Roger Williams@@@Maria
+69@@@78@@@Frank Slay And His Orchestra@@@Flying Circle
+70@@@80@@@Gladys Knight And The Pips@@@Letter Full Of Tears
+71@@@50@@@Linda Scott@@@It's All Because
+72@@@83@@@The Drifters@@@Room Full Of Tears
+73@@@85@@@Johnny Tillotson@@@Dreamy Eyes
+74@@@79@@@Bobby Vee@@@Walkin' With My Angel
+75@@@81@@@Jimmy McCracklin@@@Just Got To Know
+76@@@101@@@Ral Donner@@@She's Everything (I Wanted You To Be)
+77@@@30@@@The Dovells@@@Bristol Stomp
+78@@@67@@@The Showmen@@@It Will Stand
+79@@@35@@@The Marcels@@@Heartaches
+80@@@34@@@Gene McDaniels@@@Tower Of Strength
+81@@@68@@@Chubby Checker@@@Twistin' U.S.A.
+82@@@88@@@The Dave Brubeck Quartet@@@Unsquare Dance
+83@@@86@@@Bobby Darin@@@Multiplication
+84@@@101@@@David Seville And The Chipmunks@@@Alvin's Harmonica
+85@@@101@@@Charles Brown@@@Please Come Home For Christmas
+86@@@91@@@Dick Dale and The Del-Tones@@@Let's Go Trippin'
+87@@@101@@@Anthony Newley@@@Pop Goes The Weasel
+88@@@62@@@Danny Peppermint and the Jumping Jacks@@@The Peppermint Twist
+89@@@99@@@Ray Peterson@@@I Could Have Loved You So Well
+90@@@96@@@James Brown And The Famous Flames@@@Lost Someone
+91@@@101@@@Patti Page@@@Go On Home
+92@@@101@@@Ace Cannon@@@Tuff
+93@@@98@@@Sleepy King@@@Pushin' Your Luck
+94@@@101@@@Marty Robbins@@@I Told The Brook
+95@@@101@@@The Corsairs Featuring Jay Bird Uzzell@@@Smoky Places
+96@@@101@@@Troy Shondell@@@Tears From An Angel
+97@@@101@@@Johnny Preston@@@Free Me
+98@@@101@@@The Belmonts@@@I Need Some One
+99@@@101@@@Dickie Goodman@@@Santa & The Touchables
+100@@@101@@@Jimmie Beaumont@@@Ev'rybody's Cryin'

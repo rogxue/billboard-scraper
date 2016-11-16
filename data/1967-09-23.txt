@@ -1,0 +1,100 @@
+1@@@4@@@The Box Tops@@@The Letter
+2@@@1@@@Bobbie Gentry@@@Ode To Billie Joe
+3@@@3@@@Bobby Vee And The Strangers@@@Come Back When You Grow Up
+4@@@2@@@Diana Ross & The Supremes@@@Reflections
+5@@@15@@@The Association@@@Never My Love
+6@@@7@@@Jay And The Techniques@@@Apples, Peaches, Pumpkin Pie
+7@@@12@@@Jackie Wilson@@@(Your Love Keeps Lifting Me) Higher And Higher
+8@@@6@@@The Temptations@@@You're My Everything
+9@@@16@@@Peter, Paul & Mary@@@I Dig Rock And Roll Music
+10@@@10@@@Wilson Pickett@@@Funky Broadway
+11@@@11@@@Donovan@@@There Is A Mountain
+12@@@5@@@Aretha Franklin@@@Baby I Love You
+13@@@13@@@The Turtles@@@You Know What I Mean
+14@@@14@@@Van Morrison@@@Brown Eyed Girl
+15@@@9@@@Eric Burdon & The Animals@@@San Franciscan Nights
+16@@@21@@@Brenton Wood@@@Gimme Little Sign
+17@@@19@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@I Had A Dream
+18@@@32@@@Bill Cosby@@@Little Ole Man (Uptight-Everything's Alright)
+19@@@24@@@Tommy James And The Shondells@@@Gettin' Together
+20@@@20@@@The Mamas & The Papas@@@Twelve Thirty (Young Girls Are Coming To The Canyon)
+21@@@26@@@Booker T. & The MG's@@@Groovin'
+22@@@28@@@Frankie Valli@@@I Make A Fool Of Myself
+23@@@23@@@The Grass Roots@@@Things I Should Have Said
+24@@@8@@@The Beatles@@@All You Need Is Love
+25@@@30@@@Martha & The Vandellas@@@Love Bug Leave My Heart Alone
+26@@@43@@@The Young Rascals@@@How Can I Be Sure
+27@@@34@@@Petula Clark@@@The Cat In The Window (The Bird In The Sky)
+28@@@17@@@James Brown And The Famous Flames@@@Cold Sweat - Part 1
+29@@@42@@@The Rolling Stones@@@Dandelion
+30@@@41@@@Otis & Carla@@@Knock On Wood
+31@@@31@@@Spanky And Our Gang@@@Making Every Minute Count
+32@@@18@@@The Doors@@@Light My Fire
+33@@@35@@@The Esquires@@@Get On Up
+34@@@45@@@Soul Survivors@@@Expressway (To Your Heart)
+35@@@58@@@Lulu@@@To Sir With Love
+36@@@47@@@King Curtis@@@Memphis Soul Stew
+37@@@40@@@Davie Allan And The Arrows@@@Blue's Theme
+38@@@49@@@Ray Charles@@@In The Heat Of The Night
+39@@@39@@@Herman's Hermits@@@Museum
+40@@@25@@@The Monkees@@@Pleasant Valley Sunday
+41@@@27@@@Neil Diamond@@@Thank The Lord For The Night Time
+42@@@54@@@Jefferson Airplane@@@Ballad Of You & Me & Pooneil
+43@@@48@@@Harpers Bizarre@@@Anything Goes
+44@@@68@@@The Buckinghams@@@Hey Baby (They're Playing Our Song)
+45@@@75@@@Four Tops@@@You Keep Running Away
+46@@@46@@@Every Mothers' Son@@@Put Your Mind At Ease
+47@@@57@@@Herb Alpert & The Tijuana Brass@@@A Banda (Ah Bahn-da)
+48@@@59@@@Marvin Gaye & Tammi Terrell@@@Your Precious Love
+49@@@60@@@Vikki Carr@@@It Must Be Him
+50@@@51@@@Al Kent@@@You've Got To Pay The Price
+51@@@61@@@Ruby Andrews@@@Casonova (Your Playing Days Are Over)
+52@@@62@@@James & Bobby Purify@@@Let Love Come Between Us
+53@@@53@@@The Third Rail@@@Run, Run, Run
+54@@@67@@@Mitch Ryder@@@What Now My Love
+55@@@22@@@The Parliaments@@@(I Wanna) Testify
+56@@@56@@@Elvis Presley With The Jordanaires@@@There's Always Me
+57@@@38@@@Dean Martin@@@Little Ole Wine Drinker, Me
+58@@@36@@@The Five Americans@@@Zip Code
+59@@@73@@@Sam & Dave@@@Soul Man
+60@@@71@@@Aretha Franklin@@@Take A Look
+61@@@77@@@Tom Jones@@@I'll Never Fall In Love Again
+62@@@63@@@Dusty Springfield@@@The Look Of Love
+63@@@52@@@Gary Lewis And The Playboys@@@Jill
+64@@@86@@@The Rolling Stones@@@We Love You
+65@@@101@@@The Doors@@@People Are Strange
+66@@@66@@@Percy Sledge@@@Just Out Of Reach (Of My Two Empty Arms)
+67@@@101@@@Jimmie Rodgers@@@Child Of Clay
+68@@@69@@@Eddy Arnold@@@Turn The World Around
+69@@@101@@@Nancy Sinatra@@@Lightning's Girl
+70@@@70@@@The Youngbloods@@@Get Together
+71@@@82@@@Leon Haywood@@@It's Got To Be Mellow
+72@@@72@@@Dionne Warwick@@@The Windows Of The World
+73@@@78@@@The Music Explosion@@@Sunshine Games
+74@@@74@@@Sonny & Cher@@@It's The Little Things
+75@@@80@@@Brenda Holloway@@@You've Made Me So Very Happy
+76@@@84@@@Bar-Kays@@@Knucklehead
+77@@@101@@@The Kingpins@@@Ode To Billie Joe
+78@@@101@@@Engelbert Humperdinck@@@The Last Waltz
+79@@@101@@@The Happenings@@@Why Do Fools Fall In Love
+80@@@83@@@The Impressions@@@I Can't Stay Away From You
+81@@@81@@@The Sandpebbles@@@Forget It
+82@@@88@@@Elvis Presley@@@Judy
+83@@@101@@@Fantastic Four@@@To Share Your Love
+84@@@87@@@The Intruders@@@Baby I'm Lonely
+85@@@91@@@The Cryan' Shames@@@It Could Be We're In Love
+86@@@101@@@The Staple Singers@@@For What It's Worth
+87@@@89@@@Patti Drew@@@Tell Him
+88@@@101@@@Al Martino@@@More Than The Eye Can See
+89@@@101@@@Bettye Swann@@@Fall In Love With Me
+90@@@95@@@The Hombres@@@Let It Out (Let It All Hang Out)
+91@@@93@@@The Watts 103rd St. Rhythm Band@@@Spreadin' Honey
+92@@@101@@@Ramsey Lewis@@@Dancing In The Street
+93@@@101@@@Laura Lee@@@Dirty Man
+94@@@96@@@The Merry-Go-Round@@@You're A Very Lovely Woman
+95@@@101@@@The Jimi Hendrix Experience@@@Purple Haze
+96@@@101@@@Pretty Purdie@@@Funky Donkey
+97@@@99@@@Jerryo@@@Karate-Boo-Ga-Loo
+98@@@98@@@Pozo Seco Singers@@@Louisiana Man
+99@@@101@@@Joe Simon@@@Nine Pound Steel
+100@@@101@@@James Carr@@@I'm A Fool For You

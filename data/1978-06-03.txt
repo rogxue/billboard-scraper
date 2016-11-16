@@ -1,0 +1,100 @@
+1@@@2@@@Johnny Mathis/Deniece Williams@@@Too Much, Too Little, Too Late
+2@@@3@@@John Travolta & Olivia Newton-John@@@You're The One That I Want
+3@@@4@@@Andy Gibb@@@Shadow Dancing
+4@@@1@@@Wings@@@With A Little Luck
+5@@@6@@@Chuck Mangione@@@Feels So Good
+6@@@5@@@Roberta Flack & Donny Hathaway@@@The Closer I Get To You
+7@@@8@@@Atlanta Rhythm Section@@@Imaginary Lover
+8@@@10@@@George Benson@@@On Broadway
+9@@@13@@@ABBA@@@Take A Chance On Me
+10@@@12@@@Player@@@This Time I'm In It For Love
+11@@@11@@@The Trammps@@@Disco Inferno
+12@@@14@@@Eddie Money@@@Baby Hold On
+13@@@15@@@Sweet@@@Love Is Like Oxygen
+14@@@18@@@Gerry Rafferty@@@Baker Street
+15@@@18@@@Bonnie Tyler@@@It's A Heartache
+16@@@26@@@Peter Brown with Betty Wright@@@Dance With Me
+17@@@17@@@Billy Joel@@@Movin' Out (Anthony's Song)
+18@@@20@@@Carly Simon@@@You Belong To Me
+19@@@7@@@Yvonne Elliman@@@If I Can't Have You
+20@@@22@@@Meat Loaf@@@Two Out Of Three Ain't Bad
+21@@@23@@@Steely Dan@@@Deacon Blues
+22@@@9@@@Jefferson Starship@@@Count On Me
+23@@@25@@@Robert Palmer@@@Every Kinda People
+24@@@16@@@Bee Gees@@@Night Fever
+25@@@27@@@Patti Smith Group@@@Because The Night
+26@@@43@@@Heatwave@@@The Groove Line
+27@@@29@@@Heart@@@Heartless
+28@@@44@@@The O'Jays@@@Use Ta Be My Girl
+29@@@33@@@Michael Johnson@@@Bluer Than Blue
+30@@@47@@@Bob Seger & The Silver Bullet Band@@@Still The Same
+31@@@35@@@Seals & Crofts@@@You're The Love
+32@@@32@@@Linda Ronstadt@@@Tumbling Dice
+33@@@21@@@Barry Manilow@@@Can't Smile Without You
+34@@@38@@@Barry White@@@Oh What A Night For Dancing
+35@@@37@@@Jimmy Buffett@@@Cheeseburger In Paradise
+36@@@39@@@Rod Stewart@@@I Was Only Joking
+37@@@41@@@Genesis@@@Follow You Follow Me
+38@@@67@@@Donna Summer@@@Last Dance
+39@@@40@@@Rufus/Chaka Khan@@@Stay
+40@@@42@@@Celebration featuring Mike Love@@@Almost Summer
+41@@@24@@@Warren Zevon@@@Werewolves Of London
+42@@@45@@@Eruption@@@I Can't Stand The Rain
+43@@@50@@@Barry Manilow@@@Even Now
+44@@@48@@@Chic@@@Everybody Dance
+45@@@49@@@Rare Earth@@@Warm Ride
+46@@@56@@@Jimmy Bo Horne@@@Dance Across The Floor
+47@@@57@@@Billy Joel@@@Only The Good Die Young
+48@@@58@@@Love And Kisses@@@Thank God It's Friday
+49@@@55@@@Tuxedo Junction@@@Chattanooga Choo Choo
+50@@@60@@@Diana Ross@@@You Got It
+51@@@64@@@Eric Clapton@@@Wonderful Tonight
+52@@@53@@@Plastic Bertrand@@@Ca Plane Pour Moi
+53@@@76@@@The Rolling Stones@@@Miss You
+54@@@69@@@Frankie Valli@@@Grease
+55@@@65@@@KC And The Sunshine Band@@@It's The Same Old Song
+56@@@61@@@Samantha Sang@@@You Keep Me Dancing
+57@@@68@@@Kayak@@@I Want You To Be Mine
+58@@@62@@@Odyssey@@@Weekend Lover
+59@@@63@@@REO Speedwagon@@@Roll With The Changes
+60@@@28@@@Kansas@@@Dust In The Wind
+61@@@75@@@Foghat@@@Stone Blue
+62@@@72@@@Paul Davis Feat. Susan Collins@@@Darlin'
+63@@@73@@@Chicago@@@Take Me Back To Chicago
+64@@@30@@@Raydio@@@Jack And Jill
+65@@@31@@@Eric Clapton@@@Lay Down Sally
+66@@@77@@@Roberta Flack@@@If Ever I See You Again
+67@@@101@@@Steely Dan@@@FM (No Static At All)
+68@@@79@@@Jefferson Starship@@@Runaway
+69@@@101@@@Toby Beau@@@My Angel Baby
+70@@@101@@@Pablo Cruise@@@Love Will Find A Way
+71@@@71@@@Bee Gees@@@Stayin' Alive
+72@@@101@@@Dave Mason@@@Will You Still Love Me Tomorrow
+73@@@85@@@Todd Rundgren@@@Can We Still Be Friends
+74@@@74@@@Queen@@@It's Late
+75@@@101@@@Bob Welch@@@Hot Love, Cold World
+76@@@87@@@Walter Egan@@@Magnet And Steel
+77@@@89@@@Steve Martin and the Toot Uncommons@@@King Tut
+78@@@78@@@Starz@@@Hold On To The Night
+79@@@84@@@Jane Olivor@@@He's So Fine
+80@@@90@@@Gary Tanner@@@Over The Rainbow
+81@@@81@@@Earth, Wind & Fire@@@Fantasy
+82@@@86@@@Debby Boone@@@God Knows/Baby, I'm Yours
+83@@@101@@@Demis Roussos@@@That Once In A Lifetime
+84@@@101@@@Joey Travolta@@@I Don't Wanna Go
+85@@@101@@@Airwaves@@@So Hard Livin' Without You
+86@@@88@@@Bill LaBounty@@@This Night Won't Last Forever
+87@@@101@@@Boney M@@@Rivers Of Babylon
+88@@@93@@@Willie Nelson@@@Georgia On My Mind
+89@@@101@@@England Dan & John Ford Coley@@@You Can't Dance
+90@@@101@@@Kenny Rogers@@@Love Or Something Like It
+91@@@34@@@Electric Light Orchestra@@@Sweet Talkin' Woman
+92@@@101@@@Billy Joe Royal@@@Under The Boardwalk
+93@@@36@@@Dolly Parton@@@Two Doors Down
+94@@@46@@@The Michael Zager Band@@@Let's All Chant
+95@@@101@@@LeBlanc & Carr@@@Midnight Light
+96@@@51@@@Jackson Browne@@@Running On Empty
+97@@@52@@@Head East@@@Since You Been Gone
+98@@@54@@@Elton John@@@Ego
+99@@@59@@@Leif Garrett@@@The Wanderer
+100@@@66@@@Natalie Cole@@@Our Love

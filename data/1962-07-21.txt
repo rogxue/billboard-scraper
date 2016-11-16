@@ -1,0 +1,100 @@
+1@@@1@@@Bobby Vinton@@@Roses Are Red (My Love)
+2@@@4@@@The Orlons@@@The Wah Watusi
+3@@@3@@@Ray Charles@@@I Can't Stop Loving You
+4@@@2@@@David Rose and His Orchestra@@@The Stripper
+5@@@5@@@Brian Hyland@@@Sealed With A Kiss
+6@@@7@@@Claude King@@@Wolverton Mountain
+7@@@11@@@Joanie Sommers@@@Johnny Get Angry
+8@@@13@@@Pat Boone@@@Speedy Gonzales
+9@@@9@@@Dee Dee Sharp@@@Gravy (For My Mashed Potatoes)
+10@@@6@@@Freddy Cannon@@@Palisades Park
+11@@@10@@@Emilio Pericoli@@@Al Di La'
+12@@@18@@@Ray Stevens@@@Ahab, The Arab
+13@@@19@@@Neil Sedaka@@@Breaking Up Is Hard To Do
+14@@@8@@@Johnny Tillotson@@@It Keeps Right On A-Hurtin'
+15@@@20@@@Chubby Checker@@@Dancin' Party
+16@@@14@@@Bobby Rydell@@@I'll Never Dance Again
+17@@@17@@@Sam Cooke@@@Having A Party
+18@@@15@@@Richard Chamberlain@@@Theme From Dr. Kildare (Three Stars Will Shine Tonight)
+19@@@29@@@Eddie Hodges@@@(Girls, Girls, Girls) Made To Love
+20@@@12@@@Joe Henderson@@@Snap Your Fingers
+21@@@22@@@Shelley Fabares@@@Johnny Loves Me
+22@@@23@@@The Isley Brothers@@@Twist And Shout
+23@@@33@@@Barbara Lynn@@@You'll Lose A Good Thing
+24@@@24@@@Don Gardner And Dee Dee Ford@@@I Need Your Loving
+25@@@16@@@The Marvelettes@@@Playboy
+26@@@52@@@Little Eva@@@The Loco-Motion
+27@@@32@@@Gary U.S. Bonds@@@Seven Day Weekend
+28@@@34@@@The Shirelles@@@Welcome Home Baby
+29@@@25@@@Clyde McPhatter@@@Little Bitty Pretty One
+30@@@21@@@Johnny Crawford@@@Cindy's Birthday
+31@@@41@@@Brenda Lee@@@It Started All Over Again
+32@@@60@@@Claudine Clark@@@Party Lights
+33@@@26@@@Roy Orbison@@@The Crowd
+34@@@61@@@Bobby Darin@@@Things
+35@@@28@@@Paul Anka@@@A Steel Guitar And A Glass Of Wine
+36@@@55@@@Brenda Lee@@@Heart In Hand
+37@@@53@@@Dion@@@Little Diane
+38@@@27@@@The Dovells@@@Bristol Twistin' Annie
+39@@@31@@@Jimmy Smith And The Big Band@@@Walk On The Wild Side (Part 1)
+40@@@50@@@Sue Thompson@@@Have A Good Time
+41@@@43@@@Ketty Lester@@@But Not For Me
+42@@@35@@@Little Joey And The Flips@@@Bongo Stomp
+43@@@58@@@Joe Dowell@@@Little Red Rented Rowboat
+44@@@36@@@Mr. Acker Bilk@@@Stranger On The Shore
+45@@@37@@@Toni Fisher@@@West Of The Wall
+46@@@51@@@Jimmy Dean@@@Steel Men
+47@@@49@@@Bobby Curtola@@@Fortuneteller
+48@@@40@@@The Champs@@@Limbo Rock
+49@@@85@@@Sam Cooke@@@Bring It On Home To Me
+50@@@54@@@Nelson Riddle@@@Route 66 Theme
+51@@@38@@@Andy Williams@@@Stranger On The Shore
+52@@@59@@@The Jamies@@@Summertime, Summertime
+53@@@56@@@Jimmy Norman@@@I Don't Love You No More (I Don't Care About You)
+54@@@30@@@Bobby Vee@@@Sharing You
+55@@@62@@@James Darren@@@Mary's Little Lamb
+56@@@48@@@Dinah Washington@@@Where Are You
+57@@@57@@@Earl Grant@@@Swingin' Gently
+58@@@42@@@Gene Pitney@@@(The Man Who Shot) Liberty Valance
+59@@@71@@@Lawrence Welk And His Orchestra@@@Baby Elephant Walk
+60@@@64@@@John Lee Hooker@@@Boom Boom
+61@@@73@@@James Brown And The Famous Flames@@@Shout And Shimmy
+62@@@70@@@Linda Scott@@@Never In A Million Years
+63@@@78@@@Duane Eddy@@@The Ballad Of Paladin
+64@@@39@@@The Everly Brothers@@@That's Old Fashioned (That's The Way Love Should Be)
+65@@@76@@@Floyd Cramer@@@Hot Pepper
+66@@@88@@@Timi Yuro@@@What's A Matter Baby (Is It Hurting You)
+67@@@75@@@Dreamlovers@@@If I Should Lose You
+68@@@72@@@Vince Edwards@@@Why Did You Leave Me?
+69@@@80@@@Dickie Goodman@@@Ben Crazy
+70@@@101@@@Billy Vaughn And His Orchestra@@@A Swingin' Safari
+71@@@74@@@Solomon Burke@@@Down In The Valley
+72@@@84@@@Jackie Wilson@@@I Just Can't Help It
+73@@@83@@@Little Jo Ann@@@My Daddy Is President
+74@@@86@@@Janie Grant@@@That Greasy Kid Stuff
+75@@@96@@@Jerry Butler@@@Make It Easy On Yourself
+76@@@97@@@Baby Cortez@@@Rinky Dink
+77@@@82@@@Fats Domino@@@Nothing New (Same Old Thing)
+78@@@81@@@Ray Anthony@@@Worried Mind
+79@@@89@@@Sandy Nelson@@@All Night Long
+80@@@93@@@April Stevens & Nino Tempo@@@Sweet And Lovely
+81@@@90@@@Jerry Reed And The Hully Girlies@@@Goodnight, Irene
+82@@@95@@@Martin Denny and His Orchestra@@@A Taste Of Honey
+83@@@101@@@Bobby Bare@@@Shame On Me
+84@@@92@@@The Highwaymen@@@The Bird Man
+85@@@101@@@Solomon Burke@@@I'm Hanging Up My Heart For You
+86@@@87@@@Mr. Acker Bilk@@@Above The Stars
+87@@@101@@@The Lafayettes@@@Life's Too Short
+88@@@94@@@The Playmates@@@Keep Your Hands In Your Pockets
+89@@@91@@@Bobby Gregg and His Friends@@@Potato Peeler
+90@@@100@@@Frankie Avalon@@@A Miracle
+91@@@101@@@King Curtis and The Noble Knights@@@Beach Party
+92@@@101@@@Aretha Franklin@@@Don't Cry, Baby
+93@@@101@@@Burl Ives@@@Call Me Mr. In-Between
+94@@@101@@@The Belmonts@@@Come On Little Angel
+95@@@99@@@The Tokens@@@La Bomba
+96@@@101@@@Bob Braun@@@Till Death Do Us Part
+97@@@98@@@Henry Mancini And His Orchestra@@@Theme From Hatari!
+98@@@101@@@Fats Domino@@@Dance With Mr. Domino
+99@@@101@@@Billy Stewart@@@Reap What You Sow
+100@@@101@@@The Castle Sisters@@@Goodbye Dad

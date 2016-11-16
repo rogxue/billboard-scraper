@@ -1,0 +1,100 @@
+1@@@1@@@The Doors@@@Light My Fire
+2@@@3@@@The Beatles@@@All You Need Is Love
+3@@@2@@@Stevie Wonder@@@I Was Made To Love Her
+4@@@9@@@The Monkees@@@Pleasant Valley Sunday
+5@@@7@@@The Buckinghams@@@Mercy, Mercy, Mercy
+6@@@6@@@Frankie Valli@@@Can't Take My Eyes Off You
+7@@@5@@@Procol Harum@@@A Whiter Shade Of Pale
+8@@@4@@@The Association@@@Windy
+9@@@16@@@The Hollies@@@Carrie-Anne
+10@@@11@@@The Young Rascals@@@A Girl Like You
+11@@@22@@@Aretha Franklin@@@Baby I Love You
+12@@@13@@@The Tremeloes@@@Silence Is Golden
+13@@@15@@@The Happenings@@@My Mammy
+14@@@14@@@Nancy Sinatra & Lee Hazlewood@@@Jackson
+15@@@8@@@Jefferson Airplane@@@White Rabbit
+16@@@10@@@The Music Explosion@@@Little Bit O' Soul
+17@@@18@@@Bar-Kays@@@Soul Finger
+18@@@12@@@Sandy Posey@@@I Take It Back
+19@@@24@@@Neil Diamond@@@Thank The Lord For The Night Time
+20@@@47@@@James Brown And The Famous Flames@@@Cold Sweat - Part 1
+21@@@71@@@Bobbie Gentry@@@Ode To Billie Joe
+22@@@27@@@Bee Gees@@@To Love Somebody
+23@@@28@@@Linda Jones@@@Hypnotized
+24@@@34@@@The Monkees@@@Words
+25@@@26@@@Dean Martin@@@In The Chapel In The Moonlight
+26@@@19@@@The 5th Dimension@@@Up -- Up And Away
+27@@@30@@@Bunny Sigler@@@Let The Good Times Roll & Feel So Good
+28@@@17@@@Scott McKenzie@@@San Francisco (Be Sure To Wear Flowers In Your Hair)
+29@@@23@@@Smokey Robinson & The Miracles@@@More Love
+30@@@21@@@Bettye Swann@@@Make Me Yours
+31@@@29@@@Every Mothers' Son@@@Come On Down To My Boat
+32@@@25@@@Tommy James And The Shondells@@@I Like The Way
+33@@@61@@@The Beach Boys@@@Heroes And Villains
+34@@@41@@@The Beatles@@@Baby You're A Rich Man
+35@@@52@@@The Temptations@@@You're My Everything
+36@@@55@@@Bobby Vee And The Strangers@@@Come Back When You Grow Up
+37@@@37@@@The Parliaments@@@(I Wanna) Testify
+38@@@53@@@Simon & Garfunkel@@@Fakin' It
+39@@@39@@@Tommy Boyce & Bobby Hart@@@Out & About
+40@@@40@@@The Critters@@@Don't Let The Rain Fall Down On Me
+41@@@36@@@Janis Ian@@@Society's Child (Baby I've Been Thinking)
+42@@@50@@@Chris Bartley@@@The Sweetest Thing This Side Of Heaven
+43@@@43@@@James & Bobby Purify@@@I Take What I Want
+44@@@54@@@Jr. Walker & The All Stars@@@Shoot Your Shot
+45@@@35@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@C'mon Marianne
+46@@@46@@@The Forum@@@The River Is Wide
+47@@@68@@@Jay And The Techniques@@@Apples, Peaches, Pumpkin Pie
+48@@@73@@@Eric Burdon & The Animals@@@San Franciscan Nights
+49@@@20@@@Peaches & Herb@@@For Your Love
+50@@@56@@@Gladys Knight And The Pips@@@Everybody Needs Love
+51@@@33@@@Marvin Gaye@@@Your Unchanging Love
+52@@@65@@@Roy Orbison@@@Cry Softly Lonely One
+53@@@44@@@Nancy Sinatra@@@You Only Live Twice
+54@@@64@@@Dionne Warwick@@@The Windows Of The World
+55@@@66@@@Van Morrison@@@Brown Eyed Girl
+56@@@57@@@The Platters@@@Washed Ashore (On A Lonely Island In The Sea)
+57@@@67@@@Davie Allan And The Arrows@@@Blue's Theme
+58@@@78@@@Frank Sinatra@@@The World We Knew (Over And Over)
+59@@@75@@@The Turtles@@@You Know What I Mean
+60@@@60@@@Otis Redding@@@Glory Of Love
+61@@@101@@@Diana Ross & The Supremes@@@Reflections
+62@@@62@@@Glen Campbell@@@Gentle On My Mind
+63@@@58@@@The Buffalo Springfield@@@Bluebird
+64@@@79@@@The Sunshine Company@@@Happy
+65@@@45@@@Lou Rawls@@@Show Business
+66@@@59@@@Pieces Of Eight@@@Lonely Drifter
+67@@@82@@@Ronnie Dove@@@I Want To Love You For What You Are
+68@@@70@@@Jimmy Ruffin@@@Don't You Miss Me A Little Bit Baby
+69@@@69@@@The Tokens@@@It's A Happening World
+70@@@101@@@Sonny & Cher@@@It's The Little Things
+71@@@101@@@Jackie Wilson@@@(Your Love Keeps Lifting Me) Higher And Higher
+72@@@81@@@Dyke And The Blazers@@@Funky Broadway Part I
+73@@@86@@@Booker T. & The MG's@@@Groovin'
+74@@@76@@@Booker T. & The MG's@@@Slim Jenkin's Place
+75@@@80@@@The Yardbirds@@@Ha Ha Said The Clown
+76@@@77@@@Four Tops@@@I'll Turn To Stone
+77@@@92@@@Wilson Pickett@@@Funky Broadway
+78@@@83@@@Joe Tex@@@A Woman's Hands
+79@@@98@@@The Third Rail@@@Run, Run, Run
+80@@@101@@@The Grass Roots@@@Things I Should Have Said
+81@@@101@@@The Box Tops@@@The Letter
+82@@@101@@@Gary Lewis And The Playboys@@@Jill
+83@@@101@@@Brenton Wood@@@Gimme Little Sign
+84@@@101@@@Donovan@@@There Is A Mountain
+85@@@101@@@The Five Americans@@@Zip Code
+86@@@101@@@Oscar Toney, Jr.@@@Turn On Your Love Light
+87@@@101@@@Tom Jones@@@Sixteen Tons
+88@@@101@@@Frankie Laine@@@Laura, What's He Got That I Ain't Got
+89@@@91@@@The Wonder Who?@@@Lonesome Road
+90@@@101@@@The Dave Clark Five@@@A Little Bit Now
+91@@@101@@@Brian Hyland@@@Get The Message
+92@@@101@@@Otis & Carla@@@Knock On Wood
+93@@@101@@@Jimmy Roselli@@@There Must Be A Way
+94@@@101@@@Leon Haywood@@@It's Got To Be Mellow
+95@@@95@@@Country Joe & The Fish@@@Not So Sweet Martha Lorraine
+96@@@96@@@Baja Marimba Band@@@Along Comes Mary
+97@@@99@@@The Cryan' Shames@@@It Could Be We're In Love
+98@@@101@@@Robert Mitchum@@@Little Old Wine Drinker Me
+99@@@101@@@Brenda & The Tabulations@@@Just Once In A Lifetime
+100@@@100@@@Claudine Longet@@@Good Day Sunshine

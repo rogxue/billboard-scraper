@@ -1,0 +1,100 @@
+1@@@3@@@Eagles@@@One Of These Nights
+2@@@2@@@10cc@@@I'm Not In Love
+3@@@7@@@Bee Gees@@@Jive Talkin'
+4@@@4@@@Olivia Newton-John@@@Please Mr. Please
+5@@@1@@@Van McCoy The Soul City Symphony@@@The Hustle
+6@@@8@@@Elton John@@@Someone Saved My Life Tonight
+7@@@9@@@Melissa Manchester@@@Midnight Blue
+8@@@5@@@Wings@@@Listen To What The Man Said
+9@@@10@@@Gwen McCrae@@@Rockin' Chair
+10@@@11@@@Tony Camillo's Bazuka@@@Dynomite-Part I
+11@@@12@@@Gladys Knight And The Pips@@@The Way We Were/try To Remember
+12@@@14@@@War@@@Why Can't We Be Friends?
+13@@@15@@@Mike Post@@@The Rockford Files
+14@@@16@@@Glen Campbell@@@Rhinestone Cowboy
+15@@@17@@@James Taylor@@@How Sweet It Is (To Be Loved By You)
+16@@@18@@@Dwight Twilley Band@@@I'm On Fire
+17@@@13@@@Captain & Tennille@@@Love Will Keep Us Together
+18@@@20@@@Tony Orlando & Dawn@@@Mornin' Beautiful
+19@@@19@@@Charlie Rich@@@Every Time You Touch Me (I Get High)
+20@@@22@@@Commodores@@@Slippery When Wet
+21@@@6@@@Frankie Valli@@@Swearin' To God
+22@@@24@@@The Isley Brothers@@@Fight The Power Part 1
+23@@@25@@@Janis Ian@@@At Seventeen
+24@@@27@@@Hamilton, Joe Frank & Reynolds@@@Fallin' In Love
+25@@@31@@@Ambrosia@@@Holdin' On To Yesterday
+26@@@30@@@Michael Jackson@@@Just A Little Bit Of You
+27@@@29@@@Lynyrd Skynyrd@@@Saturday Night Special
+28@@@32@@@Freddy Fender@@@Wasted Days And Wasted Nights
+29@@@33@@@Bad Company@@@Feel Like Makin' Love
+30@@@34@@@Barry Manilow@@@Could It Be Magic
+31@@@35@@@Earth, Wind & Fire@@@That's The Way Of The World
+32@@@51@@@KC And The Sunshine Band@@@Get Down Tonight
+33@@@41@@@Sweet@@@Ballroom Blitz
+34@@@38@@@Amazing Rhythm Aces@@@Third Rate Romance
+35@@@37@@@Helen Reddy@@@Bluebird
+36@@@40@@@Judy Collins@@@Send In The Clowns
+37@@@43@@@Neil Sedaka@@@That's When The Music Takes Me
+38@@@44@@@The Hudson Brothers@@@Rendezvous
+39@@@45@@@David Bowie@@@Fame
+40@@@46@@@Moments@@@Look At Me (I'm In Love)
+41@@@50@@@Travis Wammack@@@(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool
+42@@@49@@@Sharon Paige and Harold Melvin And The Blue Notes@@@Hope That We Can Be Together Soon
+43@@@28@@@Hot Chocolate@@@Disco Queen
+44@@@54@@@Johnny Rivers@@@Help Me Rhonda
+45@@@52@@@Three Dog Night@@@Til The World Ends
+46@@@23@@@Pilot@@@Magic
+47@@@58@@@ZZ Top@@@Tush
+48@@@48@@@Al Green@@@Oh Me, Oh My (Dreams In My Arms)
+49@@@57@@@Johnny Wakelin & The Kinshasa Band@@@Black Superman - Muhammad Ali
+50@@@26@@@Ray Stevens@@@Misty
+51@@@56@@@The Temptations@@@Glasshouse
+52@@@59@@@Jud Strunk@@@The Biggest Parakeets In Town
+53@@@21@@@Michael Murphey@@@Wildfire
+54@@@64@@@Cat Stevens@@@Two Fine People
+55@@@66@@@America@@@Daisy Jane
+56@@@62@@@Morris Albert@@@Feelings
+57@@@67@@@Joan Baez@@@Blue Sky
+58@@@68@@@Paul Anka/Odia Coates@@@(I Believe) There's Nothing Stronger Than Our Love
+59@@@61@@@Eddie Kendricks@@@Get The Cream Off The Top
+60@@@60@@@Jackson 5@@@Forever Came Today
+61@@@65@@@South Shore Commission@@@Free Man
+62@@@73@@@Linda Ronstadt@@@It Doesn't Matter Anymore/When Will I Be Loved
+63@@@36@@@Aerosmith@@@Sweet Emotion
+64@@@79@@@The Pointer Sisters@@@How Long (Betcha' Got A Chick On The Side)
+65@@@75@@@The Osmonds@@@The Proud One
+66@@@76@@@The Stylistics@@@Can't Give You Anything (but My Love)
+67@@@77@@@New Birth@@@Dream Merchant
+68@@@78@@@Orleans@@@Dance With Me
+69@@@74@@@Chocolate Milk@@@Action Speaks Louder Than Words
+70@@@53@@@Bachman-Turner Overdrive@@@Hey You
+71@@@42@@@Mfsb@@@Sexy
+72@@@82@@@Tavares@@@It Only Takes A Minute
+73@@@80@@@Gary Toms Empire@@@7-6-5-4-3-2-1 (Blow Your Whistle)
+74@@@85@@@The Impressions@@@Sooner Or Later
+75@@@87@@@The O'Jays@@@Let Me Make Love To You
+76@@@101@@@Carpenters@@@Solitaire
+77@@@101@@@The Doobie Brothers@@@Sweet Maxine
+78@@@101@@@David Geddes@@@Run Joey Run
+79@@@89@@@Austin Roberts@@@Rocky
+80@@@84@@@Carly Simon@@@Waterfall
+81@@@101@@@Frank Sinatra@@@I Believe I'm Gonna Love You
+82@@@88@@@Ace@@@Rock & Roll Runaway
+83@@@72@@@The Brecker Brothers@@@Sneakin' Up Behind You
+84@@@86@@@Debbie Campbell@@@Please Tell Him That I Said Hello
+85@@@101@@@The Blackbyrds@@@Flyin' High
+86@@@101@@@Evie Sands@@@I Love Makin' Love To You
+87@@@97@@@Merry Clayton@@@Keep Your Eye On The Sparrow
+88@@@101@@@The Ritchie Family@@@Brazil
+89@@@101@@@East L.A. Car Pool@@@Like They Say In L.A.
+90@@@90@@@Love Childs Afro Cuban Blues Band@@@Life And Death In G&A
+91@@@95@@@Fantastic Four@@@Alvin Stone (The Birth & Death Of A Gangster)
+92@@@94@@@Reparata@@@Shoes
+93@@@93@@@Elvin Bishop@@@Sure Feels Good
+94@@@96@@@The Reflections@@@Three Steps From True Love
+95@@@101@@@Leon Russell@@@Lady Blue
+96@@@98@@@Smokey@@@If You Think You Know How To Love Me
+97@@@101@@@The Grass Roots@@@Mamacita
+98@@@101@@@Christopher Paul And Shawn@@@For Your Love
+99@@@99@@@Chuck Mangione@@@Chase The Clouds Away
+100@@@100@@@The Mystic Moods@@@Honey Trippin'

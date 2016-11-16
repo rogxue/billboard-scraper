@@ -1,0 +1,100 @@
+1@@@9@@@The Doors@@@Hello, I Love You
+2@@@8@@@Mason Williams@@@Classical Gas
+3@@@3@@@The 5th Dimension@@@Stoned Soul Picnic
+4@@@1@@@Hugh Masekela@@@Grazing In The Grass
+5@@@6@@@Donovan@@@Hurdy Gurdy Man
+6@@@4@@@The Rolling Stones@@@Jumpin' Jack Flash
+7@@@2@@@Gary Puckett And The Union Gap@@@Lady Willpower
+8@@@5@@@Cliff Nobles & Co.@@@The Horse
+9@@@11@@@The Vogues@@@Turn Around, Look At Me
+10@@@18@@@Cream@@@Sunshine Of Your Love
+11@@@31@@@Steppenwolf@@@Born To Be Wild
+12@@@15@@@The Status Quo@@@Pictures Of Matchstick Men
+13@@@32@@@The Rascals@@@People Got To Be Free
+14@@@14@@@Eric Burdon & The Animals@@@Sky Pilot (Part One)
+15@@@7@@@Herb Alpert@@@This Guy's In Love With You
+16@@@47@@@The Vanilla Fudge@@@You Keep Me Hangin' On
+17@@@38@@@The Amboy Dukes@@@Journey To The Center Of The Mind
+18@@@25@@@The Dells@@@Stay In My Corner
+19@@@21@@@Bobby Goldsboro@@@Autumn Of My Life
+20@@@30@@@Mama Cass With The Mamas & The Papas@@@Dream A Little Dream Of Me
+21@@@10@@@The Cowsills@@@Indian Lake
+22@@@42@@@Booker T. & The MG's@@@Soul-Limbo
+23@@@16@@@Sergio Mendes & Brasil '66@@@The Look Of Love
+24@@@17@@@Merrilee Rush & The Turnabouts@@@Angel Of The Morning
+25@@@12@@@Shorty Long@@@Here Comes The Judge
+26@@@13@@@Friend And Lover@@@Reach Out Of The Darkness
+27@@@27@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Don't Take It So Hard
+28@@@53@@@Bobby Vinton@@@Halfway To Paradise
+29@@@29@@@Nancy Wilson@@@Face It Girl, It's Over
+30@@@40@@@Gary Lewis And The Playboys@@@Sealed With A Kiss
+31@@@33@@@Peggy Scott & Jo Jo Benson@@@Lover's Holiday
+32@@@62@@@Jose Feliciano@@@Light My Fire
+33@@@45@@@Glen Campbell@@@Dreams Of The Everyday Housewife
+34@@@56@@@Tommy Boyce & Bobby Hart@@@Alice Long (You're Still My Favorite Girlfriend)
+35@@@35@@@Ray Charles@@@Eleanor Rigby
+36@@@26@@@Jerry Butler@@@Never Give You Up
+37@@@37@@@Johnny Cash@@@Folsom Prison Blues
+38@@@20@@@Gene Pitney@@@She's A Heartbreaker
+39@@@49@@@Archie Bell & The Drells@@@I Can't Stop Dancing
+40@@@46@@@B.J. Thomas@@@The Eyes Of A New York Woman
+41@@@41@@@The Fantastic Johnny C@@@Hitch It To The Horse
+42@@@22@@@People@@@I Love You
+43@@@24@@@Wilson Pickett@@@I'm A Midnight Mover
+44@@@48@@@Stevie Wonder@@@You Met Your Match
+45@@@19@@@Pigmeat Markham@@@Here Comes The Judge
+46@@@23@@@Richard Harris@@@MacArthur Park
+47@@@28@@@Ohio Express@@@Yummy Yummy Yummy
+48@@@71@@@The Moody Blues@@@Tuesday Afternoon (Forever Afternoon)
+49@@@57@@@The Intruders@@@(Love Is Like A) Baseball Game
+50@@@78@@@Petula Clark@@@Don't Give Up
+51@@@54@@@Four Tops@@@Yesterday's Dreams
+52@@@36@@@Otis Redding@@@Amen
+53@@@84@@@1910 Fruitgum Co.@@@1, 2, 3, Red Light
+54@@@80@@@Marvin Gaye & Tammi Terrell@@@You're All I Need To Get By
+55@@@43@@@Billy Vera@@@With Pen In Hand
+56@@@58@@@Barbara Acklin@@@Love Makes A Woman
+57@@@60@@@Willie Mitchell@@@Prayer Meetin'
+58@@@64@@@Roger Williams@@@The Impossible Dream
+59@@@59@@@The Peppermint Trolley Company@@@Baby You Come Rollin' Across My Mind
+60@@@44@@@The Marvelettes@@@Here I Am Baby
+61@@@88@@@The Beach Boys@@@Do It Again
+62@@@68@@@Wayne Newton@@@Dreams Of The Everyday Housewife
+63@@@63@@@Otis Redding@@@Hard To Handle
+64@@@66@@@Jackie Wilson@@@I Get The Sweetest Feeling
+65@@@65@@@Ray Charles@@@Understanding
+66@@@70@@@Neil Diamond@@@Two-Bit Manchild
+67@@@67@@@Clarence Carter@@@Slip Away
+68@@@81@@@The Cherry People@@@And Suddenly
+69@@@73@@@Eternity's Children@@@Mrs. Bluebird
+70@@@52@@@The New Colony Six@@@Can't You See Me Cry
+71@@@91@@@Eddie Floyd@@@I've Never Found A Girl (To Love Me Like You Do)
+72@@@72@@@Elvis Presley With The Jordanaires@@@Your Time Hasn't Come Yet, Baby
+73@@@98@@@The Lovin' Spoonful@@@Never Going Back
+74@@@77@@@James Brown And The Famous Flames@@@I Guess I'll Have To Cry, Cry, Cry
+75@@@79@@@Nancy Sinatra@@@Happy
+76@@@76@@@Little Carl Carlton@@@Competition Ain't Nothin'
+77@@@95@@@The Impressions@@@I Loved And I Lost
+78@@@75@@@The Irish Rovers@@@(The Puppet Song) Whiskey On A Sunday
+79@@@90@@@Tommy James And The Shondells@@@Somebody Cares
+80@@@101@@@Bill Medley@@@Brown Eyed Woman
+81@@@86@@@The Happenings@@@Breaking Up Is Hard To Do
+82@@@85@@@The Ballads@@@God Bless Our Love
+83@@@101@@@The Temptations@@@Please Return Your Love To Me
+84@@@100@@@Wilmer And The Dukes@@@Give Me One More Chance
+85@@@94@@@B.B. King@@@I'm Gonna Do What They Do To Me
+86@@@101@@@Sam & Dave@@@Can't You Find Another Way (Of Doing It)
+87@@@96@@@Jerry Jeff Walker@@@Mr. Bojangles
+88@@@101@@@Bobby Cole@@@Mister Bo Jangles
+89@@@101@@@Ohio Express@@@Down At Lulu's
+90@@@101@@@Ray Stevens@@@Mr. Businessman
+91@@@101@@@Betty Wright@@@Girls Can't Do What The Guys Do
+92@@@101@@@The American Breed@@@Anyway That You Want Me
+93@@@93@@@Sly & The Family Stone@@@Life
+94@@@97@@@Freddie Hughes@@@Send My Baby Back
+95@@@101@@@Spanky And Our Gang@@@Give A Damn
+96@@@101@@@Patti Drew@@@Workin' On A Groovy Thing
+97@@@101@@@Percy Sledge@@@Sudden Stop
+98@@@99@@@The Soul Clan@@@Soul Meeting
+99@@@101@@@The Love Generation@@@Montage From How Sweet It Is (I Know That You Know)
+100@@@101@@@Flavor@@@Sally Had A Party

@@ -1,0 +1,100 @@
+1@@@1@@@The Mamas & The Papas@@@Monday, Monday
+2@@@3@@@Bob Dylan@@@Rainy Day Women #12 & 35
+3@@@2@@@The Young Rascals@@@Good Lovin'
+4@@@9@@@Percy Sledge@@@When A Man Loves A Woman
+5@@@13@@@The Mindbenders@@@A Groovy Kind Of Love
+6@@@4@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Kicks
+7@@@7@@@Nancy Sinatra@@@How Does That Grab You, Darlin'?
+8@@@8@@@Dionne Warwick@@@Message To Michael
+9@@@5@@@The Beach Boys@@@Sloop John B
+10@@@15@@@The Supremes@@@Love Is Like An Itching In My Heart
+11@@@6@@@The Righteous Brothers@@@(You're My) Soul And Inspiration
+12@@@10@@@Shadows Of Knight@@@Gloria
+13@@@18@@@The Walker Bros.@@@The Sun Ain't Gonna Shine (Anymore)
+14@@@16@@@The Byrds@@@Eight Miles High
+15@@@12@@@Herman's Hermits@@@Leaning On The Lamp Post
+16@@@25@@@The Lovin' Spoonful@@@Did You Ever Have To Make Up Your Mind?
+17@@@24@@@Simon & Garfunkel@@@I Am A Rock
+18@@@23@@@James Brown And The Famous Flames@@@It's A Man's Man's Man's World
+19@@@48@@@The Rolling Stones@@@Paint It, Black
+20@@@22@@@Ronnie Dove@@@Let's Start All Over Again
+21@@@11@@@The Yardbirds@@@Shapes Of Things
+22@@@20@@@Stevie Wonder@@@Nothing's Too Good For My Baby
+23@@@17@@@The Outsiders@@@Time Won't Let Me
+24@@@14@@@Johnny Rivers@@@Secret Agent Man
+25@@@49@@@Gary Lewis And The Playboys@@@Green Grass
+26@@@31@@@The McCoys@@@Come On Let's Go
+27@@@32@@@Gene Pitney@@@Backstage
+28@@@35@@@SSgt Barry Sadler@@@The A Team
+29@@@26@@@Bobby Fuller Four@@@Love's Made A Fool Of You
+30@@@33@@@Garnet Mimms@@@I'll Take Good Care Of You
+31@@@19@@@Cher@@@Bang Bang (My Baby Shot Me Down)
+32@@@21@@@The Dave Clark Five@@@Try Too Hard
+33@@@51@@@The Capitols@@@Cool Jerk
+34@@@52@@@Robert Parker@@@Barefootin'
+35@@@41@@@Mel Carter@@@Band Of Gold
+36@@@37@@@Frank Gallop@@@The Ballad Of Irving
+37@@@43@@@Jr. Walker & The All Stars@@@(I'm A) Road Runner
+38@@@38@@@The Bachelors@@@Love Me With All Of Your Heart
+39@@@40@@@Trini Lopez@@@I'm Comin' Home, Cindy
+40@@@42@@@Roy Orbison@@@Twinkle Toes
+41@@@47@@@Bobby Vinton@@@Dum-De-Da
+42@@@34@@@Just Us@@@I Can't Grow Peaches On A Cherry Tree
+43@@@53@@@Chris Montez@@@The More I See You
+44@@@39@@@Buddy Starcher@@@History Repeats Itself
+45@@@55@@@Sam & Dave@@@Hold On! I'm A Comin'
+46@@@46@@@The Poets@@@She Blew A Good Thing
+47@@@61@@@The Chiffons@@@Sweet Talkin' Guy
+48@@@50@@@The Marvelettes@@@You're The One
+49@@@45@@@Jim Reeves@@@Distant Drums
+50@@@44@@@The Hollies@@@I Can't Let Go
+51@@@66@@@Swingin' Medallions@@@Double Shot (Of My Baby's Love)
+52@@@54@@@Peter, Paul & Mary@@@The Cruel War
+53@@@57@@@The Five Americans@@@Evol-Not Love
+54@@@71@@@Frank Sinatra@@@Strangers In The Night
+55@@@74@@@Shades Of Blue@@@Oh How Happy
+56@@@62@@@Dean Martin@@@Come Running Back
+57@@@67@@@Vic Dana@@@I Love You Drops
+58@@@60@@@The Platters@@@I Love You 1000 Times
+59@@@88@@@B.J. Thomas@@@Mama
+60@@@82@@@Eddy Arnold@@@The Last Word In Lonesome Is Me
+61@@@68@@@Bobby Darin@@@Mame
+62@@@63@@@The Standells@@@Dirty Water
+63@@@101@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Opus 17 (Don't You Worry 'Bout Me)
+64@@@73@@@The Greenwoods@@@Please Don't Sell My Daddy No More Wine
+65@@@77@@@Peter And Gordon@@@There's No Living Without Your Loving
+66@@@87@@@The Outsiders@@@Girl In Love
+67@@@64@@@Bob Lind@@@Remember The Rain
+68@@@80@@@Ko Ko Taylor@@@Wang Dang Doodle
+69@@@84@@@Bobby Goldsboro@@@I Know You Better Than That
+70@@@78@@@Carla Thomas@@@Let Me Be Good To You
+71@@@86@@@Little Anthony And The Imperials@@@Better Use Your Head
+72@@@81@@@Dee Jay And The Runaways@@@Peter Rabbit
+73@@@89@@@Jimmie Rodgers@@@It's Over
+74@@@72@@@Dallas Frazier@@@Elvira
+75@@@90@@@Joe Tex@@@S.Y.S.L.J.F.M. (The Letter Song)
+76@@@101@@@Dusty Springfield@@@You Don't Have To Say You Love Me
+77@@@79@@@Deon Jackson@@@Love Takes A Long Time Growing
+78@@@75@@@Them@@@Gloria
+79@@@101@@@The Animals@@@Don't Bring Me Down
+80@@@101@@@The Kinks@@@Dedicated Follower Of Fashion
+81@@@85@@@Bob Lind@@@Truly Julie's Blues (I'll Be There)
+82@@@83@@@Mrs. Miller@@@Downtown
+83@@@91@@@Love@@@My Little Red Book
+84@@@101@@@The Leaves@@@Hey Joe
+85@@@101@@@Louis Armstrong@@@Mame
+86@@@101@@@Barry McGuire@@@Cloudy Summer Afternoon (Raindrops)
+87@@@101@@@Neil Diamond@@@Solitary Man
+88@@@98@@@Drafi@@@Marble Breaks And Iron Bends
+89@@@96@@@Edwin Starr@@@Headline News
+90@@@101@@@The Cyrkle@@@Red Rubber Ball
+91@@@101@@@Billy Joe Royal@@@Heart's Desire
+92@@@97@@@The Holidays@@@I'll Love You Forever
+93@@@101@@@Steve Alaimo@@@So Much Love
+94@@@101@@@The Five Stairsteps@@@You Waited Too Long
+95@@@100@@@The Gentrys@@@Everyday I Have To Cry
+96@@@101@@@Ben E. King@@@So Much Love
+97@@@99@@@The Kingsmen@@@Louie Louie
+98@@@101@@@Barbra Streisand@@@Sam, You Made The Pants Too Long
+99@@@101@@@Marvin Gaye@@@Take This Heart Of Mine
+100@@@101@@@Bobby Bland@@@Good Time Charlie

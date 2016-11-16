@@ -1,0 +1,100 @@
+1@@@1@@@Pharrell Williams@@@Happy
+2@@@2@@@John Legend@@@All Of Me
+3@@@3@@@Katy Perry Featuring Juicy J@@@Dark Horse
+4@@@4@@@Jason Derulo Featuring 2 Chainz@@@Talk Dirty
+5@@@5@@@Idina Menzel@@@Let It Go
+6@@@6@@@Bastille@@@Pompeii
+7@@@7@@@Lorde@@@Team
+8@@@10@@@DJ Snake & Lil Jon@@@Turn Down For What
+9@@@9@@@Aloe Blacc@@@The Man
+10@@@8@@@OneRepublic@@@Counting Stars
+11@@@12@@@Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga@@@Loyal
+12@@@14@@@Justin Timberlake@@@Not A Bad Thing
+13@@@11@@@American Authors@@@Best Day Of My Life
+14@@@26@@@Luke Bryan@@@Play It Again
+15@@@101@@@Ed Sheeran@@@Sing
+16@@@22@@@Florida Georgia Line Ft. Jason Derulo & Luke Bryan@@@This Is How We Roll
+17@@@13@@@Pitbull Featuring Ke$ha@@@Timber
+18@@@16@@@Avicii@@@Hey Brother
+19@@@15@@@Kid Ink Featuring Chris Brown@@@Show Me
+20@@@24@@@Brantley Gilbert@@@Bottoms Up
+21@@@23@@@Martin Garrix@@@Animals
+22@@@28@@@Trey Songz@@@Na Na
+23@@@18@@@One Direction@@@Story Of My Life
+24@@@21@@@Passenger@@@Let Her Go
+25@@@27@@@Ellie Goulding@@@Burn
+26@@@34@@@Paramore@@@Ain't It Fun
+27@@@17@@@Beyonce Featuring Jay Z@@@Drunk In Love
+28@@@25@@@Avicii@@@Wake Me Up!
+29@@@29@@@Imagine Dragons@@@Demons
+30@@@19@@@A Great Big World & Christina Aguilera@@@Say Something
+31@@@33@@@Naughty Boy Featuring Sam Smith@@@La La La
+32@@@30@@@Eminem Featuring Rihanna@@@The Monster
+33@@@20@@@The Chainsmokers@@@#SELFIE
+34@@@35@@@Beyonce@@@Partition
+35@@@31@@@Lorde@@@Royals
+36@@@38@@@Eric Church@@@Give Me Back My Hometown
+37@@@56@@@Iggy Azalea Featuring Charli XCX@@@Fancy
+38@@@36@@@Jerrod Niemann@@@Drink To That All Night
+39@@@37@@@Demi Lovato@@@Neon Lights
+40@@@32@@@Christina Perri@@@Human
+41@@@58@@@Miranda Lambert@@@Automatic
+42@@@39@@@Imagine Dragons@@@Radioactive
+43@@@46@@@Jhene Aiko@@@The Worst
+44@@@50@@@Rascal Flatts@@@Rewind
+45@@@48@@@Thomas Rhett@@@Get Me Some Of That
+46@@@41@@@YG Featuring Jeezy & Rich Homie Quan@@@My Hitta
+47@@@72@@@Calvin Harris@@@Summer
+48@@@44@@@Keith Urban@@@Cop Car
+49@@@40@@@Blake Shelton@@@Doin' What She Likes
+50@@@55@@@Young Money Featuring Drake@@@Trophies
+51@@@47@@@MKTO@@@Classic
+52@@@57@@@Pitbull Featuring G.R.L.@@@Wild Wild Love
+53@@@43@@@Ty Dolla $ign Featuring B.o.B@@@Paranoid
+54@@@66@@@Coldplay@@@Magic
+55@@@65@@@Rixton@@@Me And My Broken Heart
+56@@@51@@@Austin Mahone Featuring Pitbull@@@Mmm Yeah
+57@@@42@@@Dan + Shay@@@19 You + Me
+58@@@54@@@Randy Houser@@@Goodnight Kiss
+59@@@45@@@Shakira Featuring Rihanna@@@Can't Remember To Forget You
+60@@@69@@@Future Featuring Pharrell, Pusha T & Casino@@@Move That Doh
+61@@@53@@@Young Thug@@@Stoner
+62@@@59@@@YG Featuring Drake@@@Who Do You Love?
+63@@@62@@@Brett Eldredge@@@Beat Of The Music
+64@@@64@@@Neon Trees@@@Sleeping With A Friend
+65@@@74@@@Justin Moore@@@Lettin' The Night Roll
+66@@@60@@@5 Seconds Of Summer@@@She Looks So Perfect
+67@@@78@@@Fitz And The Tantrums@@@The Walker
+68@@@75@@@Tiesto@@@Red Lights
+69@@@52@@@Kristen Bell, Agatha Lee Monn & Katie Lopez@@@Do You Want To Build A Snowman?
+70@@@61@@@Demi Lovato@@@Let It Go
+71@@@67@@@Dierks Bentley@@@I Hold On
+72@@@84@@@Jake Owen@@@Beachin'
+73@@@71@@@Jason Aldean@@@When She Says Baby
+74@@@70@@@ScHoolboy Q@@@Man Of The Year
+75@@@63@@@Kristen Bell & Idina Menzel@@@For The First Time In Forever
+76@@@76@@@B.o.B Featuring Priscilla@@@John Doe
+77@@@77@@@Arctic Monkeys@@@Do I Wanna Know?
+78@@@73@@@Eminem Featuring Nate Ruess@@@Headlights
+79@@@90@@@Disclosure Featuring Sam Smith@@@Latch
+80@@@82@@@Hunter Hayes@@@Invisible
+81@@@86@@@Imagine Dragons@@@On Top Of The World
+82@@@83@@@Jay Z Featuring Beyonce@@@Part II (On The Run)
+83@@@91@@@SoMo@@@Ride
+84@@@87@@@Tyler Farr@@@Whiskey In My Water
+85@@@85@@@Tim McGraw@@@Lookin' For That Girl
+86@@@88@@@Frankie Ballard@@@Helluva Life
+87@@@95@@@Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard@@@Or Nah
+88@@@101@@@Pitbull Featuring Jennifer Lopez & Claudia Leitte@@@We Are One (Ole Ola) [The 2014 FIFA World Cup Official Song]
+89@@@101@@@KCamp Featuring 2 Chainz@@@Cut Her Off
+90@@@79@@@Shakira@@@Empire
+91@@@101@@@Katy Perry@@@Birthday
+92@@@89@@@Miley Cyrus@@@Adore You
+93@@@98@@@KONGOS@@@Come With Me Now
+94@@@93@@@Hillsong UNITED@@@Oceans (Where Feet May Fail)
+95@@@101@@@Bastille@@@Bad Blood
+96@@@101@@@will.i.am Featuring Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard@@@Feelin' Myself
+97@@@96@@@Sara Evans@@@Slow Me Down
+98@@@101@@@Ingrid Michaelson@@@Girls Chase Boys
+99@@@80@@@Cash Cash Featuring Bebe Rexha@@@Take Me Home
+100@@@99@@@Romeo Santos Featuring Drake@@@Odio

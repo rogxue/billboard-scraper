@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@I Feel Fine
+2@@@2@@@The Supremes@@@Come See About Me
+3@@@3@@@Bobby Vinton@@@Mr. Lonely
+4@@@4@@@The Beatles@@@She's A Woman
+5@@@11@@@The Searchers@@@Love Potion Number Nine
+6@@@6@@@Little Anthony And The Imperials@@@Goin' Out Of My Head
+7@@@5@@@The Zombies@@@She's Not There
+8@@@12@@@The Impressions@@@Amen
+9@@@9@@@The Larks@@@The Jerk
+10@@@14@@@Julie Rogers@@@The Wedding
+11@@@7@@@Lorne Greene@@@Ringo
+12@@@41@@@Petula Clark@@@Downtown
+13@@@13@@@Manfred Mann@@@Sha La La
+14@@@34@@@The Righteous Brothers@@@You've Lost That Lovin' Feelin'
+15@@@23@@@Del Shannon@@@Keep Searchin' (We'll Follow The Sun)
+16@@@21@@@Robert Goulet@@@My Love, Forgive Me (Amore, Scusami)
+17@@@19@@@The Dave Clark Five@@@Any Way You Want It
+18@@@24@@@Chad & Jeremy@@@Willow Weep For Me
+19@@@27@@@Marvin Gaye@@@How Sweet It Is To Be Loved By You
+20@@@10@@@The Rolling Stones@@@Time Is On My Side
+21@@@17@@@Herman's Hermits@@@I'm Into Something Good
+22@@@8@@@The Beach Boys@@@Dance, Dance, Dance
+23@@@28@@@The Detergents@@@Leader Of The Laundromat
+24@@@25@@@Maxine Brown@@@Oh No Not My Baby
+25@@@32@@@Dick and DeeDee@@@Thou Shalt Not Steal
+26@@@26@@@Marianne Faithfull@@@As Tears Go By
+27@@@30@@@Andy Williams@@@Dear Heart
+28@@@29@@@The Marvelettes@@@Too Many Fish In The Sea
+29@@@16@@@Johnny Rivers@@@Mountain Of Love
+30@@@20@@@The Drifters@@@Saturday Night At The Movies
+31@@@42@@@Bobbi Martin@@@Don't Forget I Still Love You
+32@@@15@@@Gene Pitney@@@I'm Gonna Be Strong
+33@@@37@@@Jack Jones@@@Dear Heart
+34@@@35@@@The Ray Charles Singers@@@One More Time
+35@@@31@@@Johnny Tillotson@@@She Understands Me
+36@@@38@@@The Ronettes@@@Walking In The Rain
+37@@@40@@@Matt Monro@@@Walk Away
+38@@@39@@@Martha & The Vandellas@@@Wild One
+39@@@43@@@Roger Miller@@@Do-Wacka-Do
+40@@@59@@@Joe Tex@@@Hold What You've Got
+41@@@51@@@Gerry And The Pacemakers@@@I'll Be There
+42@@@45@@@Betty Everett & Jerry Butler@@@Smile
+43@@@46@@@The You Know Who Group!@@@Roses Are Red My Love
+44@@@18@@@The Kinks@@@You Really Got Me
+45@@@55@@@Chuck Berry@@@Promised Land
+46@@@48@@@Gene Chandler@@@What Now
+47@@@57@@@Dean Martin@@@You're Nobody Till Somebody Loves You
+48@@@49@@@The Animals@@@Boom Boom
+49@@@52@@@The Waikikis@@@Hawaii Tattoo
+50@@@60@@@Shirley Ellis@@@The Name Game
+51@@@53@@@Candy & The Kisses@@@The 81
+52@@@54@@@Sandie Shaw@@@(There's) Always Something There To Remind Me
+53@@@47@@@Chuck Jackson@@@Since I Don't Have You
+54@@@69@@@The Kinks@@@All Day And All Of The Night
+55@@@63@@@Ben E. King@@@Seven Letters
+56@@@58@@@The Hullaballoos@@@I'm Gonna Love You Too
+57@@@83@@@The Shangri-Las@@@Give Him A Great Big Kiss
+58@@@62@@@Ray Charles@@@Makin' Whoopee
+59@@@61@@@Gale Garnett@@@Lovin' Place
+60@@@44@@@The Gestures@@@Run, Run, Run
+61@@@68@@@The Honeycombs@@@I Can't Stop
+62@@@81@@@Jay & The Americans@@@Let's Lock The Door (And Throw Away The Key)
+63@@@65@@@The Miracles@@@Come On Do The Jerk
+64@@@64@@@Major Lance@@@Sometimes I Wonder
+65@@@66@@@Betty Everett@@@Getting Mighty Crowded
+66@@@75@@@Jerry Vale@@@Have You Looked Into Your Heart
+67@@@70@@@Brook Benton@@@Do It Right
+68@@@76@@@Frank Sinatra@@@Somewhere In Your Heart
+69@@@71@@@Irma Thomas@@@He's My Guy
+70@@@73@@@Jo Ann & Troy@@@I Found A Love Oh What A Love
+71@@@90@@@Lesley Gore@@@Look Of Love
+72@@@79@@@Dean Martin@@@You'll Always Be The One I Love
+73@@@88@@@The Dixie Cups@@@Little Bell
+74@@@77@@@The Contours@@@Can You Jerk Like Me
+75@@@85@@@Ronny And The Daytonas@@@Bucket T
+76@@@82@@@Patti LaBelle And The Blue Belles@@@Danny Boy
+77@@@78@@@Henry Mancini And His Orchestra@@@Dear Heart
+78@@@101@@@Sue Thompson@@@Paper Tiger
+79@@@74@@@Harold Betters@@@Do Anything You Wanna (Part I)
+80@@@98@@@The Bachelors@@@No Arms Can Ever Hold You
+81@@@86@@@Lee Morgan@@@The Sidewinder, Part 1
+82@@@101@@@Chubby Checker@@@Lovely, Lovely (Loverly, Loverly)
+83@@@100@@@Ned Miller@@@Do What You Do Do Well
+84@@@84@@@The Dolphins@@@Hey-Da-Da-Dow
+85@@@87@@@Willie Mitchell@@@Percolatin'
+86@@@89@@@Bobby Vee@@@(There'll Come A Day When) Ev'ry Little Bit Hurts
+87@@@92@@@The Hondells@@@My Buddy Seat
+88@@@101@@@Little Milton@@@Blind Man
+89@@@101@@@Bill Black's Combo@@@So What
+90@@@101@@@Mary Wells@@@Use Your Head
+91@@@93@@@The Shangri-Las@@@Maybe
+92@@@95@@@James Brown And The Famous Flames@@@Have Mercy Baby
+93@@@99@@@The Shirelles@@@Are You Still My Baby
+94@@@96@@@The Radiants@@@Voice Your Choice
+95@@@101@@@Garnet Mimms@@@A Little Bit Of Soap
+96@@@101@@@The Beau Brummels@@@Laugh, Laugh
+97@@@97@@@Don Covay@@@Take This Hurt Off Me
+98@@@101@@@Billy Edd Wheeler@@@Ode To The Little Brown Shack Out Back
+99@@@101@@@Bobby Bland@@@Black Night
+100@@@101@@@Alvin Cash & The Crawlers@@@Twine Time

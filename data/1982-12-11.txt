@@ -1,0 +1,100 @@
+1@@@3@@@Toni Basil@@@Mickey
+2@@@2@@@Laura Branigan@@@Gloria
+3@@@4@@@Daryl Hall & John Oates@@@Maneater
+4@@@1@@@Lionel Richie@@@Truly
+5@@@8@@@Michael Jackson And Paul McCartney@@@The Girl Is Mine
+6@@@7@@@Joe Jackson@@@Steppin' Out
+7@@@9@@@Don Henley@@@Dirty Laundry
+8@@@12@@@Marvin Gaye@@@Sexual Healing
+9@@@11@@@Stray Cats@@@Rock This Town
+10@@@10@@@Diana Ross@@@Muscles
+11@@@13@@@Supertramp Featuring Roger Hodgson@@@It's Raining Again
+12@@@6@@@Joe Cocker And Jennifer Warnes@@@Up Where We Belong
+13@@@14@@@Pat Benatar@@@Shadows Of The Night
+14@@@19@@@Men At Work@@@Down Under
+15@@@17@@@Dionne Warwick@@@Heartbreaker
+16@@@16@@@Olivia Newton-John@@@Heart Attack
+17@@@5@@@Neil Diamond@@@Heartlight
+18@@@27@@@Toto@@@Africa
+19@@@25@@@The Clash@@@Rock The Casbah
+20@@@21@@@ABC@@@The Look Of Love (Part One)
+21@@@24@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+22@@@22@@@Chicago@@@Love Me Tomorrow
+23@@@23@@@Dan Fogelberg@@@Missing You
+24@@@28@@@Phil Collins@@@You Can't Hurry Love
+25@@@31@@@Patti Austin With James Ingram@@@Baby, Come To Me
+26@@@26@@@Donald Fagen@@@I.g.y. (what A Beautiful World)
+27@@@34@@@Little River Band@@@The Other Guy
+28@@@29@@@Jefferson Starship@@@Be My Lady
+29@@@33@@@John Cougar@@@Hand To Hold On To
+30@@@32@@@Jeffrey Osborne@@@On The Wings Of Love
+31@@@47@@@Kenny Loggins@@@Heart To Heart
+32@@@38@@@Tom Petty And The Heartbreakers@@@You Got Lucky
+33@@@35@@@Billy Squier@@@Everybody Wants You
+34@@@36@@@Tavares@@@A Penny For Your Thoughts
+35@@@45@@@Adam Ant@@@Goody Two Shoes
+36@@@37@@@Moving Pictures@@@What About Me
+37@@@43@@@The J. Geils Band@@@I Do
+38@@@40@@@Kool & The Gang@@@Let's Go Dancin' (ooh La, La, La)
+39@@@39@@@Peter Gabriel@@@Shock The Monkey
+40@@@51@@@Fleetwood Mac@@@Love In Store
+41@@@41@@@Chilliwack@@@Whatcha Gonna Do
+42@@@18@@@Crosby, Stills & Nash@@@Southern Cross
+43@@@48@@@Kim Carnes@@@Does It Make You Remember
+44@@@49@@@Prince@@@1999
+45@@@50@@@Air Supply@@@Two Less Lonely People In The World
+46@@@46@@@Charlene & Stevie Wonder@@@Used To Be
+47@@@56@@@Joni Mitchell@@@(you're So Square) Baby, I Don't Care
+48@@@58@@@A Flock Of Seagulls@@@Space Age Love Song
+49@@@54@@@Michael McDonald@@@I Gotta Try
+50@@@59@@@Juice Newton@@@Heart Of The Night
+51@@@63@@@Billy Joel@@@Allentown
+52@@@57@@@Bill Conti@@@Theme From Dynasty
+53@@@53@@@George Harrison@@@Wake Up My Love
+54@@@20@@@Billy Joel@@@Pressure
+55@@@55@@@Luther Vandross@@@Bad Boy/Having A Party
+56@@@15@@@Sylvia@@@Nobody
+57@@@62@@@Barry Manilow@@@Memory
+58@@@64@@@America@@@Right Before Your Eyes
+59@@@70@@@Ray Parker Jr.@@@Bad Boy
+60@@@60@@@The Motels@@@Forever Mine
+61@@@69@@@Sonny Charles@@@Put It In A Magazine
+62@@@66@@@Frida@@@I Know There's Something Going On
+63@@@73@@@Golden Earring@@@Twilight Zone
+64@@@30@@@The Pointer Sisters@@@I'm So Excited
+65@@@65@@@Scandal Featuring Patty Smyth@@@Goodbye To You
+66@@@71@@@The Alan Parsons Project@@@Psychobabble
+67@@@72@@@Santana@@@Nowhere To Run
+68@@@68@@@Steel Breeze@@@You Don't Want Me Anymore
+69@@@42@@@Missing Persons@@@Destination Unknown
+70@@@101@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+71@@@78@@@Elvis Presley@@@The Elvis Medley
+72@@@80@@@Culture Club@@@Do You Really Want To Hurt Me
+73@@@101@@@Glenn Frey@@@All Those Lies
+74@@@86@@@Saga@@@On The Loose
+75@@@84@@@Lanier & Co.@@@After I Cry Tonight
+76@@@82@@@Lee Ritenour@@@Cross My Heart
+77@@@101@@@Linda Ronstadt@@@I Knew You When
+78@@@44@@@Survivor@@@American Heartbeat
+79@@@85@@@Commodores@@@Painted Picture
+80@@@101@@@Musical Youth@@@Pass The Dutchie
+81@@@52@@@Men At Work@@@Who Can It Be Now?
+82@@@101@@@Wolf@@@Papa Was A Rollin' Stone
+83@@@101@@@The Steve Miller Band@@@Give It Up
+84@@@101@@@Rodway@@@Don't Stop Trying
+85@@@61@@@John Cougar@@@Jack & Diane
+86@@@101@@@The Spinners@@@Funny How Time Slips Away
+87@@@67@@@Judas Priest@@@You've Got Another Thing Comin'
+88@@@101@@@Pretenders@@@Back On The Chain Gang
+89@@@74@@@Robert Plant@@@Pledge Pin
+90@@@101@@@Pia Zadora@@@The Clapping Song
+91@@@92@@@The Fixx@@@Stand Or Fall
+92@@@75@@@America@@@You Can Do Magic
+93@@@76@@@Michael McDonald@@@I Keep Forgettin' (Every Time You're Near)
+94@@@77@@@Kenny Rogers@@@A Love Song
+95@@@79@@@The Alan Parsons Project@@@Eye In The Sky
+96@@@81@@@Linda Ronstadt@@@Get Closer
+97@@@83@@@Sheena Easton@@@I Wouldn't Beg For Water
+98@@@88@@@Glenn Frey@@@The One You Love
+99@@@90@@@Evelyn King@@@Love Come Down
+100@@@91@@@Juice Newton@@@Break It To Me Gently

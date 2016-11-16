@@ -1,0 +1,100 @@
+1@@@2@@@The Steve Miller Band@@@The Joker
+2@@@1@@@Jim Croce@@@Time In A Bottle
+3@@@5@@@Al Wilson@@@Show And Tell
+4@@@6@@@Brownsville Station@@@Smokin' In The Boy's Room
+5@@@10@@@Gladys Knight And The Pips@@@I've Got To Use My Imagination
+6@@@16@@@Ringo Starr@@@You're Sixteen
+7@@@8@@@Barry White@@@Never, Never Gonna Give Ya Up
+8@@@9@@@Stevie Wonder@@@Living For The City
+9@@@13@@@Olivia Newton-John@@@Let Me Be There
+10@@@12@@@Paul McCartney & Wings@@@Helen Wheels
+11@@@15@@@Barbra Streisand@@@The Way We Were
+12@@@4@@@Charlie Rich@@@The Most Beautiful Girl
+13@@@17@@@Love Unlimited Orchestra@@@Love's Theme
+14@@@3@@@Helen Reddy@@@Leave Me Alone (ruby Red Dress)
+15@@@19@@@Donny Osmond@@@When I Fall In Love/Are You Lonesome Tonight
+16@@@20@@@War@@@Me And Baby Brother
+17@@@18@@@Aretha Franklin@@@Until You Come Back To Me (That's What I'm Gonna Do)
+18@@@7@@@Elton John@@@GOODBYE YELLOW BRICK ROAD
+19@@@11@@@Carpenters@@@Top Of The World
+20@@@14@@@Todd Rundgren@@@Hello It's Me
+21@@@24@@@Al Green@@@Livin' For You
+22@@@30@@@Jim Stafford@@@Spiders & Snakes
+23@@@31@@@Grand Funk@@@Walk Like A Man
+24@@@21@@@The Staple Singers@@@If You're Ready (Come Go With Me)
+25@@@29@@@Cheech & Chong@@@Sister Mary Elephant (Shudd-Up!)
+26@@@23@@@Chicago@@@Just You 'n' Me
+27@@@22@@@The Stylistics@@@Rockin' Roll Baby
+28@@@37@@@Kool & The Gang@@@Jungle Boogie
+29@@@25@@@John Lennon@@@MIND GAMES
+30@@@26@@@Led Zeppelin@@@D'yer Mak'er
+31@@@28@@@Loggins & Messina@@@My Music
+32@@@40@@@Merle Haggard@@@If We Make It Through December
+33@@@65@@@Byron MacGregor@@@Americans
+34@@@36@@@Ian Thomas@@@Painted Ladies
+35@@@39@@@Paul Simon@@@American Tune
+36@@@44@@@Isaac Hayes@@@Joy Pt. I
+37@@@33@@@Tony Orlando & Dawn@@@Who's In The Strawberry Patch With Sally
+38@@@46@@@The Temptations@@@Let Your Hair Down
+39@@@50@@@The O'Jays@@@Put Your Hands Together
+40@@@48@@@David Essex@@@Rock On
+41@@@47@@@Tom T. Hall@@@I Love
+42@@@42@@@Bobby Blue Bland@@@This Time I'm Gone For Good
+43@@@27@@@Teddy Pendergrass@@@The Whole Town's Laughing At Me
+44@@@55@@@Gregg Allman@@@Midnight Rider
+45@@@32@@@Ringo Starr@@@Photograph
+46@@@56@@@Black Oak Arkansas@@@Jim Dandy
+47@@@41@@@Ann Peebles@@@I Can't Stand The Rain
+48@@@51@@@Smokey Robinson@@@Baby Come Close
+49@@@34@@@Marvin Gaye@@@Come Get To This
+50@@@60@@@Anne Murray@@@Love Song
+51@@@54@@@Linda Ronstadt@@@Love Has No Pride
+52@@@38@@@Jim Croce@@@I Got A Name
+53@@@52@@@Earth, Wind & Fire@@@Keep Your Head To The Sky
+54@@@45@@@El Chicano@@@Tell Her She's Lovely
+55@@@62@@@Bob Dylan@@@A Fool Such As I
+56@@@70@@@Diana Ross@@@Last Time I Saw Him
+57@@@61@@@Electric Light Orchestra@@@Showdown
+58@@@64@@@B.B. King@@@I Like To Live The Love
+59@@@35@@@Billy Preston@@@Space Race
+60@@@53@@@B.W. Stevenson@@@The River Of Love
+61@@@68@@@James Brown@@@Stoned To The Bone - Part 1
+62@@@76@@@Eddie Kendricks@@@Boogie Down
+63@@@69@@@Wednesday@@@Last Kiss
+64@@@74@@@Alice Cooper@@@Teenage Lament '74
+65@@@67@@@Edgar Winter Group@@@Hangin' Around
+66@@@71@@@Jim Croce@@@It Doesn't Have To Be That Way
+67@@@77@@@Garfunkel@@@I Shall Sing
+68@@@75@@@Natural Four@@@Can This Be Real
+69@@@72@@@John Denver@@@Please, Daddy
+70@@@80@@@The De Franco Family@@@Abra-Ca-Dabra
+71@@@57@@@Kris Kristofferson & Rita Coolidge@@@A Song I'd Like To Sing
+72@@@63@@@The Intruders@@@I Wanna Know Your Name
+73@@@66@@@Frank Sinatra@@@Let Me Try Again (Laisse Moi Le Temps)
+74@@@86@@@Billy Preston@@@You're So Unique
+75@@@83@@@Joni Mitchell@@@Raised On Robbery
+76@@@87@@@Cliff DeYoung@@@My Sweet Lady
+77@@@82@@@The Pointer Sisters@@@Wang Dang Doodle
+78@@@49@@@Three Dog Night@@@Let Me Serenade You
+79@@@59@@@The Chi-lites@@@I Found Sunshine
+80@@@90@@@Bobby Bare@@@Daddy What If
+81@@@84@@@Coven@@@One Tin Soldier (The Legend of Billy Jack)
+82@@@58@@@The Persuaders@@@Some Guys Have All The Luck
+83@@@101@@@The Rolling Stones@@@Doo Doo Doo Doo Doo (heartbreaker)
+84@@@88@@@Lamont Dozier@@@Trying To Hold On To My Woman
+85@@@101@@@Redbone@@@Come And Get Your Love
+86@@@89@@@The 5th Dimension@@@Flashback
+87@@@92@@@Stealers Wheel@@@Star
+88@@@96@@@The Isley Brothers@@@What It Comes Down To
+89@@@94@@@Johnny Mathis@@@Life Is A Song Worth Singing
+90@@@101@@@Mocedades@@@Eres Tu (Touch The Wind)
+91@@@98@@@Harry Chapin@@@WOLD
+92@@@93@@@J. Frank Wilson and The Cavaliers@@@Last Kiss
+93@@@95@@@Curtis Mayfield@@@Can't Say Nothin'
+94@@@99@@@Paul Anka@@@Let Me Get To Know You
+95@@@97@@@Don Goodwin@@@This Is Your Song
+96@@@81@@@Roy Clark@@@Somewhere Between Love And Tomorrow
+97@@@101@@@Joe Walsh@@@Meadows
+98@@@101@@@Gordon Sinclair@@@The Americans (A Canadian's Opinion)
+99@@@101@@@Terry Jacks@@@Seasons In The Sun
+100@@@101@@@Moments@@@Sexy Mama

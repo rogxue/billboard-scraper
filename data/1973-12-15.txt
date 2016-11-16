@@ -1,0 +1,100 @@
+1@@@3@@@Charlie Rich@@@The Most Beautiful Girl
+2@@@2@@@Elton John@@@GOODBYE YELLOW BRICK ROAD
+3@@@1@@@Carpenters@@@Top Of The World
+4@@@4@@@Chicago@@@Just You 'n' Me
+5@@@13@@@Jim Croce@@@Time In A Bottle
+6@@@8@@@Todd Rundgren@@@Hello It's Me
+7@@@10@@@Helen Reddy@@@Leave Me Alone (ruby Red Dress)
+8@@@5@@@Ringo Starr@@@Photograph
+9@@@15@@@The Steve Miller Band@@@The Joker
+10@@@12@@@The Staple Singers@@@If You're Ready (Come Go With Me)
+11@@@6@@@Billy Preston@@@Space Race
+12@@@7@@@Teddy Pendergrass@@@The Whole Town's Laughing At Me
+13@@@9@@@Eddie Kendricks@@@Keep On Truckin' (Part 1)
+14@@@16@@@Barry White@@@Never, Never Gonna Give Ya Up
+15@@@11@@@Gladys Knight And The Pips@@@Midnight Train To Georgia
+16@@@27@@@Al Wilson@@@Show And Tell
+17@@@20@@@The Stylistics@@@Rockin' Roll Baby
+18@@@19@@@Loggins & Messina@@@My Music
+19@@@23@@@Stevie Wonder@@@Living For The City
+20@@@24@@@John Lennon@@@MIND GAMES
+21@@@22@@@Marvin Gaye@@@Come Get To This
+22@@@33@@@Brownsville Station@@@Smokin' In The Boy's Room
+23@@@14@@@The DeFranco Family featuring Tony DeFranco@@@Heartbeat - It's A Lovebeat
+24@@@31@@@Paul McCartney & Wings@@@Helen Wheels
+25@@@21@@@Jim Croce@@@I Got A Name
+26@@@35@@@Gladys Knight And The Pips@@@I've Got To Use My Imagination
+27@@@29@@@Tony Orlando & Dawn@@@Who's In The Strawberry Patch With Sally
+28@@@30@@@Led Zeppelin@@@D'yer Mak'er
+29@@@17@@@Three Dog Night@@@Let Me Serenade You
+30@@@18@@@Marie Osmond@@@Paper Roses
+31@@@44@@@Olivia Newton-John@@@Let Me Be There
+32@@@26@@@The Rolling Stones@@@Angie
+33@@@38@@@War@@@Me And Baby Brother
+34@@@25@@@Johnnie Taylor@@@Cheaper To Keep Her
+35@@@45@@@Aretha Franklin@@@Until You Come Back To Me (That's What I'm Gonna Do)
+36@@@28@@@Diana Ross & Marvin Gaye@@@You're A Special Part Of Me
+37@@@39@@@Carole King@@@Coraz�n
+38@@@34@@@Kris Kristofferson@@@Why Me
+39@@@55@@@Donny Osmond@@@When I Fall In Love/Are You Lonesome Tonight
+40@@@40@@@The Persuaders@@@Some Guys Have All The Luck
+41@@@36@@@Neil Diamond@@@Be
+42@@@48@@@Ann Peebles@@@I Can't Stand The Rain
+43@@@37@@@Bob Dylan@@@Knockin' On Heaven's Door
+44@@@32@@@Garfunkel@@@All I Know
+45@@@49@@@Ian Thomas@@@Painted Ladies
+46@@@56@@@El Chicano@@@Tell Her She's Lovely
+47@@@57@@@Bobby Blue Bland@@@This Time I'm Gone For Good
+48@@@41@@@Ike & Tina Turner@@@Nutbush City Limits
+49@@@65@@@Cheech & Chong@@@Sister Mary Elephant (Shudd-Up!)
+50@@@79@@@Love Unlimited Orchestra@@@Love's Theme
+51@@@42@@@Cher@@@Half-Breed
+52@@@53@@@The Chi-lites@@@I Found Sunshine
+53@@@59@@@Lighthouse@@@Pretty Lady
+54@@@64@@@Grand Funk@@@Walk Like A Man
+55@@@73@@@Barbra Streisand@@@The Way We Were
+56@@@61@@@Jim Stafford@@@Spiders & Snakes
+57@@@85@@@Al Green@@@Livin' For You
+58@@@47@@@The Dramatics@@@Fell For You
+59@@@72@@@Paul Simon@@@American Tune
+60@@@60@@@Earth, Wind & Fire@@@Keep Your Head To The Sky
+61@@@68@@@First Choice@@@Smarty Pants
+62@@@43@@@Gilbert O'Sullivan@@@Ooh Baby
+63@@@69@@@Kris Kristofferson & Rita Coolidge@@@A Song I'd Like To Sing
+64@@@52@@@Bloodstone@@@Never Let You Go
+65@@@50@@@Stories@@@Mammy Blue
+66@@@70@@@Joe Simon@@@River
+67@@@63@@@Aerosmith@@@Dream On
+68@@@78@@@B.W. Stevenson@@@The River Of Love
+69@@@82@@@Merle Haggard@@@If We Make It Through December
+70@@@74@@@The Intruders@@@I Wanna Know Your Name
+71@@@80@@@David Essex@@@Rock On
+72@@@77@@@Frank Sinatra@@@Let Me Try Again (Laisse Moi Le Temps)
+73@@@84@@@Smokey Robinson@@@Baby Come Close
+74@@@71@@@Steely Dan@@@My Old School
+75@@@101@@@Ringo Starr@@@You're Sixteen
+76@@@81@@@Bachman-Turner Overdrive@@@Blue Collar
+77@@@97@@@Tom T. Hall@@@I Love
+78@@@91@@@The Who@@@Love, Reign O'er Me
+79@@@83@@@The Band@@@Ain't Got No Home
+80@@@101@@@Edgar Winter Group@@@Hangin' Around
+81@@@92@@@Linda Ronstadt@@@Love Has No Pride
+82@@@89@@@Ray Charles@@@Come Live With Me
+83@@@101@@@Melanie@@@Will You Love Me Tomorrow?
+84@@@87@@@Electric Light Orchestra@@@Showdown
+85@@@95@@@Wednesday@@@Last Kiss
+86@@@90@@@Keith Hampshire@@@Big Time Operator
+87@@@86@@@Lobo@@@Love Me For What I Am/there Ain't No Way
+88@@@101@@@Black Oak Arkansas@@@Jim Dandy
+89@@@93@@@James Brown@@@Stoned To The Bone - Part 1
+90@@@101@@@Bob Dylan@@@A Fool Such As I
+91@@@96@@@Albert Hammond@@@Half A Million Miles From Home
+92@@@94@@@Don Goodwin@@@This Is Your Song
+93@@@99@@@B.B. King@@@I Like To Live The Love
+94@@@101@@@Anne Murray@@@Love Song
+95@@@101@@@Love Unlimited@@@It May Be Winter Outside, (But In My Heart It's Spring)
+96@@@98@@@Raspberries@@@I'm A Rocker
+97@@@100@@@Kool & The Gang@@@Jungle Boogie
+98@@@101@@@Roy Clark@@@Somewhere Between Love And Tomorrow
+99@@@101@@@The 5th Dimension@@@Flashback
+100@@@101@@@Gary & Dave@@@Could You Ever Love Me Again

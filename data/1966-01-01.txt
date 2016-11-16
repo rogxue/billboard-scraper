@@ -1,0 +1,100 @@
+1@@@5@@@Simon & Garfunkel@@@The Sound Of Silence
+2@@@11@@@The Beatles@@@We Can Work It Out
+3@@@3@@@James Brown And The Famous Flames@@@I Got You (I Feel Good)
+4@@@2@@@The Byrds@@@Turn! Turn! Turn! (To Everything There Is A Season)
+5@@@1@@@The Dave Clark Five@@@Over And Over
+6@@@4@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Let's Hang On!
+7@@@7@@@The McCoys@@@Fever
+8@@@9@@@The Righteous Brothers@@@Ebb Tide
+9@@@8@@@Roger Miller@@@England Swings
+10@@@6@@@Eddy Arnold@@@Make The World Go Away
+11@@@16@@@The Vogues@@@Five O'Clock World
+12@@@13@@@The Statler Brothers@@@Flowers On The Wall
+13@@@17@@@Barry Young@@@One Has My Name (The Other Has My Heart)
+14@@@14@@@Elvis Presley With The Jordanaires@@@Puppet On A String
+15@@@10@@@The Shangri-Las@@@I Can Never Go Home Anymore
+16@@@22@@@Gary Lewis And The Playboys@@@She's Just My Style
+17@@@12@@@The Wonder Who?@@@Don't Think Twice
+18@@@28@@@The Beatles@@@Day Tripper
+19@@@15@@@Ramsey Lewis Trio@@@Hang On Sloopy
+20@@@21@@@The Beach Boys@@@The Little Girl I Once Knew
+21@@@23@@@The Lovin' Spoonful@@@You Didn't Have To Be So Nice
+22@@@33@@@The T-Bones@@@No Matter What Shape (Your Stomach's In)
+23@@@24@@@The Animals@@@It's My Life
+24@@@29@@@Jackie Lee@@@The Duck
+25@@@30@@@Al Martino@@@Spanish Eyes
+26@@@18@@@Jay & The Americans@@@Sunday And Me
+27@@@48@@@Herman's Hermits@@@A Must To Avoid
+28@@@38@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Just Like Me
+29@@@35@@@Bobby Vinton@@@Satin Pillows
+30@@@20@@@The Supremes@@@I Hear A Symphony
+31@@@26@@@Herb Alpert & The Tijuana Brass@@@Taste Of Honey
+32@@@19@@@Dean Martin@@@I Will
+33@@@59@@@The Toys@@@Attack
+34@@@45@@@Joe Tex@@@A Sweet Woman Like You
+35@@@25@@@The Yardbirds@@@I'm A Man
+36@@@41@@@Tom Jones@@@Thunderball
+37@@@42@@@The Impressions@@@You've Been Cheatin'
+38@@@31@@@We Five@@@Let's Get Together
+39@@@43@@@The Viscounts@@@Harlem Nocturne
+40@@@53@@@The Knickerbockers@@@Lies
+41@@@27@@@Len Barry@@@1-2-3
+42@@@32@@@Roy Head And The Traits@@@Apple Of My Eye
+43@@@65@@@Mitch Ryder And The Detroit Wheels@@@Jenny Take A Ride!
+44@@@54@@@Billy Joe Royal@@@I've Got To Be Somebody
+45@@@49@@@Ronny And The Daytonas@@@Sandy
+46@@@37@@@Gene Pitney@@@Princess In Rags
+47@@@47@@@Connie Francis@@@Jealous Heart
+48@@@79@@@The Rolling Stones@@@As Tears Go By
+49@@@50@@@The Hollies@@@Look Through Any Window
+50@@@57@@@The Kinks@@@A Well Respected Man
+51@@@51@@@Vic Dana@@@Crystal Chandelier
+52@@@58@@@Dionne Warwick@@@Are You There (With Another Girl)
+53@@@44@@@Don Covay & The Goodtimers@@@Seesaw
+54@@@66@@@Hedgehoppers Anonymous@@@It's Good News Week
+55@@@56@@@Noel Harrison@@@A Young Girl
+56@@@61@@@Ray Charles@@@Crying Time
+57@@@80@@@Mike Douglas@@@The Men In My Little Girl's Life
+58@@@77@@@Frank Sinatra@@@It Was A Very Good Year
+59@@@76@@@Barbra Streisand@@@Second Hand Rose
+60@@@74@@@Johnny Rivers@@@Under Your Spell Again
+61@@@62@@@The Packers@@@Hole In The Wall
+62@@@60@@@Buck Owens and The Buckaroos@@@Buckaroo
+63@@@68@@@Bobby Goldsboro@@@Broomstick Cowboy
+64@@@67@@@Dino, Desi & Billy@@@Please Don't Fight It
+65@@@71@@@The C.O.D.'s@@@Michael
+66@@@63@@@James Brown At The Organ@@@Try Me
+67@@@82@@@Herb Alpert & The Tijuana Brass@@@Zorba The Greek
+68@@@72@@@Patti LaBelle And The Blue Belles@@@All Or Nothing
+69@@@84@@@The Miracles@@@Going To A Go-Go
+70@@@64@@@Wilson Pickett@@@Don't Fight It
+71@@@86@@@Herb Alpert & The Tijuana Brass@@@Tijuana Taxi
+72@@@75@@@Jack Jones@@@Love Bug
+73@@@70@@@Lou Johnson@@@A Time To Love-A Time To Cry (Petite Fleur)
+74@@@90@@@Petula Clark@@@My Love
+75@@@101@@@Elvis Presley With The Jordanaires@@@Tell Me Why
+76@@@78@@@Bobby Powell@@@C.C. Rider
+77@@@88@@@The Four Seasons@@@Little Boy (In Grown Up Clothes)
+78@@@95@@@Stevie Wonder@@@Uptight (Everything's Alright)
+79@@@83@@@Fontella Bass@@@Recovery
+80@@@101@@@The Marvelettes@@@Don't Mess With Bill
+81@@@101@@@The Beach Boys@@@Barbara Ann
+82@@@93@@@Lou Christie@@@Lightnin' Strikes
+83@@@101@@@Len Barry@@@Like A Baby
+84@@@87@@@Maxine Brown@@@If You Gotta Make A Fool Of Somebody
+85@@@101@@@The Gentrys@@@Spread It On Thick
+86@@@94@@@The Young Rascals@@@I Ain't Gonna Eat Out My Heart Anymore
+87@@@91@@@Martha & The Vandellas@@@Love (Makes Me Do Foolish Things)
+88@@@92@@@The Temptations@@@Don't Look Back
+89@@@101@@@Little Anthony And The Imperials@@@Hurt
+90@@@85@@@Otis Redding@@@Just One More Day
+91@@@96@@@Lowell Fulsom@@@Black Nights
+92@@@101@@@The Five Americans@@@I See The Light
+93@@@101@@@Lee Dorsey@@@Get Out Of My Life, Woman
+94@@@101@@@Chris Andrews@@@Yesterday Man
+95@@@101@@@Elvis Presley@@@Blue River
+96@@@101@@@The Manhattans@@@Follow Your Heart
+97@@@101@@@The Three Degrees@@@Look In My Eyes
+98@@@100@@@King Curtis@@@Spanish Harlem
+99@@@101@@@Bob Dylan@@@Can You Please Crawl Out Your Window?
+100@@@101@@@Billy Stewart@@@Mountain Of Love

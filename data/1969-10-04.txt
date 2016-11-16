@@ -1,0 +1,100 @@
+1@@@1@@@The Archies@@@Sugar, Sugar
+2@@@7@@@Oliver@@@Jean
+3@@@5@@@Bobby Sherman@@@Little Woman
+4@@@4@@@Three Dog Night@@@Easy To Be Hard
+5@@@6@@@The Temptations@@@I Can't Get Next To You
+6@@@3@@@The Rolling Stones@@@Honky Tonk Women
+7@@@2@@@Creedence Clearwater Revival@@@Green River
+8@@@17@@@Nilsson@@@Everybody's Talkin'
+9@@@9@@@Sly & The Family Stone@@@Hot Fun In The Summertime
+10@@@10@@@The Dells@@@Oh, What A Night
+11@@@12@@@Gary Puckett And The Union Gap@@@This Girl Is A Woman Now
+12@@@8@@@Tom Jones@@@I'll Never Fall In Love Again
+13@@@13@@@The Youngbloods@@@Get Together
+14@@@19@@@Elvis Presley@@@Suspicious Minds
+15@@@15@@@Marvin Gaye@@@That's The Way Love Is
+16@@@16@@@The Electric Indian@@@Keem-O-Sabe
+17@@@11@@@Johnny Cash@@@A Boy Named Sue
+18@@@14@@@The Lettermen@@@Hurt So Bad
+19@@@21@@@Motherlode@@@When I Die
+20@@@26@@@Lou Christie@@@I'm Gonna Make You Mine
+21@@@20@@@Bob Dylan@@@Lay Lady Lay
+22@@@22@@@Jerry Butler@@@What's The Use Of Breaking Up
+23@@@18@@@Lou Rawls@@@Your Good Thing (Is About To End)
+24@@@50@@@Smith@@@Baby It's You
+25@@@33@@@The Clique@@@Sugar On Sunday
+26@@@25@@@The Grass Roots@@@I'd Wait A Million Years
+27@@@32@@@The Rascals@@@Carry Me Back
+28@@@30@@@The Rugbys@@@You, I
+29@@@49@@@The Cuff Links@@@Tracy
+30@@@23@@@Bill Deal & The Rhondels@@@What Kind Of Fool Do You Think I Am
+31@@@29@@@Aretha Franklin@@@Share Your Love With Me
+32@@@28@@@The Box Tops@@@Soul Deep
+33@@@41@@@The Intrigues@@@In A Moment
+34@@@31@@@Steppenwolf@@@Move Over
+35@@@67@@@The 5th Dimension@@@Wedding Bell Blues
+36@@@54@@@Wind@@@Make Believe
+37@@@37@@@James Brown@@@World (Part 1)
+38@@@43@@@Smokey Robinson & The Miracles@@@Here I Go Again
+39@@@39@@@Isaac Hayes@@@By The Time I Get To Phoenix
+40@@@45@@@The Delfonics@@@You Got Yours And I'll Get Mine
+41@@@42@@@The Friends Of Distinction@@@Going In Circles
+42@@@34@@@O.C. Smith@@@Daddy's Little Man
+43@@@40@@@Mama Cass@@@It's Getting Better
+44@@@44@@@Joe South and The Believers@@@Don't It Make You Want To Go Home
+45@@@70@@@Lawrence Reynolds@@@Jesus Is A Soul Man
+46@@@48@@@Supremes & Temptations@@@The Weight
+47@@@46@@@Clarence Reid@@@Nobody But You Babe
+48@@@60@@@Garland Green@@@Jealous Kind Of Fella
+49@@@63@@@Isaac Hayes@@@Walk On By
+50@@@76@@@Peggy Lee@@@Is That All There Is
+51@@@51@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@We Gotta All Get Together
+52@@@55@@@The Four Seasons@@@And That Reminds Me (My Heart Reminds Me)
+53@@@57@@@Dionne Warwick@@@You've Lost That Lovin' Feeling
+54@@@38@@@Engelbert Humperdinck@@@I'm A Better Man
+55@@@56@@@Piero Umiliani@@@Mah Na Mah Na
+56@@@62@@@Thunderclap Newman@@@Something In The Air
+57@@@59@@@The Winstons@@@Love Of The Common People
+58@@@64@@@Tommy Roe@@@Jack And Jill
+59@@@61@@@The Intruders@@@Sad Girl
+60@@@52@@@Spiral Starecase@@@No One For Me To Turn To
+61@@@80@@@Buchanan Brothers@@@Son Of A Lovin' Man
+62@@@72@@@Evie Sands@@@Any Way That You Want Me
+63@@@53@@@Bobby Goldsboro@@@Muddy Mississippi Line
+64@@@71@@@The Doors@@@Runnin' Blue
+65@@@66@@@Dyke And The Blazers@@@Let A Woman Be A Woman - Let A Man Be A Man
+66@@@101@@@The Flying Machine@@@Smile A Little Smile For Me
+67@@@82@@@Andy Kim@@@So Good Together
+68@@@65@@@The New Colony Six@@@I Want You To Know
+69@@@69@@@1910 Fruitgum Co.@@@The Train
+70@@@101@@@The Brooklyn Bridge@@@You'll Never Walk Alone
+71@@@81@@@Bobby Bland@@@Chains Of Love
+72@@@77@@@Clarence Carter@@@Doin' Our Thing
+73@@@73@@@Bee Gees@@@Don't Forget To Remember
+74@@@74@@@Abaco Dream@@@Life And Death In G & A
+75@@@75@@@Frank Sinatra@@@Love's Been Good To Me
+76@@@90@@@Sonny James@@@Since I Met You, Baby
+77@@@79@@@B.B. King@@@Get Off My Back Woman
+78@@@85@@@Keith Barbour@@@Echo Park
+79@@@86@@@The Originals@@@Baby, I'm For Real
+80@@@83@@@Orpheus@@@Can't Find The Time
+81@@@68@@@Al Wilson@@@Lodi
+82@@@101@@@Tommy James And The Shondells@@@Ball Of Fire
+83@@@91@@@Grand Funk Railroad@@@Time Machine
+84@@@84@@@Joe Simon@@@San Francisco Is A Lonely Town
+85@@@92@@@The Flaming Ember@@@Mind, Body and Soul
+86@@@101@@@Crosby, Stills & Nash@@@Suite: Judy Blue Eyes
+87@@@88@@@Archie Bell & The Drells@@@My Balloon's Going Up
+88@@@89@@@Booker T. & The MG's@@@Slum Baby
+89@@@100@@@Kenny Rogers & The First Edition@@@Reuben James
+90@@@101@@@Tammy Wynette@@@The Ways To Love A Man
+91@@@94@@@The Association@@@Goodbye Columbus
+92@@@93@@@The Isley Brothers@@@Was It Good To You
+93@@@95@@@Kool & The Gang@@@Kool And The Gang
+94@@@101@@@Funkadelic@@@I'll Bet You
+95@@@96@@@Maxine Brown@@@We'll Cry Together
+96@@@97@@@Ramsey Lewis@@@Julia
+97@@@99@@@The Monkees@@@Good Clean Fun
+98@@@101@@@Joe Cocker@@@Delta Lady
+99@@@101@@@Billy Joe Royal@@@Cherry Hill Park
+100@@@101@@@Vikki Carr@@@Eternity

@@ -1,0 +1,100 @@
+1@@@2@@@The Beatles@@@Help!
+2@@@6@@@Bob Dylan@@@Like A Rolling Stone
+3@@@3@@@The Beach Boys@@@California Girls
+4@@@4@@@The Righteous Brothers@@@Unchained Melody
+5@@@5@@@Four Tops@@@It's The Same Old Song
+6@@@1@@@Sonny & Cher@@@I Got You Babe
+7@@@12@@@We Five@@@You Were On My Mind
+8@@@10@@@James Brown And The Famous Flames@@@Papa's Got A Brand New Bag (Part I)
+9@@@27@@@Barry McGuire@@@Eve Of Destruction
+10@@@8@@@Mel Carter@@@Hold Me, Thrill Me, Kiss Me
+11@@@13@@@The Supremes@@@Nothing But Heartaches
+12@@@21@@@The Turtles@@@It Ain't Me Babe
+13@@@9@@@Billy Joe Royal@@@Down In The Boondocks
+14@@@11@@@Barbara Lewis@@@Baby, I'm Yours
+15@@@22@@@Ramsey Lewis Trio@@@The In Crowd
+16@@@19@@@The Miracles@@@The Tracks Of My Tears
+17@@@17@@@The Temptations@@@Since I Lost My Baby
+18@@@15@@@Cher@@@All I Really Want To Do
+19@@@25@@@The Yardbirds@@@Heart Full Of Soul
+20@@@7@@@Gary Lewis And The Playboys@@@Save Your Heart For Me
+21@@@24@@@Wilson Pickett@@@In The Midnight Hour
+22@@@49@@@The McCoys@@@Hang On Sloopy
+23@@@31@@@Freddy Cannon@@@Action
+24@@@29@@@Dean Martin@@@Houston
+25@@@42@@@The Dave Clark Five@@@Catch Us If You Can
+26@@@26@@@Sam The Sham and the Pharaohs@@@Ju Ju Hand
+27@@@52@@@Sonny@@@Laugh At Me
+28@@@28@@@Gene Pitney@@@Looking Through The Eyes Of Love
+29@@@32@@@Jr. Walker & The All Stars@@@Shake And Fingerpop
+30@@@41@@@Edwin Starr@@@Agent Double-O-Soul
+31@@@16@@@The Rolling Stones@@@(I Can't Get No) Satisfaction
+32@@@37@@@Sam Cooke@@@Sugar Dumpling
+33@@@43@@@The Animals@@@We Gotta Get Out Of This Place
+34@@@44@@@Barbara Mason@@@Sad, Sad Girl
+35@@@35@@@Chad & Jeremy@@@I Don't Wanna Lose You Baby
+36@@@14@@@Patty Duke@@@Don't Just Stand There
+37@@@45@@@The Kinks@@@Who'll Be The Next In Line
+38@@@23@@@Dino, Desi & Billy@@@I'm A Fool
+39@@@46@@@Marianne Faithfull@@@Summer Nights
+40@@@18@@@Tom Jones@@@What's New Pussycat?
+41@@@50@@@Martha & The Vandellas@@@You've Been In Love Too Long
+42@@@34@@@Petula Clark@@@You'd Better Come Home
+43@@@20@@@Herman's Hermits@@@I'm Henry VIII, I Am
+44@@@30@@@Little Anthony And The Imperials@@@Take Me Back
+45@@@55@@@The Jive Five (featuring Eugene Pitt)@@@I'm A Happy Man
+46@@@38@@@The Beau Brummels@@@You Tell Me Why
+47@@@53@@@The Royalettes@@@It's Gonna Take A Miracle
+48@@@60@@@Sonny & Cher@@@Baby Don't Go
+49@@@62@@@The Kingsmen@@@Annie Fanny
+50@@@54@@@Chuck Jackson@@@If I Didn't Love You
+51@@@77@@@The Fortunes@@@You've Got Your Troubles
+52@@@56@@@The Drifters@@@I'll Take You Where The Music's Playing
+53@@@48@@@Freddie And The Dreamers@@@A Little You
+54@@@58@@@Little Caesar And The Consuls@@@(My Girl) Sloopy
+55@@@47@@@The Byrds@@@All I Really Want To Do
+56@@@66@@@Vic Dana@@@Moonlight And Roses (Bring Mem'ries Of You)
+57@@@73@@@Roy Orbison@@@Ride Away
+58@@@70@@@Ronnie Dove@@@I'll Make All Your Dreams Come True
+59@@@59@@@Bert Kaempfert And His Orchestra@@@Moon Over Naples
+60@@@72@@@Sonny & Cher@@@Just You
+61@@@65@@@The Contours@@@First I Look At The Purse
+62@@@82@@@Tom Jones@@@With These Hands
+63@@@64@@@The Astors@@@Candy
+64@@@79@@@The Lovin' Spoonful@@@Do You Believe In Magic
+65@@@67@@@The Marvelettes@@@Danger Heartbreak Dead Ahead
+66@@@83@@@Elvis Presley@@@I'm Yours
+67@@@69@@@G.L. Crockett@@@It's A Man Down There
+68@@@76@@@Donovan@@@Colours
+69@@@71@@@Gerry And The Pacemakers@@@Give All Your Love To Me
+70@@@75@@@The Impressions@@@I Need You
+71@@@86@@@Charlie Rich@@@Mohair Sam
+72@@@87@@@The Castaways@@@Liar, Liar
+73@@@68@@@Arthur Prysock@@@It's Too Late, Baby Too Late
+74@@@89@@@Jody Miller@@@Home Of The Brave
+75@@@81@@@Lenny Welch@@@Two Different Worlds
+76@@@74@@@Jackie Wilson@@@No Pity (In The Naked City)
+77@@@99@@@Stevie Wonder@@@High Heel Sneakers
+78@@@80@@@Derek Martin@@@You Better Go
+79@@@90@@@Johnny Tillotson@@@Heartaches By The Number
+80@@@101@@@Jay & The Americans@@@Some Enchanted Evening
+81@@@85@@@Baby Washington@@@Only Those In Love
+82@@@84@@@Jim Reeves@@@Is It Really Over?
+83@@@101@@@Roy Head And The Traits@@@Treat Her Right
+84@@@88@@@Bobby Goldsboro@@@If You Wait For Love
+85@@@101@@@Andy Williams@@@Ain't It True
+86@@@94@@@Bonnie & The Treasures@@@Home Of The Brave
+87@@@101@@@Ian Whitcomb@@@N-E-R-V-O-U-S!
+88@@@92@@@Joe Tex@@@I Want To (Do Everything For You)
+89@@@91@@@Solomon Burke@@@Someone Is Watching
+90@@@101@@@Otis Redding@@@Respect
+91@@@101@@@Horst Jankowski@@@Simpel Gimpel
+92@@@95@@@Gene Chandler@@@Good Times
+93@@@97@@@Major Lance@@@Too Hot To Hold
+94@@@96@@@Chuck Jackson & Maxine Brown@@@Can't Let You Out Of My Sight
+95@@@101@@@The Sunrays@@@I Live For The Sun
+96@@@98@@@Neil Sedaka@@@The World Through A Tear
+97@@@100@@@Bobby Bland@@@These Hands (Small But Mighty)
+98@@@101@@@O.V. Wright@@@You're Gonna Make Me Cry
+99@@@101@@@Dickey Lee@@@The Girl From Peyton Place
+100@@@101@@@The Dixie Drifter@@@Soul Heaven

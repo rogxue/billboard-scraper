@@ -1,0 +1,100 @@
+1@@@1@@@John Fred And The Playboys@@@Judy In Disguise (With Glasses)
+2@@@2@@@Aretha Franklin@@@Chain Of Fools
+3@@@5@@@The Lemon Pipers@@@Green Tambourine
+4@@@4@@@The Union Gap Featuring Gary Puckett@@@Woman, Woman
+5@@@7@@@The American Breed@@@Bend Me, Shape Me
+6@@@3@@@The Beatles@@@Hello Goodbye
+7@@@16@@@Classics IV@@@Spooky
+8@@@6@@@The Monkees@@@Daydream Believer
+9@@@9@@@Gladys Knight And The Pips@@@I Heard It Through The Grapevine
+10@@@10@@@Marvin Gaye & Tammi Terrell@@@If I Could Build My Whole World Around You
+11@@@13@@@The Buckinghams@@@Susan
+12@@@17@@@The Human Beinz@@@Nobody But Me
+13@@@14@@@Stone Poneys Featuring Linda Ronstadt@@@Different Drum
+14@@@8@@@Smokey Robinson & The Miracles@@@I Second That Emotion
+15@@@45@@@The Temptations@@@I Wish It Would Rain
+16@@@21@@@Small Faces@@@Itchycoo Park
+17@@@22@@@The Lettermen@@@Goin' Out Of My Head/Can't Take My Eyes Off You
+18@@@47@@@Paul Mauriat And His Orchestra@@@Love Is Blue (L'amour Est Bleu)
+19@@@25@@@Engelbert Humperdinck@@@Am I That Easy To Forget
+20@@@20@@@The Foundations@@@Baby, Now That I've Found You
+21@@@26@@@The Marvelettes@@@My Baby Must Be A Magician
+22@@@27@@@The Sandpebbles@@@Love Power
+23@@@23@@@Etta James@@@Tell Mama
+24@@@29@@@The Beach Boys@@@Darlin'
+25@@@30@@@The Rolling Stones@@@She's A Rainbow
+26@@@38@@@Tommy Boyce & Bobby Hart@@@I Wonder What She's Doing Tonite
+27@@@24@@@Jr. Walker & The All Stars@@@Come See About Me
+28@@@48@@@The Fireballs@@@Bottle Of Wine
+29@@@41@@@Strawberry Alarm Clock@@@Tomorrow
+30@@@39@@@Frankie Valli@@@To Give (The Reason I Live)
+31@@@31@@@Peaches & Herb@@@Two Little Kids
+32@@@42@@@Bobby Vinton@@@Just As Much As Ever
+33@@@33@@@Soul Survivors@@@Explosion (In Your Soul)
+34@@@44@@@Vikki Carr@@@The Lesson
+35@@@37@@@Henson Cargill@@@Skip A Rope
+36@@@28@@@James Brown And The Famous Flames@@@I Can't Stand Myself (When You Touch Me)
+37@@@15@@@Eric Burdon & The Animals@@@Monterey
+38@@@11@@@Martha Reeves & The Vandellas@@@Honey Chile
+39@@@49@@@Nancy Sinatra & Lee Hazlewood@@@Some Velvet Morning
+40@@@12@@@Joe Tex@@@Skinny Legs And All
+41@@@51@@@Spanky And Our Gang@@@Sunday Mornin'
+42@@@18@@@The Fantastic Johnny C@@@Boogaloo Down Broadway
+43@@@43@@@The Dave Clark Five@@@Everybody Knows
+44@@@54@@@The Cowsills@@@We Can Fly
+45@@@55@@@Marvin Gaye@@@You
+46@@@19@@@Ed Ames@@@Who Will Answer?
+47@@@62@@@The Impressions@@@We're A Winner
+48@@@66@@@Herman's Hermits@@@I Can Take Or Leave Your Loving
+49@@@59@@@The Lovin' Spoonful@@@Money
+50@@@60@@@Joe Simon@@@No Sad Songs
+51@@@58@@@Al Greene & The Soul Mate's@@@Back Up Train
+52@@@64@@@Neil Diamond@@@New Orleans
+53@@@53@@@Wes Montgomery@@@Windy
+54@@@32@@@Lulu@@@Best Of Both Worlds
+55@@@65@@@Dave Dee, Dozy, Beaky, Mick And Tich@@@Zabadak
+56@@@67@@@The Hesitations@@@Born Free
+57@@@57@@@Tom Jones@@@I'm Coming Home
+58@@@50@@@Wilson Pickett@@@I'm In Love
+59@@@70@@@Barbara Mason@@@Oh, How It Hurts
+60@@@80@@@Jay And The Techniques@@@Strawberry Shortcake
+61@@@77@@@Dionne Warwick@@@(Theme From) Valley Of The Dolls
+62@@@63@@@Jerry Butler@@@Lost
+63@@@69@@@Herb Alpert & The Tijuana Brass@@@Carmen
+64@@@79@@@Bee Gees@@@Words
+65@@@81@@@James Brown And The Famous Flames@@@There Was A Time
+66@@@82@@@The Dells@@@There Is
+67@@@101@@@Otis Redding@@@(Sittin' On) The Dock Of The Bay
+68@@@68@@@Carla Thomas@@@Pick Up The Pieces
+69@@@73@@@Cream@@@Sunshine Of Your Love
+70@@@85@@@Glen Campbell@@@Hey Little One
+71@@@61@@@Billy Vera & Judy Clay@@@Storybook Children
+72@@@101@@@Sam & Dave@@@I Thank You
+73@@@75@@@James & Bobby Purify@@@Do Unto Me
+74@@@74@@@Arthur Prysock@@@A Working Man's Prayer
+75@@@71@@@Hugh Masekela@@@Up-Up And Away
+76@@@84@@@Inez & Charlie Foxx@@@(1-2-3-4-5-6-7) Count The Days
+77@@@101@@@1910 Fruitgum Co.@@@Simon Says
+78@@@78@@@Lalo Schifrin@@@Mission-Impossible
+79@@@90@@@The Music Makers@@@United (Part 1)
+80@@@83@@@James Carr@@@A Man Needs A Woman
+81@@@101@@@Tommy James And The Shondells@@@Get Out Now
+82@@@101@@@Howard Tate@@@Stop
+83@@@101@@@Elvis Presley@@@Guitar Man
+84@@@101@@@Five Stairsteps & Cubie@@@A Million To One
+85@@@101@@@Miriam Makeba@@@Malayisha
+86@@@89@@@Billy Stewart@@@Cross My Heart
+87@@@87@@@The Epic Splendor@@@A Little Rain Must Fall
+88@@@91@@@Clarence Carter@@@Looking For A Fox
+89@@@99@@@Calvin Arnold@@@Funky Way
+90@@@93@@@Oscar Toney, Jr.@@@Without Love (There Is Nothing)
+91@@@101@@@Johnny Cash@@@Rosanna's Going Wild
+92@@@101@@@The Mills Brothers@@@Cab Driver
+93@@@95@@@Laura Lee@@@Up Tight, Good Man
+94@@@94@@@Linda Jones@@@Give My Love A Try
+95@@@96@@@Frankie Laine@@@To Each His Own
+96@@@101@@@The Five Americans@@@7:30 Guided Tour
+97@@@97@@@Robert Knight@@@Blessed Are The Lonely
+98@@@100@@@Ray Charles@@@Come Rain Or Come Shine
+99@@@101@@@Every Mothers' Son@@@No One Knows
+100@@@101@@@Al Hirt@@@Keep The Ball Rollin'

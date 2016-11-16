@@ -1,0 +1,100 @@
+1@@@1@@@The Supremes@@@Stop! In The Name Of Love
+2@@@2@@@Herman's Hermits@@@Can't You Hear My Heartbeat
+3@@@20@@@Freddie And The Dreamers@@@I'm Telling You Now
+4@@@7@@@Jr. Walker & The All Stars@@@Shotgun
+5@@@3@@@Jewel Akens@@@The Birds And The Bees
+6@@@5@@@Roger Miller@@@King Of The Road
+7@@@4@@@The Beatles@@@Eight Days A Week
+8@@@8@@@Shirley Bassey@@@Goldfinger
+9@@@12@@@Martha & The Vandellas@@@Nowhere To Run
+10@@@15@@@Vic Dana@@@Red Roses For A Blue Lady
+11@@@6@@@Gerry And The Pacemakers@@@Ferry Cross The Mersey
+12@@@9@@@The Temptations@@@My Girl
+13@@@16@@@The Beach Boys@@@Do You Wanna Dance?
+14@@@11@@@Bert Kaempfert And His Orchestra@@@Red Roses For A Blue Lady
+15@@@17@@@The Animals@@@Don't Let Me Be Misunderstood
+16@@@13@@@Bobby Goldsboro@@@Little Things
+17@@@40@@@Wayne Fontana & The Mindbenders@@@Game Of Love
+18@@@26@@@The Kinks@@@Tired Of Waiting For You
+19@@@27@@@The Moody Blues@@@Go Now!
+20@@@22@@@Bobby Vinton@@@Long Lonely Nights
+21@@@23@@@Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio@@@Do The Clam
+22@@@29@@@Jack Jones@@@The Race Is On
+23@@@10@@@Gary Lewis And The Playboys@@@This Diamond Ring
+24@@@21@@@Georgie Fame And The Blue Flames@@@Yeh, Yeh
+25@@@25@@@Chad & Jeremy@@@If I Loved You
+26@@@24@@@Dean Martin@@@Send Me The Pillow You Dream On
+27@@@14@@@The Impressions@@@People Get Ready
+28@@@50@@@Petula Clark@@@I Know A Place
+29@@@38@@@Wayne Newton@@@Red Roses For A Blue Lady
+30@@@39@@@Marianne Faithfull@@@Come And Stay With Me
+31@@@31@@@Gene Pitney@@@I Must Be Seeing Things
+32@@@42@@@Shirley Ellis@@@The Clapping Song (Clap Pat Clap Slap)
+33@@@33@@@Fontella Bass & Bobby McClure@@@Don't Mess Up A Good Thing
+34@@@35@@@Tony Bennett@@@If I Ruled The World
+35@@@45@@@Solomon Burke@@@Got To Get You Off My Mind
+36@@@37@@@Brenda Holloway@@@When I'm Gone
+37@@@18@@@The Dave Clark Five@@@Come Home
+38@@@19@@@Little Anthony And The Imperials@@@Hurt So Bad
+39@@@30@@@Del Shannon@@@Stranger In Town
+40@@@47@@@Major Lance@@@Come See
+41@@@63@@@The Searchers@@@Bumble Bee
+42@@@57@@@Marvin Gaye@@@I'll Be Doggone
+43@@@51@@@Otis Redding@@@Mr. Pitiful
+44@@@61@@@Ronnie Dove@@@One Kiss For Old Times' Sake
+45@@@48@@@The Ikettes@@@Peaches N Cream
+46@@@79@@@The Rolling Stones@@@The Last Time
+47@@@54@@@Frank Sinatra@@@Anytime At All
+48@@@56@@@Connie Francis@@@For Mama (La Mamma)
+49@@@55@@@Cannibal And The Headhunters@@@Land Of 1000 Dances
+50@@@46@@@Joe Tex@@@You Better Get It
+51@@@59@@@Joe Tex@@@You Got What It Takes
+52@@@62@@@Sandie Shaw@@@Girl Don't Come
+53@@@64@@@Sounds Orchestral@@@Cast Your Fate To The Wind
+54@@@58@@@Jerry Vale@@@For Mama
+55@@@60@@@The Reflections@@@Poor Man's Son
+56@@@67@@@Jan & Dean@@@(Here They Come) From All Over The World
+57@@@69@@@Freddie And The Dreamers@@@I Understand (Just How You Feel)
+58@@@73@@@Bobbi Martin@@@I Can't Stop Thinking Of You
+59@@@74@@@Glenn Yarbrough@@@Baby The Rain Must Fall
+60@@@70@@@Johnny Bond@@@10 Little Bottles
+61@@@84@@@The Seekers@@@I'll Never Find Another You
+62@@@65@@@Dionne Warwick@@@Who Can I Turn To
+63@@@83@@@The Miracles@@@Ooo Baby Baby
+64@@@52@@@The Beach Boys@@@Please Let Me Wonder
+65@@@80@@@Alvin Cash & The Crawlers@@@The Barracuda
+66@@@77@@@Mary Wells@@@Never, Never Leave Me
+67@@@71@@@Thee Midniters@@@Land Of A Thousand Dances (Part I)
+68@@@90@@@Allan Sherman@@@Crazy Downtown
+69@@@101@@@Sir Douglas Quintet@@@She's About A Mover
+70@@@85@@@The Uniques Featuring Joe Stampley@@@Not Too Long Ago
+71@@@81@@@Al Martino@@@Somebody Else Is Taking My Place
+72@@@88@@@Tony Clarke@@@The Entertainer
+73@@@89@@@Little Milton@@@We're Gonna Make It
+74@@@101@@@The Newbeats@@@(The Bees Are For The Birds) The Birds Are For The Bees
+75@@@82@@@Herb Alpert's Tijuana Brass@@@Whipped Cream
+76@@@101@@@Herman's Hermits@@@Silhouettes
+77@@@101@@@The Temptations@@@It's Growing
+78@@@101@@@Andy Williams@@@......And Roses And Roses
+79@@@101@@@The Impressions@@@Woman's Got Soul
+80@@@95@@@The Three Degrees@@@Gee Baby (I'm Sorry)
+81@@@92@@@Lesley Gore@@@All Of My Life
+82@@@98@@@Billy Stewart@@@I Do Love You
+83@@@101@@@Bob Dylan@@@Subterranean Homesick Blues
+84@@@101@@@The Searchers@@@Goodbye My Lover Goodbye
+85@@@101@@@Chubby Checker@@@Let's Do The Freddie
+86@@@101@@@The Dixie Cups@@@Iko Iko
+87@@@101@@@Sam The Sham and the Pharaohs@@@Wooly Bully
+88@@@101@@@Gary Lewis And The Playboys@@@Count Me In
+89@@@93@@@The Detergents@@@Double-O-Seven
+90@@@101@@@Brenda Lee@@@Truly, Truly, True
+91@@@91@@@Dusty Springfield@@@Losing You
+92@@@94@@@Jay & The Americans@@@Think Of The Good Times
+93@@@99@@@The Who@@@I Can't Explain
+94@@@101@@@Barbra Streisand@@@Why Did I Choose You
+95@@@101@@@Dobie Gray@@@(See You At The) Go-Go
+96@@@101@@@The Shangri-Las@@@Out In The Streets
+97@@@100@@@Mongo Santamaria@@@El Pussy Cat
+98@@@101@@@Ben E. King@@@The Record (Baby I Love You)
+99@@@101@@@The Waikikis@@@Hawaii Honeymoon
+100@@@101@@@Chuck Berry@@@Dear Dad

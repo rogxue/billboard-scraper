@@ -1,0 +1,100 @@
+1@@@2@@@Frank Sinatra@@@Strangers In The Night
+2@@@1@@@The Beatles@@@Paperback Writer
+3@@@6@@@The Cyrkle@@@Red Rubber Ball
+4@@@3@@@The Rolling Stones@@@Paint It, Black
+5@@@9@@@Dusty Springfield@@@You Don't Have To Say You Love Me
+6@@@15@@@Tommy James And The Shondells@@@Hanky Panky
+7@@@8@@@The Capitols@@@Cool Jerk
+8@@@5@@@Simon & Garfunkel@@@I Am A Rock
+9@@@4@@@The Lovin' Spoonful@@@Did You Ever Have To Make Up Your Mind?
+10@@@7@@@Robert Parker@@@Barefootin'
+11@@@24@@@Syndicate Of Sound@@@Little Girl
+12@@@14@@@The Animals@@@Don't Bring Me Down
+13@@@10@@@The Chiffons@@@Sweet Talkin' Guy
+14@@@12@@@Shades Of Blue@@@Oh How Happy
+15@@@20@@@The Temptations@@@Ain't Too Proud To Beg
+16@@@21@@@The Standells@@@Dirty Water
+17@@@19@@@Swingin' Medallions@@@Double Shot (Of My Baby's Love)
+18@@@13@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Opus 17 (Don't You Worry 'Bout Me)
+19@@@32@@@The Association@@@Along Comes Mary
+20@@@26@@@The Righteous Brothers@@@He
+21@@@22@@@The Outsiders@@@Girl In Love
+22@@@23@@@Sam & Dave@@@Hold On! I'm A Comin'
+23@@@16@@@The Mindbenders@@@A Groovy Kind Of Love
+24@@@29@@@The Beatles@@@Rain
+25@@@18@@@Chris Montez@@@The More I See You
+26@@@27@@@Jan & Dean@@@Popsicle
+27@@@25@@@Jay & The Americans@@@Crying
+28@@@17@@@Gary Lewis And The Playboys@@@Green Grass
+29@@@11@@@Percy Sledge@@@When A Man Loves A Woman
+30@@@38@@@Johnny Rivers@@@(I Washed My Hands In) Muddy Water
+31@@@55@@@Sam The Sham and the Pharaohs@@@Lil' Red Riding Hood
+32@@@34@@@The Leaves@@@Hey Joe
+33@@@43@@@The Dave Clark Five@@@Please Tell Me Why
+34@@@35@@@The Vogues@@@The Land Of Milk And Honey
+35@@@36@@@Johnny Sea@@@Day For Decision
+36@@@37@@@Ray Charles@@@Let's Go Get Stoned
+37@@@58@@@Tommy Roe@@@Sweet Pea
+38@@@28@@@B.J. Thomas@@@Mama
+39@@@42@@@The Shadows Of Knight@@@Oh Yeah
+40@@@31@@@The Platters@@@I Love You 1000 Times
+41@@@51@@@The Young Rascals@@@You Better Run
+42@@@56@@@Crispian St. Peters@@@The Pied Piper
+43@@@48@@@The Critters@@@Younger Girl
+44@@@45@@@Marvin Gaye@@@Take This Heart Of Mine
+45@@@50@@@Four Tops@@@Loving You Is Sweeter Than Ever
+46@@@46@@@Dee Jay And The Runaways@@@Peter Rabbit
+47@@@75@@@The Troggs@@@Wild Thing
+48@@@59@@@Ray Conniff And The Singers@@@Somewhere, My Love
+49@@@49@@@Sonny & Cher@@@Have I Stayed Too Long
+50@@@67@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Hungry
+51@@@61@@@Ronnie Dove@@@Happy Summer Days
+52@@@54@@@The Hondells@@@Younger Girl
+53@@@101@@@The Mamas & The Papas@@@I Saw Her Again
+54@@@57@@@Wilson Pickett@@@Ninety-Nine And A Half (Won't Do)
+55@@@60@@@Neil Diamond@@@Solitary Man
+56@@@52@@@Love@@@My Little Red Book
+57@@@101@@@Elvis Presley@@@Love Letters
+58@@@64@@@Jack Jones@@@The Impossible Dream (The Quest)
+59@@@101@@@Herb Alpert & The Tijuana Brass@@@The Work Song
+60@@@70@@@The Grass Roots@@@Where Were You When I Needed You
+61@@@65@@@Otis Redding@@@My Lover's Prayer
+62@@@71@@@B.J. Thomas And The Triumphs@@@Billy And Sue
+63@@@63@@@The Holidays@@@I'll Love You Forever
+64@@@79@@@The Miracles@@@Whole Lot Of Shakin' In My Heart (Since I Met You)
+65@@@66@@@Jimmy Hughes@@@Neighbor, Neighbor
+66@@@82@@@The Yardbirds@@@Over Under Sideways Down
+67@@@62@@@Barry McGuire@@@Cloudy Summer Afternoon (Raindrops)
+68@@@88@@@Bobby Moore And The Rhythm Aces@@@Searching For My Love
+69@@@96@@@Roger Miller@@@You Can't Roller Skate In A Buffalo Herd
+70@@@72@@@Tom Jones@@@Not Responsible
+71@@@77@@@Martha & The Vandellas@@@What Am I Going To Do Without Your Love
+72@@@101@@@Manfred Mann@@@Pretty Flamingo
+73@@@78@@@Susan Christie@@@I Love Onions
+74@@@73@@@Esther Phillips@@@When A Woman Loves A Man
+75@@@90@@@Leroy Pullins@@@I'm A Nut
+76@@@87@@@Tommy McLain@@@Sweet Dreams
+77@@@86@@@The Ides Of March@@@You Wouldn't Listen
+78@@@101@@@Dionne Warwick@@@Trains And Boats And Planes
+79@@@95@@@Bobby Hebb@@@Sunny
+80@@@80@@@Joe Simon@@@Teenager's Prayer
+81@@@81@@@The Turtles@@@Grim Reaper Of Love
+82@@@93@@@Roger Williams@@@Lara's Theme from Dr. Zhivago
+83@@@84@@@The Lettermen@@@I Only Have Eyes For You
+84@@@99@@@The Shangri-Las@@@Past, Present And Future
+85@@@100@@@Groove Holmes@@@Misty
+86@@@94@@@Clefs Of Lavender Hill@@@Stop! - Get A Ticket
+87@@@101@@@Brenda Lee@@@Ain't Gonna Cry No More
+88@@@89@@@Walter Jackson@@@It's An Uphill Climb To The Bottom
+89@@@101@@@The Bachelors@@@Can I Trust You?
+90@@@101@@@Bob Dylan@@@I Want You
+91@@@91@@@Len Barry@@@It's That Time Of The Year
+92@@@101@@@The Wonder Who?@@@On The Good Ship Lollipop
+93@@@98@@@Lou Christie@@@Painter
+94@@@97@@@Trini Lopez@@@La Bamba - Part I
+95@@@101@@@The Knickerbockers@@@High On Love
+96@@@101@@@The Buena Vistas@@@Hot Shot
+97@@@101@@@Johnny Cash@@@Everybody Loves A Nut
+98@@@101@@@Chubby Checker@@@Hey You! Little Boo-Ga-Loo
+99@@@101@@@The Uniques@@@All These Things
+100@@@101@@@Mary Wells@@@Such A Sweet Thing

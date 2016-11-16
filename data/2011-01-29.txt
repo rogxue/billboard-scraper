@@ -1,0 +1,100 @@
+1@@@101@@@Britney Spears@@@Hold It Against Me
+2@@@1@@@Bruno Mars@@@Grenade
+3@@@2@@@Katy Perry@@@Firework
+4@@@3@@@Rihanna Featuring Drake@@@What's My Name?
+5@@@7@@@Wiz Khalifa@@@Black And Yellow
+6@@@6@@@Enrique Iglesias Featuring Ludacris & DJ Frank E@@@Tonight (I'm Lovin' You)
+7@@@4@@@Ke$ha@@@We R Who We R
+8@@@5@@@Pink@@@Raise Your Glass
+9@@@8@@@The Black Eyed Peas@@@The Time (Dirty Bit)
+10@@@9@@@Bruno Mars@@@Just The Way You Are
+11@@@12@@@Lil Wayne Featuring Cory Gunz@@@6 Foot 7 Foot
+12@@@10@@@Rihanna@@@Only Girl (In The World)
+13@@@101@@@Avril Lavigne@@@What The Hell
+14@@@13@@@Waka Flocka Flame Featuring Roscoe Dash & Wale@@@No Hands
+15@@@16@@@Chris Brown@@@Yeah 3X
+16@@@17@@@Edward Maya & Vika Jigulina@@@Stereo Love
+17@@@23@@@Far*East Movement Featuring Ryan Tedder@@@Rocketeer
+18@@@11@@@Taio Cruz@@@Dynamite
+19@@@20@@@Diddy - Dirty Money Featuring Skylar Grey@@@Coming Home
+20@@@22@@@Pitbull Featuring T-Pain@@@Hey Baby (Drop It To The Floor)
+21@@@15@@@Nelly@@@Just A Dream
+22@@@21@@@Cee Lo Green@@@F**k You (Forget You)
+23@@@101@@@Kanye West & Jay-Z@@@H*A*M
+24@@@14@@@Trey Songz Featuring Nicki Minaj@@@Bottoms Up
+25@@@18@@@Usher Featuring Pitbull@@@DJ Got Us Fallin' In Love
+26@@@25@@@Taylor Swift@@@Back To December
+27@@@19@@@Far*East Movement Featuring Cataracs & Dev@@@Like A G6
+28@@@30@@@Christina Perri@@@Jar Of Hearts
+29@@@39@@@Flo Rida Featuring Akon@@@Who Dat Girl
+30@@@57@@@Pink@@@F**kin' Perfect
+31@@@24@@@Mike Posner@@@Please Don't Go
+32@@@26@@@Katy Perry@@@Teenage Dream
+33@@@47@@@Usher@@@More
+34@@@27@@@Neon Trees@@@Animal
+35@@@31@@@Kenny Chesney@@@Somewhere With You
+36@@@28@@@OneRepublic@@@Secrets
+37@@@36@@@Taio Cruz Featuring Travie McCoy@@@Higher
+38@@@45@@@Jeremih Featuring 50 Cent@@@Down On Me
+39@@@35@@@Keri Hilson@@@Pretty Girl Rock
+40@@@29@@@Lil Wayne Featuring Drake@@@Right Above It
+41@@@32@@@Tim McGraw@@@Felt Good On My Lips
+42@@@56@@@Train@@@Marry Me
+43@@@49@@@Jason Aldean With Kelly Clarkson@@@Don't You Wanna Stay
+44@@@51@@@Nicki Minaj Featuring Drake@@@Moment 4 Life
+45@@@34@@@Enrique Iglesias Featuring Pitbull@@@I Like It
+46@@@37@@@Rick Ross Featuring Drake & Chrisette Michele@@@Aston Martin Music
+47@@@42@@@Plain White T's@@@Rhythm of Love
+48@@@33@@@Flo Rida Featuring David Guetta@@@Club Can't Handle Me
+49@@@38@@@The Band Perry@@@If I Die Young
+50@@@52@@@Blake Shelton@@@Who Are You When I'm Not Looking
+51@@@85@@@David Guetta Featuring Rihanna@@@Who's That Chick?
+52@@@41@@@Willow@@@Whip My Hair
+53@@@40@@@Eminem Featuring Lil Wayne@@@No Love
+54@@@43@@@Nicki Minaj@@@Right Thru Me
+55@@@55@@@Keith Urban@@@Put You In A Song
+56@@@60@@@Linkin Park@@@Waiting For The End
+57@@@53@@@The Lonely Island Featuring Akon@@@I Just Had Sex
+58@@@61@@@Billy Currington@@@Let Me Down Easy
+59@@@65@@@Sick Puppies@@@Maybe
+60@@@64@@@Chris Young@@@Voices
+61@@@54@@@Florence + The Machine@@@Dog Days Are Over
+62@@@69@@@Thompson Square@@@Are You Gonna Kiss Me Or Not
+63@@@58@@@Carrie Underwood@@@Mama's Song
+64@@@68@@@Luke Bryan@@@Someone Else Calling You Baby
+65@@@59@@@Trey Songz@@@Can't Be Friends
+66@@@72@@@Jamie Foxx Featuring Drake@@@Fall For Your Type
+67@@@62@@@Dr. Dre Featuring Snoop Dogg & Akon@@@Kush
+68@@@75@@@Chris Brown@@@No BS
+69@@@89@@@Dev Featuring The Cataracs@@@Bass Down Low
+70@@@63@@@David Guetta Featuring Kid Cudi@@@Memories
+71@@@71@@@Brad Paisley@@@This Is Country Music
+72@@@73@@@Lloyd@@@Lay It Down
+73@@@66@@@Yolanda Be Cool & Dcup@@@We No Speak Americano
+74@@@88@@@Kanye West@@@All Of The Lights
+75@@@77@@@Victorious Cast Featuring Victoria Justice@@@Freak The Freak Out
+76@@@80@@@Jerrod Niemann@@@What Do You Want
+77@@@79@@@Lady Antebellum@@@Hello World
+78@@@101@@@Cage The Elephant@@@Shake Me Down
+79@@@101@@@Garrett Hedlund & Leighton Meester@@@Give In To Me
+80@@@91@@@The Script@@@For The First Time
+81@@@86@@@Fabolous@@@You Be Killin Em
+82@@@82@@@Sara Evans@@@A Little Bit Stronger
+83@@@76@@@Twista Featuring Chris Brown@@@Make A Movie
+84@@@67@@@Birdman Featuring Lil Wayne@@@Fire Flame
+85@@@92@@@Darius Rucker@@@This
+86@@@83@@@Eric Church@@@Smoke A Little Smoke
+87@@@81@@@Gwyneth Paltrow@@@Country Strong
+88@@@87@@@The Black Keys@@@Tighten Up
+89@@@84@@@Toby Keith@@@Bullets In The Gun
+90@@@94@@@Troop 41@@@Do The John Wall
+91@@@70@@@Michael Jackson Duet With Akon@@@Hold My Hand
+92@@@101@@@Lupe Fiasco@@@The Show Goes On
+93@@@74@@@George Strait@@@The Breath You Take
+94@@@96@@@Sunny Sweeney@@@From A Table Away
+95@@@101@@@Mann@@@Buzzin'
+96@@@100@@@Travis Porter@@@Make It Rain
+97@@@101@@@Adele@@@Rolling In The Deep
+98@@@101@@@The JaneDear Girls@@@Wildflower
+99@@@78@@@Reba@@@Turn On The Radio
+100@@@90@@@Bruno Mars@@@Marry You

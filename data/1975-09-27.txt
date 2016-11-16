@@ -1,0 +1,100 @@
+1@@@4@@@John Denver@@@I'm Sorry
+2@@@1@@@David Bowie@@@Fame
+3@@@2@@@Glen Campbell@@@Rhinestone Cowboy
+4@@@5@@@The Isley Brothers@@@Fight The Power Part 1
+5@@@7@@@David Geddes@@@Run Joey Run
+6@@@6@@@Barry Manilow@@@Could It Be Magic
+7@@@3@@@Janis Ian@@@At Seventeen
+8@@@9@@@Freddy Fender@@@Wasted Days And Wasted Nights
+9@@@11@@@Sweet@@@Ballroom Blitz
+10@@@10@@@Bad Company@@@Feel Like Makin' Love
+11@@@13@@@Helen Reddy@@@Ain't No Way To Treat A Lady
+12@@@16@@@Orleans@@@Dance With Me
+13@@@12@@@Earth, Wind & Fire@@@That's The Way Of The World
+14@@@19@@@Dickie Goodman@@@Mr. Jaws
+15@@@18@@@Paul Anka/Odia Coates@@@(I Believe) There's Nothing Stronger Than Our Love
+16@@@20@@@Morris Albert@@@Feelings
+17@@@25@@@Tavares@@@It Only Takes A Minute
+18@@@23@@@The Spinners@@@They Just Can't Stop It the (Games People Play)
+19@@@8@@@Hamilton, Joe Frank & Reynolds@@@Fallin' In Love
+20@@@21@@@America@@@Daisy Jane
+21@@@24@@@The Pointer Sisters@@@How Long (Betcha' Got A Chick On The Side)
+22@@@22@@@The Osmonds@@@The Proud One
+23@@@27@@@The Ritchie Family@@@Brazil
+24@@@26@@@Austin Roberts@@@Rocky
+25@@@32@@@Neil Sedaka@@@Bad Blood
+26@@@28@@@Paul Simon/Phoebe Snow@@@Gone At Last
+27@@@31@@@Jefferson Starship@@@Miracles
+28@@@15@@@KC And The Sunshine Band@@@Get Down Tonight
+29@@@33@@@Leon Russell@@@Lady Blue
+30@@@40@@@The Four Seasons@@@Who Loves You
+31@@@34@@@Michael Murphey@@@Carolina In The Pines
+32@@@35@@@John Williams/Jaws Soundtrack@@@Main Title (Theme From Jaws)
+33@@@36@@@Peoples Choice@@@Do It Any Way You Wanna
+34@@@37@@@Tony Orlando & Dawn@@@You're All I Need To Get By
+35@@@39@@@Esther Phillips@@@What A Diff'rence A Day Makes
+36@@@17@@@Carpenters@@@Solitaire
+37@@@41@@@Jim Stafford@@@I Got Stoned And I Missed It
+38@@@42@@@Art Garfunkel@@@I Only Have Eyes For You
+39@@@43@@@AWB@@@If I Ever Lose This Heaven
+40@@@54@@@Eagles@@@Lyin' Eyes
+41@@@14@@@Amazing Rhythm Aces@@@Third Rate Romance
+42@@@49@@@John Fogerty@@@Rockin' All Over The World
+43@@@51@@@Natalie Cole@@@This Will Be
+44@@@53@@@Linda Ronstadt@@@Heat Wave/love Is A Rose
+45@@@55@@@Willie Nelson@@@Blue Eyes Crying In The Rain
+46@@@47@@@Bob Seger@@@Katmandu
+47@@@29@@@James Taylor@@@How Sweet It Is (To Be Loved By You)
+48@@@46@@@Gary Toms Empire@@@7-6-5-4-3-2-1 (Blow Your Whistle)
+49@@@75@@@George Harrison@@@You
+50@@@60@@@The Outlaws@@@There Goes Another Love Song
+51@@@52@@@Evie Sands@@@I Love Makin' Love To You
+52@@@64@@@Ohio Players@@@Sweet Sticky Thing
+53@@@57@@@Fox@@@Only You Can
+54@@@56@@@Jigsaw@@@Sky High
+55@@@66@@@Smokey Robinson@@@The Agony And The Ecstasy
+56@@@38@@@Graham Central Station@@@Your Love
+57@@@59@@@Gladys Knight And The Pips@@@Money
+58@@@68@@@Bruce Springsteen@@@Born To Run
+59@@@62@@@Sly Stone@@@I Get High On You
+60@@@63@@@Crown Heights Affair@@@Dreaming A Dream
+61@@@61@@@Chicago@@@Brand New Love Affair (Part I & II)
+62@@@30@@@Johnny Wakelin & The Kinshasa Band@@@Black Superman - Muhammad Ali
+63@@@70@@@Pete Wingfield@@@Eighteen With A Bullet
+64@@@50@@@Faith, Hope And Charity@@@To Each His Own
+65@@@65@@@Jessi Colter@@@You Ain't Never Been Loved (Like I'm Gonna Love You)
+66@@@77@@@Olivia Newton-John@@@Something Better To Do
+67@@@67@@@The Nitty Gritty Dirt Band@@@(All I Have To Do Is) Dream
+68@@@78@@@War@@@Low Rider
+69@@@79@@@Melissa Manchester@@@Just Too Many People
+70@@@76@@@Leon Haywood@@@I Want'a Do Something Freaky To You
+71@@@73@@@Arthur Alexander@@@Every Day I Have To Cry Some
+72@@@80@@@The Eleventh Hour@@@Hollywood Hot
+73@@@83@@@Aretha Franklin@@@Mr. D.J. (5 For The D.J.)
+74@@@81@@@B.J. Thomas@@@Help Me Make It (To My Rockin' Chair)
+75@@@85@@@B.T. Express@@@Give It What You Got/Peace Pipe
+76@@@86@@@ABBA@@@S.O.S.
+77@@@87@@@The Manhattan Transfer@@@Operator
+78@@@88@@@Pat Lundi@@@Party Music
+79@@@82@@@Waylon Jennings@@@Are You Sure Hank Done It This Way
+80@@@101@@@Captain & Tennille@@@The Way I Want To Touch You
+81@@@58@@@Emmylou Harris@@@If I Could Only Win Your Love
+82@@@84@@@Rusty Wier@@@Don't It Make You Wanna Dance?
+83@@@89@@@Joan Baez@@@Diamonds And Rust
+84@@@69@@@Elton John@@@Someone Saved My Life Tonight
+85@@@71@@@The Grass Roots@@@Mamacita
+86@@@90@@@The Salsoul Orchestra@@@Salsoul Hustle
+87@@@101@@@Millie Jackson@@@Leftovers
+88@@@101@@@John Dawson Read@@@A Friend Of Mine Is Going Blind
+89@@@101@@@Mike Post@@@Manhattan Spiritual
+90@@@99@@@Poco@@@Keep On Tryin'
+91@@@92@@@Ray Charles@@@Living For The City
+92@@@94@@@Buddy Miles@@@Rockin' And Rollin' On The Streets Of Hollywood
+93@@@96@@@David Bellamy@@@Nothin' Heavy
+94@@@101@@@Cotton, Lloyd & Christian@@@I Go To Pieces
+95@@@97@@@Duke & The Drivers@@@What You Got
+96@@@101@@@Katfish@@@Dear Prudence
+97@@@101@@@Baron Stewart@@@We Been Singin' Songs
+98@@@101@@@The Road Apples@@@Let's Live Together
+99@@@101@@@Curtis Mayfield@@@So In Love
+100@@@101@@@Travis Wammack@@@Easy Evil

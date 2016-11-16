@@ -1,0 +1,100 @@
+1@@@2@@@Rose Royce@@@Car Wash
+2@@@1@@@Stevie Wonder@@@I Wish
+3@@@4@@@Brick@@@Dazz
+4@@@3@@@Leo Sayer@@@You Make Me Feel Like Dancing
+5@@@6@@@The Sylvers@@@Hot Line
+6@@@7@@@Eagles@@@New Kid In Town
+7@@@10@@@Mary Macgregor@@@Torn Between Two Lovers
+8@@@9@@@Manfred Mann's Earth Band@@@Blinded By The Light
+9@@@20@@@Barbra Streisand@@@Evergreen (Love Theme From A Star Is Born)
+10@@@12@@@Aerosmith@@@Walk This Way
+11@@@15@@@The Jacksons@@@Enjoy Yourself
+12@@@14@@@Bread@@@Lost Without Your Love
+13@@@13@@@Queen@@@Somebody To Love
+14@@@16@@@Kenny Nolan@@@I Like Dreamin'
+15@@@18@@@Steve Miller@@@Fly Like An Eagle
+16@@@21@@@Barry Manilow@@@Weekend In New England
+17@@@18@@@David Dundas@@@Jeans On
+18@@@5@@@Marilyn McCoo & Billy Davis, Jr.@@@You Don't Have To Be A Star (To Be In My Show)
+19@@@8@@@Engelbert Humperdinck@@@After The Lovin'
+20@@@25@@@Kiss@@@Hard Luck Woman
+21@@@22@@@Earth, Wind & Fire@@@Saturday Nite
+22@@@11@@@Rod Stewart@@@Tonight's The Night (Gonna Be Alright)
+23@@@27@@@Donny & Marie Osmond@@@Ain't Nothing Like The Real Thing
+24@@@36@@@Al Stewart@@@Year Of The Cat
+25@@@29@@@Bob Seger@@@Night Moves
+26@@@33@@@ABBA@@@Dancing Queen
+27@@@28@@@Dr. Buzzard's Original Savannah Band@@@Whispering/Cherchez La Femme/Se Si Bon
+28@@@17@@@Electric Light Orchestra@@@Livin' Thing
+29@@@24@@@Burton Cummings@@@Stand Tall
+30@@@43@@@Thelma Houston@@@Don't Leave Me This Way
+31@@@35@@@Stephen Bishop@@@Save It For A Rainy Day
+32@@@38@@@Fleetwood Mac@@@Go Your Own Way
+33@@@23@@@Elton John@@@Sorry Seems To Be The Hardest Word
+34@@@26@@@Alice Cooper@@@I Never Cry
+35@@@37@@@Gene Cotton@@@You've Got Me Runnin'
+36@@@40@@@Smokie@@@Living Next Door To Alice
+37@@@39@@@The Doobie Brothers@@@It Keeps You Runnin'
+38@@@57@@@Bee Gees@@@Boogie Child
+39@@@41@@@KC And The Sunshine Band@@@I Like To Do It
+40@@@50@@@10cc@@@The Things We Do For Love
+41@@@51@@@Henhouse Five Plus Too@@@In The Mood
+42@@@46@@@Elvis Presley@@@Moody Blue/she Thinks I Still Care
+43@@@44@@@Heart@@@Dreamboat Annie
+44@@@47@@@Johnny Bristol@@@Do It To My Mind
+45@@@55@@@Kansas@@@Carry On Wayward Son
+46@@@42@@@Linda Ronstadt@@@Someone To Lay Down Beside Me
+47@@@30@@@The Spinners@@@The Rubberband Man
+48@@@49@@@Boz Scaggs@@@What Can I Say
+49@@@59@@@Wild Cherry@@@Baby Don't You Know
+50@@@34@@@Yvonne Elliman@@@Love Me
+51@@@45@@@Captain & Tennille@@@Muskrat Love
+52@@@58@@@Donna Summer@@@Spring Affair/Winter Melody
+53@@@52@@@Daryl Hall & John Oates@@@Do What You Want, Be What You Are
+54@@@53@@@Foghat@@@Drivin' Wheel
+55@@@61@@@Kool & The Gang@@@Open Sesame - Part 1
+56@@@56@@@Bee Gees@@@Love So Right
+57@@@68@@@Commodores@@@Fancy Dancer
+58@@@70@@@Tom Jones@@@Say You'll Stay Until Tomorrow
+59@@@31@@@The Bar-Kays@@@Shake Your Rump To The Funk
+60@@@62@@@Deniece Williams@@@Free
+61@@@73@@@Brass Construction@@@Ha Cha Cha (funktion)
+62@@@101@@@Boston@@@Long Time
+63@@@67@@@Rick Dees & His Cast Of Idiots@@@Dis-Gorilla (Part 1)
+64@@@32@@@George Harrison@@@This Song
+65@@@69@@@John Denver@@@Baby, You Look Good To Me Tonight
+66@@@101@@@George Harrison@@@Crackerbox Palace
+67@@@74@@@The Dramatics@@@Be My Girl
+68@@@71@@@Arthur Prysock@@@When Love Is New
+69@@@72@@@Rod Hart@@@C.b. Savage
+70@@@60@@@Paul Anka@@@Happier
+71@@@81@@@Daryl Hall & John Oates@@@Rich Girl
+72@@@101@@@Olivia Newton-John@@@Sam
+73@@@84@@@Parker McGee@@@I Just Can't Say No To You
+74@@@101@@@David Soul@@@Don't Give Up On Us
+75@@@87@@@Boney M@@@Daddy Cool
+76@@@80@@@The O'Jays@@@Darlin' Darlin' Baby (Sweet, Tender, Love)
+77@@@79@@@Starland Vocal Band@@@Hail! Hail! Rock And Roll!
+78@@@88@@@Phoebe Snow@@@Shakey Ground
+79@@@101@@@Ohio Players@@@Feel The Beat (Everybody Disco)
+80@@@82@@@The Emotions@@@I Don't Wanna Lose Your Love/Flowers
+81@@@101@@@Jennifer Warnes@@@Right Time Of The Night
+82@@@83@@@Barry DeVorzon and Perry Botkin, Jr.@@@Bless The Beasts And Children
+83@@@85@@@Ozark Mountain Daredevils@@@You Know Like I Know
+84@@@101@@@Natalie Cole@@@I've Got Love On My Mind
+85@@@101@@@Orleans@@@Reach
+86@@@91@@@Wilton Place Street Band@@@Disco Lucy (i Love Lucy Theme)
+87@@@89@@@Dr. Hook@@@If Not You
+88@@@92@@@Rush@@@Fly By Night/In The Mood
+89@@@101@@@Atlanta Rhythm Section@@@So In To You
+90@@@101@@@Ringo Starr@@@Hey Baby
+91@@@101@@@Enchantment@@@Gloria
+92@@@100@@@Gabriel Kaplan@@@Up Your Nose
+93@@@78@@@L.T.D.@@@Love Ballad
+94@@@99@@@Love Unlimited Orchestra@@@Theme From King Kong (Pt. I)
+95@@@97@@@Elvin Bishop Featuring Mickey Thomas@@@Spend Some Time
+96@@@96@@@Silvetti@@@Spring Rain
+97@@@98@@@Grace Jones@@@Sorry/That's The Trouble
+98@@@94@@@Rick Dees & His Cast Of Idiots@@@Disco Duck (Part I)
+99@@@101@@@Jim Stafford@@@Turn Loose Of My Leg
+100@@@101@@@L.T.D.@@@Love To The World

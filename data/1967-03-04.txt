@@ -1,0 +1,100 @@
+1@@@3@@@The Rolling Stones@@@Ruby Tuesday
+2@@@2@@@The Supremes@@@Love Is Here And Now You're Gone
+3@@@1@@@The Buckinghams@@@Kind Of A Drag
+4@@@10@@@Johnny Rivers@@@Baby I Need Your Lovin'
+5@@@5@@@The Seekers@@@Georgy Girl
+6@@@6@@@Sonny & Cher@@@The Beat Goes On
+7@@@7@@@The Spencer Davis Group@@@Gimme Some Lovin'
+8@@@8@@@The Casinos@@@Then You Can Tell Me Goodbye
+9@@@14@@@Mitch Ryder And The Detroit Wheels@@@Sock It To Me-Baby!
+10@@@4@@@The Monkees@@@I'm A Believer
+11@@@11@@@Cannonball Adderley@@@Mercy, Mercy, Mercy
+12@@@9@@@Blues Magoos@@@(We Ain't Got) Nothin' Yet
+13@@@19@@@Ed Ames@@@My Cup Runneth Over
+14@@@18@@@Marvin Gaye & Kim Weston@@@It Takes Two
+15@@@15@@@The Left Banke@@@Pretty Ballerina
+16@@@16@@@The 5th Dimension@@@Go Where You Wanna Go
+17@@@17@@@The Electric Prunes@@@I Had Too Much To Dream (Last Night)
+18@@@21@@@Neil Diamond@@@You Got To Me
+19@@@26@@@The Marvelettes@@@The Hunter Gets Captured By The Game
+20@@@25@@@The Buffalo Springfield@@@For What It's Worth (Stop, Hey What's That Sound)
+21@@@41@@@The Turtles@@@Happy Together
+22@@@27@@@The Lovin' Spoonful@@@Darling Be Home Soon
+23@@@42@@@Herman's Hermits@@@There's A Kind Of Hush
+24@@@29@@@Donovan@@@Epistle To Dippy
+25@@@12@@@Keith@@@98.6
+26@@@57@@@The Mamas & The Papas@@@Dedicated To The One I Love
+27@@@37@@@Peaches & Herb@@@Let's Fall In Love
+28@@@31@@@The Young Rascals@@@I've Been Lonely Too Long
+29@@@30@@@The Byrds@@@So You Want To Be A Rock 'N' Roll Star
+30@@@34@@@P.J. Proby@@@Niki Hoeky
+31@@@13@@@Tom Jones@@@Green, Green Grass Of Home
+32@@@43@@@Lesley Gore@@@California Nights
+33@@@33@@@Elvis Presley With The Jordanaires and The Imperials Quartet@@@Indescribably Blue
+34@@@40@@@Wilson Pickett@@@Everybody Needs Somebody To Love
+35@@@24@@@Bob Crewe Generation@@@Music To Watch Girls By
+36@@@85@@@The Beatles@@@Penny Lane
+37@@@54@@@Paul Revere & The Raiders@@@Ups And Downs
+38@@@20@@@Spyder Turner@@@Stand By Me
+39@@@49@@@Frankie Laine@@@I'll Take Care Of Your Cares
+40@@@50@@@The Brass Ring featuring Phil Bodner@@@The Dis-Advantages Of You
+41@@@52@@@Tommy James And The Shondells@@@I Think We're Alone Now
+42@@@22@@@Aaron Neville@@@Tell It Like It Is
+43@@@45@@@Al Martino@@@Daddy's Little Girl
+44@@@55@@@Jr. Walker & The All Stars@@@Pucker Up Buttercup
+45@@@83@@@The Beatles@@@Strawberry Fields Forever
+46@@@36@@@The Seeds@@@Pushin' Too Hard
+47@@@67@@@Herman's Hermits@@@No Milk Today
+48@@@60@@@The Mojo Men@@@Sit Down, I Think I Love You
+49@@@28@@@The Royal Guardsmen@@@Snoopy Vs. The Red Baron
+50@@@62@@@Smokey Robinson & The Miracles@@@The Love I Saw In You Was Just A Mirage
+51@@@61@@@Ronnie Dove@@@One More Mountain To Climb
+52@@@53@@@Jack Jones@@@Lady
+53@@@51@@@The Association@@@No Fair At All
+54@@@69@@@Harpers Bizarre@@@The 59th Street Bridge Song (Feelin' Groovy)
+55@@@56@@@The Rolling Stones@@@Let's Spend The Night Together
+56@@@38@@@James & Bobby Purify@@@Wish You Didn't Have To Go
+57@@@59@@@Mike Sharpe@@@Spooky
+58@@@79@@@The Royal Guardsmen@@@The Return Of The Red Baron
+59@@@32@@@Bobby Darin@@@Lovin' You
+60@@@72@@@The Seekers@@@Morningtown Ride
+61@@@63@@@Jerry Butler@@@I Dig You Baby
+62@@@39@@@Freddy Scott@@@Are You Lonely For Me
+63@@@35@@@James Darren@@@All
+64@@@64@@@Solomon Burke@@@Keep A Light In The Window Till I Come Home
+65@@@23@@@Tommy Roe@@@It's Now Winters Day
+66@@@66@@@Don Ho and the Aliis@@@Tiny Bubbles
+67@@@68@@@The Music Machine@@@The People In Me
+68@@@89@@@Martha & The Vandellas@@@Jimmy Mack
+69@@@73@@@Brian Hyland@@@Hung Up In Your Eyes
+70@@@78@@@Sam & Dave@@@When Something Is Wrong With My Baby
+71@@@71@@@Lou Courtney@@@Skate Now
+72@@@76@@@The New Vaudeville Band@@@Peek-A-Boo
+73@@@75@@@Ramsey Lewis@@@One, Two, Three
+74@@@74@@@Billy Stewart@@@Every Day I Have The Blues
+75@@@86@@@New Colony Six@@@Love You So Much
+76@@@65@@@Jack Greene@@@There Goes My Everything
+77@@@82@@@Brenda & The Tabulations@@@Dry Your Eyes
+78@@@87@@@Shirley Ellis@@@Soul Time
+79@@@80@@@Eddie Floyd@@@Raise Your Hand
+80@@@101@@@Aretha Franklin@@@I Never Loved A Man (The Way I Love You)
+81@@@101@@@The Five Americans@@@Western Union
+82@@@101@@@The Innocence@@@Mairzy Doats
+83@@@101@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Beggin'
+84@@@101@@@Micky Dolenz@@@Don't Do It
+85@@@90@@@The Platters@@@With This Ring
+86@@@101@@@James Brown And The Famous Flames@@@Kansas City
+87@@@88@@@Joe Simon@@@My Special Prayer
+88@@@101@@@Joe Tex@@@Show Me
+89@@@101@@@Stevie Wonder@@@Travlin' Man
+90@@@101@@@Petula Clark@@@This Is My Song
+91@@@98@@@James Carr@@@The Dark End Of The Street
+92@@@95@@@Percy Sledge@@@Baby, Help Me
+93@@@93@@@Trini Lopez@@@Gonna Get Along Without Ya' Now
+94@@@101@@@Chris Montez@@@Because Of You
+95@@@96@@@Bo Diddley@@@Ooh Baby
+96@@@101@@@Jackie Wilson@@@I Don't Want To Lose You
+97@@@101@@@The Impressions@@@You Always Hurt Me
+98@@@101@@@Nancy Sinatra with Lee Hazlewood@@@Summer Wine
+99@@@99@@@Gene Chandler@@@Girl Don't Care
+100@@@100@@@Larry Williams & Johnny Watson@@@Mercy, Mercy, Mercy

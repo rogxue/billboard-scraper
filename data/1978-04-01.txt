@@ -1,0 +1,100 @@
+1@@@1@@@Bee Gees@@@Night Fever
+2@@@2@@@Bee Gees@@@Stayin' Alive
+3@@@4@@@Eric Clapton@@@Lay Down Sally
+4@@@5@@@Barry Manilow@@@Can't Smile Without You
+5@@@3@@@Samantha Sang@@@Emotion
+6@@@9@@@Yvonne Elliman@@@If I Can't Have You
+7@@@7@@@Paul Davis@@@I Go Crazy
+8@@@6@@@Andy Gibb@@@(Love Is) Thicker Than Water
+9@@@10@@@Jay Ferguson@@@Thunder Island
+10@@@12@@@Kansas@@@Dust In The Wind
+11@@@15@@@Raydio@@@Jack And Jill
+12@@@16@@@Natalie Cole@@@Our Love
+13@@@14@@@LeBlanc & Carr@@@Falling
+14@@@18@@@England Dan & John Ford Coley@@@We'll Never Have To Say Goodbye Again
+15@@@28@@@Roberta Flack & Donny Hathaway@@@The Closer I Get To You
+16@@@11@@@Billy Joel@@@Just The Way You Are
+17@@@19@@@Bob Welch@@@Ebony Eyes
+18@@@20@@@Jackson Browne@@@Running On Empty
+19@@@21@@@Heatwave@@@Always And Forever
+20@@@22@@@David Gates@@@Goodbye Girl
+21@@@23@@@Stargard@@@Theme Song From Which Way Is Up
+22@@@24@@@Parliament@@@Flash Light
+23@@@25@@@Electric Light Orchestra@@@Sweet Talkin' Woman
+24@@@26@@@Gene Cotton@@@Before My Heart Finds Out
+25@@@27@@@Lou Rawls@@@Lady Love
+26@@@8@@@Dan Hill@@@Sometimes When We Touch
+27@@@30@@@Andrew Gold@@@Thank You For Being A Friend
+28@@@29@@@Rod Stewart@@@Hot Legs
+29@@@32@@@Chuck Mangione@@@Feels So Good
+30@@@35@@@Jefferson Starship@@@Count On Me
+31@@@13@@@Chic@@@Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)
+32@@@33@@@Bee Gees@@@How Deep Is Your Love
+33@@@34@@@Enchantment@@@It's You That I Need
+34@@@37@@@Gordon Lightfoot@@@The Circle Is Small (I Can See It In Your Eyes)
+35@@@38@@@KC And The Sunshine Band@@@Boogie Shoes
+36@@@40@@@Atlanta Rhythm Section@@@Imaginary Lover
+37@@@39@@@The Trammps@@@Disco Inferno
+38@@@41@@@Styx@@@Fooling Yourself (The Angry Young Man)
+39@@@50@@@Player@@@This Time I'm In It For Love
+40@@@44@@@Earth, Wind & Fire@@@Fantasy
+41@@@17@@@Art Garfunkel With James Taylor & Paul Simon@@@(What A)' Wonderful World
+42@@@46@@@Eddie Money@@@Baby Hold On
+43@@@47@@@Rubicon@@@I'm Gonna Take Care Of Everything
+44@@@45@@@Chicago@@@Little One
+45@@@49@@@Tavares@@@More Than A Woman
+46@@@54@@@Dolly Parton@@@Two Doors Down
+47@@@52@@@Carpenters@@@Sweet, Sweet Smile
+48@@@53@@@Kiss@@@Rocket Ride
+49@@@51@@@Sweet@@@Love Is Like Oxygen
+50@@@57@@@Diana Ross@@@Your Love Is So Good For Me
+51@@@60@@@Bunny Sigler@@@Let Me Party With You (Part 1) (Party, Party, Party)
+52@@@63@@@George Benson@@@On Broadway
+53@@@36@@@Van Halen@@@You Really Got Me
+54@@@69@@@Billy Joel@@@Movin' Out (Anthony's Song)
+55@@@55@@@Donna Summer@@@Rumour Has It
+56@@@71@@@The Michael Zager Band@@@Let's All Chant
+57@@@70@@@Wings@@@With A Little Luck
+58@@@62@@@Leif Garrett@@@Put Your Head On My Shoulder
+59@@@66@@@John Denver@@@It Amazes Me
+60@@@31@@@ABBA@@@The Name Of The Game
+61@@@64@@@L.T.D.@@@Never Get Enough Of Your Love
+62@@@65@@@Sea Level@@@That's Your Secret
+63@@@74@@@Shaun Cassidy@@@Do You Believe In Magic
+64@@@76@@@Warren Zevon@@@Werewolves Of London
+65@@@101@@@John Travolta & Olivia Newton-John@@@You're The One That I Want
+66@@@73@@@Crystal Gayle@@@Ready For The Times To Get Better
+67@@@67@@@Boz Scaggs@@@Hollywood
+68@@@78@@@Bonnie Tyler@@@It's A Heartache
+69@@@101@@@Johnny Mathis/Deniece Williams@@@Too Much, Too Little, Too Late
+70@@@72@@@Aerosmith@@@Kings And Queens
+71@@@75@@@Wild Cherry@@@I Love My Music
+72@@@83@@@Brooklyn Dreams@@@Music, Harmony And Rhythm
+73@@@85@@@Meat Loaf@@@Two Out Of Three Ain't Bad
+74@@@86@@@Allan Clarke@@@(I Will Be Your) Shadow In The Street
+75@@@77@@@Bob Weir@@@Bombs Away
+76@@@81@@@Claudja Barry@@@Dancin' Fever
+77@@@87@@@Robert Palmer@@@Every Kinda People
+78@@@79@@@Don Brown@@@Sitting In Limbo
+79@@@80@@@Starz@@@(Any Way That You Want It) I'll Be There
+80@@@82@@@Bill Brandon@@@We Fell In Love While Dancing
+81@@@101@@@Ted Nugent@@@Yank Me, Crank Me
+82@@@90@@@Hotel@@@You'll Love Again
+83@@@95@@@Ronnie McDowell@@@I Love You, I Love You, I Love You
+84@@@84@@@Ashford & Simpson@@@Don't Cost You Nothing
+85@@@68@@@Player@@@Baby Come Back
+86@@@101@@@Steely Dan@@@Deacon Blues
+87@@@91@@@Peter Brown with Betty Wright@@@Dance With Me
+88@@@101@@@Santa Esmeralda@@@House Of The Rising Sun
+89@@@101@@@Angel@@@Ain't Gonna Eat Out My Heart Anymore
+90@@@101@@@Jimmy Bo Horne@@@Dance Across The Floor
+91@@@93@@@Eruption@@@I Can't Stand The Rain
+92@@@94@@@Belle Epoque@@@Miss Broadway
+93@@@61@@@James Taylor@@@Honey Don't Leave L.a.
+94@@@42@@@Waylon & Willie@@@Mammas Don't Let Your Babies Grow Up To Be Cowboys
+95@@@43@@@Lynyrd Skynyrd@@@What's Your Name
+96@@@48@@@Queen@@@We Will Rock You/We Are The Champions
+97@@@56@@@Little River Band@@@Happy Anniversary
+98@@@88@@@Stargard@@@Disco Rufus
+99@@@89@@@High Inergy@@@Love Is All You Need
+100@@@92@@@Barbara Mandrell@@@Woman To Woman

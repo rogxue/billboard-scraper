@@ -1,0 +1,100 @@
+1@@@2@@@Melanie@@@Brand New Key
+2@@@1@@@Sly & The Family Stone@@@Family Affair
+3@@@9@@@Don McLean@@@American Pie (Parts I & II)
+4@@@4@@@Three Dog Night@@@An Old Fashioned Love Song
+5@@@5@@@Michael Jackson@@@Got To Be There
+6@@@3@@@The Chi-lites@@@Have You Seen Her
+7@@@8@@@Sonny & Cher@@@All I Ever Need Is You
+8@@@11@@@Dennis Coffey & The Detroit Guitar Band@@@Scorpio
+9@@@10@@@David Cassidy@@@Cherish
+10@@@12@@@Donny Osmond@@@Hey Girl/I Knew You When
+11@@@7@@@Bread@@@Baby I'm - A Want You
+12@@@13@@@The Staple Singers@@@Respect Yourself
+13@@@20@@@Jonathan Edwards@@@Sunshine
+14@@@15@@@The Stylistics@@@You Are Everything
+15@@@16@@@Donnie Elbert@@@Where Did Our Love Go
+16@@@6@@@Isaac Hayes@@@Theme From Shaft
+17@@@28@@@The New Seekers@@@I'd Like To Teach The World To Sing (In Perfect Harmony)
+18@@@18@@@The Temptations@@@Superstar (Remember How You Got Where You Are)
+19@@@17@@@Cher@@@Gypsys, Tramps & Thieves
+20@@@30@@@Al Green@@@Let's Stay Together
+21@@@26@@@The Hillside Singers@@@I'd Like To Teach The World To Sing (In Perfect Harmony)
+22@@@24@@@The Honey Cone@@@One Monkey Don't Stop No Show Part I
+23@@@29@@@Betty Wright@@@Clean Up Woman
+24@@@25@@@Rod Stewart With Faces@@@(I Know) I'm Losing You
+25@@@14@@@Neil Diamond@@@Stones/Crunchy Granola Suite
+26@@@39@@@Badfinger@@@Day After Day
+27@@@19@@@Aretha Franklin@@@Rock Steady
+28@@@32@@@Joe Simon@@@Drowning In The Sea Of Love
+29@@@21@@@Peter Nero@@@Theme From Summer Of '42
+30@@@31@@@Mickey Newbury@@@An American Trilogy
+31@@@45@@@Jackson 5@@@Sugar Daddy
+32@@@38@@@Rare Earth@@@Hey Big Brother
+33@@@33@@@Sweathog@@@Hallelujah
+34@@@34@@@The Who@@@Behind Blue Eyes
+35@@@22@@@Les Crane@@@Desiderata
+36@@@27@@@Lou Rawls@@@A Natural Man
+37@@@40@@@Charley Pride@@@Kiss An Angel Good Mornin'
+38@@@46@@@Bob Dylan@@@George Jackson
+39@@@42@@@Lee Michaels@@@Can I Get A Witness
+40@@@44@@@Bullet@@@White Lies, Blue Eyes
+41@@@43@@@Tommy James@@@Nothing To Hide
+42@@@35@@@James Brown@@@I'm A Greedy Man - Part I
+43@@@51@@@Carly Simon@@@Anticipation
+44@@@57@@@The Partridge Family Starring Shirley Jones Featuring David Cassidy@@@It's One Of Those Nights (Yes Love)
+45@@@67@@@Think@@@Once You Understand
+46@@@56@@@Jerry Lee Lewis@@@Me And Bobby McGee
+47@@@47@@@John Denver@@@Friends With You
+48@@@83@@@Gladys Knight And The Pips@@@Make Me The Woman That You Go Home To
+49@@@49@@@Joan Baez@@@Let It Be
+50@@@48@@@Yes@@@Your Move (I've Seen All Good People)
+51@@@54@@@Redbone@@@The Witch Queen Of New Orleans
+52@@@52@@@Smokey Robinson & The Miracles@@@Satisfaction
+53@@@55@@@The Guess Who@@@Sour Suite
+54@@@59@@@Richard Harris@@@My Boy
+55@@@58@@@B.B. King@@@Ain't Nobody Home
+56@@@60@@@The J. Geils Band@@@Looking For A Love
+57@@@80@@@Elton John@@@Levon
+58@@@64@@@Carroll O'Connor And Jean Stapleton (As The Bunkers)@@@Those Were The Days
+59@@@62@@@Merle Haggard And The Strangers@@@Carolyn
+60@@@71@@@Bobby Womack & Peace@@@That's The Way I Feel About Cha
+61@@@63@@@Jefferson Airplane@@@Pretty As You Feel
+62@@@68@@@Stampeders@@@Devil You
+63@@@65@@@Ray Stevens@@@Turn Your Radio On
+64@@@70@@@Grateful Dead@@@Truckin'
+65@@@73@@@Little Johnny Taylor@@@Everybody Knows About My Good Thing Pt. 1
+66@@@81@@@Hamilton, Joe Frank & Reynolds@@@Daisy Mae
+67@@@101@@@Led Zeppelin@@@Black Dog
+68@@@75@@@Helen Reddy@@@No Sad Song
+69@@@72@@@Lighthouse@@@Take It Slow (Out In The Country)
+70@@@69@@@Curtis Mayfield@@@Get Down
+71@@@76@@@The Doors@@@Tightrope Ride
+72@@@82@@@Merry Clayton@@@After All This Time
+73@@@77@@@The Isley Brothers@@@Lay Lady Lay
+74@@@74@@@Carpenters@@@Superstar/Bless The Beasts And Children
+75@@@79@@@Jr. Walker & The All Stars@@@Way Back Home
+76@@@99@@@Nilsson@@@Without You
+77@@@98@@@Beverly Bremers@@@Don't Say You Don't Remember
+78@@@85@@@The Coasters@@@Love Potion Number Nine
+79@@@101@@@Wilson Pickett@@@Fire And Water
+80@@@89@@@Free Movement@@@The Harder I Try (The Bluer I Get)
+81@@@101@@@Three Dog Night@@@Never Been To Spain
+82@@@93@@@The Emotions@@@Show Me How
+83@@@88@@@Chase@@@So Many People
+84@@@90@@@The Poppy Family@@@No Good To Cry
+85@@@87@@@The Undisputed Truth@@@You Make Your Own Heaven And Hell Right Here On Earth
+86@@@86@@@The Dramatics@@@Get Up And Get Down
+87@@@101@@@Ray Charles@@@What Am I Living For
+88@@@101@@@Alice Cooper@@@Under My Wheels
+89@@@94@@@N.F. Porter@@@Keep On Keeping On
+90@@@92@@@Heaven Bound with Tony Scotti@@@Five Hundred Miles
+91@@@91@@@Johnny Paycheck@@@She's All I Got
+92@@@101@@@The Bar-Kays@@@Son Of Shaft
+93@@@95@@@Jerry Butler & Brenda Lee Eager@@@Ain't Understanding Mellow
+94@@@97@@@The New Colony Six@@@Long Time To Be Alone
+95@@@96@@@Judy Collins@@@Open The Door (Song For Judith)
+96@@@101@@@The Persuaders@@@Love Gonna Pack Up (And Walk Out)
+97@@@101@@@Rufus Thomas@@@Do The Funky Penguin Part I
+98@@@100@@@Edgar Winter's White Trash@@@Keep Playin' That Rock 'N' Roll
+99@@@101@@@Ohio Players@@@Pain (Part I)
+100@@@101@@@The Assembled Multitude@@@Medley From Superstar (A Rock Opera)

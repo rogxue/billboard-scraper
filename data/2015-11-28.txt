@@ -1,0 +1,100 @@
+1@@@1@@@Adele@@@Hello
+2@@@2@@@Drake@@@Hotline Bling
+3@@@4@@@Justin Bieber@@@Sorry
+4@@@3@@@The Weeknd@@@The Hills
+5@@@6@@@Shawn Mendes@@@Stitches
+6@@@5@@@Justin Bieber@@@What Do You Mean?
+7@@@9@@@Fetty Wap Featuring Remy Boyz@@@679
+8@@@8@@@Taylor Swift@@@Wildest Dreams
+9@@@10@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+10@@@12@@@Elle King@@@Ex's & Oh's
+11@@@13@@@Alessia Cara@@@Here
+12@@@14@@@The Weeknd@@@Can't Feel My Face
+13@@@7@@@Ariana Grande@@@Focus
+14@@@17@@@Selena Gomez@@@Same Old Love
+15@@@18@@@Ellie Goulding@@@On My Mind
+16@@@16@@@Drake & Future@@@Jumpman
+17@@@11@@@R. City Featuring Adam Levine@@@Locked Away
+18@@@15@@@Silento@@@Watch Me
+19@@@19@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+20@@@23@@@Chris Stapleton@@@Tennessee Whiskey
+21@@@20@@@X Ambassadors@@@Renegades
+22@@@24@@@Fetty Wap@@@Trap Queen
+23@@@22@@@iLoveMemphis@@@Hit The Quan
+24@@@27@@@Travi$ Scott@@@Antidote
+25@@@28@@@Thomas Rhett@@@Die A Happy Man
+26@@@25@@@Selena Gomez Featuring A$AP Rocky@@@Good For You
+27@@@51@@@Justin Bieber@@@I'll Show You
+28@@@36@@@Post Malone@@@White Iverson
+29@@@26@@@One Direction@@@Drag Me Down
+30@@@21@@@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@@@Downtown
+31@@@30@@@Future Featuring Drake@@@Where Ya At
+32@@@32@@@Demi Lovato@@@Confident
+33@@@34@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+34@@@31@@@OMI@@@Cheerleader
+35@@@35@@@Fetty Wap Featuring Monty@@@My Way
+36@@@37@@@Mark Ronson Featuring Bruno Mars@@@Uptown Funk!
+37@@@33@@@Ed Sheeran@@@Photograph
+38@@@29@@@Calvin Harris & Disciples@@@How Deep Is Your Love
+39@@@38@@@WALK THE MOON@@@Shut Up And Dance
+40@@@44@@@One Direction@@@Perfect
+41@@@39@@@Fetty Wap@@@Again
+42@@@53@@@Bryson Tiller@@@Don't
+43@@@42@@@Sam Hunt@@@Break Up In A Small Town
+44@@@47@@@Chris Young@@@I'm Comin' Over
+45@@@41@@@Ed Sheeran@@@Thinking Out Loud
+46@@@49@@@Carrie Underwood@@@Smoke Break
+47@@@40@@@Rachel Platten@@@Fight Song
+48@@@59@@@Rudimental Featuring Ed Sheeran@@@Lay It All On Me
+49@@@46@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+50@@@56@@@J. Cole@@@No Role Modelz
+51@@@55@@@Cam@@@Burning House
+52@@@43@@@Luke Bryan@@@Strip It Down
+53@@@48@@@Old Dominion@@@Break Up With Him
+54@@@54@@@DeJ Loaf Featuring Big Sean@@@Back Up
+55@@@101@@@Coldplay@@@Adventure Of A Lifetime
+56@@@52@@@Drake@@@Back To Back
+57@@@64@@@Tory Lanez@@@Say It
+58@@@58@@@Rae Sremmurd@@@Come Get Her
+59@@@63@@@Blake Shelton@@@Gonna
+60@@@61@@@Cole Swindell@@@Let Me See Ya Girl
+61@@@101@@@DLOW@@@Bet You Can't Do It Like Me
+62@@@62@@@Dan + Shay@@@Nothin' Like You
+63@@@66@@@Ty Dolla $ign Featuring Future & Rae Sremmurd@@@Blase
+64@@@68@@@The Chainsmokers Featuring ROZES@@@Roses
+65@@@101@@@One Direction@@@History
+66@@@69@@@Nelly Featuring Jeremih@@@The Fix
+67@@@60@@@Hailee Steinfeld@@@Love Myself
+68@@@67@@@Chris Brown@@@Liquor
+69@@@71@@@twenty one pilots@@@Stressed Out
+70@@@70@@@Drake & Future@@@Big Rings
+71@@@76@@@Daya@@@Hide Away
+72@@@73@@@Brothers Osborne@@@Stay A Little Longer
+73@@@101@@@Sam Smith@@@Writing's On The Wall
+74@@@79@@@Jason Aldean@@@Gonna Know We Were Here
+75@@@101@@@Sia@@@Alive
+76@@@86@@@Bryson Tiller@@@Exchange
+77@@@78@@@Jana Kramer@@@I Got The Boy
+78@@@74@@@Drake@@@Right Hand
+79@@@65@@@Florida Georgia Line@@@Anything Goes
+80@@@82@@@Tim McGraw@@@Top Of The World
+81@@@72@@@Demi Lovato@@@Cool For The Summer
+82@@@77@@@K Camp@@@Comfortable
+83@@@75@@@Kenny Chesney@@@Save It For A Rainy Day
+84@@@81@@@Fetty Wap@@@RGF Island
+85@@@80@@@Drake & Future@@@Diamonds Dancing
+86@@@85@@@DNCE@@@Cake By The Ocean
+87@@@101@@@Chris Stapleton@@@Traveller
+88@@@101@@@Jordan Smith@@@Halo
+89@@@83@@@G-Eazy x Bebe Rexha@@@Me, Myself & I
+90@@@88@@@LoCash@@@I Love This Life
+91@@@101@@@Missy Elliott Featuring Pharrell Williams@@@WTF (Where They From)
+92@@@90@@@Kelsea Ballerini@@@Dibs
+93@@@89@@@Lil Dicky Featuring Fetty Wap & Rich Homie Quan@@@$ave Dat Money
+94@@@101@@@Rachel Platten@@@Stand By You
+95@@@87@@@Jess Glynne@@@Hold My Hand
+96@@@101@@@Flo Rida@@@My House
+97@@@91@@@J Balvin@@@Ginza
+98@@@93@@@Big Sean Featuring Chris Brown & Ty Dolla $ign@@@Play No Games
+99@@@84@@@Nick Jonas@@@Levels
+100@@@95@@@Zac Brown Band@@@Beautiful Drug

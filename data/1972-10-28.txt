@@ -1,0 +1,100 @@
+1@@@1@@@Chuck Berry@@@My Ding-A-Ling
+2@@@3@@@Elvis Presley@@@Burning Love
+3@@@5@@@The Moody Blues@@@Nights In White Satin
+4@@@2@@@Bill Withers@@@Use Me
+5@@@20@@@Johnny Nash@@@I Can See Clearly Now
+6@@@12@@@Curtis Mayfield@@@Freddie's Dead (Theme From Superfly)
+7@@@8@@@Rick Nelson and The Stone Canyon Band@@@Garden Party
+8@@@6@@@Michael Jackson@@@Ben
+9@@@4@@@The Main Ingredient@@@Everybody Plays The Fool
+10@@@14@@@Danny O'Keefe@@@Good Time Charlie's Got The Blues
+11@@@11@@@Leon Russell@@@Tight Rope
+12@@@17@@@The Doobie Brothers@@@Listen To The Music
+13@@@15@@@Donny Osmond@@@Why/Lonely Boy
+14@@@28@@@The Spinners@@@I'll Be Around/How Could I Let You Get Away
+15@@@30@@@Lobo@@@I'd Love You To Want Me
+16@@@22@@@Eagles@@@Witchy Woman
+17@@@27@@@Helen Reddy@@@I Am Woman
+18@@@19@@@Arlo Guthrie@@@The City Of New Orleans
+19@@@21@@@The 5th Dimension@@@If I Could Reach You
+20@@@23@@@Mel And Tim@@@Starting All Over Again
+21@@@7@@@Mac Davis@@@Baby Don't Get Hooked On Me
+22@@@25@@@Chi Coltrane@@@Thunder And Lightning
+23@@@24@@@Cornelius Brothers & Sister Rose@@@Don't Ever Be Lonely (A Poor Little Fool Like Me)
+24@@@9@@@Hot Butter@@@Popcorn
+25@@@32@@@Nilsson@@@Spaceman
+26@@@26@@@Gallery@@@I Believe In Music
+27@@@29@@@Joe Cocker and The Chris Stainton Band@@@Midnight Rider
+28@@@34@@@Seals & Crofts@@@Summer Breeze
+29@@@13@@@Rod Stewart@@@You Wear It Well
+30@@@31@@@Sam Neely@@@Loving You Just Crossed My Mind
+31@@@18@@@James Brown@@@Get On The Good Foot-Part 1
+32@@@37@@@Alice Cooper@@@Elected
+33@@@10@@@Raspberries@@@Go All The Way
+34@@@39@@@Cashman & West@@@American City Suite
+35@@@36@@@The Band@@@Don't Do It
+36@@@44@@@Harold Melvin And The Blue Notes@@@If You Don't Know Me By Now
+37@@@16@@@Rick Springfield@@@Speak To The Sky
+38@@@54@@@The Temptations@@@Papa Was A Rollin' Stone
+39@@@40@@@Emerson, Lake & Palmer@@@From The Beginning
+40@@@35@@@The O'Jays@@@Back Stabbers
+41@@@47@@@Mott The Hoople@@@All The Young Dudes
+42@@@63@@@America@@@Ventura Highway
+43@@@38@@@David Cassidy@@@Rock Me Baby
+44@@@52@@@Grand Funk Railroad@@@Rock 'N Roll Soul
+45@@@45@@@Gladstone@@@A Piece Of Paper
+46@@@51@@@Jim Croce@@@Operator (That's Not the Way it Feels)
+47@@@48@@@Jermaine Jackson@@@That's How Love Goes
+48@@@49@@@Wayne Newton@@@Can't You Hear The Song?
+49@@@55@@@Johnny Rivers@@@Rockin' Pneumonia - Boogie Woogie Flu
+50@@@65@@@Albert Hammond@@@It Never Rains In Southern California
+51@@@59@@@Donna Fargo@@@Funny Face
+52@@@43@@@Michael Murphey@@@Geronimo's Cadillac
+53@@@56@@@Casey Kelly@@@Poor Boy
+54@@@46@@@Cher@@@Don't Hide Your Love
+55@@@72@@@Austin Roberts@@@Something's Wrong With Me
+56@@@50@@@Billy Preston@@@Slaughter
+57@@@80@@@The Delegates@@@Convention '72
+58@@@60@@@Eric Clapton@@@Let It Rain
+59@@@91@@@Al Green@@@You Ought To Be With Me
+60@@@71@@@The Stylistics@@@I'm Stone In Love With You
+61@@@61@@@King Floyd@@@Woman Don't Go Astray
+62@@@78@@@Betty Wright@@@Baby Sitter
+63@@@64@@@Beverly Bremers@@@I'll Make You Music
+64@@@53@@@Four Tops@@@(It's The Way) Nature Planned It
+65@@@74@@@Lighthouse@@@Sunny Days
+66@@@68@@@Blood, Sweat & Tears@@@So Long Dixie
+67@@@69@@@Denise LaSalle@@@Man Sized Job
+68@@@73@@@Isaac Hayes@@@Theme From The Men
+69@@@70@@@Steve & Eydie Featuring The Osmonds@@@We Can Make It Together
+70@@@90@@@The Osmonds@@@Crazy Horses
+71@@@87@@@Donny Hathaway@@@I Love You More Than You'll Ever Know
+72@@@101@@@Chicago@@@Dialogue (Part I & II)
+73@@@75@@@Laura Lee@@@If You Can Beat Me Rockin' (You Can Have My Chair)
+74@@@76@@@Eddie Kendricks@@@If You Let Me
+75@@@79@@@Holland-Dozier@@@Why Can't We Be Lovers
+76@@@77@@@Al Green@@@Guilty
+77@@@66@@@Danny Holien@@@Colorado
+78@@@83@@@Petula Clark@@@Wedding Song (There Is Love)
+79@@@62@@@B.B. King@@@Guess Who/Them Changes
+80@@@81@@@Bulldog@@@No
+81@@@57@@@The Chi-lites@@@A Lonely Man/The Man & The Woman (The Boy & The Girl)
+82@@@94@@@Tower Of Power@@@Down To The Nightclub
+83@@@101@@@The Isley Brothers@@@Work To Do
+84@@@99@@@Dennis Yost And The Classics IV@@@What Am I Crying For?
+85@@@89@@@Harry Chapin@@@Sunday Morning Sunshine
+86@@@101@@@Gilbert O'Sullivan@@@Clair
+87@@@88@@@Melanie@@@Together Alone
+88@@@101@@@Jackson 5@@@Corner Of The Sky
+89@@@92@@@Mouth & MacNeal@@@Hey, You Love
+90@@@101@@@King Harvest@@@Dancing In The Moonlight
+91@@@101@@@The Heywoods@@@Special Someone
+92@@@95@@@Joe Simon@@@Misty Blue
+93@@@93@@@National Lampoon@@@Deteriorata
+94@@@100@@@The Supremes@@@I Guess I'll Miss The Man
+95@@@96@@@Sammy Davis, Jr. with The Mike Curb Congregation@@@The People Tree
+96@@@97@@@The Guess Who@@@Runnin' Back To Saskatoon
+97@@@98@@@The Raiders@@@Song Seller
+98@@@101@@@The Move@@@Do Ya
+99@@@101@@@Van Morrison@@@Redwood Tree
+100@@@101@@@Tony Cole@@@Suite: Man And Woman

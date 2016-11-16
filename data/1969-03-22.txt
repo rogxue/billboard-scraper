@@ -1,0 +1,100 @@
+1@@@1@@@Tommy Roe@@@Dizzy
+2@@@2@@@Creedence Clearwater Revival@@@Proud Mary
+3@@@5@@@Classics IV Featuring Dennis Yost@@@Traces
+4@@@4@@@The Foundations@@@Build Me Up Buttercup
+5@@@8@@@1910 Fruitgum Co.@@@Indian Giver
+6@@@9@@@The Zombies@@@Time Of The Season
+7@@@7@@@Dionne Warwick@@@This Girl's In Love With You
+8@@@3@@@Sly & The Family Stone@@@Everyday People
+9@@@6@@@Tommy James And The Shondells@@@Crimson And Clover
+10@@@11@@@The Temptations@@@Run Away Child, Running Wild
+11@@@18@@@Glen Campbell@@@Galveston
+12@@@12@@@Joe South@@@Games People Play
+13@@@14@@@David Ruffin@@@My Whole World Ended (The Moment You Left Me)
+14@@@37@@@The 5th Dimension@@@Aquarius/Let The Sunshine In
+15@@@13@@@Sammy Davis Jr.@@@I've Gotta Be Me
+16@@@17@@@New Colony Six@@@Things I'd Like To Say
+17@@@15@@@Smokey Robinson & The Miracles@@@Baby, Baby Don't Cry
+18@@@10@@@Jay & The Americans@@@This Magic Moment
+19@@@21@@@Aretha Franklin@@@The Weight
+20@@@33@@@Steppenwolf@@@Rock Me
+21@@@36@@@Blood, Sweat & Tears@@@You've Made Me So Very Happy
+22@@@31@@@The Bubble Puppy@@@Hot Smoke & Sasafrass
+23@@@24@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Mr. Sun, Mr. Moon
+24@@@28@@@Jerry Butler@@@Only The Strong Survive
+25@@@25@@@Spirit@@@I Got A Line On You
+26@@@27@@@Frankie Laine@@@You Gave Me A Mountain
+27@@@43@@@Edwin Starr@@@Twenty-Five Miles
+28@@@30@@@The Box Tops@@@Sweet Cream Ladies, Forward March
+29@@@23@@@The First Edition@@@But You Know I Love You
+30@@@35@@@Sir Douglas Quintet@@@Mendocino
+31@@@16@@@The Doors@@@Touch Me
+32@@@20@@@The Turtles@@@You Showed Me
+33@@@54@@@Supremes & Temptations@@@I'll Try Something New
+34@@@41@@@The Meters@@@Sophisticated Cissy
+35@@@26@@@Bob Seger System@@@Ramblin' Gamblin' Man
+36@@@19@@@James Brown@@@Give It Up Or Turnit A Loose
+37@@@45@@@The Watts 103rd Street Rhythm Band@@@Do Your Thing
+38@@@38@@@Betty Everett@@@There'll Come A Time
+39@@@42@@@Stevie Wonder@@@I Don't Know Why
+40@@@69@@@Gary Puckett And The Union Gap@@@Don't Give In To Him
+41@@@39@@@Bill Deal & The Rhondels@@@May I
+42@@@93@@@The Isley Brothers@@@It's Your Thing
+43@@@79@@@The Vogues@@@No, Not Much
+44@@@70@@@The Beach Boys@@@I Can Hear Music
+45@@@47@@@Three Dog Night@@@Try A Little Tenderness
+46@@@55@@@The Arbors@@@The Letter
+47@@@32@@@Mongo Santamaria@@@Cloud Nine
+48@@@52@@@Otis Redding@@@A Lover's Question
+49@@@51@@@Neil Diamond@@@Brother Love's Travelling Salvation Show
+50@@@49@@@The Grass Roots@@@Lovin' Things
+51@@@53@@@Brenda Lee@@@Johnny One Time
+52@@@48@@@Glen Campbell & Bobbie Gentry@@@Let It Be Me
+53@@@76@@@Clarence Carter@@@Snatching It Back
+54@@@61@@@The Brooklyn Bridge Featuring Johnny Maestro@@@Blessed Is The Rain
+55@@@63@@@Johnny Rivers@@@These Are Not My People
+56@@@56@@@The Monkees@@@Tear Drop City
+57@@@62@@@Peaches & Herb@@@When He Touches Me (Nothing Else Matters)
+58@@@66@@@Crazy Elephant@@@Gimme Gimme Good Lovin'
+59@@@65@@@Derek@@@Back Door Man
+60@@@64@@@Rhinoceros@@@Apricot Brandy
+61@@@78@@@Bettye Swann@@@Don't Touch Me
+62@@@57@@@Young-Holt Unlimited@@@Who's Making Love
+63@@@73@@@Carla Thomas@@@I Like What You're Doing (To Me)
+64@@@74@@@Dusty Springfield@@@Don't Forget About Me
+65@@@77@@@Engelbert Humperdinck@@@The Way It Used To Be
+66@@@96@@@Red Skelton@@@The Pledge Of Allegiance
+67@@@101@@@Elvis Presley@@@Memories
+68@@@85@@@Thee Prophets@@@Playgirl
+69@@@67@@@The Iveys@@@Maybe Tomorrow
+70@@@84@@@The Cowsills@@@Hair
+71@@@101@@@Joe Simon@@@The Chokin' Kind
+72@@@72@@@Vanilla Fudge@@@Shotgun
+73@@@81@@@The Fireballs@@@Long Green
+74@@@82@@@The Peppermint Rainbow@@@Will You Be Staying After Sunday
+75@@@75@@@Iron Butterfly@@@Soul Experience
+76@@@83@@@Shango@@@Day After Day (It's Slippin' Away)
+77@@@87@@@Gladys Knight And The Pips@@@Didn't You Know (You'd Have To Cry Sometime)
+78@@@86@@@Booker T. & The MG's@@@Time Is Tight
+79@@@71@@@Nazz@@@Hello It's Me
+80@@@80@@@The Association@@@Goodbye Columbus
+81@@@101@@@Tyrone Davis@@@Is It Something You've Got
+82@@@101@@@Bee Gees@@@First Of May
+83@@@92@@@Mama Cass@@@Move In A Little Closer, Baby
+84@@@101@@@B.J. Thomas@@@It's Only Love
+85@@@101@@@Paul Anka@@@In The Still Of The Night
+86@@@101@@@Tommy James And The Shondells@@@Sweet Cherry Wine
+87@@@101@@@The Dynamics@@@Ice Cream Song
+88@@@88@@@The Flirtations@@@Nothing But A Heartache
+89@@@89@@@Sly & The Family Stone@@@Sing A Simple Song
+90@@@90@@@MC5@@@Kick Out The Jams
+91@@@91@@@Aretha Franklin@@@Tracks Of My Tears
+92@@@99@@@The Ventures@@@Hawaii Five-O
+93@@@94@@@Canned Heat@@@Time Was
+94@@@97@@@The Dells@@@Hallways Of My Mind
+95@@@95@@@Bobby Hatfield@@@Only You (And You Alone)
+96@@@101@@@Dee Dee Warwick@@@Foolish Fool
+97@@@101@@@Sam & Dave@@@Born Again
+98@@@98@@@Connie Francis@@@The Wedding Cake
+99@@@101@@@The Chi-lites@@@Give It Away
+100@@@100@@@Nancy Sinatra@@@God Knows I Love You

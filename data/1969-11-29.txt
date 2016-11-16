@@ -1,0 +1,100 @@
+1@@@7@@@The Beatles@@@Come Together/Something
+2@@@4@@@Blood, Sweat & Tears@@@And When I Die
+3@@@1@@@The 5th Dimension@@@Wedding Bell Blues
+4@@@2@@@R.B. Greaves@@@Take A Letter Maria
+5@@@6@@@Steam@@@Na Na Hey Hey Kiss Him Goodbye
+6@@@5@@@The Flying Machine@@@Smile A Little Smile For Me
+7@@@12@@@Peter, Paul & Mary@@@Leaving On A Jet Plane
+8@@@8@@@Stevie Wonder@@@Yester-Me, Yester-You, Yesterday
+9@@@21@@@Creedence Clearwater Revival@@@Down On The Corner/Fortunate Son
+10@@@18@@@Three Dog Night@@@Eli's Coming
+11@@@20@@@Diana Ross & The Supremes@@@Someday We'll Be Together
+12@@@11@@@Smith@@@Baby It's You
+13@@@13@@@Mel And Tim@@@Backfield In Motion
+14@@@15@@@The Originals@@@Baby, I'm For Real
+15@@@19@@@Billy Joe Royal@@@Cherry Hill Park
+16@@@9@@@Elvis Presley@@@Suspicious Minds
+17@@@10@@@The Temptations@@@I Can't Get Next To You
+18@@@28@@@Neil Diamond@@@Holly Holy
+19@@@16@@@The Archies@@@Sugar, Sugar
+20@@@17@@@The Friends Of Distinction@@@Going In Circles
+21@@@27@@@Crosby, Stills & Nash@@@Suite: Judy Blue Eyes
+22@@@29@@@The Guess Who@@@Undun
+23@@@24@@@Glen Campbell@@@Try A Little Kindness
+24@@@33@@@Aretha Franklin@@@Eleanor Rigby
+25@@@37@@@B.J. Thomas@@@Raindrops Keep Fallin' On My Head
+26@@@35@@@The Flaming Ember@@@Mind, Body and Soul
+27@@@22@@@The Cuff Links@@@Tracy
+28@@@23@@@Peggy Lee@@@Is That All There Is
+29@@@34@@@Gladys Knight And The Pips@@@Friendship Train
+30@@@36@@@Jr. Walker & The All Stars@@@These Eyes
+31@@@47@@@The Band@@@Up On Cripple Creek
+32@@@40@@@The Grass Roots@@@Heaven Knows
+33@@@26@@@Kenny Rogers & The First Edition@@@Reuben James
+34@@@43@@@Nilsson@@@I Guess The Lord Must Be In New York City
+35@@@39@@@Harlow Wilcox and the Oakies@@@Groovy Grubworm
+36@@@38@@@Mama Cass Elliot@@@Make Your Own Kind Of Music
+37@@@46@@@Ferrante & Teicher@@@Midnight Cowboy
+38@@@45@@@CROW@@@Evil Woman Don't Play Your Games With Me
+39@@@32@@@James Brown@@@Let A Man Come In And Do The Popcorn (Part One)
+40@@@50@@@Dusty Springfield@@@A Brand New Me
+41@@@51@@@Jackie DeShannon@@@Love Will Find A Way
+42@@@53@@@The Dells@@@On The Dock Of The Bay
+43@@@69@@@Tommy Roe@@@Jam Up Jelly Tight
+44@@@44@@@Tony Joe White@@@Roosevelt And Ira Lee (Night of the Mossacin)
+45@@@91@@@Led Zeppelin@@@Whole Lotta Love
+46@@@83@@@Janis Joplin@@@Kozmic Blues
+47@@@74@@@Plastic Ono Band@@@Cold Turkey
+48@@@42@@@Art Linkletter@@@We Love You, Call Collect
+49@@@71@@@James Brown@@@Ain't It Funky Now (Part 1)
+50@@@54@@@Bob Dylan@@@Tonight I'll Be Staying Here With You
+51@@@67@@@Jackson 5@@@I Want You Back
+52@@@52@@@Grand Funk Railroad@@@Time Machine
+53@@@56@@@Gloria Taylor@@@You Got To Pay The Price
+54@@@80@@@Bobby Sherman@@@La La La (If I Had You)
+55@@@55@@@Evie Sands@@@Any Way That You Want Me
+56@@@49@@@Dyke And The Blazers@@@Let A Woman Be A Woman - Let A Man Be A Man
+57@@@78@@@Oliver@@@Sunday Mornin'
+58@@@64@@@The Impressions@@@Say You Love Me
+59@@@62@@@The Glass House@@@Crumbs Off The Table
+60@@@65@@@Santana@@@Jingo
+61@@@61@@@Merle Haggard And The Strangers@@@Okie From Muskogee
+62@@@77@@@Vanity Fare@@@Early In The Morning
+63@@@60@@@Kool & The Gang@@@Kool And The Gang
+64@@@58@@@The Box Tops@@@Turn On A Dream
+65@@@73@@@Johnny Nash@@@Cupid
+66@@@92@@@The Byrds@@@Ballad Of Easy Rider
+67@@@70@@@Dennis Yost And The Classics IV@@@Midnight
+68@@@68@@@The Honey Cone@@@Girls It Ain't Easy
+69@@@100@@@Johnny Cash@@@Blistered/See Ruby Fall
+70@@@72@@@The Steelers@@@Get It From The Bottom
+71@@@79@@@Johnny Cash@@@Get Rhythm
+72@@@86@@@The Clique@@@I'll Hold Out My Hand
+73@@@101@@@Elvis Presley@@@Don't Cry Daddy/Rubberneckin'
+74@@@98@@@Nancy Wilson@@@Can't Take My Eyes Off You
+75@@@94@@@Bobbie Gentry@@@Fancy
+76@@@90@@@Jerry Butler@@@Don't Let Love Hang You Up
+77@@@101@@@Marvin Gaye & Tammi Terrell@@@What You Gave Me
+78@@@63@@@Lou Rawls@@@I Can't Make It Alone
+79@@@88@@@Rick Nelson@@@She Belongs To Me
+80@@@89@@@Jay & The Americans@@@Walkin' In The Rain
+81@@@101@@@Savoy Brown@@@I'm Tired
+82@@@84@@@Little Anthony And The Imperials@@@The Ten Commandments Of Love
+83@@@85@@@Charley Pride@@@(I'm So) Afraid Of Losing You Again
+84@@@101@@@Judy Collins@@@Turn! Turn! Turn!/To Everything There Is A Season
+85@@@93@@@Jefferson Airplane@@@Volunteers
+86@@@87@@@Bill Deal & The Rhondels@@@Swingin' Tight
+87@@@101@@@Jane Birkin' Serge Gainsbourg@@@Je T'Aime...Moi Non Plus
+88@@@96@@@The Original Caste@@@One Tin Soldier
+89@@@99@@@Paul Anka@@@Happy
+90@@@101@@@The Archies@@@Jingle Jangle
+91@@@101@@@Eydie Gorme@@@Tonight I'll Say A Prayer
+92@@@101@@@Otis Leavill@@@I Love You
+93@@@101@@@Petula Clark@@@No One Better Than You
+94@@@101@@@Wilson Pickett@@@You Keep Me Hanging On
+95@@@95@@@Herbie Mann@@@It's A Funky Thing-Right On (Part 1)
+96@@@101@@@The New Establishment@@@(One Of These Days) Sunday's Gonna' Come On Tuesday
+97@@@101@@@Mongo Santamaria@@@Feeling Alright
+98@@@97@@@Jimmy Clanton@@@Curly
+99@@@101@@@Sergio Mendes & Brasil '66@@@Wichita Lineman
+100@@@101@@@Frank Sinatra@@@Goin' Out Of My Head/Forget To Remember

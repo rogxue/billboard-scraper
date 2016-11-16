@@ -1,0 +1,100 @@
+1@@@1@@@Sly & The Family Stone@@@Everyday People
+2@@@2@@@Tommy James And The Shondells@@@Crimson And Clover
+3@@@3@@@The Foundations@@@Build Me Up Buttercup
+4@@@4@@@The Doors@@@Touch Me
+5@@@9@@@Creedence Clearwater Revival@@@Proud Mary
+6@@@7@@@The Turtles@@@You Showed Me
+7@@@8@@@Jay & The Americans@@@This Magic Moment
+8@@@11@@@Smokey Robinson & The Miracles@@@Baby, Baby Don't Cry
+9@@@6@@@Brooklyn Bridge@@@Worst That Could Happen
+10@@@25@@@Tommy Roe@@@Dizzy
+11@@@21@@@Dionne Warwick@@@This Girl's In Love With You
+12@@@10@@@Diana Ross & The Supremes@@@I'm Livin' In Shame
+13@@@13@@@Joe South@@@Games People Play
+14@@@5@@@Tyrone Davis@@@Can I Change My Mind
+15@@@18@@@Sammy Davis Jr.@@@I've Gotta Be Me
+16@@@24@@@1910 Fruitgum Co.@@@Indian Giver
+17@@@17@@@Bob Seger System@@@Ramblin' Gamblin' Man
+18@@@19@@@James Brown@@@Give It Up Or Turnit A Loose
+19@@@23@@@Classics IV Featuring Dennis Yost@@@Traces
+20@@@12@@@Booker T. & The MG's@@@Hang 'Em High
+21@@@26@@@The First Edition@@@But You Know I Love You
+22@@@38@@@The Temptations@@@Run Away Child, Running Wild
+23@@@40@@@David Ruffin@@@My Whole World Ended (The Moment You Left Me)
+24@@@31@@@New Colony Six@@@Things I'd Like To Say
+25@@@37@@@The Zombies@@@Time Of The Season
+26@@@30@@@Betty Everett@@@There'll Come A Time
+27@@@20@@@Johnnie Taylor@@@Take Care Of Your Homework
+28@@@15@@@Marvin Gaye@@@I Heard It Through The Grapevine
+29@@@29@@@Cream@@@Crossroads
+30@@@27@@@Paul Anka@@@Goodnight My Love
+31@@@14@@@Diana Ross And The Supremes & The Temptations@@@I'm Gonna Make You Love Me
+32@@@35@@@Marvin Gaye & Tammi Terrell@@@Good Lovin' Ain't Easy To Come By
+33@@@16@@@Bee Gees@@@I Started A Joke
+34@@@52@@@Aretha Franklin@@@The Weight
+35@@@50@@@Donovan@@@To Susan On The West Coast Waiting
+36@@@22@@@B.J. Thomas@@@Hooked On A Feeling
+37@@@39@@@Peggy Scott & Jo Jo Benson@@@Soulshake
+38@@@28@@@The Box Tops@@@Sweet Cream Ladies, Forward March
+39@@@41@@@The Rascals@@@Heaven
+40@@@55@@@Frankie Laine@@@You Gave Me A Mountain
+41@@@61@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Mr. Sun, Mr. Moon
+42@@@43@@@Spirit@@@I Got A Line On You
+43@@@68@@@Stevie Wonder@@@I Don't Know Why
+44@@@46@@@Bill Deal & The Rhondels@@@May I
+45@@@49@@@Mongo Santamaria@@@Cloud Nine
+46@@@47@@@O.C. Smith@@@Honey (I Miss You)
+47@@@51@@@The Vogues@@@Woman Helping Man
+48@@@42@@@Johnny Cash@@@Daddy Sang Bass
+49@@@70@@@Sir Douglas Quintet@@@Mendocino
+50@@@63@@@The Meters@@@Sophisticated Cissy
+51@@@58@@@Glen Campbell & Bobbie Gentry@@@Let It Be Me
+52@@@45@@@William Bell@@@I Forgot To Be Your Lover
+53@@@69@@@The Grass Roots@@@Lovin' Things
+54@@@65@@@The Bubble Puppy@@@Hot Smoke & Sasafrass
+55@@@60@@@Tommy Leonetti@@@Kum Ba Yah
+56@@@62@@@Brian Hyland@@@Tragedy
+57@@@57@@@Judy Collins@@@Someday Soon
+58@@@66@@@The Watts 103rd Street Rhythm Band@@@Do Your Thing
+59@@@59@@@Hugh Masekela@@@Riot
+60@@@56@@@The Goodees@@@Condition Red
+61@@@64@@@Bobby Goldsboro@@@Glad She's A Woman
+62@@@89@@@Three Dog Night@@@Try A Little Tenderness
+63@@@101@@@Steppenwolf@@@Rock Me
+64@@@101@@@Young-Holt Unlimited@@@Who's Making Love
+65@@@101@@@Peaches & Herb@@@When He Touches Me (Nothing Else Matters)
+66@@@94@@@Edwin Starr@@@Twenty-Five Miles
+67@@@67@@@Dorsey Burnette@@@The Greatest Love
+68@@@87@@@The Monkees@@@Tear Drop City
+69@@@72@@@Everything Is Everything@@@Witchi Tai To
+70@@@101@@@Jerry Butler@@@Only The Strong Survive
+71@@@101@@@Otis Redding@@@A Lover's Question
+72@@@83@@@The Arbors@@@The Letter
+73@@@75@@@The Iveys@@@Maybe Tomorrow
+74@@@74@@@Willie Mitchell@@@30-60-90
+75@@@78@@@Brenda Lee@@@Johnny One Time
+76@@@73@@@Little Milton@@@Grits Ain't Groceries (All Around The World)
+77@@@77@@@Nazz@@@Hello It's Me
+78@@@81@@@Iron Butterfly@@@Soul Experience
+79@@@80@@@The Delfonics@@@Somebody Loves You
+80@@@82@@@Rhinoceros@@@Apricot Brandy
+81@@@99@@@Johnny Rivers@@@These Are Not My People
+82@@@84@@@Barbara Acklin@@@Am I The Same Girl
+83@@@100@@@Neil Diamond@@@Brother Love's Travelling Salvation Show
+84@@@90@@@Derek@@@Back Door Man
+85@@@86@@@The Smoke Ring@@@No Not Much
+86@@@88@@@Spanky And Our Gang@@@Anything You Choose
+87@@@101@@@Glen Campbell@@@Galveston
+88@@@101@@@Dusty Springfield@@@Don't Forget About Me
+89@@@95@@@Carla Thomas@@@I Like What You're Doing (To Me)
+90@@@101@@@Clarence Carter@@@Snatching It Back
+91@@@91@@@The Fireballs@@@Long Green
+92@@@92@@@Sonny James@@@Only The Lonely
+93@@@96@@@Cliff Nobles & Co.@@@Switch It On
+94@@@101@@@Crazy Elephant@@@Gimme Gimme Good Lovin'
+95@@@101@@@Blood, Sweat & Tears@@@You've Made Me So Very Happy
+96@@@101@@@Ohio Express@@@Sweeter Than Sugar
+97@@@101@@@Shango@@@Day After Day (It's Slippin' Away)
+98@@@98@@@Billy Stewart@@@I Do Love You
+99@@@101@@@The Chi-lites@@@Give It Away
+100@@@101@@@Engelbert Humperdinck@@@The Way It Used To Be

@@ -1,0 +1,100 @@
+1@@@1@@@SSgt Barry Sadler@@@The Ballad Of The Green Berets
+2@@@2@@@Nancy Sinatra@@@These Boots Are Made For Walkin'
+3@@@4@@@Herman's Hermits@@@Listen People
+4@@@5@@@The Mamas & The Papas@@@California Dreamin'
+5@@@6@@@Bob Lind@@@Elusive Butterfly
+6@@@12@@@The Rolling Stones@@@19th Nervous Breakdown
+7@@@25@@@The Beatles@@@Nowhere Man
+8@@@3@@@Lou Christie@@@Lightnin' Strikes
+9@@@11@@@Bobby Fuller Four@@@I Fought The Law
+10@@@16@@@Simon & Garfunkel@@@Homeward Bound
+11@@@9@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Working My Way Back To You
+12@@@17@@@Bob Kuban And The In-Men@@@The Cheater
+13@@@8@@@Stevie Wonder@@@Uptight (Everything's Alright)
+14@@@7@@@Petula Clark@@@My Love
+15@@@27@@@Deon Jackson@@@Love Makes The World Go Round
+16@@@10@@@The Supremes@@@My World Is Empty Without You
+17@@@20@@@The Marketts@@@Batman Theme
+18@@@19@@@The Dave Clark Five@@@At The Scene
+19@@@13@@@The Marvelettes@@@Don't Mess With Bill
+20@@@18@@@Ronnie Dove@@@When Liking Turns To Loving
+21@@@14@@@Sonny & Cher@@@What Now My Love
+22@@@28@@@Slim Harpo@@@Baby Scratch My Back
+23@@@23@@@The Turtles@@@You Baby
+24@@@32@@@Wilson Pickett@@@634-5789 (Soulsville, U.S.A.)
+25@@@53@@@The Lovin' Spoonful@@@Daydream
+26@@@43@@@Peter And Gordon@@@Woman
+27@@@29@@@Martha & The Vandellas@@@My Baby Loves Me
+28@@@15@@@Ray Charles@@@Crying Time
+29@@@40@@@Roger Miller@@@Husbands And Wives
+30@@@44@@@Bobby Goldsboro@@@It's Too Late
+31@@@46@@@B.J. Thomas And The Triumphs@@@I'm So Lonesome I Could Cry
+32@@@22@@@Chris Montez@@@Call Me
+33@@@36@@@Dean Martin@@@Somewhere There's A Someone
+34@@@39@@@Sir Douglas Quintet@@@The Rains Came
+35@@@37@@@Neal Hefti@@@Batman Theme
+36@@@55@@@Four Tops@@@Shake Me, Wake Me (When It's Over)
+37@@@26@@@The Five Americans@@@I See The Light
+38@@@49@@@Eddy Arnold@@@I Want To Go With You
+39@@@51@@@Marvin Gaye@@@One More Heartache
+40@@@24@@@The Beach Boys@@@Barbara Ann
+41@@@47@@@Freddy Cannon@@@The Dedication Song
+42@@@64@@@The Isley Brothers@@@This Old Heart Of Mine (Is Weak For You)
+43@@@21@@@Herb Alpert & The Tijuana Brass@@@Zorba The Greek
+44@@@56@@@The Vogues@@@Magic Town
+45@@@90@@@The Righteous Brothers@@@(You're My) Soul And Inspiration
+46@@@52@@@The McCoys@@@Up And Down
+47@@@34@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Just Like Me
+48@@@30@@@The Miracles@@@Going To A Go-Go
+49@@@31@@@Roy Orbison@@@Breakin' Up Is Breakin' My Heart
+50@@@33@@@The Shangri-Las@@@Long Live Our Love
+51@@@69@@@Norma Tanega@@@Walkin' My Cat Named Dog
+52@@@41@@@The Sunrays@@@Andrea
+53@@@67@@@The Temptations@@@Get Ready
+54@@@78@@@James Brown And The Famous Flames@@@Ain't That A Groove (Part 1)
+55@@@87@@@Gary Lewis And The Playboys@@@Sure Gonna Miss Her
+56@@@72@@@The Animals@@@Inside-Looking Out
+57@@@59@@@Eddie Holman@@@This Can't Be True
+58@@@73@@@Johnny Cash@@@The One On The Right Is On The Left
+59@@@50@@@Mel Carter@@@Love Is All We Need
+60@@@88@@@Mitch Ryder And The Detroit Wheels@@@Little Latin Lupe Lu
+61@@@70@@@Edwin Starr@@@Stop Her On Sight (S.O.S.)
+62@@@65@@@Mary Wells@@@Dear Lover
+63@@@68@@@Bobby Vinton@@@Tears
+64@@@79@@@Otis Redding@@@Satisfaction
+65@@@81@@@The Outsiders@@@Time Won't Let Me
+66@@@66@@@Jan & Dean@@@Batman
+67@@@63@@@The Byrds@@@It Won't Be Wrong
+68@@@75@@@Patty Duke@@@Whenever She Holds You
+69@@@62@@@Verdelle Smith@@@In My Room (El Amor)
+70@@@57@@@Buck Owens@@@Waitin' In Your Welfare Line
+71@@@58@@@The Sheep@@@Hide & Seek
+72@@@74@@@Jay & The Americans@@@Why Can't You Bring Me Home
+73@@@89@@@Pozo Seco Singers@@@Time
+74@@@84@@@Tom Jones@@@Promise Her Anything
+75@@@101@@@Cher@@@Bang Bang (My Baby Shot Me Down)
+76@@@83@@@The Spencer Davis Group@@@Keep On Running
+77@@@77@@@Googie Rene Combo@@@Smokey Joe's La La
+78@@@86@@@The Ventures@@@Secret Agent Man
+79@@@76@@@The Searchers@@@Take Me For What I'm Worth
+80@@@80@@@New Colony Six@@@I Confess
+81@@@101@@@Al Martino@@@Think I'll Go Somewhere And Cry Myself To Sleep
+82@@@82@@@The Fortunes@@@This Golden Ring
+83@@@94@@@The Poppies@@@Lullaby Of Love
+84@@@91@@@Tim Tam And The Turn-Ons@@@Wait A Minute
+85@@@98@@@Joe Tex@@@The Love You Save (May Be Your Own)
+86@@@101@@@The Young Rascals@@@Good Lovin'
+87@@@101@@@Kim Weston@@@Helpless
+88@@@93@@@The Mad Lads@@@I Want Someone
+89@@@101@@@The Beatles@@@What Goes On
+90@@@97@@@Lou Christie@@@Outside The Gates Of Heaven
+91@@@96@@@The Barbarians@@@Moulty
+92@@@99@@@The Newbeats@@@Shake Hands (And Come Out Crying)
+93@@@101@@@The Harden Trio@@@Tippy Toeing
+94@@@95@@@Dino, Desi & Billy@@@Superman
+95@@@92@@@The Elgins@@@Put Yourself In My Place
+96@@@101@@@Just Us@@@I Can't Grow Peaches On A Cherry Tree
+97@@@101@@@The Brass Ring featuring Phil Bodner@@@The Phoenix Love Theme (Senza Fine)
+98@@@100@@@The Mar-Keys@@@Philly Dog
+99@@@101@@@Roy Head And The Traits@@@My Babe
+100@@@101@@@The Peels@@@Juanita Banana

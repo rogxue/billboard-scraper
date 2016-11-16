@@ -1,0 +1,100 @@
+1@@@1@@@The Monkees@@@I'm A Believer
+2@@@4@@@The Seekers@@@Georgy Girl
+3@@@3@@@The Royal Guardsmen@@@Snoopy Vs. The Red Baron
+4@@@2@@@Aaron Neville@@@Tell It Like It Is
+5@@@9@@@The Buckinghams@@@Kind Of A Drag
+6@@@5@@@The Mamas & The Papas@@@Words Of Love
+7@@@10@@@Blues Magoos@@@(We Ain't Got) Nothin' Yet
+8@@@11@@@Keith@@@98.6
+9@@@7@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Good Thing
+10@@@6@@@Four Tops@@@Standing In The Shadows Of Love
+11@@@43@@@The Rolling Stones@@@Ruby Tuesday
+12@@@8@@@The Lovin' Spoonful@@@Nashville Cats
+13@@@19@@@Tom Jones@@@Green, Green Grass Of Home
+14@@@14@@@Spyder Turner@@@Stand By Me
+15@@@15@@@Peter And Gordon@@@Knight In Rusty Armour
+16@@@34@@@Sonny & Cher@@@The Beat Goes On
+17@@@24@@@Bob Crewe Generation@@@Music To Watch Girls By
+18@@@20@@@The Electric Prunes@@@I Had Too Much To Dream (Last Night)
+19@@@16@@@Petula Clark@@@Color My World
+20@@@23@@@Senator Bobby Featuring Bill Minkin@@@Wild Thing
+21@@@13@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Tell It To The Rain
+22@@@12@@@Nancy Sinatra@@@Sugar Town
+23@@@36@@@The Casinos@@@Then You Can Tell Me Goodbye
+24@@@29@@@Tommy Roe@@@It's Now Winters Day
+25@@@21@@@Gary Lewis And The Playboys@@@Where Will The Words Come From
+26@@@39@@@The Spencer Davis Group@@@Gimme Some Lovin'
+27@@@47@@@The Supremes@@@Love Is Here And Now You're Gone
+28@@@17@@@Jimmy Ruffin@@@I've Passed This Way Before
+29@@@38@@@Cannonball Adderley@@@Mercy, Mercy, Mercy
+30@@@37@@@James Brown And The Famous Flames@@@Bring It Up
+31@@@31@@@The Sopwith Camel@@@Hello Hello
+32@@@33@@@Pozo Seco Singers@@@Look What You've Done
+33@@@27@@@Sam The Sham and the Pharaohs@@@How Do You Catch A Girl
+34@@@50@@@The Left Banke@@@Pretty Ballerina
+35@@@46@@@Marvin Gaye & Kim Weston@@@It Takes Two
+36@@@52@@@The 5th Dimension@@@Go Where You Wanna Go
+37@@@18@@@Bobby Vinton@@@Coming Home Soldier
+38@@@45@@@Jimmy Castor@@@Hey, Leroy, Your Mama's Callin' You
+39@@@25@@@Otis Redding@@@Try A Little Tenderness
+40@@@28@@@The Monkees@@@(I'm Not Your) Steppin' Stone
+41@@@51@@@The Seeds@@@Pushin' Too Hard
+42@@@48@@@Felice Taylor@@@It May Be Winter Outside (But In My Heart It's Spring)
+43@@@54@@@Brenda Lee@@@Ride, Ride, Ride
+44@@@22@@@The New Vaudeville Band@@@Winchester Cathedral
+45@@@56@@@The Dave Clark Five@@@I've Got To Have A Reason
+46@@@57@@@Freddy Scott@@@Are You Lonely For Me
+47@@@26@@@Sandy Posey@@@Single Girl
+48@@@60@@@Bobby Darin@@@Lovin' You
+49@@@59@@@James Darren@@@All
+50@@@61@@@Ed Ames@@@My Cup Runneth Over
+51@@@68@@@James & Bobby Purify@@@Wish You Didn't Have To Go
+52@@@40@@@The Young Holt Trio@@@Wack Wack
+53@@@53@@@The Youngbloods@@@Grizzly Bear
+54@@@66@@@Neil Diamond@@@You Got To Me
+55@@@58@@@The Artistics@@@I'm Gonna Miss You
+56@@@67@@@The Marvelettes@@@The Hunter Gets Captured By The Game
+57@@@35@@@Bobby Goldsboro@@@Blue Autumn
+58@@@77@@@Elvis Presley With The Jordanaires and The Imperials Quartet@@@Indescribably Blue
+59@@@75@@@The Rolling Stones@@@Let's Spend The Night Together
+60@@@63@@@Lowell Fulsom@@@Tramp
+61@@@76@@@The Byrds@@@So You Want To Be A Rock 'N' Roll Star
+62@@@62@@@The Joe Cuba Sextet@@@Oh Yeah!
+63@@@79@@@The Young Rascals@@@I've Been Lonely Too Long
+64@@@65@@@The Gunter Kallmann Chorus@@@Wish Me A Rainbow
+65@@@74@@@P.J. Proby@@@Niki Hoeky
+66@@@81@@@Frankie Laine@@@I'll Take Care Of Your Cares
+67@@@69@@@Howard Tate@@@Look At Granny Run, Run
+68@@@72@@@Damita Jo@@@If You Go Away
+69@@@70@@@The McCoys@@@I Got To Go Back (And Watch That Little Girl Dance)
+70@@@90@@@The Buffalo Springfield@@@For What It's Worth (Stop, Hey What's That Sound)
+71@@@93@@@Peaches & Herb@@@Let's Fall In Love
+72@@@87@@@Jack Jones@@@Lady
+73@@@78@@@Mike Sharpe@@@Spooky
+74@@@85@@@Jack Greene@@@There Goes My Everything
+75@@@80@@@Don Ho and the Aliis@@@Tiny Bubbles
+76@@@82@@@The Lettermen@@@Our Winter Love
+77@@@101@@@Wilson Pickett@@@Everybody Needs Somebody To Love
+78@@@83@@@Carla Thomas@@@Something Good (Is Going To Happen To You)
+79@@@101@@@The Brass Ring featuring Phil Bodner@@@The Dis-Advantages Of You
+80@@@101@@@The Association@@@No Fair At All
+81@@@101@@@Johnny Rivers@@@Baby I Need Your Lovin'
+82@@@101@@@Mitch Ryder And The Detroit Wheels@@@Sock It To Me-Baby!
+83@@@84@@@Robert Parker@@@Tip Toe
+84@@@99@@@Al Martino@@@Daddy's Little Girl
+85@@@88@@@The Nightcrawlers@@@The Little Black Egg
+86@@@86@@@Jerry Butler@@@I Dig You Baby
+87@@@98@@@Lou Courtney@@@Skate Now
+88@@@89@@@The Metros@@@Sweetest One
+89@@@91@@@Bo Diddley@@@Ooh Baby
+90@@@101@@@The Mojo Men@@@Sit Down, I Think I Love You
+91@@@92@@@The Five Stairsteps@@@Danger! She's A Stranger
+92@@@95@@@Roger Williams@@@Sunrise, Sunset
+93@@@94@@@Lou Rawls@@@Trouble Down Here Below
+94@@@101@@@Lesley Gore@@@California Nights
+95@@@101@@@The Cyrkle@@@I Wish You Could Be Here
+96@@@101@@@Joe Simon@@@My Special Prayer
+97@@@101@@@Little Milton@@@Feel So Bad
+98@@@100@@@The Music Machine@@@The People In Me
+99@@@101@@@Prince Buster@@@Ten Commandments
+100@@@101@@@Eddie Floyd@@@Raise Your Hand

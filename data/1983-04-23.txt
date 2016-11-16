@@ -1,0 +1,100 @@
+1@@@2@@@Dexys Midnight Runners@@@Come On Eileen
+2@@@5@@@Michael Jackson@@@Beat It
+3@@@3@@@Styx@@@Mr. Roboto
+4@@@4@@@Greg Kihn Band@@@Jeopardy
+5@@@1@@@Michael Jackson@@@Billie Jean
+6@@@9@@@After The Fire@@@Der Kommissar
+7@@@7@@@Daryl Hall & John Oates@@@One On One
+8@@@8@@@Journey@@@Separate Ways (Worlds Apart)
+9@@@15@@@David Bowie@@@Let's Dance
+10@@@13@@@Thomas Dolby@@@She Blinded Me With Science
+11@@@6@@@Duran Duran@@@Hungry Like The Wolf
+12@@@17@@@Prince@@@Little Red Corvette
+13@@@16@@@Bob Seger & The Silver Bullet Band@@@Even Now
+14@@@10@@@Culture Club@@@Do You Really Want To Hurt Me
+15@@@19@@@Men At Work@@@Overkill
+16@@@20@@@Toto@@@I Won't Hold You Back
+17@@@12@@@Lionel Richie@@@You Are
+18@@@22@@@Laura Branigan@@@Solitaire
+19@@@11@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+20@@@14@@@Frida@@@I Know There's Something Going On
+21@@@18@@@Pretenders@@@Back On The Chain Gang
+22@@@21@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+23@@@23@@@Golden Earring@@@Twilight Zone
+24@@@24@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+25@@@25@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+26@@@32@@@Def Leppard@@@Photograph
+27@@@33@@@Kenny Loggins@@@Welcome To Heartlight
+28@@@30@@@Oxo@@@Whirly Girl
+29@@@29@@@Stephen Bishop@@@It Might Be You
+30@@@34@@@Barry Manilow@@@Some Kind Of Friend
+31@@@35@@@Duran Duran@@@Rio
+32@@@37@@@Lionel Richie@@@My Love
+33@@@38@@@Irene Cara@@@Flashdance...What A Feeling
+34@@@39@@@Bryan Adams@@@Straight From The Heart
+35@@@31@@@Debarge@@@I Like It
+36@@@40@@@Patrick Simmons@@@So Wrong
+37@@@41@@@Jarreau@@@Mornin'
+38@@@45@@@Ronnie Milsap@@@Stranger In My House
+39@@@53@@@Rick Springfield@@@Affair Of The Heart
+40@@@50@@@Naked Eyes@@@Always Something There To Remind Me
+41@@@55@@@Journey@@@Faithfully
+42@@@42@@@Mac McAnally@@@Minimum Love
+43@@@43@@@John Anderson@@@Swingin'
+44@@@44@@@Psychedelic Furs@@@Love My Way
+45@@@52@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+46@@@59@@@Culture Club@@@Time (Clock Of The Heart)
+47@@@26@@@ABC@@@Poison Arrow
+48@@@54@@@Sammy Hagar@@@Never Give Up
+49@@@27@@@Pat Benatar@@@Little Too Late
+50@@@57@@@ZZ Top@@@Gimme All Your Lovin
+51@@@28@@@Earth, Wind & Fire@@@Fall In Love With Me
+52@@@46@@@Dionne Warwick@@@Take The Short Way Home
+53@@@36@@@Christopher Cross@@@All Right
+54@@@47@@@Thompson Twins@@@Lies
+55@@@48@@@Dan Fogelberg@@@Make Love Stay
+56@@@63@@@Champaign@@@Try Again
+57@@@61@@@INXS@@@The One Thing
+58@@@71@@@The Tubes@@@She's A Beauty
+59@@@62@@@Robbie Patton@@@Smiling Islands
+60@@@60@@@Wall Of Voodoo@@@Mexican Radio
+61@@@68@@@Night Ranger@@@Sing Me Away
+62@@@66@@@Walter Egan@@@Fool Moon Fire
+63@@@49@@@Joe Jackson@@@Breaking Us In Two
+64@@@51@@@The Gap Band@@@Outstanding
+65@@@65@@@Lou Rawls@@@Wind Beneath My Wings
+66@@@58@@@Robert Hazard@@@Escalator Of Life
+67@@@70@@@Saga@@@Wind Him Up
+68@@@64@@@Stray Cats@@@Stray Cat Strut
+69@@@75@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+70@@@77@@@U2@@@New Year's Day
+71@@@101@@@Pat Benatar@@@Looking For A Stranger
+72@@@79@@@Ultravox@@@Reap The Wild Wind
+73@@@101@@@Eddie Rabbitt@@@You Can't Run From Love
+74@@@80@@@Total Coelo@@@I Eat Cannibals
+75@@@73@@@Felony@@@The Fanatic
+76@@@83@@@Planet P@@@Why Me?
+77@@@101@@@Linda Ronstadt@@@Easy For You To Say
+78@@@86@@@Sparks & Jane Wiedlin@@@Cool Places
+79@@@100@@@Tony Carey@@@I Won't Be Home Tonight
+80@@@90@@@Sergio Mendes@@@Never Gonna Let You Go
+81@@@101@@@Kajagoogoo@@@Too Shy
+82@@@89@@@Eddy Grant@@@Electric Avenue
+83@@@101@@@Debarge@@@All This Love
+84@@@101@@@Neil Diamond@@@Front Page Story
+85@@@101@@@Bow Wow Wow@@@Do You Wanna Hold Me?
+86@@@56@@@Billy Joel@@@Goodnight Saigon
+87@@@101@@@Golden Earring@@@The Devil Made Me Do It
+88@@@88@@@The Temptations@@@Love On My Mind Tonight
+89@@@74@@@Men At Work@@@Down Under
+90@@@76@@@Patti Austin With James Ingram@@@Baby, Come To Me
+91@@@78@@@Modern English@@@I Melt With You
+92@@@72@@@Phil Collins@@@I Don't Care Anymore
+93@@@69@@@Patti Austin@@@Every Home Should Have One
+94@@@67@@@The Pointer Sisters@@@If You Wanna Get Back Your Lady
+95@@@81@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+96@@@82@@@The System@@@You Are In My System
+97@@@84@@@Adam Ant@@@Desperate But Not Serious
+98@@@87@@@Billy Joel@@@Allentown
+99@@@91@@@The Clash@@@Should I Stay Or Should I Go
+100@@@85@@@Gerard McMahon@@@Count On Me

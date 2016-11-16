@@ -1,0 +1,100 @@
+1@@@3@@@Irene Cara@@@Flashdance...What A Feeling
+2@@@1@@@David Bowie@@@Let's Dance
+3@@@2@@@Michael Jackson@@@Beat It
+4@@@4@@@Men At Work@@@Overkill
+5@@@5@@@Thomas Dolby@@@She Blinded Me With Science
+6@@@6@@@Prince@@@Little Red Corvette
+7@@@7@@@Laura Branigan@@@Solitaire
+8@@@10@@@Culture Club@@@Time (Clock Of The Heart)
+9@@@9@@@Lionel Richie@@@My Love
+10@@@13@@@Bryan Adams@@@Straight From The Heart
+11@@@16@@@Rick Springfield@@@Affair Of The Heart
+12@@@18@@@Naked Eyes@@@Always Something There To Remind Me
+13@@@19@@@Journey@@@Faithfully
+14@@@20@@@Styx@@@Don't Let It End
+15@@@8@@@Greg Kihn Band@@@Jeopardy
+16@@@12@@@Def Leppard@@@Photograph
+17@@@22@@@Daryl Hall & John Oates@@@Family Man
+18@@@11@@@After The Fire@@@Der Kommissar
+19@@@15@@@Toto@@@I Won't Hold You Back
+20@@@25@@@The Tubes@@@She's A Beauty
+21@@@14@@@Duran Duran@@@Rio
+22@@@17@@@Dexys Midnight Runners@@@Come On Eileen
+23@@@24@@@Ronnie Milsap@@@Stranger In My House
+24@@@27@@@Sergio Mendes@@@Never Gonna Let You Go
+25@@@31@@@Eddy Grant@@@Electric Avenue
+26@@@30@@@Kajagoogoo@@@Too Shy
+27@@@28@@@Champaign@@@Try Again
+28@@@33@@@Elton John@@@I'm Still Standing
+29@@@21@@@Jarreau@@@Mornin'
+30@@@34@@@INXS@@@The One Thing
+31@@@23@@@Styx@@@Mr. Roboto
+32@@@45@@@Little River Band@@@We Two
+33@@@49@@@Bee Gees@@@The Woman In You
+34@@@48@@@Jim Capaldi@@@That's Love
+35@@@44@@@Debarge@@@All This Love
+36@@@39@@@Christopher Cross@@@No Time For Talk
+37@@@50@@@The Kinks@@@Come Dancing
+38@@@41@@@Kenny Rogers@@@All My Life
+39@@@40@@@Pat Benatar@@@Looking For A Stranger
+40@@@52@@@Madness@@@Our House
+41@@@101@@@Michael Jackson@@@Wanna Be Startin' Somethin'
+42@@@29@@@Michael Jackson@@@Billie Jean
+43@@@32@@@Robert Ellis Orral With Carlene Carter@@@I Couldn't Say No
+44@@@58@@@Alabama@@@The Closer You Get
+45@@@54@@@Chris DeBurgh@@@Don't Pay The Ferryman
+46@@@51@@@Thompson Twins@@@Love On Your Side
+47@@@37@@@ZZ Top@@@Gimme All Your Lovin
+48@@@26@@@Bob Seger & The Silver Bullet Band@@@Even Now
+49@@@69@@@A Flock Of Seagulls@@@Wishing (If I Had A Photograph Of You)
+50@@@46@@@Walter Egan@@@Fool Moon Fire
+51@@@61@@@George Benson@@@Inside Love (so Personal)
+52@@@56@@@Sparks & Jane Wiedlin@@@Cool Places
+53@@@101@@@Rod Stewart@@@Baby Jane
+54@@@57@@@Linda Ronstadt@@@Easy For You To Say
+55@@@101@@@Bob Seger & The Silver Bullet Band@@@Roll Me Away
+56@@@62@@@New Edition@@@Candy Girl
+57@@@78@@@Eurythmics@@@Sweet Dreams (Are Made Of This)
+58@@@70@@@James Ingram And Patti Austin@@@How Do You Keep The Music Playing
+59@@@60@@@Scandal Featuring Patty Smyth@@@Love's Got A Line On You
+60@@@71@@@Billy Idol@@@White Wedding
+61@@@36@@@Barry Manilow@@@Some Kind Of Friend
+62@@@53@@@U2@@@New Year's Day
+63@@@68@@@"Weird Al" Yankovic@@@Ricky
+64@@@77@@@Devo@@@Theme From Doctor Detroit
+65@@@72@@@Sheriff@@@When I'm With You
+66@@@35@@@Stephen Bishop@@@It Might Be You
+67@@@101@@@Donna Summer@@@She Works Hard For The Money
+68@@@65@@@Neil Diamond@@@Front Page Story
+69@@@38@@@Journey@@@Separate Ways (Worlds Apart)
+70@@@79@@@Dave Edmunds@@@Slipping Away
+71@@@55@@@Eddie Rabbitt@@@You Can't Run From Love
+72@@@101@@@The Human League@@@(keep Feeling) Fascination
+73@@@42@@@Patrick Simmons@@@So Wrong
+74@@@86@@@Martin Briley@@@The Salt In My Tears
+75@@@80@@@Carl Wilson@@@What You Do To Me
+76@@@63@@@Todd Rundgren@@@Bang The Drum All Day
+77@@@101@@@Lee Greenwood@@@I.o.u.
+78@@@43@@@Kenny Loggins@@@Welcome To Heartlight
+79@@@81@@@Phil Collins@@@I Cannot Believe It's True
+80@@@101@@@The Fixx@@@Saved By Zero
+81@@@64@@@Planet P@@@Why Me?
+82@@@82@@@Michael Bolton@@@Fools Game
+83@@@59@@@Night Ranger@@@Sing Me Away
+84@@@90@@@Gladys Knight And The Pips@@@Save The Overtime (For Me)
+85@@@74@@@The Call@@@The Walls Came Down
+86@@@95@@@High Inergy@@@He's A Pretender
+87@@@76@@@Earth, Wind & Fire@@@Side By Side
+88@@@101@@@Berlin@@@The Metro
+89@@@47@@@Daryl Hall & John Oates@@@One On One
+90@@@101@@@Dexys Midnight Runners@@@The Celtic Soul Brothers
+91@@@101@@@After The Fire@@@Dancing In The Shadows
+92@@@84@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+93@@@89@@@John Anderson@@@Swingin'
+94@@@66@@@Duran Duran@@@Hungry Like The Wolf
+95@@@101@@@Joan Armatrading@@@Drop The Pilot
+96@@@88@@@Robbie Patton@@@Smiling Islands
+97@@@67@@@Debarge@@@I Like It
+98@@@93@@@B.J. Thomas@@@Whatever Happened To Old Fashioned Love
+99@@@85@@@Golden Earring@@@Twilight Zone
+100@@@75@@@The Belle Stars@@@Sign Of The Times

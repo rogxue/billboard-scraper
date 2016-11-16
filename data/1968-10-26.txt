@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Hey Jude
+2@@@3@@@O.C. Smith@@@Little Green Apples
+3@@@2@@@The Crazy World Of Arthur Brown@@@Fire
+4@@@13@@@Mary Hopkin@@@Those Were The Days
+5@@@5@@@The O'Kaysions@@@Girl Watcher
+6@@@6@@@The Grass Roots@@@Midnight Confessions
+7@@@9@@@Gary Puckett And The Union Gap@@@Over You
+8@@@4@@@Jeannie C. Riley@@@Harper Valley P.T.A.
+9@@@14@@@The Turtles@@@Elenore
+10@@@8@@@Bee Gees@@@I've Gotta Get A Message To You
+11@@@19@@@Johnny Nash@@@Hold Me Tight
+12@@@12@@@Creedence Clearwater Revival@@@Suzie Q. (Part One)
+13@@@15@@@Big Brother & The Holding Company@@@Piece Of My Heart
+14@@@7@@@The Vogues@@@My Special Angel
+15@@@22@@@Cream@@@White Room
+16@@@10@@@James Brown@@@Say It Loud - I'm Black And I'm Proud (Part 1)
+17@@@17@@@The Beatles@@@Revolution
+18@@@18@@@Jerry Butler@@@Hey, Western Union Man
+19@@@43@@@Diana Ross & The Supremes@@@Love Child
+20@@@20@@@The Jimi Hendrix Experience@@@All Along The Watchtower
+21@@@11@@@The Chambers Brothers@@@Time Has Come Today
+22@@@26@@@Max Frost And The Troopers@@@Shape Of Things To Come
+23@@@23@@@The Impressions@@@Fool For You
+24@@@16@@@Clarence Carter@@@Slip Away
+25@@@45@@@Steppenwolf@@@Magic Carpet Ride
+26@@@21@@@Aretha Franklin@@@I Say A Little Prayer
+27@@@42@@@The 5th Dimension@@@Sweet Blindness
+28@@@39@@@The Unifics@@@Court Of Love
+29@@@24@@@Sergio Mendes & Brasil '66@@@The Fool On The Hill
+30@@@32@@@Iron Butterfly@@@In-A-Gadda-Da-Vida
+31@@@40@@@Andy Kim@@@Shoot'em Up, Baby
+32@@@34@@@The Equals@@@Baby, Come Back
+33@@@33@@@Marvin Gaye@@@Chained
+34@@@49@@@Jose Feliciano@@@Hi-Heel Sneakers
+35@@@36@@@The Delfonics@@@Break Your Promise
+36@@@38@@@Marvin Gaye & Tammi Terrell@@@Keep On Lovin' Me Honey
+37@@@37@@@Donovan@@@Lalena
+38@@@54@@@Vanilla Fudge@@@Take Me For A Little While
+39@@@25@@@Don Fardon@@@(The Lament Of The Cherokee) Indian Reservation
+40@@@51@@@The Avant-Garde@@@Naturally Stoned
+41@@@41@@@Gladys Knight And The Pips@@@I Wish It Would Rain
+42@@@56@@@The Archies@@@Bang-Shang-A-Lang
+43@@@76@@@Kasenetz-Katz Singing Orchestral Circus@@@Quick Joey Small (Run Joey Run)
+44@@@44@@@Archie Bell & The Drells@@@Do The Choo Choo
+45@@@101@@@Johnnie Taylor@@@Who's Making Love
+46@@@46@@@Wilson Pickett@@@I Found A True Love
+47@@@61@@@Bull & The Matadors@@@The Funky Judge
+48@@@72@@@Ohio Express@@@Chewy Chewy
+49@@@55@@@Otis Redding@@@I've Got Dreams To Remember
+50@@@52@@@Glen Campbell@@@Gentle On My Mind
+51@@@66@@@Four Tops@@@I'm In A Different World
+52@@@58@@@Bobby Womack@@@Fly Me To The Moon
+53@@@94@@@Andy Williams with the St. Charles Borromeo Choir@@@Battle Hymn Of The Republic
+54@@@67@@@The Dells@@@Always Together
+55@@@65@@@Nancy Wilson@@@Peace Of Mind
+56@@@64@@@Southwest F.O.B.@@@Smell Of Incense
+57@@@57@@@The Masqueraders@@@I Ain't Got To Love Nobody Else
+58@@@68@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Cinderella Sunshine
+59@@@85@@@Tommy James And The Shondells@@@Do Something To Me
+60@@@74@@@Fantastic Four@@@I Love You Madly
+61@@@83@@@The Moody Blues@@@Ride My See-Saw
+62@@@62@@@The Monkees@@@Porpoise Song
+63@@@63@@@The Marvelettes@@@Destination: Anywhere
+64@@@79@@@Eddie Floyd@@@Bring It On Home To Me
+65@@@70@@@Leapy Lee@@@Little Arrows
+66@@@101@@@Dion@@@Abraham, Martin And John
+67@@@101@@@Derek@@@Cinnamon
+68@@@97@@@Engelbert Humperdinck@@@Les Bicyclettes De Belsize
+69@@@69@@@Elvis Presley With The Jordanaires@@@A Little Less Conversation
+70@@@80@@@Frank Sinatra@@@Cycles
+71@@@71@@@Hugh Masekela@@@Puffin' On Down The Track
+72@@@73@@@Peggy Scott & Jo Jo Benson@@@Pickin' Wild Mountain Berries
+73@@@77@@@Eivets Rednow@@@Alfie
+74@@@101@@@Shadows Of Knight@@@Shake
+75@@@101@@@Bobby Goldsboro@@@The Straight Life
+76@@@89@@@Gene Chandler & Barbara Acklin@@@From The Teacher To The Preacher
+77@@@82@@@Jose Feliciano@@@Hitchcock Railway
+78@@@101@@@Ben Colder@@@Harper Valley P.T.A. (Later That Same Day)
+79@@@101@@@Bobby Russell@@@1432 Franklin Pike Circle Hero
+80@@@101@@@Classics IV Featuring Dennis Yost@@@Stormy
+81@@@81@@@Joe Tex@@@You Need Me, Baby
+82@@@87@@@The Buffalo Springfield@@@On The Way Home
+83@@@100@@@Nina Simone@@@Do What You Gotta Do
+84@@@84@@@B.B. King@@@You Put It On Me
+85@@@95@@@The Mauds@@@Soul Drippin'
+86@@@86@@@Carla Thomas@@@Where Do I Go
+87@@@101@@@Magic Lanterns@@@Shame, Shame
+88@@@101@@@Eddie Harris@@@It's Crazy
+89@@@101@@@1910 Fruitgum Co.@@@Goody Goody Gumdrops
+90@@@101@@@Marty Robbins@@@I Walk Alone
+91@@@91@@@Willie Mitchell@@@Up-Hard
+92@@@92@@@Ray Charles@@@Listen, They're Playing My Song
+93@@@101@@@Bill Medley@@@Peace Brother Peace
+94@@@101@@@Arthur Conley@@@Aunt Dora's Love Soul Shack
+95@@@101@@@Bobbie Gentry & Glen Campbell@@@Mornin' Glory
+96@@@101@@@Rejoice!@@@Golden Gate Park
+97@@@98@@@Robert Knight@@@Isn't It Lonely Together
+98@@@99@@@The Sandpebbles@@@Never My Love
+99@@@101@@@Brook Benton@@@Do Your Own Thing
+100@@@101@@@The McCoys@@@Jesse Brady

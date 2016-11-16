@@ -1,0 +1,100 @@
+1@@@1@@@Robin Thicke Featuring T.I. & Pharrell@@@Blurred Lines
+2@@@2@@@Katy Perry@@@Roar
+3@@@3@@@Miley Cyrus@@@We Can't Stop
+4@@@6@@@Lady Gaga@@@Applause
+5@@@4@@@Imagine Dragons@@@Radioactive
+6@@@5@@@Jay Z Featuring Justin Timberlake@@@Holy Grail
+7@@@11@@@Avicii@@@Wake Me Up!
+8@@@10@@@Capital Cities@@@Safe And Sound
+9@@@15@@@Lana Del Rey & Cedric Gervais@@@Summertime Sadness
+10@@@7@@@Daft Punk Featuring Pharrell Williams@@@Get Lucky
+11@@@8@@@Bruno Mars@@@Treasure
+12@@@17@@@Lorde@@@Royals
+13@@@12@@@Zedd Featuring Foxes@@@Clarity
+14@@@9@@@Anna Kendrick@@@Cups (Pitch Perfect's When I'm Gone)
+15@@@14@@@Macklemore & Ryan Lewis Featuring Mary Lambert@@@Same Love
+16@@@13@@@Maroon 5@@@Love Somebody
+17@@@24@@@Drake Featuring Majid Jordan@@@Hold On, We're Going Home
+18@@@21@@@One Direction@@@Best Song Ever
+19@@@16@@@Luke Bryan@@@That's My Kind Of Night
+20@@@18@@@Macklemore & Ryan Lewis Featuring Ray Dalton@@@Can't Hold Us
+21@@@20@@@Justin Timberlake@@@Mirrors
+22@@@23@@@Calvin Harris Featuring Ellie Goulding@@@I Need Your Love
+23@@@19@@@Florida Georgia Line Featuring Nelly@@@Cruise
+24@@@26@@@Phillip Phillips@@@Gone, Gone, Gone
+25@@@29@@@AWOLNATION@@@Sail
+26@@@27@@@Ariana Grande Featuring Mac Miller@@@The Way
+27@@@28@@@Pink Featuring Nate Ruess@@@Just Give Me A Reason
+28@@@25@@@Jason Derulo@@@The Other Side
+29@@@35@@@Sage The Gemini Featuring IamSu!@@@Gas Pedal
+30@@@36@@@Florida Georgia Line@@@Round Here
+31@@@46@@@Sara Bareilles@@@Brave
+32@@@31@@@Selena Gomez@@@Come & Get It
+33@@@42@@@Jason Aldean@@@Night Train
+34@@@32@@@Brett Eldredge@@@Don't Ya
+35@@@33@@@Keith Urban@@@Little Bit Of Everything
+36@@@40@@@Thomas Rhett@@@It Goes Like This
+37@@@34@@@Carrie Underwood@@@See You Again
+38@@@22@@@Luke Bryan@@@Crash My Party
+39@@@44@@@Rihanna Featuring Mikky Ekko@@@Stay
+40@@@39@@@Macklemore & Ryan Lewis Featuring Wanz@@@Thrift Shop
+41@@@30@@@Hunter Hayes@@@I Want Crazy
+42@@@38@@@J. Cole Featuring Miguel@@@Power Trip
+43@@@47@@@Tyler Farr@@@Redneck Crazy
+44@@@43@@@Justin Timberlake@@@Take Back The Night
+45@@@37@@@Randy Houser@@@Runnin' Outta Moonlight
+46@@@41@@@Ciara@@@Body Party
+47@@@50@@@J. Cole Featuring TLC@@@Crooked Smile
+48@@@59@@@Big Sean Featuring Lil Wayne & Jhene Aiko@@@Beware
+49@@@45@@@Paramore@@@Still Into You
+50@@@101@@@Miley Cyrus@@@Wrecking Ball
+51@@@56@@@Taylor Swift Featuring Ed Sheeran@@@Everything Has Changed
+52@@@73@@@Chris Brown Featuring Nicki Minaj@@@Love More
+53@@@54@@@Easton Corbin@@@All Over The Road
+54@@@57@@@OneRepublic@@@Counting Stars
+55@@@53@@@Rocko Featuring Future & Rick Ross@@@U.O.E.N.O.
+56@@@55@@@Billy Currington@@@Hey Girl
+57@@@63@@@Rich Homie Quan@@@Type Of Way
+58@@@52@@@The FiNATTiCZ@@@Don't Drop That Thun Thun!
+59@@@60@@@Pink Featuring Lily Allen@@@True Love
+60@@@65@@@Blake Shelton@@@Mine Would Be You
+61@@@72@@@Enrique Iglesias@@@Turn The Night Up
+62@@@74@@@Passenger@@@Let Her Go
+63@@@62@@@Justin Moore@@@Point At You
+64@@@64@@@Tim McGraw@@@Southern Girl
+65@@@58@@@Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine, Nicki Minaj@@@Tapout
+66@@@61@@@Sage The Gemini@@@Red Nose
+67@@@70@@@2 Chainz Featuring Pharrell@@@Feds Watching
+68@@@67@@@Lee Brice@@@Parking Lot Party
+69@@@66@@@Labrinth Featuring Emeli Sande@@@Beneath Your Beautiful
+70@@@71@@@Chris Young@@@Aw Naw
+71@@@68@@@B.o.B Featuring 2 Chainz@@@HeadBand
+72@@@75@@@The Neighbourhood@@@Sweater Weather
+73@@@69@@@French Montana@@@Ain't Worried About Nothin
+74@@@76@@@Miguel@@@How Many Drinks?
+75@@@77@@@Jay Z@@@Tom Ford
+76@@@78@@@Fifth Harmony@@@Miss Movin' On
+77@@@101@@@Zendaya@@@Replay
+78@@@101@@@Prince Royce@@@Darte Un Beso
+79@@@97@@@Train Featuring Ashley Monroe@@@Bruises
+80@@@88@@@Lana Del Rey@@@Young And Beautiful
+81@@@82@@@Lady Antebellum@@@Goodbye Town
+82@@@80@@@Karmin@@@Acapella
+83@@@101@@@Robin Thicke Featuring Kendrick Lamar@@@Give It 2 U
+84@@@101@@@Ariana Grande Featuring Nathan Sykes@@@Almost Is Never Enough
+85@@@98@@@John Mayer@@@Wildfire
+86@@@85@@@Taylor Swift@@@Red
+87@@@95@@@Bastille@@@Pompeii
+88@@@79@@@DJ Khaled Featuring Drake, Rick Ross & Lil Wayne@@@No New Friends
+89@@@101@@@Avenged Sevenfold@@@Hail To The King
+90@@@89@@@Kenny Chesney@@@When I See This Bar
+91@@@83@@@J. Dash@@@Wop
+92@@@91@@@Jay Z Featuring Rick Ross@@@F*ckwithmeyouknowigotit
+93@@@84@@@Sheryl Crow@@@Easy
+94@@@101@@@Selena Gomez@@@Slow Down
+95@@@86@@@Mariah Carey Featuring Miguel@@@#Beautiful
+96@@@101@@@Ludacris@@@Helluva Night
+97@@@81@@@Ke$ha Featuring will.i.am Or Juicy J@@@Crazy Kids
+98@@@93@@@Wale Featuring Sam Dew@@@LoveHate Thing
+99@@@92@@@Sean Kingston Featuring Chris Brown & Wiz Khalifa@@@Beat It
+100@@@101@@@Bonnie McKee@@@American Girl

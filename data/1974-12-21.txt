@@ -1,0 +1,100 @@
+1@@@4@@@Harry Chapin@@@Cat's In The Cradle
+2@@@1@@@Carl Douglas@@@Kung Fu Fighting
+3@@@5@@@Helen Reddy@@@Angie Baby
+4@@@2@@@The Three Degrees@@@When Will I See You Again
+5@@@7@@@Barry White@@@You're The First, The Last, My Everything
+6@@@9@@@Elton John@@@Lucy In The Sky With Diamonds
+7@@@8@@@Al Green@@@Sha-La-La (Make Me Happy)
+8@@@10@@@Paul McCartney & Wings@@@Junior's Farm/Sally G
+9@@@3@@@Billy Swan@@@I Can Help
+10@@@6@@@B.T. Express@@@Do It ('Til You're Satisfied)
+11@@@11@@@Rufus Featuring Chaka Khan@@@You Got The Love
+12@@@16@@@Neil Sedaka@@@Laughter In The Rain
+13@@@23@@@Stevie Wonder@@@Boogie On Reggae Woman
+14@@@18@@@Ringo Starr@@@Only You
+15@@@31@@@Carpenters@@@Please Mr. Postman
+16@@@20@@@The J. Geils Band@@@Must Of Got Lost
+17@@@17@@@The Rolling Stones@@@Ain't Too Proud To Beg
+18@@@24@@@Paul Anka with Odia Coates@@@One Man Woman/One Woman Man
+19@@@30@@@Barry Manilow@@@Mandy
+20@@@25@@@Jethro Tull@@@Bungle In The Jungle
+21@@@21@@@Gladys Knight And The Pips@@@I Feel A Song (In My Heart)/Don't Burn Down The Bridge
+22@@@28@@@Gloria Gaynor@@@Never Can Say Goodbye
+23@@@12@@@Bachman-Turner Overdrive@@@You Ain't Seen Nothing Yet/Free Wheelin'
+24@@@32@@@George Harrison@@@Dark Horse
+25@@@34@@@Donny & Marie Osmond@@@Morning Side Of The Mountain
+26@@@13@@@The Pointer Sisters@@@Fairytale
+27@@@27@@@Paul Davis@@@Ride 'em Cowboy
+28@@@14@@@Elvis Presley@@@Promised Land
+29@@@33@@@Shirley Brown@@@Woman To Woman
+30@@@38@@@The Guess Who@@@Dancin' Fool
+31@@@44@@@Carol Douglas@@@Doctor's Orders
+32@@@35@@@The Righteous Brothers@@@Dream On
+33@@@15@@@Chicago@@@Wishing You Were Here
+34@@@19@@@Bobby Vinton@@@My Melody Of Love
+35@@@22@@@Neil Diamond@@@Longfellow Serenade
+36@@@26@@@Eric Clapton@@@Willie And The Hand Jive
+37@@@29@@@The Kiki Dee Band@@@I've Got The Music In Me
+38@@@67@@@Grand Funk@@@Some Kind Of Wonderful
+39@@@65@@@AWB@@@Pick Up The Pieces
+40@@@50@@@Mac Davis@@@Rock N' Roll (I Gave You The Best Years Of My Life)
+41@@@39@@@Bo Donaldson And The Heywoods@@@The Heartbreak Kid
+42@@@45@@@The Stylistics@@@Heavy Fallin' Out
+43@@@53@@@Disco Tex & The Sex-O-Lettes@@@Get Dancin'
+44@@@54@@@Billy Joel@@@The Entertainer
+45@@@49@@@James Brown@@@Funky President (People It's Bad)/Coldblooded
+46@@@48@@@Aretha Franklin@@@Without Love
+47@@@58@@@Billy Crash Craddock@@@Ruby, Baby
+48@@@61@@@Eagles@@@Best Of My Love
+49@@@36@@@Carl Carlton@@@Everlasting Love
+50@@@60@@@Tavares@@@She's Gone
+51@@@62@@@Barbara Mason@@@From His Woman To You
+52@@@63@@@Love Unlimited@@@I Belong To You
+53@@@64@@@Lynyrd Skynyrd@@@Free Bird
+54@@@47@@@Jackson 5@@@Whatever You Got, I Want
+55@@@57@@@The Joneses@@@Sugar Pie Guy Pt. 1
+56@@@40@@@John Lennon With The Plastic Ono Nuclear Band@@@Whatever Gets You Thru The Night
+57@@@74@@@Linda Ronstadt@@@You're No Good
+58@@@43@@@Latimore@@@Let's Straighten It Out
+59@@@73@@@Ohio Players@@@Fire
+60@@@42@@@John Denver@@@Back Home Again
+61@@@46@@@Prelude@@@After The Goldrush
+62@@@51@@@The Hues Corporation@@@Rockin' Soul
+63@@@52@@@Jim Weatherly@@@The Need To Be
+64@@@71@@@Cat Stevens@@@Ready
+65@@@68@@@Frankie Valli@@@My Eyes Adored You
+66@@@59@@@Johnny Bristol@@@You And I
+67@@@78@@@David Bowie@@@Changes
+68@@@101@@@John Lennon@@@#9 Dream
+69@@@80@@@Billy Preston@@@Struttin'
+70@@@75@@@The O'Jays@@@Sunshine Part II
+71@@@37@@@Andy Kim@@@Fire, Baby I'm On Fire
+72@@@55@@@America@@@Tin Man
+73@@@81@@@B.B. King@@@Philadelphia
+74@@@101@@@Tony Orlando & Dawn@@@Look In My Eyes Pretty Woman
+75@@@101@@@The Doobie Brothers@@@Black Water
+76@@@82@@@The Staple Singers@@@My Main Man
+77@@@84@@@Eddie Kendricks@@@One Tear
+78@@@87@@@Ike & Tina Turner@@@Sexy Ida (Part 1)
+79@@@101@@@Jim Stafford@@@Your Bulldog Drinks Champagne
+80@@@91@@@Carl Graves@@@Baby, Hang Up The Phone
+81@@@77@@@Commodores@@@I Feel Sanctified
+82@@@85@@@Smokey Robinson@@@I Am I Am
+83@@@95@@@Styx@@@Lady
+84@@@97@@@Michael Holm@@@When A Child Is Born
+85@@@101@@@The Temptations@@@Happy People
+86@@@101@@@Anne Murray@@@Day Tripper
+87@@@101@@@Electric Light Orchestra@@@Can't Get It Out Of My Head
+88@@@101@@@The Miracles@@@Don't Cha Love It
+89@@@101@@@Al Martino@@@To The Door Of The Sun (Alle Porte Del Sole)
+90@@@101@@@Roy Rogers@@@Hoppy, Gene And Me
+91@@@93@@@Rod Stewart@@@Mine For Me
+92@@@92@@@Bobby Bland@@@I Wouldn't Treat A Dog (The Way You Treated Me)
+93@@@96@@@Splinter@@@Costafine Town
+94@@@101@@@Peter Shelley@@@Gee Baby
+95@@@101@@@Margie Joseph@@@Words (are Impossible)
+96@@@98@@@Sugarloaf/Jerry Corbetta@@@Don't Call Us, We'll Call You
+97@@@101@@@Perry Como@@@Christmas Dream
+98@@@101@@@The Tymes@@@Ms. Grace
+99@@@76@@@Percy Sledge@@@I'll Be Your Everything
+100@@@56@@@The Hudson Brothers@@@So You Are A Star

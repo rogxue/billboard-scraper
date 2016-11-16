@@ -1,0 +1,100 @@
+1@@@2@@@Paul and Paula@@@Hey Paula
+2@@@1@@@The Rooftop Singers@@@Walk Right In
+3@@@3@@@Bobby Vee@@@The Night Has A Thousand Eyes
+4@@@5@@@Johnny Thunder@@@Loop De Loop
+5@@@7@@@The Drifters@@@Up On The Roof
+6@@@15@@@The Four Seasons@@@Walk Like A Man
+7@@@12@@@Dion@@@Ruby Baby
+8@@@11@@@The Miracles@@@You've Really Got A Hold On Me
+9@@@19@@@The Cascades@@@Rhythm Of The Rain
+10@@@4@@@Steve Lawrence@@@Go Away Little Girl
+11@@@16@@@Ned Miller@@@From A Jack To A King
+12@@@13@@@Gene Pitney@@@Half Heaven - Half Heartache
+13@@@6@@@Rick Nelson@@@It's Up To You
+14@@@8@@@The Exciters@@@Tell Him
+15@@@9@@@Mary Wells@@@Two Lovers
+16@@@27@@@The Crystals@@@He's Sure The Boy I Love
+17@@@10@@@Paul Petersen@@@My Dad
+18@@@28@@@Joe Harnell And His Orchestra@@@Fly Me To The Moon - Bossa Nova
+19@@@14@@@Dickey Lee@@@I Saw Linda Yesterday
+20@@@30@@@Bobby Darin@@@You're The Reason I'm Living
+21@@@36@@@Jan Bradley@@@Mama Didn't Lie
+22@@@18@@@Kitty Kallen@@@My Coloring Book
+23@@@35@@@The Rebels@@@Wild Weekend
+24@@@26@@@Del Shannon@@@Little Town Flirt
+25@@@25@@@The Pastel Six@@@The Cinnamon Cinder (It's A Very Nice Dance)
+26@@@21@@@Dionne Warwick@@@Don't Make Me Over
+27@@@20@@@Sandy Stewart@@@My Coloring Book
+28@@@38@@@Sam Cooke@@@Send Me Some Lovin'
+29@@@32@@@Johnny Crawford@@@Proud
+30@@@41@@@Paul Anka@@@Love (Makes the World Go 'Round)
+31@@@40@@@Bobby Bland@@@Call On Me
+32@@@23@@@Connie Francis@@@I'm Gonna' Be Warm This Winter
+33@@@66@@@Johnny Mathis@@@What Will My Mary Say
+34@@@47@@@Eydie Gorme@@@Blame It On The Bossa Nova
+35@@@44@@@Vince Guaraldi Trio@@@Cast Your Fate To The Wind
+36@@@17@@@The Tornadoes@@@Telstar
+37@@@24@@@The Shirelles@@@Everybody Loves A Lover
+38@@@60@@@Bobby Bland@@@That's The Way Love Is
+39@@@22@@@Brook Benton@@@Hotel Happiness
+40@@@31@@@Lou Monte@@@Pepino The Italian Mouse
+41@@@58@@@Brenda Lee@@@Your Used To Be
+42@@@59@@@Lou Christie@@@The Gypsy Cried
+43@@@50@@@The Contours@@@Shake Sherry
+44@@@46@@@Lester Flatt, Earl Scruggs & The Foggy Mountain Boys@@@The Ballad Of Jed Clampett
+45@@@34@@@The Earls@@@Remember Then
+46@@@54@@@The Alley Cats@@@Puddin N' Tain (Ask Me Again, I'll Tell You The Same)
+47@@@29@@@Chubby Checker@@@Limbo Rock
+48@@@65@@@Skeeter Davis@@@The End Of The World
+49@@@63@@@Tony Bennett@@@I Wanna Be Around
+50@@@42@@@Marion Worth@@@Shake Me I Rattle (Squeeze Me I Cry)
+51@@@62@@@Brenda Lee@@@She'll Never Know
+52@@@37@@@Bob B. Soxx And The Blue Jeans@@@Zip-A-Dee Doo-Dah
+53@@@49@@@Floyd Cramer@@@Java
+54@@@57@@@Peggy Lee@@@I'm A Woman
+55@@@70@@@Marvin Gaye@@@Hitch Hike
+56@@@61@@@Peter, Paul & Mary@@@Settle Down (Goin' Down That Highway)
+57@@@85@@@Neil Sedaka@@@Alice In Wonderland
+58@@@73@@@The Kingston Trio@@@Greenback Dollar
+59@@@68@@@Steve Alaimo@@@Every Day I Have To Cry
+60@@@75@@@Henry Mancini And His Orchestra@@@Days Of Wine And Roses
+61@@@52@@@The Marvelettes@@@Strange I Know
+62@@@82@@@Little Eva@@@Let's Turkey Trot
+63@@@67@@@Bent Fabric and His Piano@@@Chicken Feed
+64@@@83@@@Chuck Jackson@@@Tell Him I'm Not Home
+65@@@77@@@The Matys Bros.@@@Who Stole The Keeshka?
+66@@@64@@@Etta James@@@Would It Make Any Difference To You
+67@@@72@@@Jimmy McGriff@@@All About My Girl
+68@@@48@@@LaVern Baker@@@See See Rider
+69@@@71@@@Baby Jane & The Rockabyes@@@How Much Is That Doggie In The Window
+70@@@88@@@Bill Pursell@@@Our Winter Love
+71@@@81@@@Sammy Davis Jr.@@@As Long As She Needs Me
+72@@@101@@@Little Esther Phillips@@@I Really Don't Want To Know
+73@@@84@@@Teddy Randazzo@@@Big Wide World
+74@@@101@@@Bobby Rydell@@@Butterfly Baby
+75@@@76@@@Don Covay@@@The Popeye Waddle
+76@@@74@@@Mike Clifford@@@What To Do With Laurie
+77@@@80@@@Mr. Acker Bilk@@@Only You (And You Alone)
+78@@@78@@@Sue Thompson@@@Willie Can
+79@@@101@@@Ruby And The Romantics@@@Our Day Will Come
+80@@@101@@@The Impressions@@@I'm The One Who Loves You
+81@@@101@@@Roy Orbison@@@In Dreams
+82@@@86@@@The Moments@@@Walk Right In
+83@@@101@@@Rick Nelson@@@I Need You
+84@@@87@@@Patsy Cline@@@Leavin' On Your Mind
+85@@@89@@@Tony Bennett@@@I Will Live My Life For You
+86@@@101@@@Duane Eddy and the Rebelettes@@@Boss Guitar
+87@@@98@@@Sam Cooke@@@Baby, Baby, Baby
+88@@@101@@@Carl Butler & Pearl@@@Don't Let Me Cross Over
+89@@@101@@@Richard Chamberlain@@@All I Have To Do Is Dream
+90@@@101@@@James Darren@@@Pin A Medal On Joey
+91@@@101@@@Shep And The Limelites@@@Remember Baby
+92@@@94@@@The Duprees@@@I'd Rather Be Here In Your Arms
+93@@@93@@@The Ribbons@@@Ain't Gonna Kiss Ya
+94@@@99@@@Arthur Lyman Group@@@Love For Sale
+95@@@95@@@Jimmy McGriff@@@M.G. Blues
+96@@@91@@@Dean Martin@@@From The Bottom Of My Heart (Dammi, Dammi, Dammi)
+97@@@101@@@Connie Francis@@@Al Di La
+98@@@101@@@Rufus Thomas@@@The Dog
+99@@@101@@@James Brown And The Famous Flames@@@Every Beat Of My Heart
+100@@@101@@@The Furys@@@Zing! Went The Strings Of My Heart

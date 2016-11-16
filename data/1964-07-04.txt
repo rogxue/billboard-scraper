@@ -1,0 +1,100 @@
+1@@@2@@@The Beach Boys@@@I Get Around
+2@@@4@@@Millie Small@@@My Boy Lollipop
+3@@@6@@@Johnny Rivers@@@Memphis
+4@@@7@@@Gerry And The Pacemakers@@@Don't Let The Sun Catch You Crying
+5@@@5@@@Barbra Streisand@@@People
+6@@@1@@@Peter And Gordon@@@A World Without Love
+7@@@3@@@The Dixie Cups@@@Chapel Of Love
+8@@@18@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Rag Doll
+9@@@9@@@Billy J. Kramer With The Dakotas@@@Bad To Me
+10@@@16@@@The Dave Clark Five@@@Can't You See That She's Mine
+11@@@14@@@Chuck Berry@@@No Particular Place To Go
+12@@@20@@@Stan Getz/Astrud Gilberto@@@The Girl From Ipanema
+13@@@8@@@The Ray Charles Singers@@@Love Me With All Your Heart (Cuando Calienta El Sol)
+14@@@12@@@Billy J. Kramer With The Dakotas@@@Little Children
+15@@@10@@@Dionne Warwick@@@Walk On By
+16@@@23@@@Sam Cooke@@@Good Times
+17@@@22@@@Marvin Gaye & Mary Wells@@@What's The Matter With You Baby
+18@@@25@@@The Searchers@@@Don't Throw Your Love Away
+19@@@11@@@The Beatles@@@Love Me Do
+20@@@27@@@Marvin Gaye@@@Try It Baby
+21@@@24@@@Chad & Jeremy@@@Yesterday's Gone
+22@@@60@@@Jan & Dean@@@The Little Old Lady (From Pasadena)
+23@@@32@@@The Impressions@@@Keep On Pushing
+24@@@29@@@The Beach Boys@@@Don't Worry Baby
+25@@@26@@@Terry Stafford@@@I'll Touch A Star
+26@@@13@@@Bobby Vinton@@@Tell Me Why
+27@@@17@@@The Bachelors@@@Diane
+28@@@21@@@The New Christy Minstrels@@@Today
+29@@@15@@@Mary Wells@@@My Guy
+30@@@38@@@The Four Seasons@@@Alone
+31@@@44@@@Roger Miller@@@Dang Me
+32@@@30@@@The Serendipity Singers@@@Beans In My Ears
+33@@@41@@@The Temptations@@@I'll Be In Trouble
+34@@@19@@@Louis Armstrong And The All Stars@@@Hello, Dolly!
+35@@@46@@@Sam Cooke@@@Tennessee Waltz
+36@@@45@@@Rita Pavone@@@Remember Me
+37@@@56@@@The Premiers@@@Farmer John
+38@@@42@@@Gladys Knight And The Pips@@@Giving Up
+39@@@28@@@Al Martino@@@Tears And Roses
+40@@@34@@@The Dave Clark Five@@@Do You Love Me
+41@@@52@@@Stevie Wonder@@@Hey Harmonica Man
+42@@@50@@@Chubby Checker@@@Lazy Elsie Molly
+43@@@31@@@Brenda Holloway@@@Every Little Bit Hurts
+44@@@61@@@Dusty Springfield@@@Wishin' And Hopin'
+45@@@49@@@Bobby Darin@@@Milord
+46@@@72@@@Dean Martin@@@Everybody Loves Somebody
+47@@@47@@@Bernadette Carroll@@@Party Girl
+48@@@73@@@Peter And Gordon@@@Nobody I Know
+49@@@57@@@Chuck Jackson@@@Beg Me
+50@@@58@@@Brenda Lee@@@Alone With You
+51@@@53@@@Trini Lopez@@@What Have I Got Of My Own
+52@@@77@@@Jimmy Hughes@@@Steal Away
+53@@@64@@@Louis Armstrong And The All Stars@@@I Still Get Jealous
+54@@@62@@@Eddie Holland@@@Just Ain't Enough Love
+55@@@63@@@The Rolling Stones@@@Not Fade Away
+56@@@51@@@Ray Charles and his Orchestra@@@My Baby Don't Dig Me
+57@@@54@@@Lucille Starr@@@The French Song
+58@@@66@@@Nancy Wilson@@@(You Don't Know) How Glad I Am
+59@@@70@@@Jimmie Rodgers@@@The World I Used To Know
+60@@@65@@@Bobby Bland@@@Share Your Love With Me
+61@@@84@@@The Jelly Beans@@@I Wanna Love Him So Bad
+62@@@81@@@The Drifters@@@Under The Boardwalk
+63@@@68@@@Round Robin@@@Kick That Little Foot Sally Ann
+64@@@67@@@Alvin Robinson@@@Something You Got
+65@@@69@@@Bobby Vee@@@Hickory, Dick And Doc
+66@@@78@@@The Ronettes@@@Do I Love You?
+67@@@82@@@The Miracles@@@I Like It Like That
+68@@@76@@@Major Lance@@@It Ain't No Use
+69@@@71@@@Jack Jones@@@The First Night Of The Full Moon
+70@@@80@@@Major Lance@@@Girls
+71@@@83@@@The Bachelors@@@I Believe
+72@@@79@@@Betty Everett@@@I Can't Hear You
+73@@@59@@@Anita Bryant@@@The World Of Lonely People
+74@@@101@@@Boston Pops Orchestra' Arthur Fiedler@@@I Want To Hold Your Hand
+75@@@87@@@Robert Maxwell His Harp And Orchestra@@@Peg O' My Heart
+76@@@89@@@Barbara Lynn@@@Oh! Baby (We Got A Good Thing Goin')
+77@@@75@@@The Overlanders@@@Yesterday's Gone
+78@@@90@@@Earl-Jean@@@I'm Into Somethin' Good
+79@@@88@@@The Everly Brothers@@@The Ferris Wheel
+80@@@101@@@Cilla Black@@@You're My World
+81@@@101@@@The Rolling Stones@@@Tell Me (You're Coming Back)
+82@@@101@@@Irma Thomas@@@Anyone Who Knows What Love Is (will understand)
+83@@@85@@@Patty & The Emblems@@@Mixed-Up, Shook-Up, Girl
+84@@@101@@@Gloria Lynne@@@Don't Take Your Love From Me
+85@@@101@@@Del Shannon@@@Handy Man
+86@@@86@@@Danny Williams@@@A Little Toy Balloon
+87@@@94@@@Johnny Mathis@@@Taste Of Tears
+88@@@101@@@The Marvelettes@@@You're My Remedy
+89@@@101@@@The Showmen@@@It Will Stand
+90@@@95@@@Herb Alpert's Tijuana Brass@@@The Mexican Shuffle
+91@@@93@@@The Paris Sisters@@@Dream Lover
+92@@@101@@@Elvis Presley With The Jordanaires@@@Viva Las Vegas
+93@@@101@@@The Hollyridge Strings@@@All My Loving
+94@@@99@@@The Valentinos@@@It's All Over Now
+95@@@98@@@Jerry Butler@@@I Don't Want To Hear Anymore
+96@@@96@@@Peter, Paul & Mary@@@Oh, Rock My Soul (Part I)
+97@@@101@@@Lenny Welch@@@If You See My Love
+98@@@100@@@B.B. King@@@Help The Poor
+99@@@101@@@James Brown And His Orchestra@@@The Things That I Used To Do
+100@@@101@@@Buck Owens@@@My Heart Skips A Beat

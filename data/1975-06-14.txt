@@ -1,0 +1,100 @@
+1@@@2@@@America@@@Sister Golden Hair
+2@@@12@@@Captain & Tennille@@@Love Will Keep Us Together
+3@@@6@@@Linda Ronstadt@@@When Will I Be Loved
+4@@@4@@@Grand Funk@@@Bad Time
+5@@@5@@@Chicago@@@Old Days
+6@@@8@@@Jessi Colter@@@I'm Not Lisa
+7@@@9@@@Major Harris@@@Love Won't Let Me Wait
+8@@@1@@@John Denver@@@Thank God I'm A Country Boy
+9@@@10@@@The Elton John Band@@@Philadelphia Freedom
+10@@@14@@@Joe Simon@@@Get Down, Get Down (Get On The Floor)
+11@@@11@@@AWB@@@Cut The Cake
+12@@@17@@@Michael Murphey@@@Wildfire
+13@@@15@@@Alice Cooper@@@Only Women
+14@@@19@@@The Doobie Brothers@@@Take Me In Your Arms (Rock Me)
+15@@@18@@@Harold Melvin And The Blue Notes@@@Bad Luck (Part 1)
+16@@@13@@@Earth, Wind & Fire@@@Shining Star
+17@@@20@@@Pilot@@@Magic
+18@@@3@@@Ace@@@How Long
+19@@@7@@@Freddy Fender@@@Before The Next Teardrop Falls
+20@@@21@@@Roger Whittaker@@@The Last Farewell
+21@@@23@@@Seals & Crofts@@@I'll Play For You
+22@@@35@@@Wings@@@Listen To What The Man Said
+23@@@24@@@Disco Tex & The Sex-O-Lettes@@@I Wanna Dance Wit' Choo (Doo Dat Dance), Part I
+24@@@27@@@Carly Simon@@@Attitude Dancing
+25@@@25@@@Tavares@@@Remember What I Told You To Forget/My Ship
+26@@@26@@@The Temptations@@@Shakey Ground
+27@@@29@@@Gladys Knight And The Pips@@@The Way We Were/try To Remember
+28@@@31@@@Ray Stevens@@@Misty
+29@@@32@@@Van McCoy The Soul City Symphony@@@The Hustle
+30@@@33@@@Smokey Robinson@@@Baby That's Backatcha
+31@@@38@@@Bachman-Turner Overdrive@@@Hey You
+32@@@37@@@Tony Camillo's Bazuka@@@Dynomite-Part I
+33@@@34@@@Boomer Castleman@@@Judy Mae
+34@@@44@@@Frankie Valli@@@Swearin' To God
+35@@@40@@@Elvis Presley@@@T-R-O-U-B-L-E
+36@@@41@@@War@@@Why Can't We Be Friends?
+37@@@39@@@Tanya Tucker@@@Lizzie And The Rainman
+38@@@49@@@10cc@@@I'm Not In Love
+39@@@53@@@Eagles@@@One Of These Nights
+40@@@50@@@Melissa Manchester@@@Midnight Blue
+41@@@51@@@Gwen McCrae@@@Rockin' Chair
+42@@@46@@@Dwight Twilley Band@@@I'm On Fire
+43@@@52@@@Steely Dan@@@Black Friday
+44@@@16@@@Carpenters@@@Only Yesterday
+45@@@45@@@The O'Jays@@@Give The People What They Want
+46@@@65@@@Olivia Newton-John@@@Please Mr. Please
+47@@@28@@@Ozark Mountain Daredevils@@@Jackie Blue
+48@@@59@@@Barry White@@@I'll Do For You Anything You Want Me To
+49@@@60@@@Mike Post@@@The Rockford Files
+50@@@22@@@Paul Anka with Odia Coates@@@I Don't Like To Sleep Alone
+51@@@30@@@Eddie Kendricks@@@Shoeshine Boy
+52@@@62@@@Commodores@@@Slippery When Wet
+53@@@66@@@Glen Campbell@@@Rhinestone Cowboy
+54@@@43@@@Tony Orlando & Dawn@@@He Don't Love You (Like I Love You)
+55@@@57@@@Justin Hayward & John Lodge@@@I Dreamed Last Night
+56@@@67@@@Kool & The Gang@@@Spirit Of The Boogie/Summer Madness
+57@@@68@@@Charlie Rich@@@Every Time You Touch Me (I Get High)
+58@@@69@@@Rufus Featuring Chaka Khan@@@Please Pardon Me (You Remind Me Of A Friend)
+59@@@48@@@Labelle@@@What Can I Do For You?
+60@@@47@@@Ron Banks And The Dramatics@@@Me And Mrs. Jones
+61@@@63@@@James Brown@@@Sex Machine (Part I)
+62@@@64@@@The Charlie Daniels Band@@@Long Haired Country Boy
+63@@@55@@@Sha Na Na@@@(Just Like) Romeo And Juliet
+64@@@56@@@Queen@@@KILLER QUEEN
+65@@@77@@@Bee Gees@@@Jive Talkin'
+66@@@76@@@Hot Chocolate@@@Disco Queen
+67@@@58@@@Consumer Rapport@@@Ease On Down The Road
+68@@@72@@@Kiss@@@Rock And Roll All Nite
+69@@@75@@@Bimbo Jet@@@El Bimbo
+70@@@70@@@Grover Washington, Jr.@@@Mister Magic
+71@@@71@@@Four Tops@@@Seven Lonely Nights
+72@@@82@@@Narvel Felts@@@Reconsider Me
+73@@@87@@@Ben E. King@@@Do It In The Name Of Love
+74@@@81@@@First Class@@@Funny How Love Can Be
+75@@@86@@@Donny & Marie Osmond@@@Make The World Go Away
+76@@@78@@@Mac Davis@@@Burnin' Thing
+77@@@79@@@The Beach Boys@@@Sail On Sailor
+78@@@80@@@Billie Jo Spears@@@Blanket On The Ground
+79@@@90@@@Michael Jackson@@@Just A Little Bit Of You
+80@@@54@@@The Spinners@@@Sadie
+81@@@101@@@Blood, Sweat & Tears@@@Got To Get You Into My Life
+82@@@101@@@Ringo Starr@@@It's All Down To Goodnight Vienna/Oo-Wee
+83@@@101@@@Aerosmith@@@Sweet Emotion
+84@@@101@@@The Rolling Stones@@@I Don't Know Why
+85@@@89@@@Sammy Johns@@@Rag Doll
+86@@@101@@@Roberta Flack@@@Feelin' That Glow
+87@@@101@@@Janis Ian@@@At Seventeen
+88@@@101@@@Ambrosia@@@Holdin' On To Yesterday
+89@@@101@@@Lynyrd Skynyrd@@@Saturday Night Special
+90@@@101@@@Syl Johnson@@@Take Me To The River
+91@@@94@@@Shirley Caesar@@@No Charge
+92@@@61@@@Supertramp@@@Bloody Well Right
+93@@@101@@@Shirley And Company@@@Cry Cry Cry
+94@@@98@@@Ike & Tina Turner@@@Baby-Get It On
+95@@@100@@@Sugarloaf/Jerry Corbetta@@@Stars In My Eyes
+96@@@101@@@Don McLean@@@Wonderful Baby
+97@@@99@@@The Brecker Brothers@@@Sneakin' Up Behind You
+98@@@101@@@Parliament@@@Chocolate City
+99@@@101@@@Bobby Womack@@@Check It Out
+100@@@101@@@Sweet@@@Ballroom Blitz

@@ -1,0 +1,100 @@
+1@@@3@@@A-Ha@@@Take On Me
+2@@@4@@@Whitney Houston@@@Saving All My Love For You
+3@@@5@@@Stevie Wonder@@@Part-Time Lover
+4@@@1@@@Ready For The World@@@Oh Sheila
+5@@@9@@@Jan Hammer@@@Miami Vice Theme
+6@@@6@@@John Mellencamp@@@Lonely Ol & Night
+7@@@2@@@Dire Straits@@@Money For Nothing
+8@@@7@@@Mick Jagger@@@Dancing In The Street
+9@@@11@@@Sting@@@Fortress Around Your Heart
+10@@@13@@@Tears For Fears@@@Head Over Heels
+11@@@12@@@Bruce Springsteen@@@I'm Goin' Down
+12@@@15@@@Loverboy@@@Lovin' Every Minute Of It
+13@@@8@@@Kool & The Gang@@@Cherish
+14@@@10@@@Madonna@@@Dress You Up
+15@@@24@@@Glenn Frey@@@You Belong To The City
+16@@@18@@@Paul Young@@@I'm Gonna Tear Your Playhouse Down
+17@@@25@@@Starship@@@We Built This City
+18@@@23@@@ABC@@@Be Near Me
+19@@@21@@@Bryan Adams@@@One Night Love Affair
+20@@@19@@@Night Ranger@@@Four In The Morning (I Can't Take Anymore)
+21@@@29@@@Freddie Jackson@@@You Are My Lady
+22@@@26@@@Don Henley@@@Sunset Grill
+23@@@28@@@Hooters@@@And We Danced
+24@@@30@@@Thompson Twins@@@Lay Your Hands On Me
+25@@@14@@@Wham!@@@Freedom
+26@@@32@@@David Foster@@@Love Theme From St. Elmo's Fire (Instrumental)
+27@@@33@@@Heart@@@Never
+28@@@35@@@Aretha Franklin@@@Who's Zoomin' Who
+29@@@37@@@Phil Collins/Marilyn Martin@@@Separate Lives (Theme From White Nights)
+30@@@17@@@Godley@@@Cry
+31@@@20@@@Daryl Hall & John Oates@@@The Way You Do The Things You Do/My Girl
+32@@@16@@@Phil Collins@@@Don't Lose My Number
+33@@@36@@@Corey Hart@@@Boy In The Box
+34@@@34@@@The Power Station@@@Communication
+35@@@41@@@Mr. Mister@@@Broken Wings
+36@@@39@@@Orchestral Manoeuvres In The Dark@@@So In Love
+37@@@40@@@Tina Turner@@@One Of The Living
+38@@@22@@@John Cafferty@@@C-I-T-Y
+39@@@27@@@John Parr@@@St. Elmo's Fire (Man In Motion)
+40@@@31@@@The Pointer Sisters@@@Dare Me
+41@@@50@@@Scritti Politti@@@Perfect Way
+42@@@52@@@Ray Parker Jr.@@@Girls Are More Fun
+43@@@53@@@Billy Joel@@@The Night Is Still Young
+44@@@54@@@Olivia Newton-John@@@Soul Kiss
+45@@@45@@@Oingo Boingo@@@Weird Science
+46@@@49@@@Klymaxx@@@I Miss You
+47@@@44@@@Cheap Trick@@@Tonight It's You
+48@@@48@@@Cheech@@@Born In East L.A.
+49@@@101@@@ZZ Top@@@Sleeping Bag
+50@@@38@@@Huey Lewis & The News@@@The Power Of Love
+51@@@57@@@Maurice White@@@Stand By Me
+52@@@101@@@Simple Minds@@@Alive And Kicking
+53@@@51@@@9.9@@@All Of Me For All Of You
+54@@@56@@@Howard Jones@@@Like To Get To Know You Well
+55@@@58@@@Roger Daltrey@@@After The Fire
+56@@@46@@@El DeBarge With DeBarge@@@You Wear It Well
+57@@@63@@@Kate Bush@@@Running Up That Hill
+58@@@66@@@Rene@@@I'll Be Good
+59@@@42@@@Prince And The Revolution@@@Pop Life
+60@@@61@@@Starpoint@@@Object Of My Desire
+61@@@43@@@Tina Turner@@@We Don't Need Another Hero (Thunderdome)
+62@@@101@@@Eurythmics And Aretha Franklin@@@Sisters Are Doing It For Themselves
+63@@@64@@@The Family@@@Screams Of Passion
+64@@@69@@@Talking Heads@@@And She Was
+65@@@65@@@Five Star@@@All Fall Down
+66@@@72@@@Eddie Murphy@@@Party All The Time
+67@@@47@@@John Waite@@@Every Step Of The Way
+68@@@70@@@Morris Day@@@The Oak Tree
+69@@@71@@@Jennifer Holliday@@@Hard Times For Lovers
+70@@@101@@@Prince And The Revolution@@@America
+71@@@84@@@Wang Chung@@@To Live And Die In L.A.
+72@@@60@@@Aretha Franklin@@@Freeway Of Love
+73@@@76@@@Gino Vannelli@@@Hurts To Be In Love
+74@@@78@@@Go West@@@Eye To Eye
+75@@@85@@@Katrina And The Waves@@@Que Te Quiero
+76@@@82@@@Marillion@@@Kayleigh
+77@@@79@@@Jane Wiedlin@@@Blue Kiss
+78@@@75@@@Dead Or Alive@@@Lover Come Back To Me
+79@@@77@@@Diana Ross@@@Eaten Alive
+80@@@101@@@Baltimora@@@Tarzan Boy (From "Teenage Mutant Ninja Turtles III")
+81@@@83@@@Tommy Shaw@@@Remo's Theme (What If)
+82@@@87@@@Ta Mara@@@Everybody Dance
+83@@@55@@@Pat Benatar@@@Invincible (Theme From The Legend Of Billie Jean)
+84@@@101@@@Laura Branigan@@@Hold Me
+85@@@101@@@Kiss@@@Tears Are Falling
+86@@@59@@@UB40@@@I Got You Babe
+87@@@73@@@Lisa Lisa@@@I Wonder If I Take You Home
+88@@@68@@@Bryan Adams@@@Summer Of' 69
+89@@@101@@@John Waite@@@Welcome To Paradise
+90@@@101@@@Quarterflash@@@Talk To Me
+91@@@88@@@Kenny Loggins@@@I'll Be There
+92@@@62@@@Billy Joel@@@You're Only Human (Second Wind)
+93@@@89@@@Ratt@@@You're In Love
+94@@@67@@@Motley Crue@@@Smokin' In The Boys Room
+95@@@101@@@Miami Sound Machine@@@Conga
+96@@@81@@@Corey Hart@@@Never Surrender
+97@@@90@@@Heart@@@What About Love?
+98@@@74@@@Tears For Fears@@@Shout
+99@@@86@@@Howard Jones@@@Life In One Day
+100@@@98@@@Kenny Loggins@@@Forever

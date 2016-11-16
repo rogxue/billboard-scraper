@@ -1,0 +1,100 @@
+1@@@1@@@Michael Jackson@@@Billie Jean
+2@@@2@@@Bob Seger & The Silver Bullet Band@@@Shame On The Moon
+3@@@3@@@Stray Cats@@@Stray Cat Strut
+4@@@4@@@Culture Club@@@Do You Really Want To Hurt Me
+5@@@5@@@Duran Duran@@@Hungry Like The Wolf
+6@@@9@@@Pretenders@@@Back On The Chain Gang
+7@@@11@@@Lionel Richie@@@You Are
+8@@@8@@@Kenny Rogers And Sheena Easton@@@We've Got Tonight
+9@@@6@@@Patti Austin With James Ingram@@@Baby, Come To Me
+10@@@15@@@Journey@@@Separate Ways (Worlds Apart)
+11@@@18@@@Daryl Hall & John Oates@@@One On One
+12@@@12@@@Christopher Cross@@@All Right
+13@@@20@@@Styx@@@Mr. Roboto
+14@@@16@@@Golden Earring@@@Twilight Zone
+15@@@14@@@Men At Work@@@Down Under
+16@@@22@@@Frida@@@I Know There's Something Going On
+17@@@17@@@Billy Joel@@@Allentown
+18@@@21@@@Earth, Wind & Fire@@@Fall In Love With Me
+19@@@19@@@Joe Jackson@@@Breaking Us In Two
+20@@@25@@@Dexys Midnight Runners@@@Come On Eileen
+21@@@28@@@Eric Clapton@@@I've Got A Rock N' Roll Heart
+22@@@7@@@Eddie Rabbitt With Crystal Gayle@@@You And I
+23@@@10@@@Musical Youth@@@Pass The Dutchie
+24@@@13@@@Sammy Hagar@@@Your Love Is Driving Me Crazy
+25@@@31@@@After The Fire@@@Der Kommissar
+26@@@26@@@Saga@@@On The Loose
+27@@@34@@@Greg Kihn Band@@@Jeopardy
+28@@@23@@@Adam Ant@@@Goody Two Shoes
+29@@@37@@@Pat Benatar@@@Little Too Late
+30@@@30@@@Steel Breeze@@@Dreamin' Is Easy
+31@@@36@@@ABC@@@Poison Arrow
+32@@@32@@@Supertramp Featuring Rick Davies@@@My Kind Of Lady
+33@@@33@@@Donna Summer@@@The Woman In Me
+34@@@39@@@Dan Fogelberg@@@Make Love Stay
+35@@@35@@@Neil Diamond@@@I'm Alive
+36@@@44@@@Thompson Twins@@@Lies
+37@@@29@@@Phil Collins@@@You Can't Hurry Love
+38@@@45@@@Tom Petty And The Heartbreakers@@@Change Of Heart
+39@@@43@@@Vandenberg@@@Burning Heart
+40@@@40@@@Night Ranger@@@Don't Tell Me You Love Me
+41@@@41@@@Jefferson Starship@@@Winds Of Change
+42@@@42@@@Diana Ross@@@So Close
+43@@@47@@@Debarge@@@I Like It
+44@@@65@@@Michael Jackson@@@Beat It
+45@@@50@@@Melissa Manchester@@@Nice Girls
+46@@@46@@@The Weather Girls@@@It's Raining Men
+47@@@53@@@Phil Collins@@@I Don't Care Anymore
+48@@@52@@@Stephen Bishop@@@It Might Be You
+49@@@49@@@Evelyn King@@@Betcha She Don't Love You
+50@@@51@@@Ric Ocasek@@@Something To Grab For
+51@@@54@@@Oxo@@@Whirly Girl
+52@@@56@@@Thomas Dolby@@@She Blinded Me With Science
+53@@@48@@@Don Henley@@@I Can't Stand Still
+54@@@62@@@Prince@@@Little Red Corvette
+55@@@60@@@Felony@@@The Fanatic
+56@@@61@@@Dionne Warwick@@@Take The Short Way Home
+57@@@57@@@The Clash@@@Should I Stay Or Should I Go
+58@@@58@@@Janet Jackson@@@Come Give Your Love To Me
+59@@@59@@@Firefall@@@Always
+60@@@38@@@Olivia Newton-John@@@Tied Up
+61@@@69@@@Barry Manilow@@@Some Kind Of Friend
+62@@@67@@@The J. Geils Band@@@Land Of A Thousand Dances
+63@@@63@@@Marty Balin@@@What Love Is
+64@@@73@@@Psychedelic Furs@@@Love My Way
+65@@@101@@@Kenny Loggins@@@Welcome To Heartlight
+66@@@75@@@John Anderson@@@Swingin'
+67@@@101@@@Toto@@@I Won't Hold You Back
+68@@@24@@@Kenny Loggins@@@Heart To Heart
+69@@@27@@@Toto@@@Africa
+70@@@55@@@Pia Zadora@@@The Clapping Song
+71@@@66@@@Little River Band@@@The Other Guy
+72@@@79@@@Berlin@@@Sex (I'm A...)
+73@@@80@@@Yaz@@@Only You
+74@@@101@@@Bob Seger & The Silver Bullet Band@@@Even Now
+75@@@81@@@Mac McAnally@@@Minimum Love
+76@@@83@@@Robert Hazard@@@Escalator Of Life
+77@@@77@@@Toni Basil@@@Shoppin' From A To Z
+78@@@84@@@Single Bullet Theory@@@Keep It Tight
+79@@@101@@@The Gap Band@@@Outstanding
+80@@@101@@@Heaven 17@@@Let Me Go
+81@@@101@@@Bryan Adams@@@Straight From The Heart
+82@@@82@@@Gentle Persuasion@@@Please Mr. Postman
+83@@@101@@@Missing Persons@@@Walking In L.a.
+84@@@90@@@The System@@@You Are In My System
+85@@@101@@@Naked Eyes@@@Always Something There To Remind Me
+86@@@101@@@Adam Ant@@@Desperate But Not Serious
+87@@@101@@@Def Leppard@@@Photograph
+88@@@64@@@The John Hall Band@@@Love Me Again
+89@@@70@@@Marvin Gaye@@@Sexual Healing
+90@@@101@@@Robbie Patton@@@Smiling Islands
+91@@@71@@@Daryl Hall & John Oates@@@Maneater
+92@@@72@@@Randy Newman & Paul Simon@@@The Blues
+93@@@76@@@The Clash@@@Rock The Casbah
+94@@@78@@@Juice Newton@@@Heart Of The Night
+95@@@85@@@Moving Pictures@@@What About Me
+96@@@86@@@A Flock Of Seagulls@@@Space Age Love Song
+97@@@87@@@Billy Squier@@@She's A Runner
+98@@@98@@@Laura Branigan@@@Gloria
+99@@@88@@@Tom Petty And The Heartbreakers@@@You Got Lucky
+100@@@89@@@Poco@@@Shoot For The Moon

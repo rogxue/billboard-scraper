@@ -1,0 +1,100 @@
+1@@@1@@@TLC@@@Creep
+2@@@4@@@Madonna@@@Take A Bow
+3@@@2@@@Boyz II Men@@@On Bended Knee
+4@@@3@@@Real McCoy@@@Another Night
+5@@@5@@@Brandy@@@Baby
+6@@@6@@@Des'ree@@@You Gotta Be
+7@@@14@@@Soul For Real@@@Candy Rain
+8@@@7@@@Bon Jovi@@@Always
+9@@@8@@@4PM@@@Sukiyaki
+10@@@11@@@Hootie & The Blowfish@@@Hold My Hand
+11@@@16@@@Brownstone@@@If You Love Me
+12@@@9@@@BLACKstreet@@@Before I Let You Go
+13@@@12@@@Corona@@@The Rhythm Of The Night
+14@@@10@@@Melissa Etheridge@@@I'm The Only One
+15@@@15@@@Tom Petty@@@You Don't Know How It Feels
+16@@@19@@@Sheryl Crow@@@Strong Enough
+17@@@25@@@The Notorious B.I.G.@@@Big Poppa/Warning
+18@@@13@@@Ini Kamoze@@@Here Comes The Hotstepper (From "Ready To Wear")
+19@@@17@@@Immature@@@Constantly
+20@@@18@@@Vanessa Williams@@@The Sweetest Days
+21@@@21@@@Jade@@@Every Day Of The Week
+22@@@28@@@N II U@@@I Miss You
+23@@@22@@@R.E.M.@@@Bang And Blame
+24@@@20@@@Brandy@@@I Wanna Be Down
+25@@@101@@@Melissa Etheridge@@@Like The Way I Do/If I Wanted To
+26@@@23@@@Boyz II Men@@@I'll Make Love To You
+27@@@35@@@Dionne Farris@@@I Know
+28@@@24@@@Janet Jackson@@@You Want This/70's Love Groove
+29@@@32@@@Martin Page@@@In The House Of Stone And Light
+30@@@26@@@69 Boyz@@@Tootsee Roll
+31@@@27@@@20 Fingers Featuring Gillette@@@Short Dick Man
+32@@@29@@@Jon Secada@@@Mental Picture
+33@@@30@@@Pretenders@@@I'll Stand By You
+34@@@33@@@Crystal Waters@@@100% Pure Love
+35@@@31@@@Sheryl Crow@@@All I Wanna Do
+36@@@52@@@Subway (Featuring 702)@@@This Lil' Game We Play
+37@@@43@@@Amy Grant With Vince Gill@@@House Of Love
+38@@@34@@@Gloria Estefan@@@Turn The Beat Around (From "The Specialist")
+39@@@47@@@Gloria Estefan@@@Everlasting Love
+40@@@36@@@Madonna@@@Secret
+41@@@38@@@Andru Donalds@@@Mishale
+42@@@37@@@Toni Braxton@@@I Belong To You/How Many Ways
+43@@@41@@@John Mellencamp With Me'Shell Ndegeocello@@@Wild Night
+44@@@54@@@Adina Howard@@@Freak Like Me
+45@@@45@@@Craig Mack@@@Get Down
+46@@@46@@@2 Unlimited@@@Get Ready For This
+47@@@39@@@Barry White@@@Practice What You Preach
+48@@@42@@@Deadeye Dick@@@New Age Girl (From "Dumb And Dumber")
+49@@@44@@@Babyface@@@When Can I See You
+50@@@53@@@Nine@@@Whutcha Want?
+51@@@51@@@69 Boyz@@@Kitty Kitty
+52@@@101@@@K-Ci Hailey@@@If You Think You're Lonely Now
+53@@@40@@@Changing Faces@@@Foolin' Around
+54@@@59@@@Jamie Walters@@@Hold On
+55@@@62@@@Portishead@@@Sour Times (Nobody Loves Me)
+56@@@56@@@Method Man@@@Bring The Pain
+57@@@49@@@Mary J. Blige@@@Be Happy
+58@@@55@@@Freedy Johnston@@@Bad Reputation
+59@@@58@@@Scarface@@@I Never Seen A Man Cry (aka I Seen A Man Die)
+60@@@64@@@Channel Live@@@Mad Izm
+61@@@68@@@The Flaming Lips@@@She Don't Use Jelly
+62@@@70@@@Willi One Blood@@@Whiney, Whiney (From "Dumb And Dumber")
+63@@@57@@@Capleton@@@Tour
+64@@@71@@@All-4-One@@@(She's Got) Skillz
+65@@@63@@@Luther Vandross@@@Always And Forever
+66@@@66@@@Lil Suzy@@@Promise Me
+67@@@101@@@Simple Minds@@@She's A River
+68@@@87@@@B.M.U. (Black Men United)@@@U Will Know (From "Jason's Lyric")
+69@@@65@@@Dru Down@@@Pimp Of The Year
+70@@@60@@@Zhane@@@Shame (From "A Low Down Dirty Shame")
+71@@@76@@@Stevie B@@@Dream About You/Funky Melody
+72@@@69@@@Vicious@@@Nika
+73@@@83@@@Jewell@@@Woman To Woman
+74@@@101@@@Bonnie Raitt@@@You Got It (From "Boys On The Side")
+75@@@72@@@Livin' Joy@@@Dreamer
+76@@@81@@@Pete Rock & C.L. Smooth@@@Take You There
+77@@@77@@@Too Short@@@Cocktales
+78@@@74@@@Anita Baker@@@I Apologize
+79@@@79@@@Aaliyah@@@Age Ain't Nothing But A Number
+80@@@67@@@Ace Of Base@@@Living In Danger
+81@@@101@@@Karyn White@@@Can I Stay With You
+82@@@75@@@Fu-Schnickens@@@Breakdown
+83@@@89@@@95 South@@@Rodeo
+84@@@86@@@Max-A-Million@@@Fat Boy
+85@@@101@@@Blessid Union Of Souls@@@I Believe
+86@@@61@@@Sting@@@When We Dance
+87@@@73@@@Warren G@@@Do You See
+88@@@90@@@Missjones@@@Where I Wanna Be Boy
+89@@@92@@@K7@@@Move It Like This
+90@@@80@@@Hole@@@Doll Parts
+91@@@78@@@Harry Connick, Jr.@@@(I Could Only) Whisper Your Name
+92@@@85@@@Group Home@@@Supa Star
+93@@@101@@@John Waite@@@How Did I Get By Without You?
+94@@@101@@@Usher@@@Think Of You
+95@@@95@@@Aimee Mann@@@That's Just What You Are
+96@@@91@@@Guns N' Roses@@@Sympathy For The Devil ("Interview With The Vampire")
+97@@@94@@@Keith Murray@@@The Most Beautifullest Thing In This World
+98@@@93@@@Reba McEntire@@@Till You Love Me
+99@@@84@@@John Mellencamp@@@Dance Naked
+100@@@88@@@Silk@@@I Can Go Deep (From "A Low Down Dirty Shame")

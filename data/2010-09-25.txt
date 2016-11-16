@@ -1,0 +1,100 @@
+1@@@1@@@Katy Perry@@@Teenage Dream
+2@@@2@@@Eminem Featuring Rihanna@@@Love The Way You Lie
+3@@@4@@@Bruno Mars@@@Just The Way You Are
+4@@@3@@@Taio Cruz@@@Dynamite
+5@@@5@@@Enrique Iglesias Featuring Pitbull@@@I Like It
+6@@@6@@@Usher Featuring Pitbull@@@DJ Got Us Fallin' In Love
+7@@@9@@@Nelly@@@Just A Dream
+8@@@8@@@Ke$ha@@@Take It Off
+9@@@13@@@Flo Rida Featuring David Guetta@@@Club Can't Handle Me
+10@@@7@@@Taylor Swift@@@Mine
+11@@@12@@@B.o.B Featuring Rivers Cuomo@@@Magic
+12@@@10@@@Katy Perry Featuring Snoop Dogg@@@California Gurls
+13@@@11@@@Mike Posner@@@Cooler Than Me
+14@@@14@@@B.o.B Featuring Hayley Williams@@@Airplanes
+15@@@16@@@Eminem@@@Not Afraid
+16@@@21@@@Far*East Movement Featuring Cataracs & Dev@@@Like A G6
+17@@@20@@@Trey Songz Featuring Nicki Minaj@@@Bottoms Up
+18@@@15@@@Jason Derulo@@@Ridin' Solo
+19@@@17@@@Maroon 5@@@Misery
+20@@@19@@@Chris Brown Featuring Tyga & Kevin McCall@@@Deuces
+21@@@22@@@Usher Featuring will.i.am@@@OMG
+22@@@24@@@Sugarland@@@Stuck Like Glue
+23@@@18@@@Travie McCoy Featuring Bruno Mars@@@Billionaire
+24@@@30@@@Neon Trees@@@Animal
+25@@@23@@@Drake@@@Find Your Love
+26@@@29@@@OneRepublic@@@Secrets
+27@@@25@@@Nicki Minaj@@@Your Love
+28@@@26@@@Lil Wayne Featuring Drake@@@Right Above It
+29@@@28@@@Kenny Chesney@@@The Boys of Fall
+30@@@27@@@Usher Featuring Jay-Z@@@Hot Tottie
+31@@@35@@@Adam Lambert@@@If I Had You
+32@@@51@@@Sara Bareilles@@@King Of Anything
+33@@@32@@@Train@@@Hey, Soul Sister
+34@@@44@@@Train@@@If It's Love
+35@@@101@@@Selena Gomez & The Scene@@@A Year Without Rain
+36@@@33@@@Cee Lo Green@@@F**k You (Forget You)
+37@@@40@@@Sean Kingston Featuring Nicki Minaj@@@Letting Go (Dutty Love)
+38@@@31@@@Cali Swag District@@@Teach Me How To Dougie
+39@@@43@@@The Band Perry@@@If I Die Young
+40@@@36@@@John Mayer@@@Half Of My Heart
+41@@@49@@@Jay Sean Featuring Nicki Minaj@@@2012 (It Ain't The End)
+42@@@39@@@Drake Featuring Lil Wayne@@@Miss Me
+43@@@34@@@Paramore@@@The Only Exception
+44@@@37@@@Uncle Kracker@@@Smile
+45@@@101@@@Waka Flocka Flame Featuring Roscoe Dash & Wale@@@No Hands
+46@@@38@@@Lady Antebellum@@@Need You Now
+47@@@41@@@Billy Currington@@@Pretty Good At Drinkin' Beer
+48@@@42@@@Taio Cruz Featuring Ludacris@@@Break Your Heart
+49@@@57@@@Drake Featuring T.I. & Swizz Beatz@@@Fancy
+50@@@47@@@The Script@@@Breakeven
+51@@@52@@@Lady Antebellum@@@Our Kind Of Love
+52@@@54@@@T.I. Featuring Keri Hilson@@@Got Your Back
+53@@@58@@@Darius Rucker@@@Come Back Song
+54@@@48@@@Lee Brice@@@Love Like Crazy
+55@@@101@@@Michael Buble@@@Hollywood
+56@@@56@@@Soulja Boy Tell'em@@@Pretty Boy Swag
+57@@@66@@@Daughtry@@@September
+58@@@60@@@Monica@@@Love All Over Me
+59@@@55@@@Auburn Featuring Iyaz@@@La La La
+60@@@64@@@Little Big Town@@@Little White Church
+61@@@61@@@Blake Shelton@@@All About Tonight
+62@@@63@@@Rick Ross Featuring Styles P@@@B.M.F. (Blowin' Money Fast)
+63@@@72@@@Rodney Atkins@@@Farmer's Daughter
+64@@@65@@@Jason Aldean@@@My Kinda Party
+65@@@70@@@Easton Corbin@@@Roll With It
+66@@@71@@@Josh Turner@@@All Over Me
+67@@@59@@@Carrie Underwood@@@Undo It
+68@@@67@@@Zac Brown Band@@@Free
+69@@@62@@@Kid Cudi Featuring Kanye West@@@Erase Me
+70@@@79@@@Kanye West@@@POWER
+71@@@85@@@The Ready Set@@@Love Like Woe
+72@@@78@@@Zac Brown Band Featuring Alan Jackson@@@As She's Walking Away
+73@@@75@@@Linkin Park@@@The Catalyst
+74@@@68@@@New Boyz Featuring Iyaz@@@Break My Bank
+75@@@101@@@Rihanna@@@Only Girl (In The World)
+76@@@88@@@Jazmine Sullivan@@@Holding You Down (Goin In Circles)
+77@@@82@@@Selena Gomez & The Scene@@@Round & Round
+78@@@101@@@will.i.am & Nicki Minaj@@@Check It Out
+79@@@89@@@Mumford & Sons@@@Little Lion Man
+80@@@74@@@Rascal Flatts@@@Why Wait
+81@@@73@@@Jerrod Niemann@@@Lover, Lover
+82@@@80@@@Shakira Featuring Freshlyground@@@Waka Waka (This Time For Africa)
+83@@@87@@@YG@@@Toot It And Boot It
+84@@@101@@@Sean Kingston@@@Dumb Love
+85@@@81@@@Fantasia@@@Bittersweet
+86@@@77@@@Pink@@@Glitter In The Air
+87@@@69@@@Keith Urban@@@I'm In
+88@@@76@@@David Guetta & Chris Willis Featuring Fergie & LMFAO@@@Gettin' Over You
+89@@@101@@@Rihanna Featuring Slash@@@Rockstar 101
+90@@@83@@@Craig Morgan@@@This Ain't Nothin'
+91@@@95@@@George Strait@@@The Breath You Take
+92@@@101@@@Nick Jonas@@@Introducing Me
+93@@@101@@@Florence + The Machine@@@Dog Days Are Over
+94@@@100@@@Brad Paisley@@@Anything Like Me
+95@@@91@@@The Script@@@The Man Who Can't Be Moved
+96@@@96@@@Miranda Lambert@@@Only Prettier
+97@@@98@@@Josh Thompson@@@Way Out Here
+98@@@97@@@Toby Keith@@@Trailerhood
+99@@@101@@@Plain White T's@@@Rhythm of Love
+100@@@90@@@Ne-Yo@@@Champagne Life

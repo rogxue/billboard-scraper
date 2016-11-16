@@ -1,0 +1,100 @@
+1@@@3@@@Glen Campbell@@@Rhinestone Cowboy
+2@@@2@@@Hamilton, Joe Frank & Reynolds@@@Fallin' In Love
+3@@@1@@@KC And The Sunshine Band@@@Get Down Tonight
+4@@@7@@@Janis Ian@@@At Seventeen
+5@@@5@@@James Taylor@@@How Sweet It Is (To Be Loved By You)
+6@@@6@@@Bee Gees@@@Jive Talkin'
+7@@@11@@@David Bowie@@@Fame
+8@@@10@@@The Isley Brothers@@@Fight The Power Part 1
+9@@@12@@@Barry Manilow@@@Could It Be Magic
+10@@@4@@@Eagles@@@One Of These Nights
+11@@@13@@@Freddy Fender@@@Wasted Days And Wasted Nights
+12@@@14@@@Bad Company@@@Feel Like Makin' Love
+13@@@15@@@Earth, Wind & Fire@@@That's The Way Of The World
+14@@@16@@@Sweet@@@Ballroom Blitz
+15@@@20@@@John Denver@@@I'm Sorry
+16@@@18@@@Amazing Rhythm Aces@@@Third Rate Romance
+17@@@17@@@Ambrosia@@@Holdin' On To Yesterday
+18@@@8@@@Elton John@@@Someone Saved My Life Tonight
+19@@@23@@@David Geddes@@@Run Joey Run
+20@@@21@@@ZZ Top@@@Tush
+21@@@26@@@Carpenters@@@Solitaire
+22@@@24@@@Johnny Wakelin & The Kinshasa Band@@@Black Superman - Muhammad Ali
+23@@@25@@@Paul Anka/Odia Coates@@@(I Believe) There's Nothing Stronger Than Our Love
+24@@@27@@@America@@@Daisy Jane
+25@@@28@@@Orleans@@@Dance With Me
+26@@@29@@@Morris Albert@@@Feelings
+27@@@30@@@The Osmonds@@@The Proud One
+28@@@34@@@Helen Reddy@@@Ain't No Way To Treat A Lady
+29@@@32@@@The Pointer Sisters@@@How Long (Betcha' Got A Chick On The Side)
+30@@@9@@@War@@@Why Can't We Be Friends?
+31@@@35@@@Tavares@@@It Only Takes A Minute
+32@@@19@@@Captain & Tennille@@@Love Will Keep Us Together
+33@@@38@@@Austin Roberts@@@Rocky
+34@@@39@@@The Spinners@@@They Just Can't Stop It the (Games People Play)
+35@@@42@@@Paul Simon/Phoebe Snow@@@Gone At Last
+36@@@22@@@Johnny Rivers@@@Help Me Rhonda
+37@@@31@@@Olivia Newton-John@@@Please Mr. Please
+38@@@45@@@The Ritchie Family@@@Brazil
+39@@@33@@@Cat Stevens@@@Two Fine People
+40@@@50@@@B.T. Express@@@Give It What You Got/Peace Pipe
+41@@@52@@@Leon Russell@@@Lady Blue
+42@@@37@@@The Temptations@@@Glasshouse
+43@@@53@@@Peoples Choice@@@Do It Any Way You Wanna
+44@@@65@@@John Williams/Jaws Soundtrack@@@Main Title (Theme From Jaws)
+45@@@55@@@Michael Murphey@@@Carolina In The Pines
+46@@@56@@@Graham Central Station@@@Your Love
+47@@@49@@@Frank Sinatra@@@I Believe I'm Gonna Love You
+48@@@48@@@Merry Clayton@@@Keep Your Eye On The Sparrow
+49@@@101@@@Dickie Goodman@@@Mr. Jaws
+50@@@61@@@Jefferson Starship@@@Miracles
+51@@@43@@@10cc@@@I'm Not In Love
+52@@@59@@@Gary Toms Empire@@@7-6-5-4-3-2-1 (Blow Your Whistle)
+53@@@63@@@Esther Phillips@@@What A Diff'rence A Day Makes
+54@@@64@@@Captain & Tennille@@@Por Amor Viviremos
+55@@@66@@@Art Garfunkel@@@I Only Have Eyes For You
+56@@@62@@@Evie Sands@@@I Love Makin' Love To You
+57@@@40@@@The Doobie Brothers@@@Sweet Maxine
+58@@@68@@@Jim Stafford@@@I Got Stoned And I Missed It
+59@@@36@@@New Birth@@@Dream Merchant
+60@@@70@@@Tony Orlando & Dawn@@@You're All I Need To Get By
+61@@@71@@@AWB@@@If I Ever Lose This Heaven
+62@@@73@@@Bob Seger@@@Katmandu
+63@@@46@@@The Hudson Brothers@@@Rendezvous
+64@@@75@@@Faith, Hope And Charity@@@To Each His Own
+65@@@54@@@Sharon Paige and Harold Melvin And The Blue Notes@@@Hope That We Can Be Together Soon
+66@@@78@@@The Four Seasons@@@Who Loves You
+67@@@67@@@Alice Cooper@@@Department Of Youth
+68@@@79@@@Fox@@@Only You Can
+69@@@80@@@Emmylou Harris@@@If I Could Only Win Your Love
+70@@@81@@@Gladys Knight And The Pips@@@Money
+71@@@101@@@John Fogerty@@@Rockin' All Over The World
+72@@@83@@@Natalie Cole@@@This Will Be
+73@@@101@@@Linda Ronstadt@@@Love Is A Rose
+74@@@74@@@Fantastic Four@@@Alvin Stone (The Birth & Death Of A Gangster)
+75@@@77@@@Crown Heights Affair@@@Dreaming A Dream
+76@@@86@@@Willie Nelson@@@Blue Eyes Crying In The Rain
+77@@@88@@@Jigsaw@@@Sky High
+78@@@82@@@The Grass Roots@@@Mamacita
+79@@@101@@@The Outlaws@@@There Goes Another Love Song
+80@@@90@@@Disco Tex & The Sex-O-Lettes@@@Jam Band
+81@@@85@@@The Rolling Stones@@@Out Of Time
+82@@@101@@@Chicago@@@Brand New Love Affair (Part I & II)
+83@@@101@@@Sly Stone@@@I Get High On You
+84@@@84@@@Loggins & Messina@@@I Like It Like That
+85@@@101@@@Jessi Colter@@@You Ain't Never Been Loved (Like I'm Gonna Love You)
+86@@@101@@@Smokey Robinson@@@The Agony And The Ecstasy
+87@@@98@@@The Eleventh Hour@@@Hollywood Hot
+88@@@101@@@The Sunshine Band@@@Shotgun Shuffle
+89@@@89@@@The Nitty Gritty Dirt Band@@@(All I Have To Do Is) Dream
+90@@@101@@@Leon Haywood@@@I Want'a Do Something Freaky To You
+91@@@96@@@Pete Wingfield@@@Eighteen With A Bullet
+92@@@95@@@Joe Simon@@@Music In My Bones
+93@@@87@@@Batdorf & Rodney@@@You Are A Song
+94@@@100@@@The Choice Four@@@When You're Young And In Love
+95@@@97@@@Dr. Hook@@@The Millionaire
+96@@@72@@@East L.A. Car Pool@@@Like They Say In L.A.
+97@@@101@@@Ralph Carter@@@When You're Young And In Love
+98@@@101@@@Rusty Wier@@@Don't It Make You Wanna Dance?
+99@@@101@@@ABBA@@@S.O.S.
+100@@@101@@@Pat Lundi@@@Party Music

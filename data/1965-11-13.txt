@@ -1,0 +1,100 @@
+1@@@1@@@The Rolling Stones@@@Get Off Of My Cloud
+2@@@2@@@The Toys@@@A Lover's Concerto
+3@@@8@@@Len Barry@@@1-2-3
+4@@@6@@@The Vogues@@@You're The One
+5@@@12@@@The Supremes@@@I Hear A Symphony
+6@@@9@@@Fontella Bass@@@Rescue Me
+7@@@4@@@Gary Lewis And The Playboys@@@Everybody Loves A Clown
+8@@@13@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Let's Hang On!
+9@@@10@@@Herb Alpert & The Tijuana Brass@@@Taste Of Honey
+10@@@15@@@Marvin Gaye@@@Ain't That Peculiar
+11@@@3@@@The Beatles@@@Yesterday
+12@@@31@@@The Byrds@@@Turn! Turn! Turn! (To Everything There Is A Season)
+13@@@7@@@Bob Dylan@@@Positively 4th Street
+14@@@14@@@Billy Joe Royal@@@I Knew You When
+15@@@16@@@Sonny & Cher@@@But You're Mine
+16@@@21@@@The Newbeats@@@Run, Baby Run (Back Into My Arms)
+17@@@17@@@Jonathan King@@@Everyone's Gone To The Moon
+18@@@5@@@The Gentrys@@@Keep On Dancing
+19@@@11@@@Barbara Lewis@@@Make Me Your Baby
+20@@@39@@@The Silkie@@@You've Got To Hide Your Love Away
+21@@@24@@@Petula Clark@@@Round Every Corner
+22@@@25@@@Patty Duke@@@Say Something Funny
+23@@@36@@@The Temptations@@@My Baby
+24@@@23@@@Joe Tex@@@I Want To (Do Everything For You)
+25@@@32@@@Cher@@@Where Do You Go
+26@@@30@@@Johnny Rivers@@@Where Have All The Flowers Gone
+27@@@38@@@The Miracles@@@My Girl Has Gone
+28@@@22@@@Herman's Hermits@@@Just A Little Bit Better
+29@@@43@@@Little Jimmy Dickens@@@May The Bird Of Paradise Fly Up Your Nose
+30@@@18@@@Roy Head And The Traits@@@Treat Her Right
+31@@@20@@@The McCoys@@@Hang On Sloopy
+32@@@37@@@The Bachelors@@@Chapel In The Moonlight
+33@@@44@@@Jan & Dean@@@I Found A Girl
+34@@@45@@@Sam The Sham and the Pharaohs@@@Ring Dang Doo
+35@@@48@@@The Walker Bros.@@@Make It Easy On Yourself
+36@@@42@@@Brenda Lee@@@Rusty Bells
+37@@@19@@@The Castaways@@@Liar, Liar
+38@@@49@@@Eddy Arnold@@@Make The World Go Away
+39@@@58@@@Dean Martin@@@I Will
+40@@@26@@@Dino, Desi & Billy@@@Not The Lovin' Kind
+41@@@35@@@Otis Redding@@@Respect
+42@@@29@@@Ramsey Lewis Trio@@@The In Crowd
+43@@@34@@@Little Anthony And The Imperials@@@I Miss You So
+44@@@61@@@The Turtles@@@Let Me Be
+45@@@62@@@The Yardbirds@@@I'm A Man
+46@@@56@@@Jr. Walker & The All Stars@@@Cleo's Back
+47@@@51@@@The Gants@@@Road Runner
+48@@@28@@@The Lovin' Spoonful@@@Do You Believe In Magic
+49@@@66@@@Mel Carter@@@(All Of A Sudden) My Heart Sings
+50@@@53@@@Kim Weston@@@Take Me In Your Arms (Rock Me A Little While)
+51@@@88@@@The Shangri-Las@@@I Can Never Go Home Anymore
+52@@@27@@@San Remo Golden Strings@@@Hungry For Love
+53@@@74@@@Ronnie Dove@@@Kiss Away
+54@@@59@@@Barbra Streisand@@@He Touched Me
+55@@@65@@@The Beau Brummels@@@Don't Talk To Strangers
+56@@@67@@@Roy Head@@@Just A Little Bit
+57@@@81@@@Roger Miller@@@England Swings
+58@@@101@@@Four Tops@@@Something About You
+59@@@72@@@Them@@@Mystic Eyes
+60@@@60@@@Bobby Goldsboro@@@If You've Got A Heart
+61@@@63@@@Al Martino@@@Forgive Me
+62@@@70@@@Trini Lopez@@@Sinner Man
+63@@@101@@@The Dave Clark Five@@@Over And Over
+64@@@80@@@The Fortunes@@@Here It Comes Again
+65@@@68@@@Dionne Warwick@@@Looking With My Eyes
+66@@@75@@@The Vibrations@@@Misty
+67@@@46@@@Paul Revere & The Raiders@@@Steppin' Out
+68@@@101@@@James Brown And The Famous Flames@@@I Got You (I Feel Good)
+69@@@90@@@The Wonder Who?@@@Don't Think Twice
+70@@@89@@@Roy Orbison@@@Crawling Back
+71@@@77@@@The Viscounts@@@Harlem Nocturne
+72@@@101@@@The McCoys@@@Fever
+73@@@78@@@Danny Hutton@@@Roses And Rainbows
+74@@@76@@@The Ikettes@@@I'm So Thankful
+75@@@92@@@Barry Young@@@One Has My Name (The Other Has My Heart)
+76@@@79@@@The Mojo Men@@@Dance With Me
+77@@@82@@@Barry McGuire@@@Child Of Our Times
+78@@@87@@@The Animals@@@It's My Life
+79@@@83@@@Sonny & Cher@@@The Letter
+80@@@101@@@Elvis Presley With The Jordanaires@@@Puppet On A String
+81@@@101@@@Lou Johnson@@@A Time To Love-A Time To Cry (Petite Fleur)
+82@@@101@@@The Packers@@@Hole In The Wall
+83@@@101@@@Brook Benton@@@Mother Nature, Father Time
+84@@@85@@@The Vejtables@@@I Still Love You
+85@@@101@@@Roy Orbison@@@Let The Good Times Roll
+86@@@98@@@Peter And Gordon@@@Don't Pity Me
+87@@@95@@@The Royalettes@@@I Want To Meet Him
+88@@@94@@@Lonnie Mack@@@Honky Tonk '65
+89@@@96@@@Dee Dee Sharp@@@I Really Love You
+90@@@101@@@We Five@@@Let's Get Together
+91@@@97@@@Wilson Pickett@@@Don't Fight It
+92@@@101@@@Don Covay & The Goodtimers@@@Seesaw
+93@@@101@@@The Changin' Times@@@Pied Piper
+94@@@100@@@The Brothers Four@@@Try To Remember
+95@@@99@@@Barbara Mason@@@If You Don't (Love Me, Tell Me So)
+96@@@101@@@The Statler Brothers@@@Flowers On The Wall
+97@@@101@@@Earl Grant@@@Stand By Me
+98@@@101@@@Johnny Nash@@@Let's Move & Groove (Together)
+99@@@101@@@Buck Owens and The Buckaroos@@@Buckaroo
+100@@@101@@@Tony Bennett@@@Love Theme From The Sandpiper (The Shadow Of Your Smile)

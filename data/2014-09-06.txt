@@ -1,0 +1,100 @@
+1@@@101@@@Taylor Swift@@@Shake It Off
+2@@@39@@@Nicki Minaj@@@Anaconda
+3@@@2@@@Meghan Trainor@@@All About That Bass
+4@@@3@@@Sam Smith@@@Stay With Me
+5@@@1@@@MAGIC!@@@Rude
+6@@@8@@@Iggy Azalea Featuring Rita Ora@@@Black Widow
+7@@@4@@@Ariana Grande Featuring Zedd@@@Break Free
+8@@@9@@@Sia@@@Chandelier
+9@@@10@@@Jessie J, Ariana Grande & Nicki Minaj@@@Bang Bang
+10@@@6@@@Nico & Vinz@@@Am I Wrong
+11@@@5@@@Iggy Azalea Featuring Charli XCX@@@Fancy
+12@@@11@@@Charli XCX@@@Boom Clap
+13@@@7@@@Ariana Grande Featuring Iggy Azalea@@@Problem
+14@@@12@@@Maroon 5@@@Maps
+15@@@14@@@Clean Bandit Featuring Jess Glynne@@@Rather Be
+16@@@15@@@Enrique Iglesias Featuring Descemer Bueno & Gente de Zona@@@Bailando
+17@@@13@@@Disclosure Featuring Sam Smith@@@Latch
+18@@@18@@@Jeremih Featuring YG@@@Don't Tell 'Em
+19@@@17@@@Becky G@@@Shower
+20@@@16@@@John Legend@@@All Of Me
+21@@@19@@@Pharrell Williams@@@Happy
+22@@@20@@@Jason Aldean@@@Burnin' It Down
+23@@@30@@@Tove Lo@@@Habits (Stay High)
+24@@@24@@@Florida Georgia Line@@@Dirt
+25@@@31@@@Echosmith@@@Cool Kids
+26@@@26@@@Demi Lovato Featuring Cher Lloyd@@@Really Don't Care
+27@@@25@@@Kenny Chesney@@@American Kids
+28@@@21@@@Calvin Harris@@@Summer
+29@@@27@@@Tinashe Featuring ScHoolboy Q@@@2 On
+30@@@23@@@Katy Perry Featuring Juicy J@@@Dark Horse
+31@@@22@@@OneRepublic@@@Love Runs Out
+32@@@34@@@Coldplay@@@A Sky Full Of Stars
+33@@@28@@@Dierks Bentley@@@Drunk On A Plane
+34@@@32@@@Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga@@@Loyal
+35@@@33@@@Lady Antebellum@@@Bartender
+36@@@57@@@Katy Perry@@@This Is How We Do
+37@@@38@@@Chris Brown Featuring Usher & Rick Ross@@@New Flame
+38@@@44@@@Rich Gang Featuring Young Thug & Rich Homie Quan@@@Lifestyle
+39@@@42@@@T.I. Featuring Iggy Azalea@@@No Mediocre
+40@@@29@@@Jason Derulo Featuring Snoop Dogg@@@Wiggle
+41@@@37@@@OneRepublic@@@Counting Stars
+42@@@35@@@DJ Snake & Lil Jon@@@Turn Down For What
+43@@@52@@@Bobby Shmurda@@@Hot Boy
+44@@@36@@@KONGOS@@@Come With Me Now
+45@@@40@@@ScHoolboy Q Featuring BJ The Chicago Kid@@@Studio
+46@@@54@@@5 Seconds Of Summer@@@Amnesia
+47@@@51@@@Ed Sheeran@@@Don't
+48@@@48@@@Sam Hunt@@@Leave The Night On
+49@@@58@@@Wiz Khalifa@@@We Dem Boyz
+50@@@61@@@Nicki Minaj@@@Pills N Potions
+51@@@47@@@Tim McGraw Featuring Faith Hill@@@Meanwhile Back At Mama's
+52@@@59@@@Ingrid Michaelson@@@Girls Chase Boys
+53@@@53@@@Drake@@@0 To 100 / The Catch Up
+54@@@60@@@Luke Bryan@@@Roller Coaster
+55@@@63@@@Dustin Lynch@@@Where It's At (Yep, Yep)
+56@@@41@@@Lee Brice@@@I Don't Dance
+57@@@45@@@Lil Wayne Featuring Drake@@@Believe Me
+58@@@56@@@Miranda Lambert Duet With Carrie Underwood@@@Somethin' Bad
+59@@@55@@@Cole Swindell@@@Hope You Get Lonely Tonight
+60@@@65@@@Kiesza@@@Hideaway
+61@@@64@@@Vance Joy@@@Riptide
+62@@@68@@@Rae Sremmurd@@@No Flex Zone
+63@@@66@@@Chase Rice@@@Ready Set Roll
+64@@@72@@@Fifth Harmony@@@Bo$$
+65@@@62@@@Brad Paisley@@@River Bank
+66@@@71@@@Milky Chance@@@Stolen Dance
+67@@@70@@@Brantley Gilbert Featuring Justin Moore & Thomas Rhett@@@Small Town Throwdown
+68@@@88@@@Pitbull Featuring John Ryan@@@Fireball
+69@@@76@@@Migos@@@Fight Night
+70@@@69@@@Joe Nichols@@@Yeah
+71@@@67@@@Kid Ink Featuring Chris Brown@@@Main Chick
+72@@@80@@@Frankie Ballard@@@Sunshine & Whiskey
+73@@@77@@@Iggy Azalea@@@Work
+74@@@78@@@Maddie & Tae@@@Girl In A Country Song
+75@@@79@@@Childish Gambino@@@V. 3005
+76@@@73@@@Michael Jackson & Justin Timberlake@@@Love Never Felt So Good
+77@@@83@@@Rita Ora@@@I Will Never Let You Down
+78@@@81@@@Ed Sheeran@@@Sing
+79@@@91@@@T.I. Featuring Young Thug@@@About The Money
+80@@@85@@@Jason Derulo@@@Trumpets
+81@@@101@@@Blake Shelton@@@Neon Light
+82@@@89@@@Little Big Town@@@Day Drinking
+83@@@87@@@KCamp Featuring 2 Chainz@@@Cut Her Off
+84@@@75@@@Billy Currington@@@We Are Tonight
+85@@@94@@@Tyga Featuring Young Thug@@@Hookah
+86@@@101@@@Maroon 5@@@Animals
+87@@@96@@@Hozier@@@Take Me To Church
+88@@@101@@@Mr. Probz@@@Waves
+89@@@93@@@Eric Church@@@Cold One
+90@@@97@@@Eli Young Band@@@Dust
+91@@@95@@@Usher@@@Good Kisser
+92@@@84@@@Juicy J, Wiz Khalifa & Ty Dolla $ign Featuring Kill The Noise & Madsonik@@@Shell Shocked
+93@@@82@@@Pharrell Williams@@@Come Get It Bae
+94@@@90@@@Tiesto Featuring Matthew Koma@@@Wasted
+95@@@92@@@Chris Young@@@Who I Am With You
+96@@@101@@@Steve Aoki, Chris Lake & Tujamo Featuring Kid Ink@@@Delirious (Boneless)
+97@@@100@@@The Swon Brothers@@@Later On
+98@@@98@@@Trey Songz@@@Foreign
+99@@@101@@@Rich Homie Quan Featuring Problem@@@Walk Thru
+100@@@101@@@Shakira@@@Dare (La La La)

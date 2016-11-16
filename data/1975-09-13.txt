@@ -1,0 +1,100 @@
+1@@@1@@@Glen Campbell@@@Rhinestone Cowboy
+2@@@2@@@Hamilton, Joe Frank & Reynolds@@@Fallin' In Love
+3@@@4@@@Janis Ian@@@At Seventeen
+4@@@3@@@KC And The Sunshine Band@@@Get Down Tonight
+5@@@7@@@David Bowie@@@Fame
+6@@@8@@@The Isley Brothers@@@Fight The Power Part 1
+7@@@9@@@Barry Manilow@@@Could It Be Magic
+8@@@15@@@John Denver@@@I'm Sorry
+9@@@19@@@David Geddes@@@Run Joey Run
+10@@@11@@@Freddy Fender@@@Wasted Days And Wasted Nights
+11@@@12@@@Bad Company@@@Feel Like Makin' Love
+12@@@14@@@Sweet@@@Ballroom Blitz
+13@@@13@@@Earth, Wind & Fire@@@That's The Way Of The World
+14@@@16@@@Amazing Rhythm Aces@@@Third Rate Romance
+15@@@6@@@Bee Gees@@@Jive Talkin'
+16@@@5@@@James Taylor@@@How Sweet It Is (To Be Loved By You)
+17@@@28@@@Helen Reddy@@@Ain't No Way To Treat A Lady
+18@@@21@@@Carpenters@@@Solitaire
+19@@@25@@@Orleans@@@Dance With Me
+20@@@23@@@Paul Anka/Odia Coates@@@(I Believe) There's Nothing Stronger Than Our Love
+21@@@22@@@Johnny Wakelin & The Kinshasa Band@@@Black Superman - Muhammad Ali
+22@@@26@@@Morris Albert@@@Feelings
+23@@@24@@@America@@@Daisy Jane
+24@@@27@@@The Osmonds@@@The Proud One
+25@@@34@@@The Spinners@@@They Just Can't Stop It the (Games People Play)
+26@@@29@@@The Pointer Sisters@@@How Long (Betcha' Got A Chick On The Side)
+27@@@31@@@Tavares@@@It Only Takes A Minute
+28@@@33@@@Austin Roberts@@@Rocky
+29@@@10@@@Eagles@@@One Of These Nights
+30@@@35@@@Paul Simon/Phoebe Snow@@@Gone At Last
+31@@@49@@@Dickie Goodman@@@Mr. Jaws
+32@@@38@@@The Ritchie Family@@@Brazil
+33@@@18@@@Elton John@@@Someone Saved My Life Tonight
+34@@@50@@@Jefferson Starship@@@Miracles
+35@@@41@@@Leon Russell@@@Lady Blue
+36@@@45@@@Michael Murphey@@@Carolina In The Pines
+37@@@44@@@John Williams/Jaws Soundtrack@@@Main Title (Theme From Jaws)
+38@@@43@@@Peoples Choice@@@Do It Any Way You Wanna
+39@@@46@@@Graham Central Station@@@Your Love
+40@@@40@@@B.T. Express@@@Give It What You Got/Peace Pipe
+41@@@17@@@Ambrosia@@@Holdin' On To Yesterday
+42@@@20@@@ZZ Top@@@Tush
+43@@@53@@@Esther Phillips@@@What A Diff'rence A Day Makes
+44@@@60@@@Tony Orlando & Dawn@@@You're All I Need To Get By
+45@@@55@@@Art Garfunkel@@@I Only Have Eyes For You
+46@@@48@@@Merry Clayton@@@Keep Your Eye On The Sparrow
+47@@@52@@@Gary Toms Empire@@@7-6-5-4-3-2-1 (Blow Your Whistle)
+48@@@58@@@Jim Stafford@@@I Got Stoned And I Missed It
+49@@@54@@@Captain & Tennille@@@Por Amor Viviremos
+50@@@61@@@AWB@@@If I Ever Lose This Heaven
+51@@@62@@@Bob Seger@@@Katmandu
+52@@@56@@@Evie Sands@@@I Love Makin' Love To You
+53@@@64@@@Faith, Hope And Charity@@@To Each His Own
+54@@@66@@@The Four Seasons@@@Who Loves You
+55@@@32@@@Captain & Tennille@@@Love Will Keep Us Together
+56@@@36@@@Johnny Rivers@@@Help Me Rhonda
+57@@@68@@@Fox@@@Only You Can
+58@@@69@@@Emmylou Harris@@@If I Could Only Win Your Love
+59@@@37@@@Olivia Newton-John@@@Please Mr. Please
+60@@@70@@@Gladys Knight And The Pips@@@Money
+61@@@71@@@John Fogerty@@@Rockin' All Over The World
+62@@@72@@@Natalie Cole@@@This Will Be
+63@@@73@@@Linda Ronstadt@@@Love Is A Rose
+64@@@75@@@Crown Heights Affair@@@Dreaming A Dream
+65@@@76@@@Willie Nelson@@@Blue Eyes Crying In The Rain
+66@@@101@@@Neil Sedaka@@@Bad Blood
+67@@@77@@@Jigsaw@@@Sky High
+68@@@79@@@The Outlaws@@@There Goes Another Love Song
+69@@@39@@@Cat Stevens@@@Two Fine People
+70@@@42@@@The Temptations@@@Glasshouse
+71@@@82@@@Chicago@@@Brand New Love Affair (Part I & II)
+72@@@83@@@Sly Stone@@@I Get High On You
+73@@@47@@@Frank Sinatra@@@I Believe I'm Gonna Love You
+74@@@57@@@The Doobie Brothers@@@Sweet Maxine
+75@@@85@@@Jessi Colter@@@You Ain't Never Been Loved (Like I'm Gonna Love You)
+76@@@86@@@Smokey Robinson@@@The Agony And The Ecstasy
+77@@@89@@@The Nitty Gritty Dirt Band@@@(All I Have To Do Is) Dream
+78@@@78@@@The Grass Roots@@@Mamacita
+79@@@101@@@Eagles@@@Lyin' Eyes
+80@@@80@@@Disco Tex & The Sex-O-Lettes@@@Jam Band
+81@@@91@@@Pete Wingfield@@@Eighteen With A Bullet
+82@@@87@@@The Eleventh Hour@@@Hollywood Hot
+83@@@90@@@Leon Haywood@@@I Want'a Do Something Freaky To You
+84@@@59@@@New Birth@@@Dream Merchant
+85@@@30@@@War@@@Why Can't We Be Friends?
+86@@@101@@@Arthur Alexander@@@Every Day I Have To Cry Some
+87@@@98@@@Rusty Wier@@@Don't It Make You Wanna Dance?
+88@@@88@@@The Sunshine Band@@@Shotgun Shuffle
+89@@@99@@@ABBA@@@S.O.S.
+90@@@101@@@The Salsoul Orchestra@@@Salsoul Hustle
+91@@@94@@@The Choice Four@@@When You're Young And In Love
+92@@@92@@@Joe Simon@@@Music In My Bones
+93@@@93@@@Batdorf & Rodney@@@You Are A Song
+94@@@74@@@Fantastic Four@@@Alvin Stone (The Birth & Death Of A Gangster)
+95@@@95@@@Dr. Hook@@@The Millionaire
+96@@@101@@@Smokey@@@If You Think You Know How To Love Me
+97@@@97@@@Ralph Carter@@@When You're Young And In Love
+98@@@100@@@Pat Lundi@@@Party Music
+99@@@101@@@Ray Charles@@@Living For The City
+100@@@101@@@Hamilton Bohannon@@@Foot Stompin Music

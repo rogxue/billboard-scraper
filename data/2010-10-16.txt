@@ -1,0 +1,100 @@
+1@@@1@@@Bruno Mars@@@Just The Way You Are
+2@@@6@@@Far*East Movement Featuring Cataracs & Dev@@@Like A G6
+3@@@2@@@Katy Perry@@@Teenage Dream
+4@@@7@@@Nelly@@@Just A Dream
+5@@@4@@@Usher Featuring Pitbull@@@DJ Got Us Fallin' In Love
+6@@@5@@@Taio Cruz@@@Dynamite
+7@@@3@@@Eminem Featuring Rihanna@@@Love The Way You Lie
+8@@@8@@@Rihanna@@@Only Girl (In The World)
+9@@@9@@@Enrique Iglesias Featuring Pitbull@@@I Like It
+10@@@10@@@Flo Rida Featuring David Guetta@@@Club Can't Handle Me
+11@@@13@@@Trey Songz Featuring Nicki Minaj@@@Bottoms Up
+12@@@11@@@Taylor Swift@@@Mine
+13@@@12@@@Ke$ha@@@Take It Off
+14@@@15@@@Chris Brown Featuring Tyga & Kevin McCall@@@Deuces
+15@@@22@@@Neon Trees@@@Animal
+16@@@101@@@Glee Cast@@@Toxic
+17@@@101@@@Lil Wayne Featuring Drake@@@Gonorrhea
+18@@@14@@@Maroon 5@@@Misery
+19@@@16@@@Mike Posner@@@Cooler Than Me
+20@@@17@@@Katy Perry Featuring Snoop Dogg@@@California Gurls
+21@@@27@@@Cee Lo Green@@@F**k You (Forget You)
+22@@@18@@@B.o.B Featuring Hayley Williams@@@Airplanes
+23@@@20@@@B.o.B Featuring Rivers Cuomo@@@Magic
+24@@@19@@@Eminem@@@Not Afraid
+25@@@57@@@Paramore@@@The Only Exception
+26@@@101@@@Glee Cast@@@The Only Exception
+27@@@24@@@OneRepublic@@@Secrets
+28@@@25@@@Usher Featuring Jay-Z@@@Hot Tottie
+29@@@29@@@Sugarland@@@Stuck Like Glue
+30@@@35@@@Kenny Chesney@@@The Boys of Fall
+31@@@31@@@Adam Lambert@@@If I Had You
+32@@@32@@@Drake Featuring T.I. & Swizz Beatz@@@Fancy
+33@@@36@@@Jay Sean Featuring Nicki Minaj@@@2012 (It Ain't The End)
+34@@@33@@@Usher Featuring will.i.am@@@OMG
+35@@@41@@@Sara Bareilles@@@King Of Anything
+36@@@34@@@Jason Derulo@@@Ridin' Solo
+37@@@40@@@Daughtry@@@September
+38@@@56@@@The Ready Set@@@Love Like Woe
+39@@@30@@@Lil Wayne Featuring Drake@@@Right Above It
+40@@@39@@@Sean Kingston Featuring Nicki Minaj@@@Letting Go (Dutty Love)
+41@@@26@@@Travie McCoy Featuring Bruno Mars@@@Billionaire
+42@@@101@@@Lil Wayne Featuring Nicki Minaj@@@What's Wrong With Them
+43@@@44@@@Waka Flocka Flame Featuring Roscoe Dash & Wale@@@No Hands
+44@@@43@@@Train@@@Hey, Soul Sister
+45@@@37@@@The Band Perry@@@If I Die Young
+46@@@48@@@Zac Brown Band Featuring Alan Jackson@@@As She's Walking Away
+47@@@45@@@Train@@@If It's Love
+48@@@46@@@Lady Antebellum@@@Need You Now
+49@@@52@@@Darius Rucker@@@Come Back Song
+50@@@42@@@will.i.am & Nicki Minaj@@@Check It Out
+51@@@101@@@Pitbull Featuring T-Pain@@@Hey Baby (Drop It To The Floor)
+52@@@101@@@Glee Cast@@@I'm A Slave 4 U
+53@@@101@@@Glee Cast@@@Stronger
+54@@@101@@@Glee Cast@@@Baby One More Time
+55@@@49@@@Cali Swag District@@@Teach Me How To Dougie
+56@@@101@@@Glee Cast@@@Me Against The Music
+57@@@60@@@Rodney Atkins@@@Farmer's Daughter
+58@@@58@@@Easton Corbin@@@Roll With It
+59@@@68@@@Jason Aldean@@@My Kinda Party
+60@@@63@@@Josh Turner@@@All Over Me
+61@@@55@@@Nicki Minaj@@@Your Love
+62@@@54@@@Drake Featuring Lil Wayne@@@Miss Me
+63@@@78@@@Yolanda Be Cool & Dcup@@@We No Speak Americano
+64@@@71@@@Jazmine Sullivan@@@Holding You Down (Goin In Circles)
+65@@@101@@@Lil Wayne@@@I Am Not A Human Being
+66@@@77@@@Trey Songz@@@Can't Be Friends
+67@@@76@@@Mumford & Sons@@@Little Lion Man
+68@@@64@@@Monica@@@Love All Over Me
+69@@@94@@@Mike Posner@@@Please Don't Go
+70@@@59@@@Lady Antebellum@@@Our Kind Of Love
+71@@@61@@@Billy Currington@@@Pretty Good At Drinkin' Beer
+72@@@75@@@Rascal Flatts@@@Why Wait
+73@@@70@@@Auburn Featuring Iyaz@@@La La La
+74@@@101@@@Nicki Minaj@@@Right Thru Me
+75@@@101@@@Lil Wayne@@@Bill Gates
+76@@@66@@@John Mayer@@@Half Of My Heart
+77@@@101@@@My Chemical Romance@@@Na Na Na (Na Na Na Na Na Na Na Na Na)
+78@@@79@@@Brad Paisley@@@Anything Like Me
+79@@@69@@@Little Big Town@@@Little White Church
+80@@@74@@@YG@@@Toot It And Boot It
+81@@@101@@@Bruno Mars@@@Grenade
+82@@@53@@@Selena Gomez & The Scene@@@A Year Without Rain
+83@@@67@@@T.I. Featuring Keri Hilson@@@Got Your Back
+84@@@85@@@George Strait@@@The Breath You Take
+85@@@80@@@Miguel Featuring J. Cole@@@All I Want Is You
+86@@@72@@@Rick Ross Featuring Styles P@@@B.M.F. (Blowin' Money Fast)
+87@@@101@@@Carrie Underwood@@@Mama's Song
+88@@@101@@@Marsha Ambrosius@@@Hope She Cheats On You (With A Basketball Player)
+89@@@101@@@Eminem Featuring Lil Wayne@@@No Love
+90@@@82@@@Blake Shelton@@@All About Tonight
+91@@@100@@@Kanye West@@@POWER
+92@@@88@@@Shakira Featuring Freshlyground@@@Waka Waka (This Time For Africa)
+93@@@65@@@Linkin Park@@@The Catalyst
+94@@@21@@@Glee Cast@@@Empire State Of Mind
+95@@@96@@@Miranda Lambert@@@Only Prettier
+96@@@89@@@Josh Thompson@@@Way Out Here
+97@@@99@@@Eric Church@@@Smoke A Little Smoke
+98@@@98@@@Reba@@@Turn On The Radio
+99@@@73@@@Florence + The Machine@@@Dog Days Are Over
+100@@@81@@@Soulja Boy Tell'em@@@Pretty Boy Swag

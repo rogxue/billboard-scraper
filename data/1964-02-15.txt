@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@I Want To Hold Your Hand
+2@@@2@@@Lesley Gore@@@You Don't Own Me
+3@@@7@@@The Beatles@@@She Loves You
+4@@@4@@@The Rip Chords@@@Hey Little Cobra
+5@@@5@@@Major Lance@@@Um, Um, Um, Um, Um, Um
+6@@@8@@@Rick Nelson@@@For You
+7@@@3@@@The Marketts@@@Out Of Limits
+8@@@9@@@Dionne Warwick@@@Anyone Who Had A Heart
+9@@@13@@@Al (He's the King) Hirt@@@Java
+10@@@11@@@The Tams@@@What Kind Of Fool (Do You Think I Am)
+11@@@24@@@The Four Seasons@@@Dawn (Go Away)
+12@@@12@@@The Impressions@@@Talking About My Baby
+13@@@16@@@Andy Williams@@@A Fool Never Learns
+14@@@23@@@The Rivieras@@@California Sun
+15@@@6@@@The Trashmen@@@Surfin' Bird
+16@@@26@@@Dale & Grace@@@Stop And Think It Over
+17@@@17@@@Chubby Checker@@@Hooka Tooka
+18@@@10@@@Bobby Vinton@@@There! I've Said It Again
+19@@@15@@@Jimmy Gilmer And The Fireballs@@@Daisy Petal Pickin'
+20@@@29@@@The Dixiebelles@@@Southtown, U.S.A.
+21@@@42@@@Diane Renay@@@Navy Blue
+22@@@45@@@Bobby Goldsboro@@@See The Funny Little Clown
+23@@@14@@@The Kingsmen@@@Louie Louie
+24@@@18@@@Bobby Rydell@@@Forget Him
+25@@@27@@@Cliff Richard@@@It's All In The Game
+26@@@30@@@Dale Ward@@@Letter From Sherry
+27@@@54@@@Dusty Springfield@@@I Only Want To Be With You
+28@@@19@@@The Murmaids@@@Popsicles And Icicles
+29@@@48@@@Sam Cooke@@@Good News
+30@@@38@@@Sammy Davis Jr.@@@The Shelter Of Your Arms
+31@@@33@@@Mary Wells@@@What's Easy For Two Is So Hard For One
+32@@@28@@@The Ronettes@@@Baby, I Love You
+33@@@46@@@Al Martino@@@I Love You More And More Every Day
+34@@@25@@@Brenda Lee@@@As Usual
+35@@@47@@@James Brown And The Famous Flames@@@Oh Baby Don't You Weep (Part 1)
+36@@@50@@@Freddy Cannon@@@Abigail Beecher
+37@@@39@@@Henry Mancini And His Orchestra@@@Charade
+38@@@40@@@Tommy Roe@@@Come On
+39@@@51@@@Brook Benton@@@Going Going Gone
+40@@@21@@@Jan & Dean@@@Drag City
+41@@@49@@@The Angels@@@Wow Wow Wee (He's The Boy For Me)
+42@@@22@@@The Tymes@@@Somewhere
+43@@@34@@@Patti LaBelle And The Blue Belles@@@You'll Never Walk Alone
+44@@@20@@@Nino Tempo & April Stevens@@@Whispering
+45@@@57@@@The Beatles@@@Please Please Me
+46@@@58@@@The Sapphires@@@Who Do You Love
+47@@@63@@@Timmy Shaw@@@Gonna Send You Back To Georgia (A City Slick)
+48@@@52@@@The Drifters@@@Vaya Con Dios
+49@@@31@@@Shirley Ellis@@@The Nitty Gritty
+50@@@53@@@Gloria Lynne@@@I Wish You Love
+51@@@55@@@Gene Pitney@@@That Girl Belongs To Yesterday
+52@@@56@@@Skeeter Davis@@@He Says The Same Things To Me
+53@@@35@@@Steve & Eydie@@@I Can't Stop Talking About You
+54@@@68@@@The Beatles@@@I Saw Her Standing There
+55@@@67@@@The Pyramids@@@Penetration
+56@@@44@@@Bob And Earl@@@Harlem Shuffle
+57@@@78@@@Tommy Tucker@@@Hi-Heel Sneakers
+58@@@81@@@Martha & The Vandellas@@@Live Wire
+59@@@59@@@Santo & Johnny@@@I'll Remember (In The Still Of The Night)
+60@@@64@@@Barbara Lewis@@@Puppy Love
+61@@@95@@@The Trashmen@@@Bird Dance Beat
+62@@@79@@@Bobby Bare@@@Miller's Cave
+63@@@41@@@The Baja Marimba Band@@@Comin' In The Back Door
+64@@@70@@@Rufus Thomas@@@Can Your Monkey Do The Dog
+65@@@76@@@The Pixies Three@@@442 Glenwood Avenue
+66@@@66@@@Tony Bennett@@@The Little Boy
+67@@@101@@@The Beatles With Tony Sheridan@@@My Bonnie (My Bonnie Lies Over The Ocean)
+68@@@72@@@The Orlons@@@Shimmy Shimmy
+69@@@101@@@The Beach Boys@@@Fun, Fun, Fun
+70@@@71@@@Johnny Mathis@@@Bye Bye Barbara
+71@@@101@@@Connie Francis@@@Blue Winter
+72@@@86@@@Solomon Burke@@@He'll Have To Go
+73@@@75@@@Pete Seeger@@@Little Boxes
+74@@@61@@@Otis Redding@@@Pain In My Heart
+75@@@77@@@Bill Black's Combo@@@Comin' On
+76@@@101@@@Louis Armstrong And The All Stars@@@Hello, Dolly!
+77@@@101@@@The Dave Clark Five@@@Glad All Over
+78@@@69@@@The Crescents Featuring Chiyo@@@Pink Dominos
+79@@@87@@@Eddie Holland@@@Leaving Here
+80@@@101@@@Chris Crosby@@@Young And In Love
+81@@@101@@@The Four Seasons@@@Stay
+82@@@88@@@Dee Dee Sharp@@@Where Did I Go Wrong
+83@@@85@@@Hank Williams Jr.@@@Long Gone Lonesome Blues
+84@@@101@@@Garnet Mimms@@@Tell Me Baby
+85@@@96@@@Jody Miller@@@He Walks Like A Man
+86@@@101@@@Johnny Cash@@@Understand Your Man
+87@@@101@@@Jack Jones@@@Love With The Proper Stranger
+88@@@74@@@The Duprees featuring Joey Vann@@@(It's No) Sin
+89@@@99@@@The Devotions@@@Rip Van Winkle
+90@@@90@@@The Drew-Vels@@@Tell Him
+91@@@101@@@Lefty Frizzell@@@Saginaw, Michigan
+92@@@94@@@The Crampton Sisters@@@I Didn't Know What Time It Was
+93@@@84@@@Little Peggy March@@@(I'm Watching) Every Little Move You Make
+94@@@82@@@Etta James@@@Baby What You Want Me To Do
+95@@@98@@@The Caravelles@@@Have You Ever Been Lonely (Have You Ever Been Blue)
+96@@@92@@@The Crystals@@@Little Boy
+97@@@101@@@James Brown And The Famous Flames@@@Please, Please, Please
+98@@@89@@@The Diplomats@@@Here's A Heart
+99@@@100@@@Little Jr. Parker@@@Strange Things Happening
+100@@@101@@@Burl Ives@@@True Love Goes On And On

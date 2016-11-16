@@ -1,0 +1,100 @@
+1@@@101@@@Aerosmith@@@I Don't Want To Miss A Thing
+2@@@3@@@Monica@@@The First Night
+3@@@4@@@Jennifer Paige@@@Crush
+4@@@2@@@Usher@@@My Way
+5@@@1@@@Brandy & Monica@@@The Boy Is Mine
+6@@@7@@@Shania Twain@@@You're Still The One
+7@@@6@@@Sarah McLachlan@@@Adia
+8@@@8@@@Tatyana Ali@@@Daydreamin'
+9@@@5@@@All Saints@@@Never Ever
+10@@@11@@@Five@@@When The Lights Go Out
+11@@@10@@@Ace Of Base@@@Cruel Summer
+12@@@12@@@Mase Featuring Puff Daddy@@@Lookin' At Me
+13@@@14@@@Inoj@@@Time After Time
+14@@@9@@@Next@@@Too Close
+15@@@13@@@Nicole Featuring Missy "Misdemeanor" Elliott@@@Make It Hot
+16@@@16@@@Faith Hill@@@This Kiss
+17@@@18@@@Next@@@I Still Love You
+18@@@15@@@Kelly Price@@@Friend Of Mine
+19@@@101@@@Gerald Levert@@@Thinkin' Bout It
+20@@@17@@@Puff Daddy Featuring Jimmy Page@@@Come With Me
+21@@@19@@@Voices Of Theory@@@Say It
+22@@@21@@@K-Ci & JoJo@@@All My Life
+23@@@22@@@Savage Garden@@@Truly Madly Deeply
+24@@@20@@@Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya@@@Ghetto Supastar (That Is What You Are)
+25@@@24@@@Savage Garden@@@To The Moon And Back
+26@@@101@@@Snoop Dogg@@@Still A G Thang
+27@@@27@@@Master P Featuring Silkk The Shocker, Sons Of Funk And Mo B. Dick@@@Goodbye To My Homies
+28@@@28@@@Beastie Boys@@@Intergalactic
+29@@@26@@@Big Punisher Featuring Joe@@@Still Not A Player
+30@@@25@@@Jagged Edge@@@Gotta Be
+31@@@23@@@Nate Dogg Featuring Warren G@@@Nobody Does It Better
+32@@@48@@@Monifah@@@Touch It
+33@@@30@@@Tamia@@@So Into You
+34@@@32@@@Madonna@@@Ray Of Light
+35@@@29@@@LeAnn Rimes@@@Looking Through Your Eyes
+36@@@37@@@Paula Cole@@@I Don't Want To Wait
+37@@@31@@@Marcy Playground@@@Sex And Candy
+38@@@33@@@Mariah Carey@@@My All
+39@@@35@@@Cleopatra@@@Cleopatra's Theme
+40@@@40@@@LeAnn Rimes@@@How Do I Live
+41@@@38@@@Spice Girls@@@Stop
+42@@@49@@@Mya Featuring Silkk The Shocker@@@Movin' On
+43@@@45@@@Jo Dee Messina@@@I'm Alright
+44@@@34@@@Will Smith@@@Gettin' Jiggy Wit It
+45@@@36@@@Backstreet Boys@@@Everybody [Backstreet's Back]
+46@@@44@@@Janet@@@Together Again
+47@@@43@@@Rod Stewart@@@Ooh La La
+48@@@41@@@Cam Ron Featuring Mase@@@Horse 
+49@@@39@@@Third Eye Blind@@@How's It Going To Be
+50@@@46@@@69 Boyz@@@Woof Woof
+51@@@54@@@Tyrese@@@Nobody Else
+52@@@52@@@JD Featuring Jay-Z@@@Money Ain't A Thang
+53@@@51@@@Queen Latifah Featuring Apache@@@Paper
+54@@@47@@@Swirl 360@@@Hey Now Now
+55@@@101@@@Pressha@@@Splackavellie
+56@@@50@@@Xzibit@@@What U See Is What U Get
+57@@@53@@@Gloria Estefan@@@Heaven's What I Feel
+58@@@55@@@The Wilkinsons@@@26 Cents
+59@@@57@@@Fleetwood Mac@@@Landslide
+60@@@56@@@Link@@@Whatcha Gone Do?
+61@@@58@@@Janet Featuring BLACKstreet@@@I Get Lonely
+62@@@60@@@Myron@@@Destiny
+63@@@59@@@Imajin Featuring Keith Murray@@@Shorty (You Keep Playin' With My Mind)
+64@@@63@@@Goodie Mob Featuring Outkast@@@Black Ice (Sky High)
+65@@@62@@@Busta Rhymes@@@Turn It Up [Remix]/Fire It Up
+66@@@66@@@Pure Sugar@@@Delicious
+67@@@67@@@Mos Def@@@Definition
+68@@@68@@@Tami Davis@@@How Do I Say I'm Sorry
+69@@@61@@@Jay-Z & Memphis Bleek@@@It's Alright
+70@@@64@@@The Smashing Pumpkins@@@Ava Adore
+71@@@75@@@Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez@@@If You Could Read My Mind
+72@@@72@@@Funkmaster Flex Presents Khadejia Featuring Product@@@Here We Go
+73@@@74@@@Rockell [Duet With Collage]@@@Can't We Try
+74@@@69@@@Wyclef Jean Featuring Queen Pen & The Product@@@Cheated (To All The Girls)
+75@@@70@@@Color Me Badd@@@Remember When
+76@@@65@@@La Bouche@@@You Won't Forget Me
+77@@@71@@@Hannah Jones@@@You Only Have To Say You Love Me
+78@@@73@@@Vince Gill@@@If You Ever Have Forever In Mind
+79@@@91@@@DMX@@@Stop Being Greedy
+80@@@76@@@Athenaeum@@@What I Didn't Know
+81@@@101@@@J'Son@@@I Should Cheat On You
+82@@@83@@@4 The Cause@@@Stand By Me
+83@@@87@@@Lari White@@@Stepping Stone
+84@@@79@@@Tori Amos@@@Spark
+85@@@88@@@Jesse Powell@@@I Wasn't With It
+86@@@86@@@Fatboy Slim@@@The Rockafeller Skank
+87@@@78@@@Xscape@@@The Arms Of The One Who Loves You
+88@@@84@@@Aretha Franklin@@@Here We Go Again
+89@@@77@@@Ricky Martin@@@The Cup Of Life (The Official Song Of The World Cup, France '98)
+90@@@85@@@Various Artists@@@One Heart At A Time
+91@@@80@@@John Forte@@@Ninety Nine [Flash The Message]
+92@@@90@@@Pearl Jam@@@Wishlist
+93@@@101@@@Dixie Chicks@@@Wide Open Spaces
+94@@@96@@@Montell Jordan@@@I Can Do That
+95@@@93@@@John Michael Montgomery@@@Cover You In Kisses
+96@@@95@@@Hi-Town DJs@@@Ding-A-Ling
+97@@@81@@@Missjones@@@2 Way Street
+98@@@89@@@Garbage@@@Push It
+99@@@98@@@Inner Circle@@@Not About Romance
+100@@@94@@@Sam Salter@@@There You Are

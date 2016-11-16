@@ -1,0 +1,100 @@
+1@@@1@@@OMI@@@Cheerleader
+2@@@3@@@The Weeknd@@@Can't Feel My Face
+3@@@2@@@Wiz Khalifa Featuring Charlie Puth@@@See You Again
+4@@@4@@@Taylor Swift Featuring Kendrick Lamar@@@Bad Blood
+5@@@5@@@Silento@@@Watch Me
+6@@@6@@@Fetty Wap@@@Trap Queen
+7@@@7@@@WALK THE MOON@@@Shut Up And Dance
+8@@@8@@@Rachel Platten@@@Fight Song
+9@@@17@@@Major Lazer & DJ Snake Featuring M0@@@Lean On
+10@@@12@@@The Weeknd@@@The Hills
+11@@@10@@@David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack@@@Hey Mama
+12@@@9@@@Skrillex & Diplo With Justin Bieber@@@Where Are U Now
+13@@@11@@@Andy Grammer@@@Honey, I'm Good.
+14@@@14@@@Fifth Harmony Featuring Kid Ink@@@Worth It
+15@@@13@@@Mark Ronson Featuring Bruno Mars@@@Uptown Funk!
+16@@@15@@@Selena Gomez Featuring A$AP Rocky@@@Good For You
+17@@@16@@@Jason Derulo@@@Want To Want Me
+18@@@19@@@Fetty Wap Featuring Remy Boyz@@@679
+19@@@21@@@Omarion Featuring Chris Brown & Jhene Aiko@@@Post To Be
+20@@@20@@@Maroon 5@@@Sugar
+21@@@24@@@Ed Sheeran@@@Photograph
+22@@@18@@@The Weeknd@@@Earned It (Fifty Shades Of Grey)
+23@@@22@@@Rihanna@@@B**** Better Have My Money
+24@@@26@@@Ed Sheeran@@@Thinking Out Loud
+25@@@27@@@Little Big Town@@@Girl Crush
+26@@@23@@@Tove Lo@@@Talking Body
+27@@@30@@@Jidenna Featuring Roman GianArthur@@@Classic Man
+28@@@29@@@Meek Mill Featuring Chris Brown & Nicki Minaj@@@All Eyes On You
+29@@@31@@@Rich Homie Quan@@@Flex (Ooh Ooh Ooh)
+30@@@25@@@DJ Snake & AlunaGeorge@@@You Know You Like It
+31@@@28@@@Demi Lovato@@@Cool For The Summer
+32@@@33@@@Ellie Goulding@@@Love Me Like You Do
+33@@@35@@@Sia@@@Elastic Heart
+34@@@36@@@T-Wayne@@@Nasty Freestyle
+35@@@38@@@Trey Songz@@@Slow Motion
+36@@@39@@@Fall Out Boy@@@Uma Thurman
+37@@@34@@@Luke Bryan@@@Kick The Dust Up
+38@@@37@@@Sam Hunt@@@Take Your Time
+39@@@41@@@Sam Hunt@@@House Party
+40@@@42@@@Pitbull Featuring Chris Brown@@@Fun
+41@@@32@@@Maroon 5@@@This Summer's Gonna Hurt...
+42@@@40@@@Blake Shelton@@@Sangria
+43@@@49@@@Natalie La Rose Featuring Jeremih@@@Somebody
+44@@@45@@@Kid Ink Featuring DeJ Loaf@@@Be Real
+45@@@43@@@Meek Mill Featuring Drake@@@R.I.C.O.
+46@@@53@@@Jason Aldean@@@Tonight Looks Good On You
+47@@@50@@@Taylor Swift@@@Shake It Off
+48@@@48@@@Taylor Swift@@@Style
+49@@@51@@@Thomas Rhett@@@Crash And Burn
+50@@@57@@@Brantley Gilbert@@@One Hell Of An Amen
+51@@@46@@@Canaan Smith@@@Love You Like That
+52@@@52@@@Eric Church@@@Like A Wrecking Ball
+53@@@54@@@Chris Janson@@@Buy Me A Boat
+54@@@44@@@Nicki Minaj@@@The Night Is Still Young
+55@@@61@@@Charlie Puth Featuring Meghan Trainor@@@Marvin Gaye
+56@@@58@@@Zac Brown Band@@@Loving You Easy
+57@@@55@@@Shawn Mendes@@@Stitches
+58@@@59@@@X Ambassadors@@@Renegades
+59@@@64@@@Jeremih Featuring J. Cole@@@Planes
+60@@@66@@@Michael Ray@@@Kiss You In The Morning
+61@@@56@@@Flo Rida Featuring Robin Thicke & Verdine White@@@I Don't Like It, I Love It
+62@@@65@@@Keith Urban@@@John Cougar, John Deere, John 3:16
+63@@@70@@@Rae Sremmurd@@@This Could Be Us
+64@@@67@@@Future@@@Commas
+65@@@76@@@Frankie Ballard@@@Young & Crazy
+66@@@68@@@Brad Paisley@@@Crushin' It
+67@@@60@@@Echosmith@@@Bright
+68@@@72@@@Dustin Lynch@@@Hell Of A Night
+69@@@74@@@Brett Eldredge@@@Lose My Mind
+70@@@69@@@J. Cole@@@Wet Dreamz
+71@@@95@@@Meghan Trainor Featuring John Legend@@@Like I'm Gonna Lose You
+72@@@63@@@Easton Corbin@@@Baby Be My Love Song
+73@@@62@@@Kelsea Ballerini@@@Love Me Like You Mean It
+74@@@80@@@Adam Lambert@@@Ghost Town
+75@@@71@@@Wale Featuring Usher@@@The Matrimony
+76@@@89@@@Nicky Jam & Enrique Iglesias@@@El Perdon (Forgiveness)
+77@@@81@@@DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean@@@How Many Times
+78@@@84@@@Sage The Gemini Featuring Nick Jonas@@@Good Thing
+79@@@79@@@Jake Owen@@@Real Life
+80@@@101@@@Eminem Featuring Gwen Stefani@@@Kings Never Die
+81@@@77@@@Pia Mia Featuring Chris Brown & Tyga@@@Do It Again
+82@@@87@@@Billy Currington@@@Don't It
+83@@@90@@@Zedd Featuring Jon Bellion@@@Beautiful Now
+84@@@82@@@Janelle Monae & Jidenna@@@Yoga
+85@@@85@@@Florida Georgia Line@@@Sippin' On Fire
+86@@@73@@@Carrie Underwood@@@Little Toy Guns
+87@@@101@@@Fetty Wap Featuring Monty@@@My Way
+88@@@86@@@Kendrick Lamar@@@Alright
+89@@@99@@@Old Dominion@@@Break Up With Him
+90@@@101@@@Tori Kelly@@@Should've Been Us
+91@@@96@@@Elle King@@@Ex's & Oh's
+92@@@101@@@Maddie & Tae@@@Fly
+93@@@92@@@Carly Rae Jepsen@@@I Really Like You
+94@@@101@@@Cam@@@Burning House
+95@@@97@@@twenty one pilots@@@Tear In My Heart
+96@@@88@@@Meek Mill@@@Lord Knows
+97@@@100@@@Chris Young@@@I'm Comin' Over
+98@@@91@@@Meek Mill Featuring Future@@@Jump Out The Face
+99@@@93@@@Tech N9Ne Featuring 2 Chainz & B.o.B@@@Hood Go Crazy
+100@@@101@@@Big Sean Featuring Kanye West & John Legend@@@One Man Can Change The World

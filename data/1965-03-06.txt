@@ -1,0 +1,100 @@
+1@@@3@@@The Temptations@@@My Girl
+2@@@1@@@Gary Lewis And The Playboys@@@This Diamond Ring
+3@@@2@@@The Righteous Brothers@@@You've Lost That Lovin' Feelin'
+4@@@5@@@The Kingsmen@@@The Jolly Green Giant
+5@@@19@@@The Beatles@@@Eight Days A Week
+6@@@6@@@The Zombies@@@Tell Her No
+7@@@10@@@Roger Miller@@@King Of The Road
+8@@@13@@@Jewel Akens@@@The Birds And The Bees
+9@@@12@@@Gerry And The Pacemakers@@@Ferry Cross The Mersey
+10@@@4@@@Petula Clark@@@Downtown
+11@@@8@@@The Ad Libs@@@The Boy From New York City
+12@@@17@@@Little Anthony And The Imperials@@@Hurt So Bad
+13@@@41@@@The Supremes@@@Stop! In The Name Of Love
+14@@@9@@@Peter And Gordon@@@I Go To Pieces
+15@@@18@@@Bert Kaempfert And His Orchestra@@@Red Roses For A Blue Lady
+16@@@23@@@Shirley Bassey@@@Goldfinger
+17@@@15@@@The Beau Brummels@@@Laugh, Laugh
+18@@@11@@@Shirley Ellis@@@The Name Game
+19@@@27@@@Herman's Hermits@@@Can't You Hear My Heartbeat
+20@@@14@@@Alvin Cash & The Crawlers@@@Twine Time
+21@@@7@@@Sam Cooke@@@Shake
+22@@@28@@@Roy Orbison@@@Goodnight
+23@@@26@@@Bobby Goldsboro@@@Little Things
+24@@@39@@@Johnny Rivers@@@Midnight Special
+25@@@25@@@Buck Owens@@@I've Got A Tiger By The Tail
+26@@@37@@@The Dave Clark Five@@@Come Home
+27@@@32@@@Four Tops@@@Ask The Lonely
+28@@@16@@@The Kinks@@@All Day And All Of The Night
+29@@@45@@@Jr. Walker & The All Stars@@@Shotgun
+30@@@40@@@Georgie Fame And The Blue Flames@@@Yeh, Yeh
+31@@@33@@@Sam Cooke@@@A Change Is Gonna Come
+32@@@38@@@The Trade Winds@@@New York's A Lonely Town
+33@@@22@@@Dobie Gray@@@The In Crowd
+34@@@20@@@Trini Lopez@@@Lemon Tree
+35@@@47@@@The Impressions@@@People Get Ready
+36@@@46@@@Vic Dana@@@Red Roses For A Blue Lady
+37@@@29@@@The Searchers@@@What Have They Done To The Rain
+38@@@21@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Bye, Bye, Baby (Baby, Goodbye)
+39@@@49@@@The Animals@@@Don't Let Me Be Misunderstood
+40@@@30@@@Peter, Paul & Mary@@@For Lovin' Me
+41@@@34@@@Sue Thompson@@@Paper Tiger
+42@@@53@@@Chad & Jeremy@@@If I Loved You
+43@@@24@@@The Rolling Stones@@@Heart Of Stone
+44@@@54@@@Dean Martin@@@Send Me The Pillow You Dream On
+45@@@31@@@Adam Faith With The Roulettes@@@It's Alright
+46@@@73@@@Martha & The Vandellas@@@Nowhere To Run
+47@@@59@@@The Beatles@@@I Don't Want To Spoil The Party
+48@@@74@@@Del Shannon@@@Stranger In Town
+49@@@68@@@Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio@@@Do The Clam
+50@@@50@@@The Newbeats@@@Break Away (From That Boy)
+51@@@58@@@Fontella Bass & Bobby McClure@@@Don't Mess Up A Good Thing
+52@@@55@@@The Ronettes Featuring Veronica@@@Born To Be Together
+53@@@48@@@The Drifters@@@At The Club
+54@@@78@@@Gene Pitney@@@I Must Be Seeing Things
+55@@@43@@@Connie Francis@@@Whose Heart Are You Breaking Tonight
+56@@@63@@@Tony Bennett@@@If I Ruled The World
+57@@@84@@@The Beach Boys@@@Do You Wanna Dance?
+58@@@89@@@Jack Jones@@@The Race Is On
+59@@@75@@@Joe Tex@@@You Better Get It
+60@@@66@@@Johnny Tillotson@@@Angel
+61@@@61@@@Billy Strange@@@Goldfinger
+62@@@62@@@Reparata And The Delrons@@@Whenever A Teenager Cries
+63@@@65@@@Ray Charles@@@Cry
+64@@@69@@@The Velvelettes@@@He Was Really Sayin' Somethin'
+65@@@71@@@Manfred Mann@@@Come Tomorrow
+66@@@76@@@Wayne Newton@@@Red Roses For A Blue Lady
+67@@@70@@@Billy J. Kramer With The Dakotas@@@It's Gotta Last Forever
+68@@@72@@@The Manhattans@@@I Wanna Be (Your Everything)
+69@@@77@@@Julie Rogers@@@Like A Child
+70@@@80@@@Otis Redding@@@Mr. Pitiful
+71@@@86@@@The Moody Blues@@@Go Now!
+72@@@82@@@Joe Tex@@@You Got What It Takes
+73@@@83@@@The Arrows Featuring Davie Allan@@@Apache '65
+74@@@101@@@Brenda Holloway@@@When I'm Gone
+75@@@85@@@Maxine Brown@@@It's Gonna Be Alright
+76@@@101@@@Jerry Butler@@@Good Times
+77@@@81@@@The Beatles@@@4 - By The Beatles
+78@@@93@@@Marianne Faithfull@@@Come And Stay With Me
+79@@@88@@@Dionne Warwick@@@Who Can I Turn To
+80@@@101@@@Bobby Vinton@@@Long Lonely Nights
+81@@@92@@@The Hullaballoos@@@Did You Ever
+82@@@94@@@The Ray Charles Singers@@@This Is My Prayer
+83@@@101@@@The Beach Boys@@@Please Let Me Wonder
+84@@@101@@@Steve Alaimo@@@Real Live Girl
+85@@@91@@@Johnny Rivers@@@Cupid
+86@@@101@@@Connie Francis@@@For Mama (La Mamma)
+87@@@87@@@Ruby And The Romantics@@@Does He Really Care For Me
+88@@@101@@@Jerry Vale@@@For Mama
+89@@@90@@@Johnny Cash@@@Orange Blossom Special
+90@@@101@@@Sandie Shaw@@@Girl Don't Come
+91@@@101@@@Solomon Burke@@@Got To Get You Off My Mind
+92@@@101@@@Gene Chandler@@@You Can't Hurt Me No More
+93@@@101@@@Major Lance@@@Come See
+94@@@95@@@Jackie Wilson@@@Danny Boy
+95@@@99@@@Peggy Lee@@@Pass Me By
+96@@@97@@@Jack Laforge His Piano and Orchestra@@@Goldfinger
+97@@@100@@@Cannibal And The Headhunters@@@Land Of 1000 Dances
+98@@@101@@@Jimmy Witherspoon@@@You're Next
+99@@@101@@@Mongo Santamaria@@@El Pussy Cat
+100@@@101@@@The Three Degrees@@@Gee Baby (I'm Sorry)

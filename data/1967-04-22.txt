@@ -1,0 +1,100 @@
+1@@@1@@@Nancy Sinatra & Frank Sinatra@@@Somethin' Stupid
+2@@@2@@@The Turtles@@@Happy Together
+3@@@5@@@The Monkees@@@A Little Bit Me, A Little Bit You
+4@@@7@@@Tommy James And The Shondells@@@I Think We're Alone Now
+5@@@6@@@The Five Americans@@@Western Union
+6@@@3@@@Petula Clark@@@This Is My Song
+7@@@11@@@Arthur Conley@@@Sweet Soul Music
+8@@@4@@@Four Tops@@@Bernadette
+9@@@9@@@Aretha Franklin@@@I Never Loved A Man (The Way I Love You)
+10@@@10@@@Martha & The Vandellas@@@Jimmy Mack
+11@@@19@@@The Supremes@@@The Happening
+12@@@8@@@The Mamas & The Papas@@@Dedicated To The One I Love
+13@@@22@@@The Spencer Davis Group@@@I'm A Man
+14@@@18@@@The Platters@@@With This Ring
+15@@@29@@@Nancy Sinatra@@@Love Eyes
+16@@@17@@@Simon & Garfunkel@@@At The Zoo
+17@@@23@@@The Buckinghams@@@Don't You Care
+18@@@38@@@The Dave Clark Five@@@You Got What It Takes
+19@@@15@@@The Buffalo Springfield@@@For What It's Worth (Stop, Hey What's That Sound)
+20@@@20@@@Brenda & The Tabulations@@@Dry Your Eyes
+21@@@12@@@The Beatles@@@Penny Lane
+22@@@13@@@Herman's Hermits@@@There's A Kind Of Hush
+23@@@14@@@Harpers Bizarre@@@The 59th Street Bridge Song (Feelin' Groovy)
+24@@@36@@@The Hollies@@@On A Carousel
+25@@@16@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Beggin'
+26@@@33@@@Peaches & Herb@@@Close Your Eyes
+27@@@28@@@Tom Jones@@@Detroit City
+28@@@21@@@The Beatles@@@Strawberry Fields Forever
+29@@@30@@@Jimmy Ruffin@@@Gonna Give Her All The Love I've Got
+30@@@46@@@The Easybeats@@@Friday On My Mind
+31@@@34@@@Peter And Gordon@@@Sunday For Tea
+32@@@43@@@Wilson Pickett@@@I Found A Love - Part 1
+33@@@27@@@Lesley Gore@@@California Nights
+34@@@45@@@The Electric Prunes@@@Get Me To The World On Time
+35@@@47@@@Andy Williams@@@Music To Watch Girls By
+36@@@25@@@Smokey Robinson & The Miracles@@@The Love I Saw In You Was Just A Mirage
+37@@@35@@@Joe Tex@@@Show Me
+38@@@61@@@Eric Burdon & The Animals@@@When I Was Young
+39@@@24@@@The Young Rascals@@@I've Been Lonely Too Long
+40@@@50@@@Dusty Springfield@@@I'll Try Anything
+41@@@51@@@Roger Miller@@@Walkin' In The Sunshine
+42@@@52@@@The Byrds@@@My Back Pages
+43@@@53@@@Neil Diamond@@@Girl, You'll Be A Woman Soon
+44@@@31@@@Sandy Posey@@@What A Woman In Love Won't Do
+45@@@42@@@Herman's Hermits@@@No Milk Today
+46@@@59@@@The Happenings@@@I Got Rhythm
+47@@@57@@@The Yellow Balloon@@@Yellow Balloon
+48@@@39@@@The Monkees@@@The Girl I Knew Somewhere
+49@@@37@@@Keith@@@Tell Me To My Face
+50@@@65@@@Herb Alpert & The Tijuana Brass@@@Casino Royale
+51@@@49@@@Nancy Sinatra with Lee Hazlewood@@@Summer Wine
+52@@@55@@@Lou Rawls@@@Dead End Street Monologue/Dead End Street
+53@@@72@@@The Tremeloes@@@Here Comes My Baby
+54@@@71@@@Engelbert Humperdinck@@@Release Me (And Let Me Love Again)
+55@@@63@@@Booker T. & The MG's@@@Hip Hug-Her
+56@@@60@@@? (Question Mark) & The Mysterians@@@Can't Get Enough Of You, Baby
+57@@@67@@@The Nitty Gritty Dirt Band@@@Buy For Me The Rain
+58@@@68@@@Jefferson Airplane@@@Somebody To Love
+59@@@75@@@Frankie Laine@@@Making Memories
+60@@@64@@@Blues Magoos@@@Pipe Dream
+61@@@62@@@Ray Price@@@Danny Boy
+62@@@54@@@Sam The Sham and the Pharaohs@@@Oh That's Good, No That's Bad
+63@@@78@@@Bobby Darin@@@The Lady Came From Baltimore
+64@@@74@@@Toussaint McCall@@@Nothing Takes The Place Of You
+65@@@82@@@James & Bobby Purify@@@Shake A Tail Feather
+66@@@66@@@Gene Chandler@@@Girl Don't Care
+67@@@73@@@Percy Sledge@@@Out Of Left Field
+68@@@76@@@The Romeos@@@Precious Memories
+69@@@84@@@The Parade@@@Sunshine Girl
+70@@@70@@@Freddie Scott@@@Cry To Me
+71@@@86@@@The Tokens@@@Portrait Of My Love
+72@@@69@@@The Artistics@@@Girl I Need You
+73@@@79@@@Cannonball Adderley@@@Why? (Am I Treated So Bad)
+74@@@77@@@The Fantastic Four@@@The Whole World Is A Stage
+75@@@87@@@Jerry Jaye@@@My Girl Josephine
+76@@@101@@@The Righteous Brothers@@@Melancholy Music Man
+77@@@88@@@Dionne Warwick@@@Alfie
+78@@@80@@@Otis Redding@@@I Love You More Than Words Can Say
+79@@@101@@@The Young Rascals@@@Groovin'
+80@@@83@@@Lou Courtney@@@Do The Thing
+81@@@101@@@The Yardbirds@@@Little Games
+82@@@101@@@Barbara Lewis@@@I'll Make Him Love Me
+83@@@99@@@The Who@@@Happy Jack
+84@@@85@@@The Contours@@@It's So Hard Being A Loser
+85@@@101@@@Brenda Holloway@@@Just Look What You've Done
+86@@@101@@@The Marvelettes@@@When You're Young And In Love
+87@@@89@@@The Five Stairsteps@@@Ain't Gonna Rest (Till I Get You)
+88@@@101@@@Bobby Bland@@@You're All I Need
+89@@@90@@@Walter Jackson@@@Speak Her Name
+90@@@101@@@Ronnie Dove@@@My Babe
+91@@@91@@@Dyke And The Blazers@@@Funky Broadway Part I
+92@@@97@@@Buck Owens and The Buckaroos@@@Sam's Place
+93@@@93@@@The Raeletts@@@One Hurt Deserves Another
+94@@@98@@@Brenton Wood@@@The Oogum Boogum Song
+95@@@95@@@William Bell@@@Everybody Loves A Winner
+96@@@100@@@Jack Jones@@@I'm Indestructible
+97@@@101@@@Davie Allan And The Arrows@@@Blue's Theme
+98@@@101@@@Don And The Goodtimes@@@I Could Be So Good To You
+99@@@101@@@Ben E. King@@@Tears, Tears, Tears
+100@@@101@@@Stevie Wonder@@@Hey Love

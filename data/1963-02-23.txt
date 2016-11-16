@@ -1,0 +1,100 @@
+1@@@1@@@Paul and Paula@@@Hey Paula
+2@@@4@@@Dion@@@Ruby Baby
+3@@@3@@@The Four Seasons@@@Walk Like A Man
+4@@@2@@@The Rooftop Singers@@@Walk Right In
+5@@@5@@@The Cascades@@@Rhythm Of The Rain
+6@@@6@@@Ned Miller@@@From A Jack To A King
+7@@@12@@@Bobby Darin@@@You're The Reason I'm Living
+8@@@18@@@Eydie Gorme@@@Blame It On The Bossa Nova
+9@@@8@@@The Miracles@@@You've Really Got A Hold On Me
+10@@@15@@@The Rebels@@@Wild Weekend
+11@@@11@@@The Crystals@@@He's Sure The Boy I Love
+12@@@13@@@Del Shannon@@@Little Town Flirt
+13@@@20@@@Sam Cooke@@@Send Me Some Lovin'
+14@@@17@@@Joe Harnell And His Orchestra@@@Fly Me To The Moon - Bossa Nova
+15@@@7@@@Bobby Vee@@@The Night Has A Thousand Eyes
+16@@@16@@@Jan Bradley@@@Mama Didn't Lie
+17@@@23@@@Johnny Mathis@@@What Will My Mary Say
+18@@@10@@@The Drifters@@@Up On The Roof
+19@@@9@@@Johnny Thunder@@@Loop De Loop
+20@@@14@@@Steve Lawrence@@@Go Away Little Girl
+21@@@36@@@Skeeter Davis@@@The End Of The World
+22@@@28@@@Vince Guaraldi Trio@@@Cast Your Fate To The Wind
+23@@@47@@@Roy Orbison@@@In Dreams
+24@@@32@@@Neil Sedaka@@@Alice In Wonderland
+25@@@59@@@Elvis Presley With The Mello Men@@@One Broken Heart For Sale
+26@@@26@@@Paul Anka@@@Love (Makes the World Go 'Round)
+27@@@53@@@Ruby And The Romantics@@@Our Day Will Come
+28@@@30@@@Lou Christie@@@The Gypsy Cried
+29@@@22@@@Bobby Bland@@@Call On Me
+30@@@38@@@Bill Pursell@@@Our Winter Love
+31@@@41@@@The Kingston Trio@@@Greenback Dollar
+32@@@34@@@Brenda Lee@@@Your Used To Be
+33@@@40@@@Tony Bennett@@@I Wanna Be Around
+34@@@44@@@Little Eva@@@Let's Turkey Trot
+35@@@21@@@Rick Nelson@@@It's Up To You
+36@@@51@@@Duane Eddy and the Rebelettes@@@Boss Guitar
+37@@@52@@@Bobby Rydell@@@Butterfly Baby
+38@@@19@@@Gene Pitney@@@Half Heaven - Half Heartache
+39@@@45@@@Bobby Bland@@@That's The Way Love Is
+40@@@65@@@Chubby Checker@@@Let's Limbo Some More
+41@@@27@@@The Pastel Six@@@The Cinnamon Cinder (It's A Very Nice Dance)
+42@@@24@@@Paul Petersen@@@My Dad
+43@@@54@@@Marvin Gaye@@@Hitch Hike
+44@@@37@@@Sandy Stewart@@@My Coloring Book
+45@@@25@@@Dickey Lee@@@I Saw Linda Yesterday
+46@@@55@@@Henry Mancini And His Orchestra@@@Days Of Wine And Roses
+47@@@48@@@Brenda Lee@@@She'll Never Know
+48@@@43@@@The Alley Cats@@@Puddin N' Tain (Ask Me Again, I'll Tell You The Same)
+49@@@56@@@Steve Alaimo@@@Every Day I Have To Cry
+50@@@76@@@The Orlons@@@South Street
+51@@@29@@@The Exciters@@@Tell Him
+52@@@60@@@Chuck Jackson@@@Tell Him I'm Not Home
+53@@@33@@@Kitty Kallen@@@My Coloring Book
+54@@@64@@@Jimmy McGriff@@@All About My Girl
+55@@@57@@@The Matys Bros.@@@Who Stole The Keeshka?
+56@@@58@@@Peter, Paul & Mary@@@Settle Down (Goin' Down That Highway)
+57@@@61@@@Floyd Cramer@@@Java
+58@@@42@@@Connie Francis@@@I'm Gonna' Be Warm This Winter
+59@@@83@@@Richard Chamberlain@@@All I Have To Do Is Dream
+60@@@39@@@Johnny Crawford@@@Proud
+61@@@63@@@Teddy Randazzo@@@Big Wide World
+62@@@70@@@Sammy Davis Jr.@@@As Long As She Needs Me
+63@@@68@@@Little Esther Phillips@@@I Really Don't Want To Know
+64@@@66@@@Peggy Lee@@@I'm A Woman
+65@@@77@@@Arthur Lyman Group@@@Love For Sale
+66@@@71@@@Sam Cooke@@@Baby, Baby, Baby
+67@@@35@@@Dionne Warwick@@@Don't Make Me Over
+68@@@72@@@The Marvelettes@@@Strange I Know
+69@@@75@@@James Darren@@@Pin A Medal On Joey
+70@@@31@@@Mary Wells@@@Two Lovers
+71@@@73@@@Etta James@@@Would It Make Any Difference To You
+72@@@74@@@Bent Fabric and His Piano@@@Chicken Feed
+73@@@81@@@Bob B. Soxx And The Blue Jeans@@@Why Do Lovers Break Each Other's Heart?
+74@@@101@@@Elvis Presley With The Mello Men@@@They Remind Me Too Much Of You
+75@@@80@@@The Tornadoes@@@Ridin' The Wind
+76@@@79@@@The Impressions@@@I'm The One Who Loves You
+77@@@101@@@Chubby Checker@@@Twenty Miles
+78@@@101@@@Mary Wells@@@Laughing Boy
+79@@@89@@@Bobby Comstock@@@Let's Stomp
+80@@@97@@@Richard Chamberlain@@@Hi-Lili, Hi-Lo
+81@@@82@@@The Ribbons@@@Ain't Gonna Kiss Ya
+82@@@99@@@Johnny Cymbal@@@Mr. Bass Man
+83@@@84@@@Patsy Cline@@@Leavin' On Your Mind
+84@@@101@@@Rick Nelson@@@I'm In Love Again
+85@@@101@@@Gene Chandler@@@Rainbow
+86@@@101@@@Ray Charles and his Orchestra@@@Don't Set Me Free
+87@@@101@@@The Chiffons@@@He's So Fine
+88@@@88@@@Ferrante & Teicher@@@Theme From Lawrence Of Arabia
+89@@@96@@@The Dave Brubeck Quartet@@@Bossa Nova U.S.A.
+90@@@101@@@Jan & Dean@@@Linda
+91@@@101@@@The Ventures@@@The 2,000 Pound Bee (Part 2)
+92@@@101@@@Dean Martin@@@From The Bottom Of My Heart (Dammi, Dammi, Dammi)
+93@@@101@@@George Maharis@@@Don't Fence Me In
+94@@@101@@@Boots Randolph and his Combo@@@Yakety Sax
+95@@@101@@@Marcie Blane@@@What Does A Girl Do?
+96@@@101@@@Barbara Lynn@@@Don't Be Cruel
+97@@@98@@@Cannonball Adderley@@@The Jive Samba
+98@@@101@@@Jackie DeShannon@@@Faded Love
+99@@@101@@@Charlie Byrd@@@Meditation (Meditacao)
+100@@@101@@@Mr. Acker Bilk@@@Only You (And You Alone)

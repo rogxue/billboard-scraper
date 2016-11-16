@@ -1,0 +1,100 @@
+1@@@1@@@Kenny Rogers@@@Lady
+2@@@2@@@Barbra Streisand@@@Woman In Love
+3@@@3@@@Donna Summer@@@The Wanderer
+4@@@4@@@Queen@@@Another One Bites The Dust
+5@@@5@@@Diana Ross@@@I'm Coming Out
+6@@@6@@@Stephanie Mills@@@Never Knew Love Like This Before
+7@@@7@@@Stevie Wonder@@@Master Blaster (Jammin')
+8@@@9@@@Leo Sayer@@@More Than I Can Say
+9@@@10@@@John Lennon@@@(Just Like) Starting Over
+10@@@11@@@Cliff Richard@@@Dreaming
+11@@@17@@@Neil Diamond@@@Love On The Rocks
+12@@@12@@@The Jacksons@@@Lovely One
+13@@@13@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+14@@@14@@@Devo@@@Whip It
+15@@@16@@@Pat Benatar@@@Hit Me With Your Best Shot
+16@@@18@@@Christopher Cross@@@Never Be The Same
+17@@@8@@@The Pointer Sisters@@@He's So Shy
+18@@@21@@@Bruce Springsteen@@@Hungry Heart
+19@@@19@@@Irene Cara@@@Out Here On My Own
+20@@@29@@@Barbra Streisand & Barry Gibb@@@Guilty
+21@@@23@@@Stacy Lattisaw@@@Let Me Be Your Angel
+22@@@24@@@Roger Daltrey@@@Without Your Love
+23@@@15@@@Supertramp@@@Dreamer
+24@@@35@@@Air Supply@@@Every Woman In The World
+25@@@25@@@Diana Ross@@@Upside Down
+26@@@32@@@The Korgis@@@Everybody's Got To Learn Sometime
+27@@@28@@@Jimmy Hall@@@I'm Happy That Love Has Found You
+28@@@30@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+29@@@31@@@Randy Meisner@@@Deep Inside My Heart
+30@@@41@@@The Police@@@De Do Do Do, De Da Da Da
+31@@@37@@@Diana Ross@@@It's My Turn
+32@@@34@@@John Cougar@@@This Time
+33@@@40@@@Don Williams@@@I Believe In You
+34@@@20@@@Willie Nelson@@@On The Road Again
+35@@@50@@@Kool & The Gang@@@Celebration
+36@@@44@@@Harry Chapin@@@Sequel
+37@@@38@@@The Vapors@@@Turning Japanese
+38@@@39@@@Nielsen/Pearson@@@If You Should Sail
+39@@@48@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+40@@@43@@@Paul Simon@@@One-Trick Pony
+41@@@101@@@Heart@@@Tell It Like It Is
+42@@@26@@@The Rolling Stones@@@She's So Cold
+43@@@45@@@AC/DC@@@You Shook Me All Night Long
+44@@@27@@@The Doobie Brothers@@@Real Love
+45@@@33@@@Carly Simon@@@Jesse
+46@@@46@@@Boz Scaggs@@@Look What You've Done To Me
+47@@@59@@@Dr. Hook@@@Girls Can Get It
+48@@@22@@@Jackson Browne@@@That Girl Could Sing
+49@@@42@@@Air Supply@@@All Out Of Love
+50@@@101@@@Rod Stewart@@@Passion
+51@@@55@@@Mac Davis@@@Texas In My Rear View Mirror
+52@@@36@@@Billy Joel@@@Sometimes A Fantasy
+53@@@47@@@Kenny Loggins@@@I'm Alright
+54@@@101@@@The Doobie Brothers@@@One Step Closer
+55@@@51@@@Anne Murray@@@Could I Have This Dance
+56@@@69@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+57@@@54@@@Eddie Rabbitt@@@Drivin' My Life Away
+58@@@81@@@Blondie@@@The Tide Is High
+59@@@71@@@Tierra@@@Together
+60@@@73@@@Cheap Trick@@@Stop This Game
+61@@@101@@@Barry Manilow@@@I Made It Through The Rain
+62@@@72@@@The Pointer Sisters@@@Could I Be Dreaming
+63@@@77@@@Eddie Rabbitt@@@I Love A Rainy Night
+64@@@74@@@Marcy Levy & Robin Gibb@@@Help Me!
+65@@@101@@@Andy Gibb@@@Time Is Time
+66@@@70@@@Robbin Thompson Band@@@Brite Eyes
+67@@@80@@@Bob Seger@@@The Horizontal Bop
+68@@@68@@@Billy Burnette@@@Don't Say No
+69@@@79@@@The Babys@@@Turn And Walk Away
+70@@@53@@@Kansas@@@Hold On
+71@@@75@@@Rupert Holmes@@@Morning Man
+72@@@57@@@Paul Simon@@@Late In The Evening
+73@@@58@@@Olivia Newton-John/Electric Light Orchestra@@@Xanadu
+74@@@60@@@George Benson@@@Give Me The Night
+75@@@86@@@Climax Blues Band@@@Gotta Have More Love
+76@@@78@@@Eric Clapton And His Band@@@Blues Power
+77@@@61@@@George Benson@@@Love X Love
+78@@@63@@@Johnny Lee@@@Lookin' For Love
+79@@@89@@@Chic@@@Real People/Chip Off The Old Block
+80@@@90@@@L.T.D.@@@Shine On
+81@@@101@@@Earth, Wind & Fire@@@You
+82@@@101@@@ABBA@@@The Winner Takes It All
+83@@@83@@@Robert John@@@Sherry
+84@@@101@@@Rockpile@@@Teacher Teacher
+85@@@101@@@Bette Midler@@@My Mother's Eyes
+86@@@101@@@Michael Stanley Band@@@He Can't Love You
+87@@@101@@@Fred Knoblock & Susan Anton@@@Killin' Time
+88@@@101@@@Dionne Warwick@@@Easy Love
+89@@@92@@@Pete Townshend@@@Rough Boys
+90@@@101@@@Teena Marie@@@I Need Your Lovin'
+91@@@49@@@The Doolittle Band@@@Who Were You Thinkin' Of
+92@@@94@@@The Reddings@@@Remote Control
+93@@@56@@@Kim Carnes@@@Cry Like A Baby
+94@@@62@@@Al Stewart@@@Midnight Rocks
+95@@@64@@@Ali Thomson@@@Live Every Minute
+96@@@66@@@Eddie Money (with Valerie Carter)@@@Let's Be Lovers Again
+97@@@82@@@Donna Summer@@@Walk Away
+98@@@88@@@Amy Holland@@@How Do I Survive
+99@@@52@@@707@@@I Could Be Good For You
+100@@@85@@@Irene Cara@@@Fame

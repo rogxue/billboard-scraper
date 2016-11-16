@@ -1,0 +1,100 @@
+1@@@1@@@Maroon 5@@@One More Night
+2@@@2@@@PSY@@@Gangnam Style
+3@@@3@@@fun.@@@Some Nights
+4@@@5@@@Ke$ha@@@Die Young
+5@@@8@@@Rihanna@@@Diamonds
+6@@@6@@@Justin Bieber Featuring Big Sean@@@As Long As You Love Me
+7@@@15@@@Bruno Mars@@@Locked Out Of Heaven
+8@@@7@@@Alex Clare@@@Too Close
+9@@@9@@@Ne-Yo@@@Let Me Love You (Until You Learn To Love Yourself)
+10@@@11@@@Chris Brown@@@Don't Wake Me Up
+11@@@4@@@Taylor Swift@@@We Are Never Ever Getting Back Together
+12@@@10@@@Pink@@@Blow Me (One Last Kiss)
+13@@@12@@@Owl City & Carly Rae Jepsen@@@Good Time
+14@@@17@@@Phillip Phillips@@@Home
+15@@@24@@@Flo Rida@@@I Cry
+16@@@18@@@Kanye West, Jay-Z, Big Sean@@@Clique
+17@@@14@@@Ellie Goulding@@@Lights
+18@@@22@@@Miguel@@@Adorn
+19@@@27@@@The Lumineers@@@Ho Hey
+20@@@16@@@Neon Trees@@@Everybody Talks
+21@@@20@@@Train@@@50 Ways To Say Goodbye
+22@@@19@@@Flo Rida@@@Whistle
+23@@@21@@@Carrie Underwood@@@Blown Away
+24@@@29@@@Florida Georgia Line@@@Cruise
+25@@@25@@@Carly Rae Jepsen@@@Call Me Maybe
+26@@@26@@@Gotye Featuring Kimbra@@@Somebody That I Used To Know
+27@@@28@@@Katy Perry@@@Wide Awake
+28@@@47@@@Alicia Keys Featuring Nicki Minaj@@@Girl On Fire
+29@@@30@@@David Guetta Featuring Sia@@@Titanium
+30@@@35@@@Imagine Dragons@@@It's Time
+31@@@36@@@Enrique Iglesias Featuring Sammy Adams@@@Finally Found You
+32@@@55@@@Kendrick Lamar@@@Swimming Pools (Drank)
+33@@@32@@@Maroon 5 Featuring Wiz Khalifa@@@Payphone
+34@@@41@@@Ed Sheeran@@@The A Team
+35@@@40@@@Lee Brice@@@Hard To Love
+36@@@37@@@French Montana Featuring Rick Ross, Drake, Lil Wayne@@@Pop That
+37@@@34@@@Mumford & Sons@@@I Will Wait
+38@@@33@@@Kanye West, Big Sean, Pusha T, 2 Chainz@@@Mercy
+39@@@31@@@One Direction@@@Live While We're Young
+40@@@42@@@Luke Bryan@@@Kiss Tomorrow Goodbye
+41@@@38@@@Hunter Hayes@@@Wanted
+42@@@39@@@Demi Lovato@@@Give Your Heart A Break
+43@@@46@@@Juicy J Featuring Lil Wayne & 2 Chainz@@@Bandz A Make Her Dance
+44@@@101@@@Taylor Swift@@@22
+45@@@52@@@Frank Ocean@@@Thinkin Bout You
+46@@@43@@@2 Chainz Featuring Drake@@@No Lie
+47@@@49@@@2 Chainz Featuring Kanye West@@@Birthday Song
+48@@@48@@@Trey Songz Featuring T.I.@@@2 Reasons
+49@@@44@@@Jason Mraz@@@I Won't Give Up
+50@@@56@@@OneRepublic@@@Feel Again
+51@@@57@@@Jake Owen@@@The One That Got Away
+52@@@45@@@Adele@@@Skyfall
+53@@@70@@@The Script Featuring will.i.am@@@Hall Of Fame
+54@@@53@@@Future@@@Turn On The Lights
+55@@@75@@@Swedish House Mafia Featuring John Martin@@@Don't You Worry Child
+56@@@60@@@Miranda Lambert@@@Fastest Girl In Town
+57@@@61@@@Easton Corbin@@@Lovin' You Is Fun
+58@@@63@@@Jason Aldean@@@Take A Little Ride
+59@@@62@@@Rascal Flatts@@@Come Wake Me Up
+60@@@59@@@Christina Aguilera@@@Your Body
+61@@@66@@@Muse@@@Madness
+62@@@58@@@David Guetta Featuring Chris Brown & Lil Wayne@@@I Can Only Imagine
+63@@@67@@@Kip Moore@@@Beer Money
+64@@@51@@@Nicki Minaj@@@Pound The Alarm
+65@@@101@@@Taylor Swift@@@I Almost Do
+66@@@72@@@Lil Wayne Featuring Detail@@@No Worries
+67@@@101@@@Taylor Swift Featuring Ed Sheeran@@@Everything Has Changed
+68@@@76@@@Justin Moore@@@Til My Last Day
+69@@@64@@@Ellie Goulding@@@Anything Could Happen
+70@@@71@@@Justin Bieber Featuring Nicki Minaj@@@Beauty And A Beat
+71@@@65@@@Brandy Featuring Chris Brown@@@Put It Down
+72@@@69@@@Usher@@@Numb
+73@@@68@@@Cher Lloyd@@@Want U Back
+74@@@73@@@Eric Church@@@Creepin'
+75@@@50@@@T.I. Featuring Lil Wayne@@@Ball
+76@@@101@@@Kendrick Lamar Featuring Drake@@@Poetic Justice
+77@@@82@@@Macklemore & Ryan Lewis Featuring Wanz@@@Thrift Shop
+78@@@98@@@Bridgit Mendler@@@Ready Or Not
+79@@@79@@@Beyonce@@@Dance For You
+80@@@101@@@Taylor Swift@@@All Too Well
+81@@@89@@@Gary Allan@@@Every Storm (Runs Out Of Rain)
+82@@@91@@@Zac Brown Band@@@Goodbye In Her Eyes
+83@@@81@@@Trey Songz@@@Dive In
+84@@@87@@@Rick Ross Featuring Wale & Drake@@@Diced Pineapples
+85@@@86@@@Randy Houser@@@How Country Feels
+86@@@88@@@Greg Bates@@@Did It For The Girl
+87@@@84@@@Brad Paisley@@@Southern Comfort Zone
+88@@@90@@@Kenny Chesney@@@El Cerrito Place
+89@@@85@@@Passion Pit@@@Take A Walk
+90@@@93@@@Imagine Dragons@@@Radioactive
+91@@@101@@@Taylor Swift@@@Stay Stay Stay
+92@@@101@@@Sam Palladio & Clare Bowen@@@Fade Into You
+93@@@54@@@Kelly Clarkson@@@Catch My Breath
+94@@@101@@@Kendrick Lamar Featuring MC Eiht@@@m.A.A.d City
+95@@@101@@@Meek Mill Featuring Kirko Bangz@@@Young & Gettin' It
+96@@@95@@@DJ Drama, 2 Chainz, Meek Mill, Jeremih@@@My Moment
+97@@@83@@@Mumford & Sons@@@Babel
+98@@@101@@@Nicki Minaj@@@Va Va Voom
+99@@@101@@@Pitbull Featuring TJR@@@Don't Stop The Party
+100@@@101@@@Kelly Rowland Featuring Lil Wayne@@@Ice

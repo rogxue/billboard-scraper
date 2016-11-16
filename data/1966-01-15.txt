@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@We Can Work It Out
+2@@@2@@@Simon & Garfunkel@@@The Sound Of Silence
+3@@@3@@@Gary Lewis And The Playboys@@@She's Just My Style
+4@@@8@@@The Vogues@@@Five O'Clock World
+5@@@5@@@The Righteous Brothers@@@Ebb Tide
+6@@@10@@@The Beatles@@@Day Tripper
+7@@@4@@@The Statler Brothers@@@Flowers On The Wall
+8@@@24@@@Mike Douglas@@@The Men In My Little Girl's Life
+9@@@14@@@The Rolling Stones@@@As Tears Go By
+10@@@13@@@The T-Bones@@@No Matter What Shape (Your Stomach's In)
+11@@@15@@@Herman's Hermits@@@A Must To Avoid
+12@@@16@@@The Lovin' Spoonful@@@You Didn't Have To Be So Nice
+13@@@6@@@The Dave Clark Five@@@Over And Over
+14@@@12@@@The McCoys@@@Fever
+15@@@11@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Let's Hang On!
+16@@@23@@@Paul Revere & The Raiders Featuring Mark Lindsay@@@Just Like Me
+17@@@18@@@Jackie Lee@@@The Duck
+18@@@19@@@Al Martino@@@Spanish Eyes
+19@@@9@@@The Byrds@@@Turn! Turn! Turn! (To Everything There Is A Season)
+20@@@7@@@James Brown And The Famous Flames@@@I Got You (I Feel Good)
+21@@@32@@@Mitch Ryder And The Detroit Wheels@@@Jenny Take A Ride!
+22@@@28@@@The Toys@@@Attack
+23@@@26@@@Bobby Vinton@@@Satin Pillows
+24@@@52@@@Petula Clark@@@My Love
+25@@@25@@@The Animals@@@It's My Life
+26@@@35@@@The Knickerbockers@@@Lies
+27@@@30@@@Tom Jones@@@Thunderball
+28@@@38@@@The Kinks@@@A Well Respected Man
+29@@@29@@@Joe Tex@@@A Sweet Woman Like You
+30@@@37@@@Ronny And The Daytonas@@@Sandy
+31@@@58@@@The Beach Boys@@@Barbara Ann
+32@@@17@@@Eddy Arnold@@@Make The World Go Away
+33@@@45@@@Ray Charles@@@Crying Time
+34@@@39@@@The Hollies@@@Look Through Any Window
+35@@@46@@@Johnny Rivers@@@Under Your Spell Again
+36@@@27@@@The Wonder Who?@@@Don't Think Twice
+37@@@47@@@Frank Sinatra@@@It Was A Very Good Year
+38@@@41@@@Billy Joe Royal@@@I've Got To Be Somebody
+39@@@20@@@Roger Miller@@@England Swings
+40@@@22@@@Barry Young@@@One Has My Name (The Other Has My Heart)
+41@@@49@@@Barbra Streisand@@@Second Hand Rose
+42@@@42@@@The Viscounts@@@Harlem Nocturne
+43@@@56@@@Herb Alpert & The Tijuana Brass@@@Zorba The Greek
+44@@@21@@@Elvis Presley With The Jordanaires@@@Puppet On A String
+45@@@48@@@Dionne Warwick@@@Are You There (With Another Girl)
+46@@@57@@@Stevie Wonder@@@Uptight (Everything's Alright)
+47@@@64@@@Elvis Presley With The Jordanaires@@@Tell Me Why
+48@@@59@@@The Miracles@@@Going To A Go-Go
+49@@@36@@@The Shangri-Las@@@I Can Never Go Home Anymore
+50@@@33@@@The Impressions@@@You've Been Cheatin'
+51@@@51@@@Noel Harrison@@@A Young Girl
+52@@@66@@@Lou Christie@@@Lightnin' Strikes
+53@@@53@@@Bobby Goldsboro@@@Broomstick Cowboy
+54@@@67@@@Len Barry@@@Like A Baby
+55@@@65@@@The Marvelettes@@@Don't Mess With Bill
+56@@@62@@@Fontella Bass@@@Recovery
+57@@@50@@@Hedgehoppers Anonymous@@@It's Good News Week
+58@@@34@@@The Beach Boys@@@The Little Girl I Once Knew
+59@@@54@@@Connie Francis@@@Jealous Heart
+60@@@68@@@The Four Seasons@@@Little Boy (In Grown Up Clothes)
+61@@@61@@@The C.O.D.'s@@@Michael
+62@@@55@@@Vic Dana@@@Crystal Chandelier
+63@@@60@@@Dino, Desi & Billy@@@Please Don't Fight It
+64@@@69@@@Herb Alpert & The Tijuana Brass@@@Tijuana Taxi
+65@@@77@@@The Gentrys@@@Spread It On Thick
+66@@@79@@@Little Anthony And The Imperials@@@Hurt
+67@@@82@@@The Young Rascals@@@I Ain't Gonna Eat Out My Heart Anymore
+68@@@81@@@Chris Montez@@@Call Me
+69@@@98@@@David & Jonathan@@@Michelle
+70@@@70@@@The Packers@@@Hole In The Wall
+71@@@80@@@The Five Americans@@@I See The Light
+72@@@87@@@Bob Dylan@@@Can You Please Crawl Out Your Window?
+73@@@84@@@Maxine Brown@@@If You Gotta Make A Fool Of Somebody
+74@@@99@@@The Mamas & The Papas@@@California Dreamin'
+75@@@101@@@Jr. Walker & The All Stars@@@Cleo's Mood
+76@@@76@@@Bobby Powell@@@C.C. Rider
+77@@@71@@@Jack Jones@@@Love Bug
+78@@@101@@@The Supremes@@@My World Is Empty Without You
+79@@@88@@@Gene Chandler@@@Rainbow '65 (Part I)
+80@@@86@@@Martha & The Vandellas@@@Love (Makes Me Do Foolish Things)
+81@@@90@@@Lee Dorsey@@@Get Out Of My Life, Woman
+82@@@94@@@Red Sovine@@@Giddyup Go
+83@@@85@@@The Temptations@@@Don't Look Back
+84@@@91@@@Bobby Bland@@@I'm Too Far Gone (To Turn Around)
+85@@@101@@@The Strangeloves@@@Night Time
+86@@@101@@@Frankie Valli@@@(You're Gonna) Hurt Yourself
+87@@@97@@@Tammi Terrell@@@I Can't Believe You Love Me
+88@@@101@@@Jim Reeves@@@Snow Flake
+89@@@89@@@King Curtis@@@Spanish Harlem
+90@@@96@@@Billy Vaughn And His Orchestra@@@Michelle
+91@@@101@@@Sam & Dave@@@You Don't Know Like I Know
+92@@@101@@@Sharpees@@@Tired Of Being Lonely
+93@@@101@@@Jackie Wilson And LaVern Baker@@@Think Twice
+94@@@101@@@Darrow Fletcher@@@The Pain Gets A Little Deeper
+95@@@95@@@Ben E. King@@@Goodnight My Love
+96@@@100@@@Solomon Burke@@@Baby Come On Home
+97@@@101@@@Eddie Holman@@@This Can't Be True
+98@@@101@@@The Who@@@My Generation
+99@@@101@@@Roy Head@@@Get Back
+100@@@101@@@Jonathan King@@@Where The Sun Has Never Shone

@@ -1,0 +1,100 @@
+1@@@1@@@Kenny Rogers@@@Lady
+2@@@6@@@Leo Sayer@@@More Than I Can Say
+3@@@4@@@Queen@@@Another One Bites The Dust
+4@@@2@@@Barbra Streisand@@@Woman In Love
+5@@@7@@@Stevie Wonder@@@Master Blaster (Jammin')
+6@@@8@@@John Lennon@@@(Just Like) Starting Over
+7@@@9@@@Neil Diamond@@@Love On The Rocks
+8@@@11@@@Bruce Springsteen@@@Hungry Heart
+9@@@5@@@Diana Ross@@@I'm Coming Out
+10@@@10@@@Cliff Richard@@@Dreaming
+11@@@13@@@Pat Benatar@@@Hit Me With Your Best Shot
+12@@@12@@@Daryl Hall & John Oates@@@You've Lost That Lovin' Feeling
+13@@@3@@@Donna Summer@@@The Wanderer
+14@@@16@@@Barbra Streisand & Barry Gibb@@@Guilty
+15@@@15@@@Christopher Cross@@@Never Be The Same
+16@@@19@@@Air Supply@@@Every Woman In The World
+17@@@14@@@Devo@@@Whip It
+18@@@33@@@Heart@@@Tell It Like It Is
+19@@@24@@@The Police@@@De Do Do Do, De Da Da Da
+20@@@20@@@Roger Daltrey@@@Without Your Love
+21@@@23@@@The Korgis@@@Everybody's Got To Learn Sometime
+22@@@25@@@Randy Meisner@@@Deep Inside My Heart
+23@@@27@@@Diana Ross@@@It's My Turn
+24@@@26@@@Waylon@@@Theme From The Dukes Of Hazzard (Good Ol' Boys)
+25@@@29@@@Harry Chapin@@@Sequel
+26@@@17@@@The Pointer Sisters@@@He's So Shy
+27@@@30@@@John Cougar@@@This Time
+28@@@32@@@Kool & The Gang@@@Celebration
+29@@@31@@@Don Williams@@@I Believe In You
+30@@@35@@@Olivia Newton-John & Cliff Richard@@@Suddenly
+31@@@37@@@Rod Stewart@@@Passion
+32@@@38@@@Blondie@@@The Tide Is High
+33@@@18@@@Stephanie Mills@@@Never Knew Love Like This Before
+34@@@42@@@The Doobie Brothers@@@One Step Closer
+35@@@22@@@The Jacksons@@@Lovely One
+36@@@39@@@Dr. Hook@@@Girls Can Get It
+37@@@21@@@Stacy Lattisaw@@@Let Me Be Your Angel
+38@@@52@@@Andy Gibb@@@Time Is Time
+39@@@47@@@Barry Manilow@@@I Made It Through The Rain
+40@@@53@@@Eddie Rabbitt@@@I Love A Rainy Night
+41@@@28@@@Diana Ross@@@Upside Down
+42@@@49@@@Tierra@@@Together
+43@@@34@@@Willie Nelson@@@On The Road Again
+44@@@50@@@The Kings@@@Switchin' To Glide/This Beat Goes On
+45@@@65@@@Steely Dan@@@Hey Nineteen
+46@@@56@@@Bob Seger@@@The Horizontal Bop
+47@@@36@@@The Vapors@@@Turning Japanese
+48@@@54@@@Cheap Trick@@@Stop This Game
+49@@@40@@@Paul Simon@@@One-Trick Pony
+50@@@60@@@Marcy Levy & Robin Gibb@@@Help Me!
+51@@@58@@@The Babys@@@Turn And Walk Away
+52@@@55@@@The Pointer Sisters@@@Could I Be Dreaming
+53@@@41@@@Irene Cara@@@Out Here On My Own
+54@@@44@@@Jimmy Hall@@@I'm Happy That Love Has Found You
+55@@@43@@@AC/DC@@@You Shook Me All Night Long
+56@@@45@@@Supertramp@@@Dreamer
+57@@@64@@@Climax Blues Band@@@Gotta Have More Love
+58@@@68@@@Earth, Wind & Fire@@@You
+59@@@69@@@L.T.D.@@@Shine On
+60@@@73@@@Dolly Parton@@@9 To 5
+61@@@71@@@ABBA@@@The Winner Takes It All
+62@@@72@@@Michael Stanley Band@@@He Can't Love You
+63@@@48@@@The Rolling Stones@@@She's So Cold
+64@@@74@@@Rockpile@@@Teacher Teacher
+65@@@75@@@Bette Midler@@@My Mother's Eyes
+66@@@76@@@Queen@@@Need Your Loving Tonight
+67@@@77@@@Fred Knoblock & Susan Anton@@@Killin' Time
+68@@@70@@@Rupert Holmes@@@Morning Man
+69@@@51@@@Mac Davis@@@Texas In My Rear View Mirror
+70@@@78@@@Dionne Warwick@@@Easy Love
+71@@@80@@@Teena Marie@@@I Need Your Lovin'
+72@@@81@@@Donna Summer@@@Cold Love
+73@@@46@@@Nielsen/Pearson@@@If You Should Sail
+74@@@82@@@The Manhattan Transfer@@@Trickle Trickle
+75@@@83@@@Ronnie Milsap@@@Smoky Mountain Rain
+76@@@85@@@Teddy Pendergrass@@@Love T.K.O.
+77@@@87@@@Boz Scaggs@@@Miss Sun
+78@@@57@@@The Doobie Brothers@@@Real Love
+79@@@88@@@REO Speedwagon@@@Keep On Loving You
+80@@@59@@@Carly Simon@@@Jesse
+81@@@101@@@Pure Prairie League@@@I Can't Stop The Feelin'
+82@@@61@@@Boz Scaggs@@@Look What You've Done To Me
+83@@@101@@@The Alan Parsons Project@@@Games People Play
+84@@@101@@@The Jacksons@@@Heartbreak Hotel
+85@@@62@@@Air Supply@@@All Out Of Love
+86@@@63@@@Jackson Browne@@@That Girl Could Sing
+87@@@101@@@David Bowie@@@Fashion
+88@@@90@@@Robbin Thompson Band@@@Brite Eyes
+89@@@92@@@The Reddings@@@Remote Control
+90@@@101@@@Delbert McClinton@@@Giving It Up For Your Love
+91@@@89@@@Pete Townshend@@@Rough Boys
+92@@@67@@@Billy Joel@@@Sometimes A Fantasy
+93@@@66@@@Kenny Loggins@@@I'm Alright
+94@@@84@@@Anne Murray@@@Could I Have This Dance
+95@@@86@@@Eddie Rabbitt@@@Drivin' My Life Away
+96@@@98@@@Pendulum@@@Gypsy Spirit
+97@@@95@@@George Benson@@@Give Me The Night
+98@@@96@@@Eric Clapton And His Band@@@Blues Power
+99@@@100@@@Irene Cara@@@Fame
+100@@@99@@@707@@@I Could Be Good For You

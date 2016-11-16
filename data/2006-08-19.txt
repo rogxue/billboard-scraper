@@ -1,0 +1,100 @@
+1@@@5@@@Fergie@@@London Bridge
+2@@@2@@@Gnarls Barkley@@@Crazy
+3@@@1@@@Nelly Furtado Featuring Timbaland@@@Promiscuous
+4@@@3@@@Cassie@@@Me & U
+5@@@6@@@The Pussycat Dolls Featuring Snoop Dogg@@@Buttons
+6@@@4@@@Beyonce Featuring Jay-Z@@@Deja Vu
+7@@@12@@@Sean Paul Featuring Keyshia Cole@@@(When You Gonna) Give It Up To Me
+8@@@8@@@Christina Aguilera@@@Ain't No Other Man
+9@@@7@@@Yung Joc@@@It's Goin' Down
+10@@@15@@@Panic! At The Disco@@@I Write Sins Not Tragedies
+11@@@9@@@The Fray@@@Over My Head (Cable Car)
+12@@@13@@@Young Dro Featuring T.I.@@@Shoulder Lean
+13@@@11@@@Rihanna@@@Unfaithful
+14@@@19@@@Ne-Yo@@@Sexy Love
+15@@@10@@@Shakira Featuring Wyclef Jean@@@Hips Don't Lie
+16@@@17@@@Lil Jon Featuring E-40 & Sean Paul Of The YoungBloodZ@@@Snap Yo Fingers
+17@@@16@@@Cherish Featuring Sean Paul Of The YoungBloodZ@@@Do It To It
+18@@@20@@@E-40 Featuring T-Pain & Kandi Girl@@@U And Dat
+19@@@18@@@Kelis Featuring Too $hort@@@Bossy
+20@@@14@@@Jessica Simpson@@@A Public Affair
+21@@@25@@@The All-American Rejects@@@Move Along
+22@@@22@@@Field Mob Featuring Ciara@@@So What
+23@@@24@@@Red Hot Chili Peppers@@@Dani California
+24@@@23@@@Chamillionaire Featuring Krayzie Bone@@@Ridin'
+25@@@26@@@Chingy Featuring Tyrese@@@Pullin' Me Back
+26@@@30@@@Yung Joc Featuring Brandy 'Ms. B.' Hambrick@@@I Know You See It
+27@@@29@@@KT Tunstall@@@Black Horse & The Cherry Tree
+28@@@27@@@Daniel Powter@@@Bad Day
+29@@@43@@@Nickelback@@@Far Away
+30@@@28@@@Paris Hilton@@@Stars Are Blind
+31@@@31@@@Nickelback@@@Savin' Me
+32@@@32@@@Natasha Bedingfield@@@Unwritten
+33@@@36@@@Rodney Atkins@@@If You're Going Through Hell (Before The Devil Even Knows)
+34@@@42@@@The Wreckers@@@Leave The Pieces
+35@@@47@@@Snow Patrol@@@Chasing Cars
+36@@@48@@@Rihanna@@@SOS
+37@@@34@@@T.I.@@@Why You Wanna
+38@@@33@@@Janet & Nelly@@@Call On Me
+39@@@35@@@Nick Lachey@@@What's Left Of Me
+40@@@86@@@Five For Fighting@@@The Riddle
+41@@@38@@@Rascal Flatts@@@Life Is A Highway
+42@@@21@@@Ashlee Simpson@@@Invisible
+43@@@39@@@Sean Paul@@@Temperature
+44@@@45@@@Rascal Flatts@@@What Hurts The Most
+45@@@41@@@Fort Minor Featuring Holly Brook & Jonah Matranga@@@Where'd You Go
+46@@@49@@@Steve Holy@@@Brand New Girlfriend
+47@@@50@@@Blue October@@@Hate Me
+48@@@44@@@LeToya@@@Torn
+49@@@40@@@Chris Brown Featuring Lil' Wayne@@@Gimme That
+50@@@55@@@Breaking Benjamin@@@The Diary Of Jane
+51@@@46@@@Kenny Chesney@@@Summertime
+52@@@60@@@Justin Timberlake@@@SexyBack
+53@@@101@@@Brooke Hogan Featuring Paul Wall@@@About Us
+54@@@52@@@Rascal Flatts@@@Me And My Gang
+55@@@51@@@AFI@@@Miss Murder
+56@@@37@@@John Mayer@@@Waiting On The World To Change
+57@@@53@@@Toby Keith@@@A Little Too Late
+58@@@54@@@Brad Paisley@@@The World
+59@@@63@@@Josh Turner@@@Would You Go With Me
+60@@@58@@@The Fray@@@How To Save A Life
+61@@@70@@@Hinder@@@Lips Of An Angel
+62@@@62@@@Gary Allan@@@Life Ain't Always Beautiful
+63@@@64@@@Rick Ross@@@Hustlin'
+64@@@56@@@Paula DeAnda Featuring Baby Bash@@@Doing Too Much
+65@@@95@@@Lyfe Jennings@@@S.E.X.
+66@@@67@@@Little Big Town@@@Bring It On Home
+67@@@75@@@The Raconteurs@@@Steady, As She Goes
+68@@@59@@@Busta Rhymes Featuring will.i.am & Kelis@@@I Love My B****
+69@@@101@@@Jibbs@@@Chain Hang Low
+70@@@61@@@Taking Back Sunday@@@MakeDamnSure
+71@@@74@@@KT Tunstall@@@Suddenly I See
+72@@@71@@@Three Days Grace@@@Animal I Have Become
+73@@@65@@@Buckcherry@@@Crazy Bitch
+74@@@66@@@Carrie Underwood@@@Don't Forget To Remember Me
+75@@@68@@@Goo Goo Dolls@@@Stay With You
+76@@@69@@@Mary J. Blige Featuring Brook-Lyn@@@Enough Cryin
+77@@@73@@@Anna Nalick@@@Breathe (2 AM)
+78@@@82@@@Faith Hill@@@Sunshine And Summertime
+79@@@80@@@Trace Adkins@@@Swing
+80@@@93@@@Ciara Featuring Chamillionaire@@@Get Up
+81@@@85@@@30 Seconds To Mars@@@The Kill (Bury Me)
+82@@@89@@@Mario Vazquez@@@Gallery
+83@@@76@@@The Red Jumpsuit Apparatus@@@Face Down
+84@@@81@@@Corinne Bailey Rae@@@Put Your Records On
+85@@@87@@@Brooks & Dunn With Sheryl Crow & Vince Gill@@@Building Bridges
+86@@@83@@@Jake Owen@@@Yee Haw
+87@@@101@@@Stone Sour@@@Through Glass
+88@@@57@@@Pharrell Featuring Kanye West@@@Number One
+89@@@88@@@Lionel Richie@@@I Call It Love
+90@@@79@@@Tim McGraw@@@When The Stars Go Blue
+91@@@84@@@Dixie Chicks@@@Not Ready To Make Nice
+92@@@77@@@Keith Anderson@@@Every Time I Hear Your Name
+93@@@91@@@Shareefa Featuring Ludacris@@@Need A Boss
+94@@@101@@@Monica Featuring Dem Franchize Boyz@@@Everytime Tha Beat Drop
+95@@@101@@@Jeannie Ortega Featuring Papoose@@@Crowded
+96@@@72@@@Cheyenne Kimball@@@Hanging On
+97@@@90@@@Keane@@@Is It Any Wonder?
+98@@@78@@@Taylor Hicks@@@Do I Make You Proud
+99@@@101@@@George Strait@@@Give It Away
+100@@@99@@@Billy Currington@@@Why, Why, Why

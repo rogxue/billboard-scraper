@@ -1,0 +1,100 @@
+1@@@3@@@Bon Jovi@@@Livin' On A Prayer
+2@@@1@@@Madonna@@@Open Your Heart
+3@@@4@@@Cyndi Lauper@@@Change Of Heart
+4@@@5@@@Samantha Fox@@@Touch Me (I Want Your Body)
+5@@@7@@@The Georgia Satellites@@@Keep Your Hands To Yourself
+6@@@9@@@Chicago@@@Will You Still Love Me?
+7@@@2@@@Billy Vera@@@At This Moment
+8@@@15@@@Huey Lewis & The News@@@Jacob's Ladder
+9@@@10@@@Boston@@@We're Ready
+10@@@12@@@Lionel Richie@@@Ballerina Girl
+11@@@17@@@The Jets@@@You Got It All
+12@@@14@@@Ready For The World@@@Love You Down
+13@@@18@@@Cinderella@@@Nobody's Fool
+14@@@21@@@Linda Ronstadt & James Ingram@@@Somewhere Out There (From "An American Tail")
+15@@@19@@@Luther Vandross@@@Stop To Love
+16@@@22@@@Peter Gabriel@@@Big Time
+17@@@24@@@Beastie Boys@@@(You Gotta) Fight For Your Right (To Party!)
+18@@@26@@@Bruce Willis@@@Respect Yourself
+19@@@8@@@Glass Tiger@@@Someday
+20@@@6@@@Genesis@@@Land Of Confusion
+21@@@27@@@Journey@@@I'll Be Alright Without You
+22@@@23@@@Chico DeBarge@@@Talk To Me
+23@@@11@@@Robbie Nevil@@@C'est La Vie
+24@@@25@@@Benjamin Orr@@@Stay The Night
+25@@@31@@@Corey Hart@@@Can't Help Falling In Love
+26@@@13@@@Gregory Abbott@@@Shake You Down
+27@@@35@@@Bruce Hornsby & The Range@@@Mandolin Rain
+28@@@32@@@Eddie Money@@@I Wanna Go Back
+29@@@33@@@Dead Or Alive@@@Brand New Lover
+30@@@36@@@Janet Jackson@@@Let's Wait Awhile
+31@@@16@@@Janet Jackson@@@Control
+32@@@20@@@Billy Joel@@@This Is The Time
+33@@@37@@@Jeff Lorber@@@Facts Of Love
+34@@@41@@@Cameo@@@Candy
+35@@@42@@@Starship@@@Nothing's Gonna Stop Us Now
+36@@@44@@@Expose@@@Come Go With Me
+37@@@39@@@Anita Baker@@@Caught Up In The Rapture
+38@@@40@@@Toto@@@Without Your Love
+39@@@43@@@Wang Chung@@@Let's Go!
+40@@@28@@@Aretha Franklin@@@Jimmy Lee
+41@@@30@@@Bangles@@@Walk Like An Egyptian
+42@@@48@@@Europe@@@The Final Countdown
+43@@@46@@@Stacey Q@@@We Connect
+44@@@52@@@Crowded House@@@Don't Dream It's Over
+45@@@101@@@Genesis@@@Tonight, Tonight, Tonight
+46@@@47@@@Shirley Murdock@@@As We Lay
+47@@@101@@@Club Nouveau@@@Lean On Me
+48@@@51@@@Billy Idol@@@Don't Need A Gun
+49@@@34@@@Survivor@@@Is This Love
+50@@@59@@@Bruce Springsteen@@@Fire
+51@@@54@@@REO Speedwagon@@@That Ain't Love
+52@@@29@@@Kool & The Gang@@@Victory
+53@@@58@@@The Communards@@@Don't Leave Me This Way
+54@@@63@@@Lou Gramm@@@Midnight Blue
+55@@@57@@@Lone Justice@@@Shelter
+56@@@74@@@Tina Turner@@@What You Get Is What You See
+57@@@65@@@Duran Duran@@@Skin Trade
+58@@@64@@@Daryl Hall@@@Someone Like You
+59@@@73@@@Hipsway@@@The Honeythief
+60@@@70@@@A-Ha@@@Cry Wolf
+61@@@68@@@Peter Cetera@@@Big Mistake
+62@@@38@@@Duran Duran@@@Notorious
+63@@@66@@@'Til Tuesday@@@Coming Up Close
+64@@@56@@@Ben E. King@@@Stand By Me
+65@@@81@@@David@@@Ain't So Easy
+66@@@53@@@Kansas@@@All I Wanted
+67@@@72@@@Sweet Sensation@@@Hooked On You
+68@@@67@@@Five Star@@@If I Say Yes
+69@@@49@@@Wang Chung@@@Everybody Have Fun Tonight
+70@@@62@@@Run-D.M.C.@@@You Be Illin'
+71@@@75@@@Lionel Richie@@@Deep River Woman
+72@@@95@@@Steve Winwood@@@The Finer Things
+73@@@84@@@Pretenders@@@My Baby
+74@@@87@@@Kool & The Gang@@@Stone Love
+75@@@45@@@Carly Simon@@@Coming Around Again
+76@@@80@@@Howard Jones@@@All I Want
+77@@@96@@@Freddie Jackson@@@Have You Ever Loved Somebody
+78@@@86@@@Eight Seconds@@@Kiss You (When It's Dangerous)
+79@@@88@@@The Robert Cray Band@@@Smoking Gun
+80@@@76@@@Ann Wilson@@@The Best Man In The World
+81@@@55@@@Bruce Hornsby & The Range@@@The Way It Is
+82@@@60@@@Bobby Brown@@@Girlfriend
+83@@@92@@@Sheila E@@@Hold Me
+84@@@101@@@Sammy Hagar@@@Winner Takes It All
+85@@@89@@@Uptown@@@(I Know) I'm Losing You
+86@@@91@@@Rob Jungklas@@@Make It Mean Something
+87@@@90@@@Nocera@@@Summertime, Summertime
+88@@@101@@@Chris De Burgh@@@The Lady In Red
+89@@@69@@@Nancy Martinez@@@For Tonight
+90@@@101@@@Robbie Nevil@@@Dominoes
+91@@@78@@@El DeBarge@@@Someone
+92@@@101@@@Glenn Medeiros@@@Nothing's Gonna Change My Love For You
+93@@@101@@@Donna Allen@@@Serious
+94@@@101@@@Kansas@@@Power
+95@@@101@@@Bangles@@@Walking Down Your Street
+96@@@101@@@World Party@@@Ship Of Fools (Save Me From Tomorrow)
+97@@@50@@@Gloria Estefan@@@Falling In Love (Uh-Oh)
+98@@@79@@@Bon Jovi@@@You Give Love A Bad Name
+99@@@61@@@The Human League@@@I Need Your Loving
+100@@@93@@@Ron And The D.C. Crew@@@Ronnies Rapp

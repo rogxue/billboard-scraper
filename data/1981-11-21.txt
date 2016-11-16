@@ -1,0 +1,100 @@
+1@@@3@@@Olivia Newton-John@@@Physical
+2@@@1@@@Daryl Hall & John Oates@@@Private Eyes
+3@@@4@@@Foreigner@@@Waiting For A Girl Like You
+4@@@2@@@The Rolling Stones@@@Start Me Up
+5@@@7@@@Air Supply@@@Here I Am (Just When I Thought I Was Over You)
+6@@@5@@@Bob Seger@@@Tryin' To Live My Life Without You
+7@@@6@@@Little River Band@@@The Night Owls
+8@@@12@@@The Police@@@Every Little Thing She Does Is Magic
+9@@@9@@@Christopher Cross@@@Arthur's Theme (Best That You Can Do)
+10@@@10@@@Mike Post featuring Larry Carlton@@@The Theme From Hill Street Blues
+11@@@13@@@Commodores@@@Oh No
+12@@@14@@@Diana Ross@@@Why Do Fools Fall In Love
+13@@@8@@@Rick Springfield@@@I've Done Everything For You
+14@@@11@@@Four Tops@@@When She Was My Girl
+15@@@19@@@Rod Stewart@@@Young Turks
+16@@@18@@@Barry Manilow@@@The Old Songs
+17@@@17@@@Quincy Jones Featuring James Ingram@@@Just Once
+18@@@23@@@Earth, Wind & Fire@@@Let's Groove
+19@@@24@@@Lindsey Buckingham@@@Trouble
+20@@@15@@@Al Jarreau@@@We're In This Love Together
+21@@@25@@@Stevie Nicks With Don Henley@@@Leather And Lace
+22@@@27@@@Quarterflash@@@Harden My Heart
+23@@@34@@@Neil Diamond@@@Yesterday's Songs
+24@@@28@@@Journey@@@Don't Stop Believin'
+25@@@26@@@Diesel@@@Sausalito Summernight
+26@@@30@@@Go-Go's@@@Our Lips Are Sealed
+27@@@29@@@Kool & The Gang@@@Take My Heart (You Can Have It If You Want It)
+28@@@31@@@Chilliwack@@@My Girl (Gone, Gone, Gone)
+29@@@33@@@Juice Newton@@@The Sweetest Thing (I've Ever Known)
+30@@@32@@@Genesis@@@No Reply At All
+31@@@36@@@The Steve Miller Band@@@Heart Like A Wheel
+32@@@59@@@Daryl Hall & John Oates@@@I Can't Go For That (No Can Do)
+33@@@16@@@Sheena Easton@@@For Your Eyes Only
+34@@@39@@@Stevie Woods@@@Steal The Night
+35@@@37@@@Luther Vandross@@@Never Too Much
+36@@@20@@@Dan Fogelberg@@@Hard To Say
+37@@@40@@@Chris Christian@@@I Want You, I Need You
+38@@@21@@@Diana Ross & Lionel Richie@@@Endless Love
+39@@@49@@@George Benson@@@Turn Your Love Around
+40@@@44@@@Survivor@@@Poor Man's Son
+41@@@50@@@The J. Geils Band@@@Centerfold
+42@@@63@@@Royal Philharmonic Orchestra@@@Hooked On Classics
+43@@@48@@@Electric Light Orchestra@@@Twilight
+44@@@52@@@Ronnie Milsap@@@I Wouldn't Have Missed It For The World
+45@@@62@@@Barbra Streisand@@@Comin' In And Out Of Your Life
+46@@@22@@@Billy Joel@@@Say Goodbye To Hollywood
+47@@@35@@@Eddie Rabbitt@@@Step By Step
+48@@@41@@@Rick James@@@Super Freak (Part I)
+49@@@69@@@Paul Davis@@@Cool Night
+50@@@42@@@Carl Carlton@@@She's A Bad Mama Jama (She's Built, She's Stacked)
+51@@@43@@@Marty Balin@@@Atlanta Lady (Something About Your Love)
+52@@@45@@@Stevie Nicks With Tom Petty And The Heartbreakers@@@Stop Draggin' My Heart Around
+53@@@65@@@Ringo Starr@@@Wrack My Brain
+54@@@66@@@Queen & David Bowie@@@Under Pressure
+55@@@46@@@Pat Benatar@@@Promises In The Dark
+56@@@38@@@Kenny Rogers@@@Share Your Love With Me
+57@@@51@@@Triumph@@@Magic Power
+58@@@68@@@Don McLean@@@Castles In The Air
+59@@@76@@@Eddie Rabbitt@@@Someone Could Lose A Heart Tonight
+60@@@70@@@Sneaker@@@More Than Just The Two Of Us
+61@@@53@@@Journey@@@Who's Crying Now
+62@@@54@@@Johnny Lee@@@Bet Your Heart On Me
+63@@@75@@@Bee Gees@@@Living Eyes
+64@@@64@@@Jermaine Jackson@@@I'm Just Too Shy
+65@@@55@@@Joey Scarbury@@@When She Dances
+66@@@73@@@John Denver@@@The Cowboy And The Lady
+67@@@67@@@The Knack@@@Pay The Devil (Ooo, Baby, Ooo)
+68@@@77@@@The Moody Blues@@@Talking Out Of Turn
+69@@@79@@@Loverboy@@@Working For The Weekend
+70@@@74@@@Prince@@@Controversy
+71@@@56@@@Atlanta Rhythm Section@@@Alien
+72@@@57@@@Foreigner@@@Urgent
+73@@@58@@@Electric Light Orchestra@@@Hold On Tight
+74@@@60@@@Kim Carnes@@@Mistaken Identity
+75@@@61@@@Billy Squier@@@In The Dark
+76@@@101@@@The Cars@@@Shake It Up
+77@@@71@@@Arlan Day@@@I Surrender
+78@@@72@@@Tierra@@@La La Means I Love You
+79@@@101@@@Billy Joel@@@She's Got A Way
+80@@@83@@@Donnie Iris@@@Sweet Merilee
+81@@@90@@@Alabama@@@Love In The First Degree
+82@@@86@@@Bertie Higgins@@@Key Largo
+83@@@101@@@Greg Lake@@@Let Me Love You Once
+84@@@89@@@Roger@@@I Heard It Through The Grapevine (Part 1)
+85@@@101@@@Lulu@@@If I Were You
+86@@@101@@@Kenny Rogers@@@Blaze Of Glory
+87@@@101@@@Steve Carlisle@@@Wkrp In Cincinnati
+88@@@91@@@Central Line@@@Walking Into Sunshine
+89@@@101@@@The Beach Boys@@@Come Go With Me
+90@@@101@@@Balance@@@Falling In Love
+91@@@92@@@Slave@@@Snap Shot
+92@@@78@@@Lulu@@@I Could Never Miss You (More Than I Do)
+93@@@80@@@Juice Newton@@@Queen Of Hearts
+94@@@81@@@The Moody Blues@@@The Voice
+95@@@82@@@Burton Cummings@@@You Saved My Soul
+96@@@84@@@The Beach Boys@@@The Beach Boys Medley
+97@@@85@@@The Kinks@@@Destroyer
+98@@@87@@@Devo@@@Working In The Coal Mine
+99@@@88@@@Anne Murray@@@It's All I Can Do
+100@@@47@@@Streek@@@One More Night

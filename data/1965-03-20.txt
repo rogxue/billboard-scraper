@@ -1,0 +1,100 @@
+1@@@1@@@The Beatles@@@Eight Days A Week
+2@@@3@@@The Supremes@@@Stop! In The Name Of Love
+3@@@5@@@Jewel Akens@@@The Birds And The Bees
+4@@@6@@@Roger Miller@@@King Of The Road
+5@@@8@@@Herman's Hermits@@@Can't You Hear My Heartbeat
+6@@@7@@@Gerry And The Pacemakers@@@Ferry Cross The Mersey
+7@@@2@@@The Temptations@@@My Girl
+8@@@4@@@Gary Lewis And The Playboys@@@This Diamond Ring
+9@@@11@@@Shirley Bassey@@@Goldfinger
+10@@@14@@@Jr. Walker & The All Stars@@@Shotgun
+11@@@13@@@Bert Kaempfert And His Orchestra@@@Red Roses For A Blue Lady
+12@@@10@@@Little Anthony And The Imperials@@@Hurt So Bad
+13@@@9@@@The Kingsmen@@@The Jolly Green Giant
+14@@@19@@@The Dave Clark Five@@@Come Home
+15@@@12@@@The Righteous Brothers@@@You've Lost That Lovin' Feelin'
+16@@@21@@@The Impressions@@@People Get Ready
+17@@@23@@@Vic Dana@@@Red Roses For A Blue Lady
+18@@@18@@@Bobby Goldsboro@@@Little Things
+19@@@29@@@The Beach Boys@@@Do You Wanna Dance?
+20@@@20@@@Johnny Rivers@@@Midnight Special
+21@@@22@@@Roy Orbison@@@Goodnight
+22@@@26@@@The Animals@@@Don't Let Me Be Misunderstood
+23@@@27@@@Georgie Fame And The Blue Flames@@@Yeh, Yeh
+24@@@35@@@Martha & The Vandellas@@@Nowhere To Run
+25@@@30@@@Dean Martin@@@Send Me The Pillow You Dream On
+26@@@31@@@Chad & Jeremy@@@If I Loved You
+27@@@15@@@Petula Clark@@@Downtown
+28@@@39@@@Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio@@@Do The Clam
+29@@@16@@@The Ad Libs@@@The Boy From New York City
+30@@@37@@@Del Shannon@@@Stranger In Town
+31@@@17@@@The Zombies@@@Tell Her No
+32@@@24@@@Four Tops@@@Ask The Lonely
+33@@@43@@@Gene Pitney@@@I Must Be Seeing Things
+34@@@48@@@Bobby Vinton@@@Long Lonely Nights
+35@@@28@@@The Beau Brummels@@@Laugh, Laugh
+36@@@25@@@Peter And Gordon@@@I Go To Pieces
+37@@@32@@@The Trade Winds@@@New York's A Lonely Town
+38@@@49@@@Tony Bennett@@@If I Ruled The World
+39@@@44@@@The Beatles@@@I Don't Want To Spoil The Party
+40@@@47@@@Jack Jones@@@The Race Is On
+41@@@45@@@Fontella Bass & Bobby McClure@@@Don't Mess Up A Good Thing
+42@@@71@@@Freddie And The Dreamers@@@I'm Telling You Now
+43@@@62@@@The Kinks@@@Tired Of Waiting For You
+44@@@59@@@Brenda Holloway@@@When I'm Gone
+45@@@50@@@Wayne Newton@@@Red Roses For A Blue Lady
+46@@@56@@@The Moody Blues@@@Go Now!
+47@@@38@@@Sam Cooke@@@Shake
+48@@@51@@@Joe Tex@@@You Better Get It
+49@@@57@@@Marianne Faithfull@@@Come And Stay With Me
+50@@@52@@@Manfred Mann@@@Come Tomorrow
+51@@@53@@@Johnny Tillotson@@@Angel
+52@@@36@@@Buck Owens@@@I've Got A Tiger By The Tail
+53@@@65@@@Major Lance@@@Come See
+54@@@61@@@Otis Redding@@@Mr. Pitiful
+55@@@78@@@Solomon Burke@@@Got To Get You Off My Mind
+56@@@63@@@Maxine Brown@@@It's Gonna Be Alright
+57@@@68@@@Connie Francis@@@For Mama (La Mamma)
+58@@@55@@@Billy Strange@@@Goldfinger
+59@@@60@@@Joe Tex@@@You Got What It Takes
+60@@@70@@@Jerry Vale@@@For Mama
+61@@@72@@@The Beach Boys@@@Please Let Me Wonder
+62@@@79@@@The Ikettes@@@Peaches N Cream
+63@@@101@@@Wayne Fontana & The Mindbenders@@@Game Of Love
+64@@@69@@@The Arrows Featuring Davie Allan@@@Apache '65
+65@@@66@@@Dionne Warwick@@@Who Can I Turn To
+66@@@87@@@Frank Sinatra@@@Anytime At All
+67@@@83@@@The Reflections@@@Poor Man's Son
+68@@@58@@@Ray Charles@@@Cry
+69@@@64@@@Jerry Butler@@@Good Times
+70@@@73@@@The Beatles@@@4 - By The Beatles
+71@@@82@@@Cannibal And The Headhunters@@@Land Of 1000 Dances
+72@@@75@@@The Ray Charles Singers@@@This Is My Prayer
+73@@@81@@@Jan & Dean@@@(Here They Come) From All Over The World
+74@@@74@@@The Hullaballoos@@@Did You Ever
+75@@@101@@@Shirley Ellis@@@The Clapping Song (Clap Pat Clap Slap)
+76@@@84@@@John Barry and His Orchestra@@@Goldfinger
+77@@@86@@@Sandie Shaw@@@Girl Don't Come
+78@@@85@@@Freddie And The Dreamers@@@I Understand (Just How You Feel)
+79@@@101@@@Sounds Orchestral@@@Cast Your Fate To The Wind
+80@@@101@@@Marvin Gaye@@@I'll Be Doggone
+81@@@89@@@Thee Midniters@@@Land Of A Thousand Dances (Part I)
+82@@@92@@@Ronnie Dove@@@One Kiss For Old Times' Sake
+83@@@101@@@The Searchers@@@Bumble Bee
+84@@@101@@@Mary Wells@@@Never, Never Leave Me
+85@@@96@@@Johnny Bond@@@10 Little Bottles
+86@@@80@@@Johnny Cash@@@Orange Blossom Special
+87@@@90@@@Dick and DeeDee@@@Be My Baby
+88@@@91@@@Bobbi Martin@@@I Can't Stop Thinking Of You
+89@@@98@@@Glenn Yarbrough@@@Baby The Rain Must Fall
+90@@@101@@@Roddie Joy@@@Come Back Baby
+91@@@101@@@The Uniques Featuring Joe Stampley@@@Not Too Long Ago
+92@@@95@@@Dionne Warwick@@@You Can Have Him
+93@@@101@@@The Detergents@@@Double-O-Seven
+94@@@101@@@Petula Clark@@@I Know A Place
+95@@@97@@@Dusty Springfield@@@Losing You
+96@@@101@@@Rick Nelson@@@Mean Old World
+97@@@101@@@Herb Alpert's Tijuana Brass@@@Whipped Cream
+98@@@99@@@The Nashville Teens@@@Find My Way Back Home
+99@@@101@@@The Three Degrees@@@Gee Baby (I'm Sorry)
+100@@@101@@@Willie Tee@@@Teasin' You

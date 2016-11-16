@@ -1,0 +1,100 @@
+1@@@1@@@Boston@@@Amanda
+2@@@4@@@The Human League@@@Human
+3@@@5@@@Madonna@@@True Blue
+4@@@6@@@Eddie Money@@@Take Me Home Tonight
+5@@@7@@@Bon Jovi@@@You Give Love A Bad Name
+6@@@2@@@Robert Palmer@@@I Didn't Mean To Turn You On
+7@@@9@@@Cameo@@@Word Up
+8@@@12@@@Peter Cetera With Amy Grant@@@The Next Time I Fall
+9@@@10@@@Oran 'Juice' Jones@@@The Rain
+10@@@3@@@Cyndi Lauper@@@True Colors
+11@@@15@@@Huey Lewis & The News@@@Hip To Be Square
+12@@@13@@@Toto@@@I'll Be Over You
+13@@@14@@@Lionel Richie@@@Love Will Conquer All
+14@@@18@@@Bruce Hornsby & The Range@@@The Way It Is
+15@@@16@@@Ric Ocasek@@@Emotion In Motion
+16@@@22@@@Billy Idol@@@To Be A Lover
+17@@@23@@@Wang Chung@@@Everybody Have Fun Tonight
+18@@@20@@@Corey Hart@@@I Am By Your Side
+19@@@11@@@Anita Baker@@@Sweet Love
+20@@@8@@@Tina Turner@@@Typical Male
+21@@@25@@@Bangles@@@Walk Like An Egyptian
+22@@@21@@@Aretha Franklin@@@Jumpin' Jack Flash
+23@@@31@@@Ben E. King@@@Stand By Me
+24@@@26@@@Steve Winwood@@@Freedom Overspill
+25@@@17@@@Lisa Lisa@@@All Cried Out
+26@@@34@@@Orchestral Manoeuvres In The Dark@@@(Forever) Live And Die
+27@@@37@@@Pretenders@@@Don't Get Me Wrong
+28@@@33@@@'Til Tuesday@@@What About Love
+29@@@19@@@Janet Jackson@@@When I Think Of You
+30@@@43@@@Duran Duran@@@Notorious
+31@@@40@@@Gregory Abbott@@@Shake You Down
+32@@@27@@@Triumph@@@Somebody's Out There
+33@@@38@@@Talking Heads@@@Wild Wild Life
+34@@@39@@@Howard Jones@@@You Know I Love You ... Don't You?
+35@@@42@@@Robbie Nevil@@@C'est La Vie
+36@@@44@@@Survivor@@@Is This Love
+37@@@49@@@Genesis@@@Land Of Confusion
+38@@@55@@@John Berry@@@Love Is Forever
+39@@@45@@@Daryl Hall@@@Foolish Pride
+40@@@48@@@David@@@Welcome To The Boomtown
+41@@@57@@@Janet Jackson@@@Control
+42@@@46@@@Midnight Star@@@Midas Touch
+43@@@41@@@Five Star@@@Can't Wait Another Minute
+44@@@24@@@Journey@@@Girl Can't Help It
+45@@@32@@@Stacey Q@@@Two Of Hearts
+46@@@59@@@Timbuk 3@@@The Future's So Bright, I Gotta Wear Shades
+47@@@47@@@The Temptations@@@Lady Soul
+48@@@30@@@Billy Joel@@@A Matter Of Trust
+49@@@62@@@Kool & The Gang@@@Victory
+50@@@28@@@Don Johnson@@@Heartbeat
+51@@@29@@@Genesis@@@Throwing It All Away
+52@@@35@@@Glass Tiger@@@Don't Forget Me (When I'm Gone)
+53@@@56@@@The Police@@@Don't Stand So Close To Me' 86
+54@@@61@@@Run-D.M.C.@@@You Be Illin'
+55@@@64@@@Glass Tiger@@@Someday
+56@@@60@@@Stacy Lattisaw@@@Nail It To The Wall
+57@@@50@@@Wham!@@@Where Did Your Heart Go?
+58@@@58@@@Elton John@@@Heartache All Over The World
+59@@@36@@@Peter Gabriel@@@In Your Eyes (Theme From "Say Anything")
+60@@@63@@@Nancy Martinez@@@For Tonight
+61@@@68@@@Kansas@@@All I Wanted
+62@@@67@@@The Pointer Sisters@@@Goldmine
+63@@@51@@@Carl Anderson@@@Friends And Lovers
+64@@@52@@@Huey Lewis & The News@@@Stuck With You
+65@@@76@@@Gloria Estefan@@@Falling In Love (Uh-Oh)
+66@@@78@@@Carly Simon@@@Coming Around Again
+67@@@65@@@Nu Shooz@@@Point Of No Return
+68@@@80@@@Samantha Fox@@@Touch Me (I Want Your Body)
+69@@@53@@@Loverboy@@@Heaven In Your Eyes
+70@@@74@@@Jesse Johnson (Featuring Sly Stone)@@@Crazay
+71@@@66@@@The Beach Boys@@@California Dreamin 
+72@@@69@@@New Edition@@@Earth Angel (From "The Karate Kid Part II")
+73@@@77@@@Andy Taylor@@@When The Rain Comes Down
+74@@@81@@@Chico DeBarge@@@Talk To Me
+75@@@86@@@Benjamin Orr@@@Stay The Night
+76@@@88@@@Commodores@@@Goin' To The Bank
+77@@@84@@@Freddie Jackson@@@Tasty Love
+78@@@101@@@Billy Joel@@@This Is The Time
+79@@@79@@@The Monkees@@@Daydream Believer
+80@@@96@@@Billy Vera@@@At This Moment
+81@@@70@@@Miami Sound Machine@@@Words Get In The Way
+82@@@87@@@Berlin@@@Like Flames
+83@@@54@@@Jermaine Stewart@@@Jody
+84@@@72@@@The Outfield@@@Everytime You Cry
+85@@@101@@@Chicago@@@Will You Still Love Me?
+86@@@101@@@Luther Vandross@@@Stop To Love
+87@@@101@@@Bob Seger@@@Miami
+88@@@94@@@Laban@@@Love In Siberia
+89@@@95@@@Cinderella@@@Nobody's Fool
+90@@@90@@@Howard Hewett@@@I'm For Real
+91@@@71@@@Van Halen@@@Love Walks In
+92@@@73@@@Bananarama@@@More Than Physical
+93@@@93@@@Joan Jett And The Blackhearts@@@Good Music
+94@@@101@@@Eurythmics@@@Thorn In My Side
+95@@@101@@@The Jets@@@You Got It All
+96@@@101@@@Paul Young@@@Some People
+97@@@101@@@Paul McCartney@@@Stranglehold
+98@@@101@@@Steve Miller Band@@@I Want To Make The World Turn Around
+99@@@75@@@The Beatles@@@Twist And Shout
+100@@@85@@@Bad Company@@@This Love

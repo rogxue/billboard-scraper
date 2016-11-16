@@ -1,0 +1,100 @@
+1@@@4@@@Rihanna@@@Rude Boy
+2@@@2@@@Lady Antebellum@@@Need You Now
+3@@@1@@@Taio Cruz Featuring Ludacris@@@Break Your Heart
+4@@@5@@@The Black Eyed Peas@@@Imma Be
+5@@@16@@@B.o.B Featuring Bruno Mars@@@Nothin' On You
+6@@@7@@@Train@@@Hey, Soul Sister
+7@@@3@@@Young Money Featuring Lloyd@@@BedRock
+8@@@6@@@Ke$ha@@@TiK ToK
+9@@@11@@@Lady Gaga Featuring Beyonce@@@Telephone
+10@@@8@@@Jason Derulo@@@In My Head
+11@@@15@@@Timbaland Featuring Justin Timberlake@@@Carry Out
+12@@@14@@@Justin Bieber Featuring Ludacris@@@Baby
+13@@@12@@@Trey Songz Featuring Fabolous@@@Say Aah
+14@@@10@@@Ludacris@@@How Low
+15@@@9@@@Lady Gaga@@@Bad Romance
+16@@@13@@@Ke$ha Featuring 3OH!3@@@Blah Blah Blah
+17@@@19@@@The Script@@@Breakeven
+18@@@18@@@Orianthi@@@According To You
+19@@@20@@@Kris Allen@@@Live Like We're Dying
+20@@@17@@@David Guetta Featuring Akon@@@Sexy Chick
+21@@@23@@@OneRepublic@@@All The Right Moves
+22@@@25@@@Adam Lambert@@@Whataya Want From Me
+23@@@27@@@Timbaland Featuring Drake@@@Say Something
+24@@@22@@@New Boyz Featuring Ray J@@@Tie Me Down
+25@@@24@@@Iyaz@@@Replay
+26@@@26@@@The Black Eyed Peas@@@I Gotta Feeling
+27@@@44@@@Ludacris Featuring Nicki Minaj@@@My Chick Bad
+28@@@29@@@Michael Buble@@@Haven't Met You Yet
+29@@@28@@@Jay-Z + Alicia Keys@@@Empire State Of Mind
+30@@@30@@@Taylor Swift@@@Today Was A Fairytale
+31@@@34@@@Usher Featuring Plies@@@Hey Daddy (Daddy's Home)
+32@@@32@@@Jay Sean Featuring Lil Wayne@@@Down
+33@@@47@@@Lady Antebellum@@@American Honey
+34@@@37@@@John Mayer@@@Heartbreak Warfare
+35@@@101@@@Drake@@@Over
+36@@@39@@@Daughtry@@@Life After You
+37@@@53@@@Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne@@@I Made It (Cash Money Heroes)
+38@@@38@@@Owl City@@@Fireflies
+39@@@36@@@Taylor Swift@@@You Belong With Me
+40@@@41@@@Blake Shelton Featuring Trace Adkins@@@Hillbilly Bone
+41@@@59@@@Jay-Z + Mr. Hudson@@@Young Forever
+42@@@31@@@Jay Sean Featuring Sean Paul & Lil Jon@@@Do You Remember
+43@@@49@@@Easton Corbin@@@A Little More Country Than That
+44@@@48@@@Carrie Underwood@@@Temporary Home
+45@@@55@@@Zac Brown Band@@@Highway 20 Ride
+46@@@42@@@Jason Derulo@@@Whatcha Say
+47@@@40@@@Jay-Z + Swizz Beatz@@@On To The Next One
+48@@@35@@@Boys Like Girls Featuring Taylor Swift@@@Two Is Better Than One
+49@@@45@@@Josh Turner@@@Why Don't We Just Dance
+50@@@54@@@Selena Gomez & The Scene@@@Naturally
+51@@@50@@@Lifehouse@@@Halfway Gone
+52@@@52@@@Alicia Keys@@@Try Sleeping With A Broken Heart
+53@@@46@@@Roscoe Dash Featuring Soulja Boy Tell'em@@@All The Way Turnt Up
+54@@@51@@@Rihanna Featuring Jeezy@@@Hard
+55@@@56@@@Robin Thicke@@@Sex Therapy
+56@@@63@@@Monica@@@Everything To Me
+57@@@81@@@Miley Cyrus@@@When I Look At You
+58@@@60@@@Gucci Mane@@@Lemonade
+59@@@64@@@Keith Urban@@@'Til Summer Comes Around
+60@@@61@@@Mary J. Blige@@@I Am
+61@@@57@@@Billy Currington@@@That's How Country Boys Roll
+62@@@67@@@Young Money Featuring Gucci Mane@@@Steady Mobbin'
+63@@@72@@@Trey Songz@@@Neighbors Know My Name
+64@@@43@@@Usher Featuring Nicki Minaj@@@Lil Freak
+65@@@65@@@Iyaz@@@Solo
+66@@@33@@@Jason Derulo@@@Ridin' Solo
+67@@@58@@@Melanie Fiona@@@It Kills Me
+68@@@69@@@Shinedown@@@If You Only Knew
+69@@@62@@@Jason Aldean@@@The Truth
+70@@@68@@@Rascal Flatts@@@Unstoppable
+71@@@71@@@Avril Lavigne@@@Alice
+72@@@76@@@Rob Thomas@@@Someday
+73@@@86@@@Lil Wayne Featuring Eminem@@@Drop The World
+74@@@73@@@Kenny Chesney@@@Ain't Back Yet
+75@@@84@@@Joe Nichols@@@Gimmie That Girl
+76@@@80@@@Waka Flocka Flame@@@O Let's Do It
+77@@@87@@@Taylor Swift@@@Fearless
+78@@@94@@@Pearl Jam@@@Just Breathe
+79@@@77@@@Sade@@@Soldier Of Love
+80@@@92@@@La Roux@@@Bulletproof
+81@@@88@@@Yo Gotti Featuring Lil Wayne@@@Women Lie, Men Lie
+82@@@79@@@Brad Paisley@@@American Saturday Night
+83@@@75@@@Darius Rucker@@@History In The Making
+84@@@98@@@Chris Young@@@The Man I Want To Be
+85@@@100@@@Eric Church@@@Hell On The Heart
+86@@@96@@@Justin Moore@@@Backwoods
+87@@@83@@@LMFAO Featuring Lil Jon@@@Shots
+88@@@99@@@Steel Magnolia@@@Keep On Lovin' You
+89@@@93@@@Matisyahu@@@One Day
+90@@@101@@@Sam Adams@@@Driving Me Crazy
+91@@@74@@@Godsmack@@@Cryin' Like A Bitch
+92@@@101@@@Lloyd Banks Featuring Juelz Santana@@@Beamer, Benz, Or Bentley
+93@@@78@@@Three 6 Mafia Vs. Tiesto With Sean Kingston & Flo Rida@@@Feel It
+94@@@21@@@Justin Bieber@@@Never Let You Go
+95@@@101@@@Mario@@@Ooh Baby
+96@@@66@@@Artists For Haiti@@@We Are The World 25: For Haiti
+97@@@91@@@DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross@@@All I Do Is Win
+98@@@101@@@Owl City@@@Vanilla Twilight
+99@@@101@@@Phoenix@@@1901
+100@@@90@@@Snoop Dogg@@@I Wanna Rock

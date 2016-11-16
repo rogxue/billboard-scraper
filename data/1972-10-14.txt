@@ -1,0 +1,100 @@
+1@@@2@@@Michael Jackson@@@Ben
+2@@@6@@@Bill Withers@@@Use Me
+3@@@4@@@The Main Ingredient@@@Everybody Plays The Fool
+4@@@7@@@Elvis Presley@@@Burning Love
+5@@@5@@@Raspberries@@@Go All The Way
+6@@@1@@@Mac Davis@@@Baby Don't Get Hooked On Me
+7@@@9@@@Chuck Berry@@@My Ding-A-Ling
+8@@@12@@@The Moody Blues@@@Nights In White Satin
+9@@@3@@@The O'Jays@@@Back Stabbers
+10@@@10@@@Hot Butter@@@Popcorn
+11@@@11@@@Neil Diamond@@@Play Me
+12@@@15@@@Rick Nelson and The Stone Canyon Band@@@Garden Party
+13@@@17@@@Rod Stewart@@@You Wear It Well
+14@@@14@@@Rick Springfield@@@Speak To The Sky
+15@@@16@@@Leon Russell@@@Tight Rope
+16@@@18@@@Donny Osmond@@@Why/Lonely Boy
+17@@@21@@@Curtis Mayfield@@@Freddie's Dead (Theme From Superfly)
+18@@@23@@@Danny O'Keefe@@@Good Time Charlie's Got The Blues
+19@@@19@@@James Brown@@@Get On The Good Foot-Part 1
+20@@@20@@@Arlo Guthrie@@@The City Of New Orleans
+21@@@8@@@Three Dog Night@@@Black & White
+22@@@24@@@The Doobie Brothers@@@Listen To The Music
+23@@@13@@@Chicago@@@Saturday In The Park
+24@@@26@@@Cornelius Brothers & Sister Rose@@@Don't Ever Be Lonely (A Poor Little Fool Like Me)
+25@@@25@@@Mel And Tim@@@Starting All Over Again
+26@@@33@@@Johnny Nash@@@I Can See Clearly Now
+27@@@30@@@Eagles@@@Witchy Woman
+28@@@31@@@The 5th Dimension@@@If I Could Reach You
+29@@@29@@@Chi Coltrane@@@Thunder And Lightning
+30@@@35@@@Gallery@@@I Believe In Music
+31@@@36@@@Joe Cocker and The Chris Stainton Band@@@Midnight Rider
+32@@@40@@@The Spinners@@@I'll Be Around/How Could I Let You Get Away
+33@@@39@@@Sam Neely@@@Loving You Just Crossed My Mind
+34@@@22@@@Daniel Boone@@@Beautiful Sunday
+35@@@44@@@Lobo@@@I'd Love You To Want Me
+36@@@46@@@Helen Reddy@@@I Am Woman
+37@@@37@@@Michael Murphey@@@Geronimo's Cadillac
+38@@@41@@@David Cassidy@@@Rock Me Baby
+39@@@43@@@Nilsson@@@Spaceman
+40@@@50@@@The Band@@@Don't Do It
+41@@@45@@@Emerson, Lake & Palmer@@@From The Beginning
+42@@@28@@@Elton John@@@Honky Cat
+43@@@27@@@Gilbert O'Sullivan@@@Alone Again (Naturally)
+44@@@58@@@Cashman & West@@@American City Suite
+45@@@38@@@Jerry Wallace@@@If You Leave Me Tonight I'll Cry
+46@@@47@@@Gladstone@@@A Piece Of Paper
+47@@@48@@@Cher@@@Don't Hide Your Love
+48@@@67@@@Alice Cooper@@@Elected
+49@@@60@@@Mott The Hoople@@@All The Young Dudes
+50@@@59@@@Seals & Crofts@@@Summer Breeze
+51@@@52@@@Billy Preston@@@Slaughter
+52@@@57@@@Wayne Newton@@@Can't You Hear The Song?
+53@@@56@@@Jermaine Jackson@@@That's How Love Goes
+54@@@54@@@Four Tops@@@(It's The Way) Nature Planned It
+55@@@51@@@Bobby Womack & Peace@@@Sweet Caroline (Good Times Never Seemed So Good)
+56@@@61@@@Harold Melvin And The Blue Notes@@@If You Don't Know Me By Now
+57@@@34@@@Bee Gees@@@Run To Me
+58@@@69@@@The Chi-lites@@@A Lonely Man/The Man & The Woman (The Boy & The Girl)
+59@@@65@@@Grand Funk Railroad@@@Rock 'N Roll Soul
+60@@@62@@@Eric Clapton@@@Let It Rain
+61@@@32@@@Joe Simon@@@Power Of Love
+62@@@63@@@B.B. King@@@Guess Who/Them Changes
+63@@@64@@@King Floyd@@@Woman Don't Go Astray
+64@@@49@@@Uriah Heep@@@Easy Livin
+65@@@53@@@Simon & Garfunkel@@@For Emily, Whenever I May Find Her
+66@@@75@@@Danny Holien@@@Colorado
+67@@@78@@@Casey Kelly@@@Poor Boy
+68@@@68@@@Beverly Bremers@@@I'll Make You Music
+69@@@70@@@The Dramatics@@@Toast To The Fool
+70@@@66@@@Lyn Collins@@@Think (About It)
+71@@@83@@@Donna Fargo@@@Funny Face
+72@@@81@@@Blood, Sweat & Tears@@@So Long Dixie
+73@@@71@@@Dr. Hook And The Medicine Show@@@Carry Me, Carrie
+74@@@74@@@Steve & Eydie Featuring The Osmonds@@@We Can Make It Together
+75@@@80@@@Johnny Rivers@@@Rockin' Pneumonia - Boogie Woogie Flu
+76@@@76@@@Ocean@@@One More Chance
+77@@@82@@@Eddie Kendricks@@@If You Let Me
+78@@@101@@@Jim Croce@@@Operator (That's Not the Way it Feels)
+79@@@79@@@Al Green@@@Guilty
+80@@@90@@@Lighthouse@@@Sunny Days
+81@@@98@@@Denise LaSalle@@@Man Sized Job
+82@@@84@@@Styx@@@Best Thing
+83@@@101@@@The Temptations@@@Papa Was A Rollin' Stone
+84@@@87@@@Laura Lee@@@If You Can Beat Me Rockin' (You Can Have My Chair)
+85@@@85@@@The New Seekers featuring Marty Kristian@@@Dance, Dance, Dance
+86@@@86@@@The Doors@@@The Mosquito
+87@@@89@@@Petula Clark@@@Wedding Song (There Is Love)
+88@@@88@@@Boz Scaggs@@@Dinah Flo
+89@@@101@@@Betty Wright@@@Baby Sitter
+90@@@96@@@Holland-Dozier@@@Why Can't We Be Lovers
+91@@@101@@@Bulldog@@@No
+92@@@101@@@The Stylistics@@@I'm Stone In Love With You
+93@@@93@@@The Temprees@@@Dedicated To The One I Love
+94@@@95@@@Barbra Streisand@@@Sing A Song/Make Your Own Kind Of Music
+95@@@94@@@Bobby Goldsboro@@@With Pen In Hand
+96@@@101@@@National Lampoon@@@Deteriorata
+97@@@101@@@The Guess Who@@@Runnin' Back To Saskatoon
+98@@@101@@@Austin Roberts@@@Something's Wrong With Me
+99@@@99@@@Foghat@@@I Just Want To Make Love To You
+100@@@100@@@B.J. Thomas@@@Happier Than The Morning Sun

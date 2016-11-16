@@ -1,0 +1,100 @@
+1@@@5@@@The Beatles@@@Eight Days A Week
+2@@@1@@@The Temptations@@@My Girl
+3@@@13@@@The Supremes@@@Stop! In The Name Of Love
+4@@@2@@@Gary Lewis And The Playboys@@@This Diamond Ring
+5@@@8@@@Jewel Akens@@@The Birds And The Bees
+6@@@7@@@Roger Miller@@@King Of The Road
+7@@@9@@@Gerry And The Pacemakers@@@Ferry Cross The Mersey
+8@@@19@@@Herman's Hermits@@@Can't You Hear My Heartbeat
+9@@@4@@@The Kingsmen@@@The Jolly Green Giant
+10@@@12@@@Little Anthony And The Imperials@@@Hurt So Bad
+11@@@16@@@Shirley Bassey@@@Goldfinger
+12@@@3@@@The Righteous Brothers@@@You've Lost That Lovin' Feelin'
+13@@@15@@@Bert Kaempfert And His Orchestra@@@Red Roses For A Blue Lady
+14@@@29@@@Jr. Walker & The All Stars@@@Shotgun
+15@@@10@@@Petula Clark@@@Downtown
+16@@@11@@@The Ad Libs@@@The Boy From New York City
+17@@@6@@@The Zombies@@@Tell Her No
+18@@@23@@@Bobby Goldsboro@@@Little Things
+19@@@26@@@The Dave Clark Five@@@Come Home
+20@@@24@@@Johnny Rivers@@@Midnight Special
+21@@@35@@@The Impressions@@@People Get Ready
+22@@@22@@@Roy Orbison@@@Goodnight
+23@@@36@@@Vic Dana@@@Red Roses For A Blue Lady
+24@@@27@@@Four Tops@@@Ask The Lonely
+25@@@14@@@Peter And Gordon@@@I Go To Pieces
+26@@@39@@@The Animals@@@Don't Let Me Be Misunderstood
+27@@@30@@@Georgie Fame And The Blue Flames@@@Yeh, Yeh
+28@@@17@@@The Beau Brummels@@@Laugh, Laugh
+29@@@57@@@The Beach Boys@@@Do You Wanna Dance?
+30@@@44@@@Dean Martin@@@Send Me The Pillow You Dream On
+31@@@42@@@Chad & Jeremy@@@If I Loved You
+32@@@32@@@The Trade Winds@@@New York's A Lonely Town
+33@@@20@@@Alvin Cash & The Crawlers@@@Twine Time
+34@@@18@@@Shirley Ellis@@@The Name Game
+35@@@46@@@Martha & The Vandellas@@@Nowhere To Run
+36@@@25@@@Buck Owens@@@I've Got A Tiger By The Tail
+37@@@48@@@Del Shannon@@@Stranger In Town
+38@@@21@@@Sam Cooke@@@Shake
+39@@@49@@@Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio@@@Do The Clam
+40@@@28@@@The Kinks@@@All Day And All Of The Night
+41@@@31@@@Sam Cooke@@@A Change Is Gonna Come
+42@@@37@@@The Searchers@@@What Have They Done To The Rain
+43@@@54@@@Gene Pitney@@@I Must Be Seeing Things
+44@@@47@@@The Beatles@@@I Don't Want To Spoil The Party
+45@@@51@@@Fontella Bass & Bobby McClure@@@Don't Mess Up A Good Thing
+46@@@38@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Bye, Bye, Baby (Baby, Goodbye)
+47@@@58@@@Jack Jones@@@The Race Is On
+48@@@80@@@Bobby Vinton@@@Long Lonely Nights
+49@@@56@@@Tony Bennett@@@If I Ruled The World
+50@@@66@@@Wayne Newton@@@Red Roses For A Blue Lady
+51@@@59@@@Joe Tex@@@You Better Get It
+52@@@65@@@Manfred Mann@@@Come Tomorrow
+53@@@60@@@Johnny Tillotson@@@Angel
+54@@@52@@@The Ronettes Featuring Veronica@@@Born To Be Together
+55@@@61@@@Billy Strange@@@Goldfinger
+56@@@71@@@The Moody Blues@@@Go Now!
+57@@@78@@@Marianne Faithfull@@@Come And Stay With Me
+58@@@63@@@Ray Charles@@@Cry
+59@@@74@@@Brenda Holloway@@@When I'm Gone
+60@@@72@@@Joe Tex@@@You Got What It Takes
+61@@@70@@@Otis Redding@@@Mr. Pitiful
+62@@@101@@@The Kinks@@@Tired Of Waiting For You
+63@@@75@@@Maxine Brown@@@It's Gonna Be Alright
+64@@@76@@@Jerry Butler@@@Good Times
+65@@@93@@@Major Lance@@@Come See
+66@@@79@@@Dionne Warwick@@@Who Can I Turn To
+67@@@69@@@Julie Rogers@@@Like A Child
+68@@@86@@@Connie Francis@@@For Mama (La Mamma)
+69@@@73@@@The Arrows Featuring Davie Allan@@@Apache '65
+70@@@88@@@Jerry Vale@@@For Mama
+71@@@101@@@Freddie And The Dreamers@@@I'm Telling You Now
+72@@@83@@@The Beach Boys@@@Please Let Me Wonder
+73@@@77@@@The Beatles@@@4 - By The Beatles
+74@@@81@@@The Hullaballoos@@@Did You Ever
+75@@@82@@@The Ray Charles Singers@@@This Is My Prayer
+76@@@85@@@Johnny Rivers@@@Cupid
+77@@@84@@@Steve Alaimo@@@Real Live Girl
+78@@@91@@@Solomon Burke@@@Got To Get You Off My Mind
+79@@@101@@@The Ikettes@@@Peaches N Cream
+80@@@89@@@Johnny Cash@@@Orange Blossom Special
+81@@@101@@@Jan & Dean@@@(Here They Come) From All Over The World
+82@@@97@@@Cannibal And The Headhunters@@@Land Of 1000 Dances
+83@@@101@@@The Reflections@@@Poor Man's Son
+84@@@101@@@John Barry and His Orchestra@@@Goldfinger
+85@@@101@@@Freddie And The Dreamers@@@I Understand (Just How You Feel)
+86@@@90@@@Sandie Shaw@@@Girl Don't Come
+87@@@101@@@Frank Sinatra@@@Anytime At All
+88@@@101@@@Jim Reeves@@@This Is It
+89@@@101@@@Thee Midniters@@@Land Of A Thousand Dances (Part I)
+90@@@101@@@Dick and DeeDee@@@Be My Baby
+91@@@101@@@Bobbi Martin@@@I Can't Stop Thinking Of You
+92@@@101@@@Ronnie Dove@@@One Kiss For Old Times' Sake
+93@@@95@@@Peggy Lee@@@Pass Me By
+94@@@94@@@Jackie Wilson@@@Danny Boy
+95@@@101@@@Dionne Warwick@@@You Can Have Him
+96@@@101@@@Johnny Bond@@@10 Little Bottles
+97@@@101@@@Dusty Springfield@@@Losing You
+98@@@101@@@Glenn Yarbrough@@@Baby The Rain Must Fall
+99@@@101@@@The Nashville Teens@@@Find My Way Back Home
+100@@@101@@@Ian Whitcomb And Bluesville@@@This Sporting Life

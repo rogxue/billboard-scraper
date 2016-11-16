@@ -1,0 +1,100 @@
+1@@@4@@@The Supremes@@@Come See About Me
+2@@@5@@@The Beatles@@@I Feel Fine
+3@@@1@@@Bobby Vinton@@@Mr. Lonely
+4@@@2@@@The Zombies@@@She's Not There
+5@@@3@@@Lorne Greene@@@Ringo
+6@@@6@@@The Rolling Stones@@@Time Is On My Side
+7@@@14@@@Little Anthony And The Imperials@@@Goin' Out Of My Head
+8@@@10@@@The Beach Boys@@@Dance, Dance, Dance
+9@@@9@@@Gene Pitney@@@I'm Gonna Be Strong
+10@@@7@@@The Kinks@@@You Really Got Me
+11@@@12@@@Johnny Rivers@@@Mountain Of Love
+12@@@21@@@The Larks@@@The Jerk
+13@@@13@@@Herman's Hermits@@@I'm Into Something Good
+14@@@29@@@The Beatles@@@She's A Woman
+15@@@8@@@The Supremes@@@Baby Love
+16@@@17@@@Manfred Mann@@@Sha La La
+17@@@26@@@Julie Rogers@@@The Wedding
+18@@@19@@@The Drifters@@@Saturday Night At The Movies
+19@@@24@@@The Dave Clark Five@@@Any Way You Want It
+20@@@11@@@The Shangri-Las@@@Leader Of The Pack
+21@@@18@@@Ronnie Dove@@@Right Or Wrong
+22@@@20@@@The 4 Seasons Featuring the Sound of Frankie Valli@@@Big Man In Town
+23@@@16@@@The Newbeats@@@Everything's Alright
+24@@@30@@@The Impressions@@@Amen
+25@@@28@@@Robert Goulet@@@My Love, Forgive Me (Amore, Scusami)
+26@@@27@@@Maxine Brown@@@Oh No Not My Baby
+27@@@15@@@Elvis Presley With The Jordanaires@@@Ask Me
+28@@@36@@@Chad & Jeremy@@@Willow Weep For Me
+29@@@34@@@The Marvelettes@@@Too Many Fish In The Sea
+30@@@49@@@The Searchers@@@Love Potion Number Nine
+31@@@33@@@Johnny Tillotson@@@She Understands Me
+32@@@23@@@The Ronettes@@@Walking In The Rain
+33@@@58@@@The Detergents@@@Leader Of The Laundromat
+34@@@40@@@Marvin Gaye@@@How Sweet It Is To Be Loved By You
+35@@@39@@@Dick and DeeDee@@@Thou Shalt Not Steal
+36@@@42@@@Marianne Faithfull@@@As Tears Go By
+37@@@25@@@Jan & Dean@@@Sidewalk Surfin'
+38@@@50@@@Andy Williams@@@Dear Heart
+39@@@44@@@Del Shannon@@@Keep Searchin' (We'll Follow The Sun)
+40@@@43@@@The Ray Charles Singers@@@One More Time
+41@@@51@@@Martha & The Vandellas@@@Wild One
+42@@@22@@@Jay & The Americans@@@Come A Little Bit Closer
+43@@@45@@@Four Tops@@@Without The One You Love (Life's Not Worth While)
+44@@@46@@@The Gestures@@@Run, Run, Run
+45@@@55@@@Matt Monro@@@Walk Away
+46@@@54@@@Roger Miller@@@Do-Wacka-Do
+47@@@47@@@Chuck Jackson@@@Since I Don't Have You
+48@@@53@@@Jack Jones@@@Dear Heart
+49@@@31@@@The Everly Brothers@@@Gone, Gone, Gone
+50@@@74@@@Betty Everett & Jerry Butler@@@Smile
+51@@@59@@@Gene Chandler@@@What Now
+52@@@64@@@Bobbi Martin@@@Don't Forget I Still Love You
+53@@@57@@@Candy & The Kisses@@@The 81
+54@@@65@@@Sandie Shaw@@@(There's) Always Something There To Remind Me
+55@@@67@@@The Animals@@@Boom Boom
+56@@@56@@@The You Know Who Group!@@@Roses Are Red My Love
+57@@@60@@@Solomon Burke@@@The Price
+58@@@69@@@The Waikikis@@@Hawaii Tattoo
+59@@@63@@@The Hullaballoos@@@I'm Gonna Love You Too
+60@@@77@@@The Righteous Brothers@@@You've Lost That Lovin' Feelin'
+61@@@52@@@Mary Wells@@@Ain't It The Truth
+62@@@75@@@Gale Garnett@@@Lovin' Place
+63@@@81@@@Gerry And The Pacemakers@@@I'll Be There
+64@@@70@@@Dean Martin@@@You're Nobody Till Somebody Loves You
+65@@@89@@@Chuck Berry@@@Promised Land
+66@@@72@@@Betty Everett@@@Getting Mighty Crowded
+67@@@73@@@Walter Jackson@@@It's All Over
+68@@@61@@@Johnny Cash@@@It Ain't Me, Babe
+69@@@76@@@Major Lance@@@Sometimes I Wonder
+70@@@86@@@The Miracles@@@Come On Do The Jerk
+71@@@80@@@Carla Thomas@@@A Woman's Love
+72@@@85@@@Ray Charles@@@Makin' Whoopee
+73@@@90@@@Shirley Ellis@@@The Name Game
+74@@@78@@@Harold Betters@@@Do Anything You Wanna (Part I)
+75@@@101@@@Joe Tex@@@Hold What You've Got
+76@@@101@@@Irma Thomas@@@He's My Guy
+77@@@101@@@Brook Benton@@@Do It Right
+78@@@101@@@Ben E. King@@@Seven Letters
+79@@@82@@@Phyllis McGuire@@@I Don't Want To Walk Without You
+80@@@101@@@The Contours@@@Can You Jerk Like Me
+81@@@83@@@Travis Wammack@@@Scratchy
+82@@@88@@@Rick Nelson@@@A Happy Guy
+83@@@84@@@Jo Ann & Troy@@@I Found A Love Oh What A Love
+84@@@101@@@The Honeycombs@@@I Can't Stop
+85@@@87@@@Tommy Roe@@@Party Girl
+86@@@91@@@Henry Mancini And His Orchestra@@@Dear Heart
+87@@@101@@@Petula Clark@@@Downtown
+88@@@101@@@Frank Sinatra@@@Somewhere In Your Heart
+89@@@101@@@Ronny And The Daytonas@@@Bucket T
+90@@@96@@@Hank Williams Jr.@@@Endless Sleep
+91@@@92@@@Sonny James@@@You're The Only World I Know
+92@@@93@@@Bobby Vee@@@(There'll Come A Day When) Ev'ry Little Bit Hurts
+93@@@101@@@Lee Morgan@@@The Sidewinder, Part 1
+94@@@101@@@Bobby Rydell@@@I Just Can't Say Goodbye
+95@@@101@@@Willie Mitchell@@@Percolatin'
+96@@@100@@@The Hondells@@@My Buddy Seat
+97@@@101@@@Patti LaBelle And The Blue Belles@@@Danny Boy
+98@@@101@@@Jerry Vale@@@Have You Looked Into Your Heart
+99@@@101@@@The Dolphins@@@Hey-Da-Da-Dow
+100@@@101@@@The Dixie Cups@@@Little Bell

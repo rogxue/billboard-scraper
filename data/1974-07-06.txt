@@ -1,0 +1,100 @@
+1@@@6@@@The Hues Corporation@@@Rock The Boat
+2@@@1@@@Gordon Lightfoot@@@Sundown
+3@@@2@@@Bo Donaldson And The Heywoods@@@Billy, Don't Be A Hero
+4@@@9@@@George McCrae@@@Rock Your Baby
+5@@@5@@@Olivia Newton-John@@@If You Love Me (let Me Know)
+6@@@7@@@Kool & The Gang@@@Hollywood Swinging
+7@@@3@@@The Stylistics@@@You Make Me Feel Brand New
+8@@@10@@@John Denver@@@ANNIE'S SONG
+9@@@12@@@Anne Murray@@@You Won't See Me
+10@@@13@@@Gladys Knight And The Pips@@@On And On
+11@@@11@@@The Hollies@@@The Air That I Breathe
+12@@@4@@@William DeVaughn@@@Be Thankful For What You Got
+13@@@17@@@Steely Dan@@@Rikki Don't Lose That Number
+14@@@15@@@Mac Davis@@@One Hell Of A Woman
+15@@@19@@@The Righteous Brothers@@@Rock And Roll Heaven
+16@@@20@@@Blue Magic@@@Sideshow
+17@@@8@@@Paul McCartney & Wings@@@Band On The Run
+18@@@14@@@Ray Stevens@@@The Streak
+19@@@16@@@Jackson 5@@@Dancing Machine
+20@@@29@@@Golden Earring@@@Radar Love
+21@@@18@@@The Spinners@@@I'm Coming Home
+22@@@21@@@Maria Muldaur@@@Midnight At The Oasis
+23@@@22@@@Marvin Hamlisch/The Sting@@@The Entertainer
+24@@@30@@@ABBA@@@Waterloo
+25@@@50@@@Elton John@@@Don't Let The Sun Go Down On Me
+26@@@23@@@The O'Jays@@@For The Love Of Money
+27@@@35@@@The Impressions@@@Finally Got Myself Together (I'm A Changed Man)
+28@@@24@@@Carly Simon@@@Haven't Got Time For The Pain
+29@@@25@@@Ozark Mountain Daredevils@@@If You Wanna Get To Heaven
+30@@@37@@@Bachman-Turner Overdrive@@@Takin' Care Of Business
+31@@@27@@@Cher@@@Train Of Thought
+32@@@34@@@Elvis Presley@@@If You Talk In Your Sleep
+33@@@32@@@Eagles@@@Already Gone
+34@@@45@@@Commodores@@@Machine Gun
+35@@@39@@@Jim Croce@@@Workin' At The Car Wash Blues
+36@@@53@@@Roberta Flack@@@Feel Like Makin' Love
+37@@@40@@@Jimmy Buffett@@@Come Monday
+38@@@46@@@Gene Redding@@@This Heart
+39@@@52@@@Lamont Dozier@@@Fish Ain't Bitin'
+40@@@44@@@Wet Willie@@@Keep On Smilin'
+41@@@51@@@Dave Loggins@@@Please Come To Boston
+42@@@26@@@The DeFranco Family featuring Tony DeFranco@@@Save The Last Dance For Me
+43@@@58@@@Rufus@@@Tell Me Something Good
+44@@@48@@@War@@@Ballero
+45@@@28@@@Jim Stafford@@@My Girl Bill
+46@@@41@@@ZZ Top@@@La Grange
+47@@@38@@@Cat Stevens@@@Oh Very Young
+48@@@49@@@Brownsville Station@@@I'm The Leader Of The Gang
+49@@@31@@@Joni Mitchell@@@Help Me
+50@@@55@@@Ohio Players@@@Jive Turkey (Part 1)
+51@@@65@@@James Brown@@@My Thang
+52@@@69@@@Chicago@@@Call On Me
+53@@@63@@@Helen Reddy@@@You And Me Against The World
+54@@@54@@@Hoyt Axton@@@When The Morning Comes
+55@@@33@@@Grand Funk@@@The Loco-Motion
+56@@@66@@@Andy Kim@@@Rock Me Gently
+57@@@57@@@Mickey Gilley@@@Room Full Of Roses
+58@@@47@@@Stevie Wonder@@@Don't You Worry 'Bout A Thing
+59@@@74@@@Paper Lace@@@The Night Chicago Died
+60@@@64@@@Tavares@@@Too Late
+61@@@36@@@Three Dog Night@@@The Show Must Go On
+62@@@56@@@The New Birth@@@Wildflower
+63@@@67@@@Tom T. Hall@@@That Song Is Driving Me Crazy
+64@@@59@@@Bill Withers@@@The Same Love That Made Me Laugh
+65@@@75@@@Fancy@@@Wild Thing
+66@@@78@@@The Chi-lites@@@There Will Never Be Any Peace (Until God Is Seated At The Conference Table)
+67@@@72@@@Joe Cocker@@@Put Out The Light
+68@@@79@@@Johnny Bristol@@@Hang On In There Baby
+69@@@73@@@Bowie@@@Rebel Rebel
+70@@@81@@@Curtis Mayfield@@@Kung Fu
+71@@@88@@@Three Dog Night@@@Sure As I'm Sittin' Here
+72@@@68@@@Terry Jacks@@@If You Go Away
+73@@@82@@@Dickie Goodman@@@Mr. President
+74@@@84@@@Billy Crash Craddock@@@Rub It In
+75@@@71@@@Blue Swede@@@Silly Milly
+76@@@85@@@The Temptations@@@You've Got My Soul On Fire
+77@@@97@@@The Main Ingredient@@@Happiness Is Just Around The Bend
+78@@@87@@@Millie Jackson@@@How Do You Feel The Morning After
+79@@@80@@@Fanny@@@I've Had It
+80@@@90@@@C.W. McCall@@@Old Home Filler-up An' Keep On-a-truckin' Cafe
+81@@@89@@@Johnnie Taylor@@@I've Been Born Again
+82@@@101@@@Paul Anka with Odia Coates@@@(You're) Having My Baby
+83@@@91@@@Donna Fargo@@@You Can't Be A Beacon (if Your Light Don't Shine)
+84@@@101@@@Jim Stafford@@@Wildwood Weed
+85@@@94@@@Billy Joel@@@Worse Comes To Worst
+86@@@101@@@MFSB featuring The Three Degrees@@@Love Is The Message
+87@@@96@@@Albert Hammond@@@Air Disaster
+88@@@86@@@Little Anthony And The Imperials@@@I'm Falling In Love With You
+89@@@101@@@Tyrone Davis@@@What Goes Up (Must Come Down)
+90@@@101@@@Donny & Marie Osmond@@@I'm Leaving It (All) Up To You
+91@@@101@@@Simon Stokes@@@Captain Howdy
+92@@@95@@@Blood, Sweat & Tears@@@Tell Me That I'm Wrong
+93@@@101@@@Ecstasy, Passion & Pain@@@Good Things Don't Last Forever
+94@@@101@@@The Dells@@@I Wish It Was Me You Loved
+95@@@98@@@Gladys Knight And The Pips@@@Between Her Goodbye And My Hello
+96@@@92@@@Andy & David Williams@@@What's Your Name
+97@@@101@@@Bobby Womack@@@You're Welcome, Stop On By
+98@@@101@@@Sly & The Family Stone@@@Time For Livin'
+99@@@101@@@Willie Henderson@@@Dance Master Pt. 1
+100@@@93@@@April@@@Wake Up And Love Me

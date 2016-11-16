@@ -1,0 +1,100 @@
+1@@@4@@@The Beach Boys@@@Help Me, Rhonda
+2@@@1@@@The Beatles@@@Ticket To Ride
+3@@@6@@@The Supremes@@@Back In My Arms Again
+4@@@2@@@Herman's Hermits@@@Mrs. Brown You've Got A Lovely Daughter
+5@@@8@@@Sam The Sham and the Pharaohs@@@Wooly Bully
+6@@@10@@@Elvis Presley With The Jordanaires@@@Crying In The Chapel
+7@@@3@@@Gary Lewis And The Playboys@@@Count Me In
+8@@@5@@@The Seekers@@@I'll Never Find Another You
+9@@@19@@@The Beau Brummels@@@Just A Little
+10@@@15@@@Tom Jones@@@It's Not Unusual
+11@@@9@@@The Righteous Brothers@@@Just Once In My Life
+12@@@12@@@Glenn Yarbrough@@@Baby The Rain Must Fall
+13@@@18@@@Sir Douglas Quintet@@@She's About A Mover
+14@@@7@@@Herman's Hermits@@@Silhouettes
+15@@@11@@@Sounds Orchestral@@@Cast Your Fate To The Wind
+16@@@17@@@Peter And Gordon@@@True Love Ways
+17@@@32@@@Four Tops@@@I Can't Help Myself (Sugar Pie Honey Bunch)
+18@@@25@@@Jody Miller@@@Queen Of The House
+19@@@30@@@Roger Miller@@@Engine Engine #9
+20@@@20@@@The Dixie Cups@@@Iko Iko
+21@@@24@@@Freddie And The Dreamers@@@Do The Freddie
+22@@@26@@@Freddie And The Dreamers@@@You Were Made For Me
+23@@@23@@@The Dave Clark Five@@@Reelin' And Rockin'
+24@@@21@@@The Miracles@@@Ooo Baby Baby
+25@@@27@@@Perry Como@@@Dream On Little Dreamer
+26@@@29@@@Little Milton@@@We're Gonna Make It
+27@@@16@@@Marvin Gaye@@@I'll Be Doggone
+28@@@36@@@Bobby Vinton@@@L-O-N-E-L-Y
+29@@@38@@@Gene Pitney@@@Last Chance To Turn Around
+30@@@34@@@Gene Chandler@@@Nothing Can Stop Me
+31@@@41@@@Vic Damone@@@You Were Only Fooling (While I Was Falling In Love)
+32@@@13@@@Petula Clark@@@I Know A Place
+33@@@14@@@Wayne Fontana & The Mindbenders@@@Game Of Love
+34@@@39@@@Patti Page@@@Hush, Hush, Sweet Charlotte
+35@@@45@@@Bert Kaempfert And His Orchestra@@@Three O'Clock In The Morning
+36@@@22@@@The Rolling Stones@@@The Last Time
+37@@@31@@@The Temptations@@@It's Growing
+38@@@49@@@Unit Four plus Two@@@Concrete And Clay
+39@@@50@@@Chad & Jeremy@@@Before And After
+40@@@52@@@The Animals@@@Bring It On Home To Me
+41@@@35@@@Cannibal And The Headhunters@@@Land Of 1000 Dances
+42@@@33@@@Billy Stewart@@@I Do Love You
+43@@@37@@@Gerry And The Pacemakers@@@It's Gonna Be Alright
+44@@@55@@@Horst Jankowski@@@A Walk In The Black Forest
+45@@@51@@@Eddie Rambeau@@@Concrete And Clay
+46@@@56@@@Bobby Goldsboro@@@Voodoo Woman
+47@@@59@@@The Guess Who@@@Shakin' All Over
+48@@@61@@@The Yardbirds@@@For Your Love
+49@@@40@@@Chubby Checker@@@Let's Do The Freddie
+50@@@101@@@Herman's Hermits@@@Wonderful World
+51@@@75@@@Otis Redding@@@I've Been Loving You Too Long (To Stop Now)
+52@@@68@@@The O'Jays@@@Lipstick Traces (On A Cigarette)
+53@@@65@@@Tom and Jerrio@@@Boo-Ga-Loo
+54@@@77@@@Dean Martin@@@(Remember Me) I'm The One Who Loves You
+55@@@72@@@The Byrds@@@Mr. Tambourine Man
+56@@@53@@@Connie Stevens@@@Now That You've Gone
+57@@@62@@@Connie Francis@@@Wishing It Was You
+58@@@70@@@Donovan@@@Catch The Wind
+59@@@67@@@Chuck Jackson & Maxine Brown@@@Something You Got
+60@@@74@@@Dickey Lee@@@Laurie (Strange Things Happen)
+61@@@57@@@Al (He's the King) Hirt@@@Al's Place
+62@@@58@@@Chad & Jeremy@@@What Do You Want With Me
+63@@@78@@@Esther Phillips@@@And I Love Him
+64@@@64@@@The Sunglows@@@Peanuts (La Cacahuata)
+65@@@69@@@The Kingsmen@@@The Climb
+66@@@79@@@The Marvelows@@@I Do
+67@@@73@@@The Righteous Brothers@@@You Can Have Her
+68@@@71@@@Jewel Akens@@@Georgie Porgie
+69@@@86@@@Barbara Mason@@@Yes, I'm Ready
+70@@@88@@@Jackie DeShannon@@@What The World Needs Now Is Love
+71@@@82@@@Frank Sinatra@@@Tell Her (You Love Her Every Day)
+72@@@84@@@The Ovations (featuring Louis Williams)@@@It's Wonderful To Be In Love
+73@@@101@@@The Shangri-Las@@@Give Us Your Blessings
+74@@@101@@@Them@@@Here Comes The Night
+75@@@90@@@Wayne Newton@@@I'll Be With You In Apple Blossom Time
+76@@@91@@@Jan & Dean@@@You Really Know How To Hurt A Guy
+77@@@80@@@The Sapphires@@@Gotta Have Your Love
+78@@@85@@@Eddy Arnold@@@What's He Doing In My World
+79@@@89@@@James Phelps@@@Love Is A 5-Letter Word
+80@@@101@@@Solomon Burke@@@Tonight's The Night
+81@@@81@@@The Olympics@@@Good Lovin'
+82@@@99@@@Ian Whitcomb And Bluesville@@@You Turn Me On (Turn On Song)
+83@@@98@@@Vic Dana@@@Bring A Little Sunshine (To My Heart)
+84@@@76@@@Soupy Sales@@@The Mouse
+85@@@101@@@The Marvelettes@@@I'll Keep Holding On
+86@@@95@@@Bobby Vee@@@Keep On Trying
+87@@@101@@@The Seekers@@@A World Of Our Own
+88@@@101@@@The Ronettes Featuring Veronica@@@Is This What I Get For Loving You?
+89@@@101@@@Tom Jones@@@Little Lonely One
+90@@@101@@@Len Barry@@@Lip Sync (To The Tongue Twisters)
+91@@@94@@@Peter, Paul & Mary@@@When The Ship Comes In
+92@@@101@@@Fred Hughes@@@Oo Wee Baby, I Love You
+93@@@101@@@Fontella Bass & Bobby McClure@@@You'll Miss Me (When I'm Gone)
+94@@@101@@@Jimmy Velvet@@@It's Almost Tomorrow
+95@@@97@@@Del Shannon@@@Break Up
+96@@@101@@@Brenda Lee@@@Too Many Rivers
+97@@@101@@@Bobbi Martin@@@I Love You So
+98@@@101@@@Brenda Lee@@@No One
+99@@@101@@@Radiants@@@It Ain't No Big Thing
+100@@@101@@@Shirley Ellis@@@The Puzzle Song (A Puzzle In Song)
