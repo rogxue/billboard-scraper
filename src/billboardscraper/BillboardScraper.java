@@ -7,14 +7,15 @@ public class BillboardScraper {
 
     public static void main(String[] args) {
 
+//        getNewChartData();
         DecimalFormat fmt = new DecimalFormat("0.0000");
-        Chart chart = new Chart("hot-100", "2015-12-05");
+        Chart chart = new Chart("hot-100", "2016-12-03");
 
         int rank = 1, trueRank = 1;
         double prevPoint = -1;
         Rankings rankings = new Rankings();
 
-        for (int i = 0; i < 52; i++) {
+        for (int i = 0; i < 51; i++) {
             for (Song s : chart.getDataFromLocal()) {
                 if (!rankings.isSongRanked(s)) {
                     s.setPeakPos(s.getRank());
@@ -34,6 +35,14 @@ public class BillboardScraper {
             }
             prevPoint = sp.getPoints();
             System.out.println(fmt.format(sp.getPoints()) + " " + sp.getSong().toShortString() + " (" + sp.getSong().getPeakPos() + ")" + "(" + sp.getSong().getWeeks() + ")");
+        }
+    }
+
+    private static void getNewChartData() {
+        Chart chart = new Chart("hot-100", "2017-03-25");
+        while (!chart.getDateStr().equalsIgnoreCase("2017-11-18")) {
+            chart = chart.getNextWeek();
+            chart.dataToText();
         }
     }
 }

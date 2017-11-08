@@ -81,9 +81,11 @@ public class Chart {
                 if (line.contains("\"Song Hover-")) {
                     song = new Song();
                     song.setDate(dateStr);
-                    song.setTitle(line.substring(line.indexOf("\"Song Hover-") + 12, line.indexOf("\" data-song")));
-//                    song.setSpotify(line.substring(line.indexOf("data-spotifyId=\"") + 16, line.indexOf("\">")));
                     song.setRank(count++);
+                } else if (line.contains("chart-row__song")) {
+                    String title = line.substring(line.indexOf("chart-row__song") + 17, line.indexOf("</h2"));
+                    title = title.replaceAll("&#039;", "'");
+                    song.setTitle(title);
                 } else if (line.contains("chart-row__artist")) {
                     line = br.readLine();
                     if (line.contains("a-tracklabel=\"Artist Name\">")) {
@@ -135,8 +137,12 @@ public class Chart {
             while ((line = br.readLine()) != null) {
                 if (line.contains("\"Song Hover-")) {
                     song = new Song();
-                    song.setTitle(line.substring(line.indexOf("\"Song Hover-") + 12, line.indexOf("\" data-song")));
+                    song.setDate(dateStr);
                     song.setRank(count++);
+                } else if (line.contains("chart-row__song")) {
+                    String title = line.substring(line.indexOf("chart-row__song") + 17, line.indexOf("</h2"));
+                    title = title.replaceAll("&#039;", "'");
+                    song.setTitle(title);
                 } else if (line.contains("chart-row__artist")) {
                     line = br.readLine();
                     if (line.contains("a-tracklabel=\"Artist Name\">")) {
