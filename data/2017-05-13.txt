@@ -1,0 +1,100 @@
+1@@@3@@@Bruno Mars@@@That's What I Like
+2@@@2@@@Ed Sheeran@@@Shape Of You
+3@@@1@@@Kendrick Lamar@@@Humble.
+4@@@9@@@Luis Fonsi & Daddy Yankee Featuring Justin Bieber@@@Despacito
+5@@@5@@@Future@@@Mask Off
+6@@@8@@@The Chainsmokers & Coldplay@@@Something Just Like This
+7@@@4@@@Kendrick Lamar@@@DNA.
+8@@@6@@@KYLE Featuring Lil Yachty@@@iSpy
+9@@@10@@@Lil Uzi Vert@@@XO TOUR Llif3
+10@@@13@@@Kygo x Selena Gomez@@@It Ain't Me
+11@@@7@@@Zedd & Alessia Cara@@@Stay
+12@@@11@@@Sam Hunt@@@Body Like A Back Road
+13@@@17@@@James Arthur@@@Say You Won't Let Go
+14@@@12@@@Julia Michaels@@@Issues
+15@@@15@@@Post Malone Featuring Quavo@@@Congratulations
+16@@@25@@@Khalid@@@Location
+17@@@20@@@Clean Bandit Featuring Sean Paul & Anne-Marie@@@Rockabye
+18@@@27@@@Drake@@@Passionfruit
+19@@@19@@@The Chainsmokers@@@Paris
+20@@@21@@@Kodak Black@@@Tunnel Vision
+21@@@24@@@The Weeknd Featuring Daft Punk@@@I Feel It Coming
+22@@@26@@@Migos Featuring Lil Uzi Vert@@@Bad And Boujee
+23@@@28@@@The Chainsmokers Featuring Halsey@@@Closer
+24@@@29@@@Migos@@@T-Shirt
+25@@@22@@@Harry Styles@@@Sign Of The Times
+26@@@34@@@Rae Sremmurd@@@Swang
+27@@@18@@@Kendrick Lamar Featuring Zacari@@@Love.
+28@@@23@@@Maroon 5 Featuring Future@@@Cold
+29@@@31@@@Rihanna@@@Love On The Brain
+30@@@44@@@Calvin Harris Featuring Frank Ocean & Migos@@@Slide
+31@@@30@@@Big Sean@@@Bounce Back
+32@@@36@@@Zayn / Taylor Swift@@@I Don't Wanna Live Forever (Fifty Shades Darker)
+33@@@14@@@Kendrick Lamar Featuring Rihanna@@@Loyalty.
+34@@@45@@@Brett Young@@@In Case You Didn't Know
+35@@@41@@@Bruno Mars@@@24K Magic
+36@@@16@@@Kendrick Lamar@@@Element.
+37@@@51@@@Imagine Dragons@@@Believer
+38@@@47@@@Justin Timberlake@@@Can't Stop The Feeling!
+39@@@40@@@Ayo & Teo@@@Rolex
+40@@@43@@@Alessia Cara@@@Scars To Your Beautiful
+41@@@55@@@Luke Combs@@@Hurricane
+42@@@46@@@Travis Scott@@@Goosebumps
+43@@@48@@@Gucci Mane Featuring Drake@@@Both
+44@@@101@@@Shawn Mendes@@@There's Nothing Holdin' Me Back
+45@@@56@@@Childish Gambino@@@Redbone
+46@@@53@@@Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign@@@Swalla
+47@@@61@@@Ed Sheeran@@@Castle On The Hill
+48@@@49@@@Shawn Mendes@@@Mercy
+49@@@52@@@XXXTentacion@@@Look At Me!
+50@@@59@@@French Montana Featuring Swae Lee@@@Unforgettable
+51@@@38@@@Katy Perry Featuring Skip Marley@@@Chained To The Rhythm
+52@@@66@@@Halsey@@@Now Or Never
+53@@@60@@@Drake Featuring Quavo & Travis Scott@@@Portland
+54@@@68@@@Linkin Park Featuring Kiiara@@@Heavy
+55@@@72@@@A Boogie Wit da Hoodie Featuring Kodak Black@@@Drowning
+56@@@33@@@Kendrick Lamar Featuring U2@@@XXX.
+57@@@70@@@DJ Khaled Featuring Beyonce & JAY Z@@@Shining
+58@@@57@@@Marian Hill@@@Down
+59@@@76@@@G-Eazy & Kehlani@@@Good Life
+60@@@67@@@Keith Urban Featuring Carrie Underwood@@@The Fighter
+61@@@64@@@Josh Turner@@@Hometown Girl
+62@@@39@@@Lady Gaga@@@The Cure
+63@@@98@@@Machine Gun Kelly Featuring Hailee Steinfeld@@@At My Best
+64@@@101@@@Lana Del Rey Featuring The Weeknd@@@Lust For Life
+65@@@32@@@Kendrick Lamar@@@Yah.
+66@@@75@@@Dierks Bentley@@@Black
+67@@@69@@@Jason Aldean@@@Any Ol' Barstool
+68@@@101@@@Charlie Puth@@@Attention
+69@@@35@@@Kendrick Lamar@@@Feel.
+70@@@77@@@Brantley Gilbert@@@The Weekend
+71@@@37@@@Kendrick Lamar@@@Pride.
+72@@@101@@@6LACK@@@Prblms
+73@@@81@@@Kelsea Ballerini@@@Yeah Boy
+74@@@82@@@Florida Georgia Line Featuring Backstreet Boys@@@God, Your Mama, And Me
+75@@@42@@@Kendrick Lamar@@@Lust.
+76@@@71@@@Chris Brown Featuring Usher & Gucci Mane@@@Party
+77@@@79@@@Russ@@@Losin Control
+78@@@73@@@Flo Rida & 99 Percent@@@Cake
+79@@@86@@@Tee Grizzley@@@First Day Out
+80@@@83@@@Starley@@@Call On Me
+81@@@101@@@Zayn Featuring PARTYNEXTDOOR@@@Still Got Time
+82@@@90@@@YFN Lucci Featuring PnB Rock@@@Everyday We Lit
+83@@@91@@@Martin Garrix & Dua Lipa@@@Scared To Be Lonely
+84@@@99@@@Lord Huron@@@The Night We Met
+85@@@95@@@Dan + Shay@@@How Not To
+86@@@74@@@Lorde@@@Green Light
+87@@@101@@@Blackbear@@@Do Re Mi
+88@@@84@@@Big Sean@@@Moves
+89@@@65@@@Auli'i Cravalho@@@How Far I'll Go
+90@@@101@@@Paramore@@@Hard Times
+91@@@50@@@Kendrick Lamar@@@Fear.
+92@@@100@@@Thomas Rhett Featuring Maren Morris@@@Craving You
+93@@@101@@@Dylan Scott@@@My Girl
+94@@@101@@@Darius Rucker@@@If I Told You
+95@@@80@@@Nicki Minaj, Drake & Lil Wayne@@@No Frauds
+96@@@58@@@Kendrick Lamar@@@God.
+97@@@92@@@Drake@@@Gyalchester
+98@@@88@@@Future Featuring Rihanna@@@Selfish
+99@@@96@@@2 Chainz x Gucci Mane x Quavo@@@Good Drank
+100@@@89@@@J. Cole@@@Deja Vu
